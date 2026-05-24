@@ -97,6 +97,12 @@
       "kind": "dulcan"
     },
     {
+      "id": "RS-child-development-psychiatry",
+      "label": "התפתחות הילד לפסיכיאטריה",
+      "card_count": 56,
+      "kind": "residency"
+    },
+    {
       "id": "RS-criticism",
       "label": "קבלת ביקורת ומשוב",
       "card_count": 34,
@@ -262,5 +268,5 @@
       "title": "📬 AI Weekly Brief — 2026-04-14"
     }
   ],
-  "generated_at": "2026-05-24T12:52:07.580Z"
+  "generated_at": "2026-05-24T13:37:07.931Z"
 }
