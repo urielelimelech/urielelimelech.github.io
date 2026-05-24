@@ -1,0 +1,127 @@
+{
+  "id": "B001-clinical-interview-child-summary",
+  "label": "B001 · ראיון ילד · סיכום",
+  "source": "residency-summary",
+  "cards": [
+    {
+      "id": "1776868208184",
+      "front_md": "מה 6 שלבי הראיון הקליני לפי Dulcan (רק השמות)?",
+      "back_md": "1. **הכנה מוקדמת**\n2. **פתיחה** (greeting, orientation, consent)\n3. **ראיון הורים** (לבד/יחד לפי גיל)\n4. **ראיון/התבוננות בילד** (לפי גיל)\n5. **אינטגרציה** → formulation → פגישה משפחתית\n6. **פידבק + תוכנית + תיעוד**\n\n[D-2 עד D-17]",
+      "note_id": "1776868208184"
+    },
+    {
+      "id": "1776868208186",
+      "front_md": "Protocol — שלבים 1+2: הכנה + פתיחה",
+      "back_md": "**שלב 1 — הכנה מוקדמת:**\n- לבקש דוחות פסיכיאטריים/רפואיים קודמים [D-2]\n- Review עצמאי של ה-intake לפני הפגישה\n- ליידע הורים על מהלך הבדיקה + ציפיות סבירות\n- להזכיר להביא צעצועים/אוכל/מבוגר נוסף לפיקוח [D-3]\n\n**שלב 2 — פתיחה (הורה+ילד יחד):**\n- להתחיל עם הילד וההורים יחד [D-4, D-5]\n- להציג עצמי כ-**\"הרופא שמדבר\"** ולהבהיר ש**לא יהיו זריקות** [D-5]\n- להתחיל בנושאים נייטרליים להרפות את הילד\n- לשאול מה ההורים סיפרו לו על מטרת הביקור\n- **לדון בסודיות + גבולותיה (חובת דיווח)** [D-6]",
+      "note_id": "1776868208186"
+    },
+    {
+      "id": "1776868208189",
+      "front_md": "Protocol — שלב 3: ראיון הורים",
+      "back_md": "**Preschool (3-6):** verbatim Dulcan:\n> \"For preschool children, the initial comprehensive history should be obtained with parents **without** the child present, as it is more expedient and carries little risk of damaging rapport with a young child.\" [D-7]\n\n**~50 דק׳** לסשן הורים-הילד-הגן הראשוני [D-7].\n\n**School-age (6-11):** verbatim: *\"it is best to interview the parent alone\"* לדיון ב**יחסי זוגיות, היסטוריה פסיכיאטרית משפחתית, ומשמעת** [D-8].\n\n**8 תכנים שחייבים להעלות:**\nCC · HPI · psychiatric ROS · היסטוריה פסיכיאטרית/רפואית · תרופות · התפתחות · חינוך/חברתי · abuse/risk [D-9].",
+      "note_id": "1776868208189"
+    },
+    {
+      "id": "1776868208190",
+      "front_md": "Protocol — שלב 4: ראיון/התבוננות בילד (overview לפי גיל)",
+      "back_md": "| גיל | גישה |\n|---|---|\n| **0-3** (תינוק/פעוט) | לכלול ברוב הפגישות. **התבוננות לא-פורמלית אינטנסיבית** — אינטראקציות הורה-ילד, viosulation, אבני דרך [D-10] |\n| **3-6** (גן) | **MSE בהקשר של משחק**. Dyadic free-play + semi-structured (shared snack, cognitive task, separation/reunion) [D-11] |\n| **6-11** (בי\"ס) | **ראיון לבד**, שפה פשוטה. להימנע מ-\"למה\". **abuse + suicide בנפרד** [D-12] |\n\nפרטי הטכניקות לכל גיל → 4 ה-summary cards הבאים.",
+      "note_id": "1776868208190"
+    },
+    {
+      "id": "1776868208191",
+      "front_md": "Protocol — שלבים 5+6: אינטגרציה + פידבק",
+      "back_md": "**שלב 5 — אינטגרציה:**\nסינתזה ל-**formulation אבחנתית** דרך 3 מודלים אפשריים: DSM-5 · biopsychosocial · perspectives of psychiatry [D-13]. פגישה עם ילד+הורים יחד להצגת ממצאים [D-14].\n\n**שלב 6 — פידבק + תוכנית + תיעוד:**\n- הצגה **ישירה + נייטרלית** — **להתחיל מנקודות החוזק** של ילד ומשפחה [D-14]\n- הצעת תוכנית: פסיכותרפיה / הדרכת הורים / תרופות [D-15]\n- **להתייצב לצד המטפל העיקרי** — להציע חלופות הקשורות למטרות המקוריות שלו [D-16]\n- תקשורת ברורה עם מפנים, רופאי משפחה, בתי ספר [D-17]",
+      "note_id": "1776868208191"
+    },
+    {
+      "id": "1776868208193",
+      "front_md": "Observe — 9 תחומי MSE בראיון ילד (בנפרד מהתוכן)",
+      "back_md": "1. **Appearance/grooming** — מראה, היגיינה, לבוש [D-18]\n2. **Activity/motor** — רמה, tics, stereotypies [D-18]\n3. **Interaction with parent** — attachment, פרידה, הסתגלות [D-18]\n4. **Interaction with examiner** — ברכה, שת\"פ, אדישות, overly familiar, mechanical [D-18, D-19]\n5. **Speech** — articulation, prosody, volume, pragmatics, fluency, echolalia, התאמה לגיל [D-18, D-20]\n6. **Affect/mood** — התאמה, יציבות, עוצמה, טווח [D-18]\n7. **Thought process (via play/speech)** — זרימה, perseveration, פנטזיה-מציאות [D-18, D-20]\n8. **Cognitive** — orientation, attention, memory, calculation, reading [D-21]\n9. **Insight (age-appropriate)** — מודעות, עם הכרה שיהיה מוגבל בגילאים צעירים [D-21]",
+      "note_id": "1776868208193"
+    },
+    {
+      "id": "1776868208196",
+      "front_md": "AgeMods — Infant (0-12 חודשים)",
+      "back_md": "**2 paradigms מרכזיים:**\n\n**Separation-reunion paradigm** (מגיל 7-9 חודשים התפתחותי) — מעריך **attachment system**. לצפות ביכולת הדיאדה לפתור distress יחד [D-22].\n\n**Still-face paradigm** (גיל 3-6 חודשים) — התבוננות ב-**mutual regulatory capacities** [D-23].",
+      "note_id": "1776868208196"
+    },
+    {
+      "id": "1776868208198",
+      "front_md": "AgeMods — Toddler (1-3)",
+      "back_md": "**תקופות free-play** להערכת:\n- **Mutual engagement** — האם הילד וההורה בקשב משותף?\n- **Shared attention** — joint attention לחפצים\n- **Reciprocity** — turn-taking, תגובה לאחר\n- **תגובת ההורה ל-cues** של הילד, יכולתו לבנות אינטראקציה [D-24]",
+      "note_id": "1776868208198"
+    },
+    {
+      "id": "1776868208199",
+      "front_md": "AgeMods — Preschool (3-5) — 2 הכלים הפרוייקטיביים",
+      "back_md": "**Berkeley Puppet Interview (BPI):** שתי בובות שאומרות **אמירות רגשיות מנוגדות**, הילד בוחר. מאפשר לילד להביע רגש דרך הבובה (displacement).\n\n**MacArthur Story Stem Battery (MSSB):** **פתיחות סיפוריות רגשיות** שהילד משלים בעצמו. גם displacement — הילד מקרין רגש דרך הסיפור.\n\nשני הכלים עוקפים את המגבלה שילדי גן לא מדברים ישירות על רגשותיהם [D-25].",
+      "note_id": "1776868208199"
+    },
+    {
+      "id": "1776868208201",
+      "front_md": "AgeMods — School-age (6-11)",
+      "back_md": "**3 כללים:**\n1. **ראיון הילד לבד**, שפה פשוטה\n2. **להימנע מ-\"why\"** — דורש חשיבה אנליטית לרוב מעבר ליכולת. להעדיף **what / where / how**\n3. **Time anchors** — ילדים \"historians גרועים של זמן\". לעגן onset/duration ב-anchors מוכרים:\n   > *\"Were you feeling sad back when it was still summer vacation?\"*\n\n[D-12]",
+      "note_id": "1776868208201"
+    },
+    {
+      "id": "1776868208203",
+      "front_md": "Committee 1 — פורמט הזמנים + ציון מעבר",
+      "back_md": "**סה\"כ: 105 דקות** [StageB-1].\n\n| שלב | זמן |\n|---|---|\n| בדיקת מטופל חי | 60 דק׳ |\n| הכנה/סדר מחשבות | 5 דק׳ |\n| הצגה חופשית לבוחנים | 10 דק׳ |\n| שאלות בוחנים | 30 דק׳ |\n[StageB-3]\n\n**ציון מעבר:** 5/8 מ-2 בוחנים [StageB-2]. **כישלון פה = כישלון בבחינה כולה** [StageB-2, StageB-5].\n\n**מה שהבוחנים רוצים ב-10 דקות ההצגה:** סיכום ממצאים · סטטוס פסיכיאטרי · DDx [StageB-3].",
+      "note_id": "1776868208203"
+    },
+    {
+      "id": "1776868208204",
+      "front_md": "Committee 1 — 3 skills + 3 אתגרים verbatim",
+      "back_md": "**3 skills שחייבים להפגין:**\n1. *\"בלקיחת אינפורמציה מההורה באופן ממוקד\"*\n2. *\"מגדיר מראש לנוכחים ששלב זה ימשך כ-10-20 דקות, ושלאחר מכן ייבדק הילד/מתבגר\"*\n3. *\"יתמודד במהלך הבדיקה עם מופעים שונים של הנבדקים\"*\n[StageB-3, StageB-4]\n\n**3 אתגרים התנהגותיים שהבחינה מציבה:**\n1. *\"קושי של ילד צעיר להיפרד מההורה\"*\n2. *\"סירוב של מתבגר לשתף פעולה בבדיקה\"*\n3. *\"חוסר גבולות של ההורה המשתתף\"*\n[StageB-4]",
+      "note_id": "1776868208204"
+    },
+    {
+      "id": "1776868208206",
+      "front_md": "4 טעויות \"commonly missed\" של Dulcan",
+      "back_md": "**1. שוכחים שה-examiner *משקף* לילד ולמשפחה מי הם:**\n> \"Clinicians who focus excessively on obtaining information... forget that they are also providing important information to the child and family about who they are, what they know, and their ability to engage with and help.\" [D-26]\n\n**2. בניית rapport רק עם צד אחד:**\n> \"Building rapport with one party to the exclusion of the other is generally not useful and will often impair ultimate treatment success.\" [D-27]\n\n**3. תלונת הורה ב-face value:**\n> \"It can be misleading to take at face value a parent's complaint that a child will not listen... because this could reflect inattention, receptive language problems, or hearing impairment rather than defiance.\" [D-28]\n\n**4. Delirium מתחזה ל-psychiatric:**\n> \"Physicians often misinterpret the symptoms of delirium as representing psychiatric illness—interpreting the irritability and aggression of delirium as oppositional behavior or disturbances of thinking and perception as psychosis.\" [D-29]",
+      "note_id": "1776868208206"
+    },
+    {
+      "id": "1776868208207",
+      "front_md": "3 הציטוטים verbatim של Dulcan (חובה מילה במילה)",
+      "back_md": "**1. Moving target [D-1]:**\n> \"Children are a 'moving target.' They are changing and evolving as they age, achieving milestones in cognitive, physical, social, and emotional domains, making it challenging to establish a 'baseline' even in typically developing children.\"\n→ **Philosophy core** של פסיכיאטריית הילד.\n\n**2. Dyadic dependency [D-30]:**\n> \"The preschool child does not function as a psychologically autonomous individual and remains inextricably tied to the primary caregiver for adaptive and emotional functioning.\"\n→ הערכת גן **חייבת להיות דיאדית**.\n\n**3. Suicide inquiry myth [D-31]:**\n> \"Inquiry regarding suicidal thinking and behavior does not cause a child to adopt this thinking and behavior. Far more harm is possible if this line of questioning is excluded.\"\n→ חובה קלינית מוחלטת. אין סיכון של \"השתלת\" מחשבה.",
+      "note_id": "1776868208207"
+    },
+    {
+      "id": "1776868208208",
+      "front_md": "Clinical cases — Susan (7y) + Emily (5y) teaching points",
+      "back_md": "**Susan — \"Living in Her Parents' Shadow\"** [C-1, C-2]:\n- Separation anxiety + risk assessment מאתגרים\n- איומים \"לקפוץ מרכב בנסיעה\" → suicide inquiry קריטי\n- **הטעות:** כפיית פרידה בתחילה = הורסת rapport\n- **הנכון:** ניווט הדרגתי משותף→אישי, הבטחת child-alone + parent-alone בסוף\n\n**Emily — \"Chatterbox at Home: Selective Mutism\"** [C-3, C-4]:\n- נהיית mute במשרד אחרי תקשורת מלאה בבית\n- **הגישה שעבדה:** (1) התבוננות unobtrusive בחדר המתנה → (2) הסלמה הדרגתית במשרד → (3) BPI/MSSB כשאינה מדברת ישירות\n- **Take-home:** ראיון ילדים ≠ \"שאילת שאלות\" בלבד — **navigation + observation + age-appropriate tools**",
+      "note_id": "1776868208208"
+    },
+    {
+      "id": "1776868208209",
+      "front_md": "אילו 9 תחומים של MSE לצפות בהם במהלך ראיון ילד (בנפרד מהתוכן)?",
+      "back_md": "1. **Appearance/grooming** — מראה כללי, היגיינה, לבוש [D-18]\n2. **Activity/motor** — רמת פעילות, תנועות, tics, stereotypies [D-18]\n3. **Interaction with parent** — איכות התקשרות, התנהגות בפרידה, הסתגלות [D-18]\n4. **Interaction with examiner** — ברכה, שת\"פ, אדישות, חוסר כבוד, overly familiar, mechanical [D-18, D-19]\n5. **Speech** — articulation, prosody, volume, pragmatics, fluency, echolalia, התאמת מילים לגיל [D-18, D-20]\n6. **Affect/mood** — התאמה למצב, יציבות, עוצמה, טווח [D-18]\n7. **Thought process (via play/speech)** — זרימה, perseveration, disorganization, גבול פנטזיה-מציאות [D-18, D-20]\n8. **Cognitive** — orientation, attention, memory, calculation, reading/writing [D-21]\n9. **Insight (age-appropriate)** — מודעות לסימפטומים, עם הכרה שיהיה מוגבל בגילאים צעירים [D-21]",
+      "note_id": "1776868208209"
+    },
+    {
+      "id": "1776868208211",
+      "front_md": "אילו טכניקות ראיון ספציפיות לפי שלב התפתחותי (0-11)?",
+      "back_md": "**Infant (0-12 חודשים):** **Separation-reunion paradigm** (מגיל 7-9 חודשים, מעריך attachment — יכולת דיאדה לפתור distress יחד) + **Still-face paradigm** (3-6 חודשים, מתבונן ב-mutual regulatory capacities) [D-22, D-23].\n\n**Toddler (1-3):** תקופות free-play → **mutual engagement, shared attention, reciprocity**; תגובת ההורה ל-cues, יכולתו לבנות אינטראקציה [D-24].\n\n**Preschool (3-5):** **2 כלים פרוייקטיביים מרכזיים** —\n- **Berkeley Puppet Interview (BPI)** — שתי בובות שאומרות אמירות רגשיות מנוגדות, הילד בוחר\n- **MacArthur Story Stem Battery (MSSB)** — פתיחות סיפוריות רגשיות שהילד משלים (displacement של רגש) [D-25]\n\n**School-age (6-11):**\n- ראיון הילד לבד, שפה פשוטה\n- **להימנע מ-\"why\"** — דורש חשיבה אנליטית לרוב מעבר ליכולת; להעדיף **what/where/how**\n- ילדים **historians גרועים של זמן** — לעגן onset/duration ב-**anchors מוכרים**: *\"Were you feeling sad back when it was still summer vacation?\"* [D-12]",
+      "note_id": "1776868208211"
+    },
+    {
+      "id": "1776868208212",
+      "front_md": "מה הפורמט של Committee 1 בבחינת שלב ב׳?",
+      "back_md": "**סה\"כ: 105 דקות** [StageB-1].\n\n| שלב | זמן |\n|---|---|\n| בדיקת מטופל חי | 60 דק׳ |\n| הכנה/סדר מחשבות | 5 דק׳ |\n| הצגה חופשית לבוחנים | 10 דק׳ |\n| שאלות בוחנים | 30 דק׳ |\n[StageB-3]\n\n**3 skills חובה (verbatim):**\n1. \"בלקיחת אינפורמציה מההורה באופן ממוקד\"\n2. \"מגדיר מראש לנוכחים ששלב זה ימשך כ-10-20 דקות, ושלאחר מכן ייבדק הילד/מתבגר\"\n3. \"יתמודד במהלך הבדיקה עם מופעים שונים של הנבדקים\" [StageB-3, StageB-4]\n\n**3 אתגרים התנהגותיים (verbatim):** (1) קושי של ילד צעיר להיפרד מההורה · (2) סירוב של מתבגר לשתף פעולה · (3) חוסר גבולות של ההורה המשתתף [StageB-4].\n\n**מה שמחפשים ב-10 דקות ההצגה:** סיכום ממצאים · סטטוס פסיכיאטרי · אבחנה מבדלת [StageB-3].\n\n**ציון מעבר:** 5/8 מ-2 בוחנים [StageB-2]. **כישלון פה = כישלון בבחינה כולה** [StageB-2, StageB-5].",
+      "note_id": "1776868208212"
+    },
+    {
+      "id": "1776868208213",
+      "front_md": "מה 4 הטעויות הנפוצות של רופאים בראיון ילד (Dulcan \"commonly missed\")?",
+      "back_md": "**1. שוכחים שה-examiner *משקף* לילד ולמשפחה מי הם:**\n> \"Clinicians who focus excessively on obtaining information from the parent and child forget that they are also providing important information to the child and family about who they are, what they know, and their ability to engage with and help the child and family.\" [D-26]\n\n**2. בניית rapport רק עם צד אחד:**\n> \"Building rapport with one party to the exclusion of the other is generally not useful and will often impair ultimate treatment success.\" [D-27]\n\n**3. קבלת תלונת הורה ב-face value:**\n> \"It can be misleading to take at face value a parent's complaint that a child will not listen or follow directions because this could reflect a child's inattention, receptive language problems, or hearing impairment rather than defiance.\" [D-28]\n\n**4. Delirium מתחזה ל-psychiatric:**\n> \"Physicians often misinterpret the symptoms of delirium as representing psychiatric illness—for example, interpreting the irritability and aggression of delirium as oppositional behavior or disturbances of thinking and perception as psychosis.\" [D-29]",
+      "note_id": "1776868208213"
+    },
+    {
+      "id": "1776868208215",
+      "front_md": "מה 3 הציטוטים של Dulcan לזכור מילה במילה מ-Section Clinical Interview?",
+      "back_md": "**1. Moving target [D-1]:**\n> \"Children are a 'moving target.' They are changing and evolving as they age, achieving milestones in cognitive, physical, social, and emotional domains, making it challenging to establish a 'baseline' even in typically developing children.\"\n→ **Philosophy core** של פסיכיאטריית הילד. כל הערכת סימפטומים/MSE חייבת להיעשות מול מסלול התפתחותי משתנה, לא מול סטנדרט סטטי מבוגר.\n\n**2. Dyadic dependency [D-30]:**\n> \"The preschool child does not function as a psychologically autonomous individual and remains inextricably tied to the primary caregiver for adaptive and emotional functioning.\"\n→ הערכת גיל-גן חייבת להיות **דיאדית מטבעה**. ראיון ילד צעיר בבידוד = נתונים לא-תקפים developmentally.\n\n**3. Suicide inquiry myth [D-31]:**\n> \"Inquiry regarding suicidal thinking and behavior does not cause a child to adopt this thinking and behavior. Far more harm is possible if this line of questioning is excluded.\"\n→ מיתוס נפוץ בקרב מתלמדים והורים — ש\"השתלת\" מחשבת אובדנות ע\"י שאילה. **חובה קלינית מוחלטת** — לשאול ישירות ומפורשות.",
+      "note_id": "1776868208215"
+    }
+  ]
+}

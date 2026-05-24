@@ -1,0 +1,73 @@
+{
+  "id": "B007-dynamic-formulation-summary",
+  "label": "B007 · פורמולציה דינמית · סיכום",
+  "source": "residency-summary",
+  "cards": [
+    {
+      "id": "1776915923774",
+      "front_md": "מהו ניסוח דינמי? — מודל 3-הרכיבים של Sperry",
+      "back_md": "גבארד מציג את הפורמולציה כ-**Working model** המדגים כיצד גורמים יוצרים את התמונה הקלינית הייחודית [G-1]. הוא מאמץ את **מודל Sperry מ-1992** בן 3 הרכיבים [G-2]: (1) **הצהרה מסכמת** — > \"a sentence or two describing the clinical picture and the associated stressor\" [G-3]; (2) **ליבה דינמית (Case core)** — אוסף השערות על האופן שבו biological + sociocultural + intrapsychic תורמים במשותף [G-4]; (3) **תרגום קליני** — איך הגורמים מנחים פרוגנוזה + תוכנית טיפול [G-5]. גבארד מדגיש: לא מנסים להסביר את הכל, אלא להאיר תמציתית את הסוגיות המרכזיות [G-6]. Dulcan (פרספקטיבה פדיאטרית) מציג 3 מודלים מקבילים: > \"the DSM-informed formulation, biopsychosocial formulation, and the perspectives of psychiatry formulation\" [D-1]. המודל הביופסיכוסוציאלי מאגד Biological + Psychological + Social [D-3] [D-4] [D-5] [D-6]; מודל McHugh-Slavney מחלק ל-Disease + Dimensional + Behavior + Life Story [D-7]. *Takeaway:* פורמולציה היא **מפה ביופסיכוסוציאלית** ו-**תוכנית פעולה**, לא אוסף ספקולציות תוך-נפשיות. היא מתרגמת תיאוריה להתערבות.",
+      "note_id": "1776915923774"
+    },
+    {
+      "id": "1776915923775",
+      "front_md": "Developmental Trajectory — למה מודלים של מבוגרים נכשלים בילדים?",
+      "back_md": "הפסיכיאטר הדינמי מתייחס לסיפור החיים לא כרצף אובייקטיבי אלא כנרטיב סובייקטיבי המעוצב על ידי משמעויות אישיות [G-7]. חוויות הילדות הן גורמים מכריעים (העבר כפרולוג) [G-8]. בתרגום היסטוריה ל-developmental trajectory, הילד מפנים לא רק \"אובייקט\" (אם/אב) אלא **מערכת יחסים שלמה** (object relationship) [G-9]. ילדים תופסים סביבתם דרך מסננים סובייקטיביים קיצוניים שעלולים לעוות דמויות מציאות [G-10]. > \"The dynamic psychiatrist listens intently when a patient speaks of childhood memories, knowing that these experiences may play a critical role in the current presenting problems\" [G-11]. **בילדים specific (Dulcan):** > \"Unlike adults, who may have an established baseline of functioning... children are a 'moving target'\" [D-15]. אבני דרך משתנות במתמיד בקוגניציה/מוטוריקה/רגש [D-16]. **Uneven developmental status** שכיח — ילד מחונן אינטלקטואלית + בלתי-בשל רגשית = פער מפיק מצוקה [D-17]. המחלה עצמה מסיטה מהמסלול [D-18]. *Hook:* בילד לא מחפשים חזרה ל\"בייסליין\" — בייסליין משתנה. שואלים: **\"האם ההפרעה חוסמת כעת את משימת ההתפתחות הבאה?\"**.",
+      "note_id": "1776915923775"
+    },
+    {
+      "id": "1776915923776",
+      "front_md": "זיהוי הקונפליקט המרכזי — 3 עדשות תיאורטיות",
+      "back_md": "**פסיכולוגיית האגו (קלאסית):** קונפליקט = clash בין id/ego/superego או בין משאלה-הגנה → **Signal anxiety** [G-12]. **אדיפלי (~3y):** כמיהה מינית להורה מהמין הנגדי + יריבות + אשמה + **Castration anxiety** [G-13]. **יחסי אובייקט (pre-oedipal):** קונפליקט סביב **separation-individuation** (Mahler Rapprochement subphase) — חרדת נטישה vs חרדת Engulfment או אובדן זהות [G-14]. **פסיכולוגיית העצמי (Kohut):** הפוקוס **לא** קונפליקט של דחפים אלא **Deficit** — המאבק לשמר **Self-cohesion** מול **Disintegration anxiety** שנובעת מכישלונות אמפתיים סביבתיים [G-15]. *Contrastive anchor:* Classical theory → structural conflicts (id vs superego); Self psychology + Object relations → **deficits** ב-self-cohesion / separation-individuation. בחירת העדשה מתבצעת לפי רמת הארגון + דומיננטיות הפתולוגיה.",
+      "note_id": "1776915923776"
+    },
+    {
+      "id": "1776915923777",
+      "front_md": "הגנות — היררכיית Vaillant + עיקרון McWilliams",
+      "back_md": "ניתוח הגנות = חלון ישיר להערכת **ego strength + רמת ארגון** [G-16]. **Primitive defenses** (borderline/psychotic): splitting · projective identification · denial · dissociation · schizoid fantasy · acting out [G-18]. **Neurotic defenses:** repression · reaction formation · intellectualization · displacement · undoing [G-19]. **Mature defenses:** sublimation · humor · suppression · anticipation [G-20]. **כלל דינמי:** > \"The strength of the defense or resistance is necessarily proportional to the strength of the underlying impulse\" [G-21]. **McWilliams' diagnostic principle:** > \"It is the absence of mature defenses, not the presence of primitive ones, that characterizes borderline or psychotic structure\" [Mc-4]. מטופל נוירוטי יכול להשתמש גם ב-splitting מדי פעם תחת סטרס — אבל גמישות ההגנות + נוכחות של bogרות היא הקריטריון. *Takeaway:* נוכחות הגנות פרימיטיביות **אינה** שוללת בריאות נפשית — היעדר מוחלט של הגנות בוגרות מאשר borderline/psychotic organization.",
+      "note_id": "1776915923777"
+    },
+    {
+      "id": "1776915923778",
+      "front_md": "Compromise Formation — קונפליקט ← הגנה ← סימפטום",
+      "back_md": "ההסבר הדינמי של הסימפטום = **Compromise formation** [G-22]. התהליך: (1) קונפליקט פנימי סביב דחף מיני/תוקפני שואף לביטוי; (2) התנגדות superego/מציאות [G-23]; (3) ההתנגשות → **Signal anxiety** → אגו מפעיל הגנה [G-24]. > \"A symptom, then, is a compromise formation that both defends against the wish arising from the id and gratifies the wish in disguised form\" [G-25]. **דוגמת Gabbard — OCPD:** מטופל מדחיק עוינות לבוס מתוך פחד [G-26]. מפעיל **Reaction formation** → מתרפס+מתחנף קיצונית. ההתרפסות = **הסימפטום** — מגינה מפני מודעות לכעס (הגנה), אבל מעצבנת את הבוס ומספקת ביטוי מוסווה של הדחף התוקפני (סיפוק חלקי) [G-27]. *Structural hook:* Symptoms are never random — they are **negotiated solutions** שמגינות ומספקות בו-זמנית. לפרש סימפטום = לחשוף את שני הצדדים של הפשרה.",
+      "note_id": "1776915923778"
+    },
+    {
+      "id": "1776915923779",
+      "front_md": "רמות ארגון אישיות (McWilliams spectrum) — Psychotic vs Borderline vs Neurotic",
+      "back_md": "**Psychotic level:** קונפליקט סימביוטי סביב קיום+הכחדה (**annihilation anxiety**), העדר אינטגרציה של זהות, ופגיעה ב-reality testing [Mc-2]. חסר **observing ego** → מועד ל-**malevolent transformations** שבהן המטפל נתפס כרודף [Mc-3]. **Borderline level:** קונפליקט סביב נפרדות+אינדיבידואציה (rapprochement), חרדת נטישה, בלבול זהות. Reality testing תקין, **אבל** חסרים mentalization + reflective functioning + חוויית ego states מתחלפים וקיצוניים [Mc-3]. **Neurotic level:** קונפליקט אדיפלי פנימי, זהות אינטגרטיבית, הגנות בוגרות, יכולת ל-**therapeutic split** המאפשר התבוננות אובייקטיבית על הקשיים הנחווים כ-**ego alien** [Mc-2]. *Contrastive anchor:* Psychotic = אימה קיומית + חוסר נפרדות; Borderline = פאניקת נטישה vs בליעה; Neurotic = קונפליקט פנימי בטוח עם יכולת לצפות במצוקה מבחוץ.",
+      "note_id": "1776915923779"
+    },
+    {
+      "id": "1776915923780",
+      "front_md": "ניבוי העברה — שני ממדים מתחלפים",
+      "back_md": "יחסי אובייקט מוקדמים **מופנמים ומשתחזרים אוטומטית** מול המטפל [G-28]. המטופל לא זוכר — **מבטא בפעולה**: > \"The patient unconsciously reenacts the past relationship instead of remembering it\" [G-29]. **שני ממדי העברה:** (1) **Repetitive dimension** — המטופל מפחד שהמטפל יתנהג כהוריו הדוחים/פוגעניים [G-30]; (2) **Selfobject dimension** — כמיהה לחוויה מתקנת מרפאת שחסרה בילדותו [G-30]. **Triangle of insight:** מטפל מנסח קישור בין יחסי עבר מוקדמים + יחסים נוכחיים מחוץ לטיפול + דפוסי העברה \"כאן ועכשיו\" [G-31]. ניבוי זה מכין אותו להכיל תגובות **countertransference**. **העברה לפי ארגון (McWilliams):** Neurotic = ברית מהירה + ego-alien → ניתן לפרש ישירות; Borderline = עוצמתית + חסרת אמביוולנטיות + עמידה לפירוש + Contagion דרך projective identification; Psychotic = אימה + fusion-idealization → המטפל חייב אמינות מוחלטת [Mc-3]. *Clinical takeaway:* Transference אינו artifact טיפולי — הוא העבר החי של המטופל. ניבויו הופך ruptures ל-\"grist for the mill\".",
+      "note_id": "1776915923780"
+    },
+    {
+      "id": "1776915923781",
+      "front_md": "Expressive-Supportive Continuum — פורמולציה מכווינה טכניקה",
+      "back_md": "הפורמולציה = **המצפן** לעמדת המטפל + בחירת התערבויות על הרצף האקספרסיבי-תמיכתי [G-32]. > \"Theoretical understanding helps the dynamic psychiatrist decide what to say, when to say it, how to say it, and what is better left unsaid\" [G-33]. **Neurotic + ego שמור:** **Interpretation** עמוק + חשיפת משמעויות לא-מודעות + עבודה בהעברה [G-34]. **Ego weakness / psychosis / deficit:** הימנעות מפירושים עמוקים (שעלולים לאיים) → **Supportive approach** עם empathic validation + advice + observation + חיזוק **frame** [G-35]. גם מידת **abstinence + anonymity + neutrality** מותאמת לפי הניסוח [G-36]. *Structural hook:* הפורמולציה קובעת את **מינון+עומק** הפירוש. המטפל = \"חייט מותאם\" ולא \"טכנאי one-size-fits-all\". ברית טיפולית עם מטופל borderline תיפול אם מטפל יפעיל טכניקה classical interpretive שמתאימה ל-neurotic — וגם להיפך: neurotic יחווה supportive-only כ-infantilizing.",
+      "note_id": "1776915923781"
+    },
+    {
+      "id": "1776915923782",
+      "front_md": "עדכון הפורמולציה — השערת עבודה בעיפרון",
+      "back_md": "הפורמולציה **אינה מסמך סופי**. Gabbard: > \"The formulation should also be approached with the understanding that it undergoes continual modification as treatment proceeds. In dynamic psychiatry, diagnosis and treatment are always evolving together.\" [G-43]. כל פירוש = בחינת השערה מהניסוח. תגובת המטופל — אישוש/הרחבה או הופעת **resistances** — מספקת נתונים מעדכנים [G-44]. התקדמות טיפול → היחלשות הגנות → חשיפת מבני יחסי-אובייקט קודמים + קונפליקטים חדשים (אבל, טראומה, משברים התפתחותיים) → חיוב עדכון שיטתי של הניסוח והטכניקה [G-45]. McWilliams מדגישה שההמשגה חייבת להיות **tentative** — הצעה גמישה + נכונות מתמדת של המטפל לתקן טעויותיו + ענווה אל מול מורכבות הנפש [Mc-6]. *Clinical takeaway:* פורמולציה נכתבת **בעיפרון, לא בעט**. המטפל הדינמי מכייל מחדש את ההשערות תמיד לפי נתוני העברה שוטפים. מסמך שלא התעדכן אחרי 20 פגישות = מטפל שלא הקשיב.",
+      "note_id": "1776915923782"
+    },
+    {
+      "id": "1776915923783",
+      "front_md": "טעויות נפוצות — Gabbard 5 + Dulcan 3 פדיאטריות",
+      "back_md": "**Gabbard's 5 pitfalls:** (1) **Rigid theory imposition** — כפיית תיאוריה אהובה על החומר הקליני. תיאוריה = מטאפורה, בשלב מסוים עלולה לאבד תוקף [G-46] [G-47]; (2) **חשיבה דיכוטומית Either/Or** — רק קונפליקט vs רק deficit; הכל אדיפלי vs הכל pre-oedipal. גישה מודרנית = **Both/And** [G-48]; (3) **התעלמות מהקשר ביופסיכוסוציאלי רחב** (גנטיקה/תרבות/טראומה היסטורית) עם פוקוס-יתר רק בפנטזיות תוך-נפשיות מבודדות [G-49]; (4) **הישענות-יתר על diagnostic labeling** — מונע התפתחות של קשר אותנטי + הבנה מורכבת של המטופל כאדם שלם [G-50]. **Dulcan's 3 pediatric pitfalls:** (א) **Premature diagnostic closure** — > \"One of the most common mistakes that inexperienced interviewers make is to prematurely home in on a diagnosis\" [D-26] [D-27]. (ב) **Theoretical reductionism / single-model etiology** — Dulcan verbatim: > \"The use of the perspective approach... avoids single-model etiologies such as when one perspective, such as a reductionistic biological or psychodynamic formulation and treatment plan, is favored\" [D-14] [D-28]. (ג) הזנחה של הבדלים התפתחותיים + הסתמכות על דיווח יחיד → מעוותת ניסוח [D-29]. *Structural hook:* המפה אינה הטריטוריה. כפיית תבניות נוקשות מעוורת את הקלינאי למציאות הביופסיכוסוציאלית האידיוסינקרטית של המטופל לפניו.",
+      "note_id": "1776915923783"
+    },
+    {
+      "id": "1776915923784",
+      "front_md": "פורמולציה → תוכנית טיפול (Workflow + Perspective Choice)",
+      "back_md": "**Workflow קליני (Dulcan):** אנמנזה ממספר מקורות (Multiple informants) + ראיונות (ילד/הורה/משפחה) + שאלונים → **גיבוש פורמולציה** כמנגנון סינתזה המאחד את הנתונים + **Predisposing + Precipitating + Perpetuating** [D-21] [D-22]. **אחרי** הפורמולציה: תוכנית טיפול (פסיכותרפיה + הדרכת הורים + תרופות) [D-23]. פגישת משוב למשפחה — שקופה + מעוררת תקווה + מתחילה מ-**חוזקות** [D-24]. בהסכמה — שיתוף עם PCP + בית ספר למניעת טיפול מקוטע [D-25]. **Perspective → Treatment [D-9] [D-10] [D-11] [D-12] [D-13]:** Disease (ביולוגי) → תרופות; Dimensional (חוסר התאמה תכונה-סביבה) → Coping + פסיכותרפיה; Behavior → Behavioral therapy; Life story → Reframing נרטיב + העצמה. **[NOT IN DULCAN]** — כללים נוקשים מתי לבחור דינמי vs CBT vs משפחתי. *Takeaway:* הפורמולציה היא **נקודת המפנה והשיא** של תהליך האינטייק — מעבדת ומזקקת את רעש הנתונים ומשמשת קרש קפיצה להתערבות + פגישת משוב. ראיון טוב בלי פורמולציה = נתונים בלי סיפור.",
+      "note_id": "1776915923784"
+    }
+  ]
+}

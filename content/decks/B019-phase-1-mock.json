@@ -1,0 +1,181 @@
+{
+  "id": "B019-phase-1-mock",
+  "label": "B019 · שבוע סימולציה — Phase 1 · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1777179387578",
+      "front_md": "[Mock] לוח שבוע מוק — ימים ועדות?",
+      "back_md": "‫שני: ועדה 1 mock 105 דק' (30 ראיון + 30 הצגה + 45 שאלות); רביעי: ועדה 2 mock 75 דק' (3×25); שישי: ועדה 3 mock 75 דק' (25/25/20). שלישי+חמישי = הפסקה ועיבוד.‬",
+      "note_id": "1777179387578"
+    },
+    {
+      "id": "1777179387579",
+      "front_md": "[Mock] למה לא mock יומי?",
+      "back_md": "‫burnout, לא בדיקה. shock-test יומי מסכן validity. ימי הפסקה (שלישי+חמישי) נחוצים לעיבוד.‬",
+      "note_id": "1777179387579"
+    },
+    {
+      "id": "1777179387580",
+      "front_md": "[StageB-Order] סדר verbatim של 3 הוועדות?",
+      "back_md": "‫\"1. ריאיון/הצגת מקרה/דיון ותכנית התערבות. 2. שאלות בנושאים התפתחותיים, קליניים אבחנתיים וטיפוליים. 3. פסיכותרפיה\" [StageB-1]‬",
+      "note_id": "1777179387580"
+    },
+    {
+      "id": "1777179387581",
+      "front_md": "[StageB-Silence] מה Stage B שותקת לגביו?",
+      "back_md": "‫לוח זמני יומי בפועל, סדר הכניסה לוועדות, האם 3 הוועדות באותו יום או בימים נפרדים — [NOT IN STAGE B PDF] — מנהל הבחינה (איגוד) קובע, לא ה-PDF‬",
+      "note_id": "1777179387581"
+    },
+    {
+      "id": "1777179387582",
+      "front_md": "[StageB-Score] ציון מעבר verbatim?",
+      "back_md": "‫\"ציון מעבר בבחינה – מעבר של שלושת הועדות.\" + \"ציון מעבר בועדה – ציון של 3 נקודות (מתוך 5) ומעלה ע\"י שני בוחנים לפחות\" [StageB-2]‬",
+      "note_id": "1777179387582"
+    },
+    {
+      "id": "1777179387583",
+      "front_md": "[StageB-Score] מצטיין verbatim?",
+      "back_md": "‫\"מצטיין – כאשר סך הציון מתוך שלושת הועדות והבוחנים הינו 4.5 מתוך (5)\" [StageB-2]‬",
+      "note_id": "1777179387583"
+    },
+    {
+      "id": "1777179387584",
+      "front_md": "[StageB-Score] כישלון verbatim?",
+      "back_md": "‫\"כישלון – באי מעבר ועדה אחת ויותר משלוש הועדות.\" [StageB-2]‬",
+      "note_id": "1777179387584"
+    },
+    {
+      "id": "1777179387585",
+      "front_md": "[Integration] Biopsychosocial Weave — Dulcan verbatim?",
+      "back_md": "‫\"The adept clinician will gather information and weave it together to create a biopsychosocial formulation that can then inform treatment.\" [D-1]‬",
+      "note_id": "1777179387585"
+    },
+    {
+      "id": "1777179387586",
+      "front_md": "[Integration] Four Perspectives — Dulcan verbatim?",
+      "back_md": "‫\"These four perspectives can bring together often competing models of meaning and attribution in psychiatry into a more holistic formulation.\" [D-2]‬",
+      "note_id": "1777179387586"
+    },
+    {
+      "id": "1777179387587",
+      "front_md": "[Integration] שמות 4 הפרספקטיבות?",
+      "back_md": "‫(1) Disease (מחלה) — ביולוגי-גנטי-מולקולרי; (2) Dimension (מימד) — variation על ספקטרום; (3) Behavior (התנהגות) — reversible דרך learning; (4) Life Story (סיפור חיים) — נרטיבי-ביוגרפי [D-2]‬",
+      "note_id": "1777179387587"
+    },
+    {
+      "id": "1777179387588",
+      "front_md": "[Calibration] Base rates — Dulcan verbatim?",
+      "back_md": "‫\"Knowing the base rates of common disorders... will help clinicians calibrate diagnoses and case formulations.\" [D-3]‬",
+      "note_id": "1777179387588"
+    },
+    {
+      "id": "1777179387589",
+      "front_md": "[Calibration] base rates ADHD vs juvenile bipolar?",
+      "back_md": "‫ADHD ~5-7% prevalence; juvenile bipolar <1% — חוסר calibration = הצגה מ-rare-to-common‬",
+      "note_id": "1777179387589"
+    },
+    {
+      "id": "1777179387590",
+      "front_md": "[Supervision] Dulcan verbatim על T/CT supervision?",
+      "back_md": "‫\"Discussing transference and countertransference with colleagues or in supervision settings can be a valuable support to clinicians in this emotionally evocative work.\" [D-4]‬",
+      "note_id": "1777179387590"
+    },
+    {
+      "id": "1777179387592",
+      "front_md": "[Lifelong-Learning] Dulcan verbatim על continuing education?",
+      "back_md": "‫\"Continuing education and active communication with networks of professional peers help clinicians enhance their expertise and bring it to patient encounters.\" [D-5]‬",
+      "note_id": "1777179387592"
+    },
+    {
+      "id": "1777179387593",
+      "front_md": "[Pitfall-1] Premature closure — Dulcan verbatim?",
+      "back_md": "‫\"One of the most common mistakes that inexperienced interviewers make is to prematurely home in on a diagnosis. This often excludes other diagnoses from consideration and results in an incomplete evaluation and inadequate treatment plan.\" [D-6]‬",
+      "note_id": "1777179387593"
+    },
+    {
+      "id": "1777179387594",
+      "front_md": "[Pitfall-2] Errors of commission/omission — Dulcan verbatim?",
+      "back_md": "‫\"Errors of commission assign invalid diagnoses and lead to treatment choices with less chance of benefit... Errors of omission lead to failure to intervene early and effectively, as well as increasing the chances of misattributing the sources of the problem to some other diagnosis or mechanism.\" [D-7]‬",
+      "note_id": "1777179387594"
+    },
+    {
+      "id": "1777179387595",
+      "front_md": "[Pitfall-3] Over-aligning — Dulcan verbatim?",
+      "back_md": "‫\"Building rapport with one party to the exclusion of the other is generally not useful and will often impair ultimate treatment success.\" [D-8]‬",
+      "note_id": "1777179387595"
+    },
+    {
+      "id": "1777179387596",
+      "front_md": "[Pitfall-4] Confirmation bias — Dulcan verbatim?",
+      "back_md": "‫\"Humans are influenced by frequent emotions, inherent biases resulting from 'shortcuts' that simplify the complex... Confirmation bias is also common in how we formulate cases.\" [D-10]‬",
+      "note_id": "1777179387596"
+    },
+    {
+      "id": "1777179387597",
+      "front_md": "[Metacognition] Self-monitoring — Dulcan verbatim?",
+      "back_md": "‫\"Throughout the assessment process, clinicians must be aware of the influence of their own relationships and experiences. Clinicians' own histories shape their responses to the relationships of patients and their families.\" [D-9]‬",
+      "note_id": "1777179387597"
+    },
+    {
+      "id": "1777179387598",
+      "front_md": "[Mock-Rubric] Pass criterion ועדה 1 (synthesis)?",
+      "back_md": "‫biopsychosocial weave + 4 perspectives + adequate rapport + DDx ranked by base rates + plan with red flags = 3/5+‬",
+      "note_id": "1777179387598"
+    },
+    {
+      "id": "1777179387599",
+      "front_md": "[Mock-Rubric] Pass criterion ועדה 2 (synthesis)?",
+      "back_md": "‫5-axis coverage + Bayesian revision audible + base-rates calibrated + forensic explicit = 3/5+‬",
+      "note_id": "1777179387599"
+    },
+    {
+      "id": "1777179387600",
+      "front_md": "[Mock-Rubric] Pass criterion ועדה 3 (synthesis)?",
+      "back_md": "‫report בפורמט (5+1 עמ', font 12+, רווח 1.5) + 5-element treatment-planning + perspective approach + conceptual Q with examples = 3/5+‬",
+      "note_id": "1777179387600"
+    },
+    {
+      "id": "1777179387601",
+      "front_md": "[Action] 3/3 עברו → ?",
+      "back_md": "‫מעבר ל-Phase 2 (ADHD B021+). drills שבועיים נמשכים ברקע‬",
+      "note_id": "1777179387601"
+    },
+    {
+      "id": "1777179387602",
+      "front_md": "[Action] 2/3 עברו → ?",
+      "back_md": "‫חזרה על הוועדה הנכשלת — 1-2 שבועות drill נוסף + recheck‬",
+      "note_id": "1777179387602"
+    },
+    {
+      "id": "1777179387603",
+      "front_md": "[Action] 1/3 עבר → ?",
+      "back_md": "‫חזרה על Phase 1 כולה — דיוק weak-spots ב-B016/B017/B018‬",
+      "note_id": "1777179387603"
+    },
+    {
+      "id": "1777179387604",
+      "front_md": "[Action] 0/3 עברו → ?",
+      "back_md": "‫retrospective עמוקה (B020) — האם הבעיה ידע, סקיל, או anxiety? אבחון לפני תיקון‬",
+      "note_id": "1777179387604"
+    },
+    {
+      "id": "1777179387605",
+      "front_md": "[Debrief] 3 שאלות סופרוויזה עצמית?",
+      "back_md": "‫(1) איפה אבדתי calibration? (2) איפה הזדהיתי-יתר עם צד אחד? (3) איזו שגיאה חוזרת על עצמי?‬",
+      "note_id": "1777179387605"
+    },
+    {
+      "id": "1777179387606",
+      "front_md": "[Cross-Ref] B016/B017/B018 vs B019 — מה ההבדל?",
+      "back_md": "‫B016/B017/B018 = drills שבועיים קבועים (skills practice). B019 = mock week (integration test). drills מאמנים, mock בודק‬",
+      "note_id": "1777179387606"
+    },
+    {
+      "id": "1777179387607",
+      "front_md": "[Format] שלושה ימי הפסקה (שלישי+חמישי+סופ\"ש) — למה?",
+      "back_md": "‫עיבוד הקלטות, רישום debrief, הימנעות מ-burnout, micro-supervision עצמית. mock יומי = sleep-deprived clinical reasoning‬",
+      "note_id": "1777179387607"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "B016-committee-1-drill",
+  "label": "B016 · תרגול ועדה 1 — בדיקת מטופל · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1777088403059",
+      "front_md": "[Format] מטרת ועדה 1 verbatim?",
+      "back_md": "‫\"ריאיון/הצגת מקרה/דיון ותכנית התערבות\" [StageB-1]‬",
+      "note_id": "1777088403059"
+    },
+    {
+      "id": "1777088403060",
+      "front_md": "[Format] מתכונת ועדה 1 verbatim?",
+      "back_md": "‫\"בדיקת מיון\" [StageB-2]‬",
+      "note_id": "1777088403060"
+    },
+    {
+      "id": "1777088403062",
+      "front_md": "[Format] 3 challenges התנהגותיים verbatim?",
+      "back_md": "‫\"קושי של ילד צעיר להיפרד מההורה, סירוב של מתבגר לשתף פעולה בבדיקה, חוסר גבולות של ההורה המשתתף וכו׳.\" [StageB-3]‬",
+      "note_id": "1777088403062"
+    },
+    {
+      "id": "1777088403063",
+      "front_md": "[Format] ציון מצטיין verbatim?",
+      "back_md": "‫\"כאשר סך הציון מתוך שלושת הועדות והבוחנים הינו 4.5 מתוך (5)\" [StageB-4]‬",
+      "note_id": "1777088403063"
+    },
+    {
+      "id": "1777088403064",
+      "front_md": "[Format] הגדרת כישלון verbatim?",
+      "back_md": "‫\"באי מעבר ועדה אחת ויותר משלוש הועדות\" [StageB-4]‬",
+      "note_id": "1777088403064"
+    },
+    {
+      "id": "1777088403065",
+      "front_md": "[Format] Output הצפוי verbatim ב-10 דק' הצגה?",
+      "back_md": "‫\"תערך הצגה חופשית של סיכום הממצאים, סטטוס פסיכיאטרי ואבחנה מבדלת\" [StageB-5] + \"תכנית התערבות\" [StageB-1]‬",
+      "note_id": "1777088403065"
+    },
+    {
+      "id": "1777088403066",
+      "front_md": "[Drill] 3 הגילאים ב-3-pass cycle?",
+      "back_md": "‫4-6y preschool (יום ראשון, separation) · 8-11y school-age (שלישי, intrusive parent) · 14-17y adolescent (חמישי, refusal). 3 mocks/שבוע, 105 דק' מלא + 30 דק' debrief‬",
+      "note_id": "1777088403066"
+    },
+    {
+      "id": "1777088403067",
+      "front_md": "[Preschool] עקרון מפתח של Dulcan לראיון preschool?",
+      "back_md": "‫\"Whenever possible, the mental status examination of a preschool child should be conducted with the child and caregiver together rather than with the child individually.\" [D-1]‬",
+      "note_id": "1777088403067"
+    },
+    {
+      "id": "1777088403068",
+      "front_md": "[Preschool] ציטוט על שימוש בצעצועים?",
+      "back_md": "‫\"Use of toys can help young children relax, engage, and talk. These children may often do better when engaged in an activity and talking rather than sitting across from an adult and answering questions.\" [D-3]‬",
+      "note_id": "1777088403068"
+    },
+    {
+      "id": "1777088403069",
+      "front_md": "[Preschool] מה לעשות אם ילד נצמד וsep מתחילה?",
+      "back_md": "‫\"If the preschooler is highly resistant to the separation and/or expresses an intense emotional response, the attempt to separate the dyad can be abandoned (as important aspects of the dyadic relationship will have been illuminated).\" [D-1]‬",
+      "note_id": "1777088403069"
+    },
+    {
+      "id": "1777088403070",
+      "front_md": "[School-age] איך מתחילים ראיון לפי Dulcan?",
+      "back_md": "‫\"start with both the child and parents in the office together to allow the clinician to become acquainted with all parties, to set the stage, and to observe their interactions with each other\" [D-2]‬",
+      "note_id": "1777088403070"
+    },
+    {
+      "id": "1777088403071",
+      "front_md": "[School-age] מעבר לראיון הילד — מה לשאול?",
+      "back_md": "‫\"The interviewer can then ask the child what his or her parents told him or her about why they were coming to see a doctor today\" [D-2] — מונע \"putting the child on the spot\"‬",
+      "note_id": "1777088403071"
+    },
+    {
+      "id": "1777088403074",
+      "front_md": "[School-age] איך מנהלים הורה פולשני בנוכחות הילד?",
+      "back_md": "‫\"During the joint portion of the session, it is the clinician's role to halt discussion of topics if inappropriate content is being shared in the presence of the child.\" [D-4]‬",
+      "note_id": "1777088403074"
+    },
+    {
+      "id": "1777088403075",
+      "front_md": "[Adolescent] אסטרטגיית ice breaking של Dulcan?",
+      "back_md": "‫\"The primary focus at the start of the interview is to begin to understand the adolescent's interests, strengths, and point of view. This approach can break the ice for collecting data later in the interview.\" [D-5]‬",
+      "note_id": "1777088403075"
+    },
+    {
+      "id": "1777088403076",
+      "front_md": "[Adolescent] מתבגרת מסרבת לחתום הסכמה — מה Dulcan ממליצה (Case Example 1)?",
+      "back_md": "‫\"ask the mother to leave the room so that the clinician could speak to Gina alone. He further recommended that she focus not on the task of assenting to the evaluation but on establishing rapport with the teenager...\" [D-6]‬",
+      "note_id": "1777088403076"
+    },
+    {
+      "id": "1777088403077",
+      "front_md": "[Adolescent] מה זה Motivational Interviewing לפי Dulcan?",
+      "back_md": "‫\"motivational interviewing focuses on the individual's interests, concerns, and goals, facilitating greater cooperation and collaboration.\" [D-7]‬",
+      "note_id": "1777088403077"
+    },
+    {
+      "id": "1777088403078",
+      "front_md": "[Adolescent] איך כוללים מתבגר כשההורה מדבר?",
+      "back_md": "‫\"make intermittent eye contact with the adolescent, frequently bringing the adolescent back into the conversation and asking what he or she thinks about what the parent just said.\" [D-2]‬",
+      "note_id": "1777088403078"
+    },
+    {
+      "id": "1777088403079",
+      "front_md": "[Time] חלוקת 60 דק' מומלצת לראיון school-age?",
+      "back_md": "‫0-3 הצגה · 3-7 chief complaint דרך הילד · 7-15 הורה+אקטיבי הילד · 15 פרידה · 15-50 ראיון פרטי · 50-58 חזרת הורה · 58-60 פרידה חיובית. preschool: שינוי — brief-separation בלבד דק' 30-35. Adolescent מסרב: הוצאת הורה דק' 5-7‬",
+      "note_id": "1777088403079"
+    },
+    {
+      "id": "1777088403080",
+      "front_md": "[Time] מה הכלי הקריטי למתמחה ADHD בניהול 60 הדק'?",
+      "back_md": "‫טיימר חיצוני (אנלוגי על השולחן), לא חכמת-זמן [synthesis from B015]‬",
+      "note_id": "1777088403080"
+    },
+    {
+      "id": "1777088403081",
+      "front_md": "[Present] מבנה 10-דק' presentation (3-3-3-1)?",
+      "back_md": "‫3 דק' סיכום ממצאים (CC + presenting + relevant hx) · 3 דק' MSE (7 קטגוריות) [D-8] · 3 דק' DDx (3-5 ranked) · 1 דק' תוכנית. **אסור** לקרוא מהפתק [StageB-5]‬",
+      "note_id": "1777088403081"
+    },
+    {
+      "id": "1777088403082",
+      "front_md": "[MSE] 7 קטגוריות MSE לפי Dulcan?",
+      "back_md": "‫appearance · behavior · speech · mood/affect · thought (process+content) · cognition · insight/judgment [D-8]‬",
+      "note_id": "1777088403082"
+    },
+    {
+      "id": "1777088403083",
+      "front_md": "[Q&A] התפלגות שאלות בוחנים (synthesis לא verbatim Stage B)?",
+      "back_md": "‫~30% אבחנתיות · 25% טיפול · 20% developmental/lifespan · 15% forensic/legal · 10% wild-card. Stage B שותק [NOT IN STAGE B PDF]‬",
+      "note_id": "1777088403083"
+    },
+    {
+      "id": "1777088403084",
+      "front_md": "[StageB-Silence] מה Stage B PDF שותק לגביו?",
+      "back_md": "‫(1) פירוט פנימי 5 הנקודות; (2) סוגי שאלות בוחנים; (3) האם נדרשת פורמולציה ב-C1 (בשונה מ-C3); (4) לוגיסטיקה (מועדים, מיקום) — כולם [NOT IN STAGE B PDF]‬",
+      "note_id": "1777088403084"
+    },
+    {
+      "id": "1777088403085",
+      "front_md": "[Drill] 4 אסטרטגיות לתרגול עם מתבגר מסרב?",
+      "back_md": "‫(1) Ice breaking [D-5] · (2) הוצאת הורה [D-6] · (3) Motivational Interviewing [D-7] · (4) Active inclusion כשההורה מדבר [D-2]‬",
+      "note_id": "1777088403085"
+    },
+    {
+      "id": "1777088403086",
+      "front_md": "[Drill] מבחן ב-MI במוק עם מתבגר — מטרה?",
+      "back_md": "‫מספור שאלות פתוחות ב-15 דק' ראשונות; מטרה ≥6 [synthesis from D-7]‬",
+      "note_id": "1777088403086"
+    },
+    {
+      "id": "1777088403087",
+      "front_md": "[Strategy] איזו ועדה לתעדף בהכנה אם יש זמן מוגבל?",
+      "back_md": "‫הוועדה החלשה ביותר שלך — חוסר במינום בועדה אחת = כישלון מלא [StageB-4]. ציון 5 בועדה לא מפצה על 2 באחרת.‬",
+      "note_id": "1777088403087"
+    },
+    {
+      "id": "1777088403088",
+      "front_md": "[Pass-Cycle] מספר mocks מומלץ ל-Phase 7 (mock-prep) לפני Stage B?",
+      "back_md": "‫27 mocks (3 ימים × 3 גילאים × 9 שבועות חזרה) — מינימום ל-exposure floor של B015‬",
+      "note_id": "1777088403088"
+    },
+    {
+      "id": "1777088403089",
+      "front_md": "[Brief-Separation] מה דירוג 3 רמות התגובה לפרידה ב-preschool?",
+      "back_md": "‫(1) פרידה קלה אחרי הסבר → secure; (2) מצוקה קצרה אחר כך התרגלות → organized; (3) מצוקה קיצונית/הימנעות מוחלטת → anxious-insecure/disorganized — אל תכפה [D-1]‬",
+      "note_id": "1777088403089"
+    }
+  ]
+}

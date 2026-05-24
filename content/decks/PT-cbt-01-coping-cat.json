@@ -1,0 +1,68 @@
+{
+  "id": "PT-cbt-01-coping-cat",
+  "label": "01 · קופינג קאט",
+  "source": "psychotherapy",
+  "tradition": "cbt",
+  "cards": [
+    {
+      "id": "1777193452976",
+      "front_md": "**Coping Cat — מה הפרוטוקול**",
+      "back_md": "**Coping Cat** (Kendall 1990, מעודכן 2006) הוא ה-CBT manualized המוביל ל-anxiety בילדים ומתבגרים. אוכלוסיית יעד: ילדים בני **7-13** עם separation anxiety, generalized anxiety, או social anxiety. מבנה: **16 פגישות שבועיות** (~50 דקות), מחולקות לשני חלקים — 8 ראשונים psychoeducation + skill-building, 8 אחרונים **exposure** הדרגתי. ה-protocol הוא ה-foundation של ה-EBP לחרדה בילדים: יש לו replication ב-scores of trials, מחקרי השוואה ל-meds (CAMS — Walkup 2008), ו-versions גם למתבגרים (C.A.T. Project).\n\n*Kendall 4e, Ch 5 · \"Anxiety Disorders in Youth\"*",
+      "note_id": "1777193452976"
+    },
+    {
+      "id": "1777193452980",
+      "front_md": "**FEAR plan — 4 שלבי המטה-קוגניציה**",
+      "back_md": "ה-**FEAR plan** הוא הכלי המרכזי שהילד לומד ב-Coping Cat — heuristic של 4 שלבים שמיישמים בכל מצב מעורר חרדה: (1) **F** — *Feeling frightened?* — זיהוי תחושות גופניות (לב דופק, בטן כואבת); (2) **E** — *Expecting bad things to happen?* — זיהוי מחשבות catastrophic; (3) **A** — *Attitudes and actions that can help* — תכנון coping (deep breathing, self-talk חיובי, problem-solving); (4) **R** — *Results and rewards* — הערכה עצמית + reinforcement. הילד מתאמן על FEAR plan בפגישות, ב-STIC tasks, ובעיקר ב-exposure tasks. נוסחה זכירה גם לרופא וגם לילד.\n\n*Kendall 4e, Ch 5*",
+      "note_id": "1777193452980"
+    },
+    {
+      "id": "1777193452982",
+      "front_md": "**מבנה 16 הפגישות — שני חצאים**",
+      "back_md": "**חצי ראשון (Sessions 1-8) — Psychoeducation + Skill-Building**:\n- S1-2: בניית alliance, היכרות, psychoeducation על חרדה\n- S3-4: זיהוי somatic symptoms (F)\n- S5: זיהוי anxious self-talk (E) + introducing הסיוע (A)\n- S6-7: coping strategies — relaxation, problem-solving, self-reward\n- S8: **Parent meeting** + integration של FEAR plan כשלם\n\n**חצי שני (Sessions 9-16) — Exposure**:\n- S9-15: hierarchies של exposure הדרגתי (in-vivo + imaginal). מתחילים מ-easy, מתקדמים ל-difficult. כל פגישה כוללת 1-2 exposure tasks.\n- S16: review, relapse prevention, \"commercial\" — הילד יוצר מצגת ללמד ילדים אחרים על FEAR plan.\n\nהחלוקה reflects את העיקרון שלא ניתן לבנות exposure ללא skill base מוכן.\n\n*Kendall 4e, Ch 5*",
+      "note_id": "1777193452982"
+    },
+    {
+      "id": "1777193452983",
+      "front_md": "**STIC tasks — Show That I Can**",
+      "back_md": "**STIC tasks** הם ה-homework של Coping Cat — שיעורי בית בין-פגישתיים. השם הוא acronym מעודד: \"Show That I Can\" — *תראה שאני יכול*. כל פגישה הילד מקבל workbook עם משימה: לתעד מצב חרדה השבוע, לסמן אילו F+E חווה, איזה A הצליח, מה היה ה-R. בהמשך — לבצע exposure-מ-bayit (in-vivo) ולתעד. STIC tasks הם ה-bridge בין הקליניקה לחיים — בלעדיהם הטיפול מצומצם לחדר. החזק שלהם: shame-לא-מילולי על ה-acronym (אני יכול). החולשה: dropout בקרב ילדים עם ADHD comorbid (משימה יומית = פיגור).\n\n*Kendall 4e, Ch 5*",
+      "note_id": "1777193452983"
+    },
+    {
+      "id": "1777193452984",
+      "front_md": "**Exposure ב-Coping Cat — גישה הדרגתית**",
+      "back_md": "ה-exposure ב-Coping Cat (S9-S15) בנוי על **hierarchy** משותף בין הילד למטפל: הילד מדרג מצבי-חרדה על SUDS (Subjective Units of Distress, 0-10), ובונים סולם של ~8-12 מצבים מ-easy (SUDS 2-3) ל-difficult (SUDS 8-9). כל פגישה — exposure ל-1-2 שלבים, ב-vivo כשאפשר (ללכת ל-mall, להתקשר לחבר), imaginal כשלא (לדמיין מצגת בכיתה). ה-exposure תמיד מלווה ב-FEAR plan (לפני, במהלך, אחרי). העקרון: extinction של תגובת fear דרך אי-avoidance + new learning. **אין exposure בלי skill base מוקדם** — חצי ראשון של 8 פגישות הוא prerequisite.\n\n*Kendall 4e, Ch 5 · \"Treatment Procedure\"*",
+      "note_id": "1777193452984"
+    },
+    {
+      "id": "1777193452986",
+      "front_md": "**מעורבות ההורים ב-Coping Cat**",
+      "back_md": "Coping Cat **לא** parent-mediated — הילד הוא המטופל הראשי. אבל יש שתי **parent meetings** מובנות (אחרי S2 ואחרי S8) + תקשורת לאורך הטיפול. תפקידי ההורים: (1) **psychoeducation** — להבין שחרדה היא לא חולשה, ש-avoidance מחזק, ש-exposure בונה אומץ; (2) **לא לחזק avoidance** — לא לאפשר לילד להתחמק ממצבים שהמטפל הגדיר כ-exposure; (3) **לתמוך ב-STIC** — לעודד, לא לעשות במקום הילד; (4) **reinforcement** של coping. לא reframing משפחה כמו ב-FFT, וגם לא parent training כמו ב-PMTO. הורים = **scaffolding sympathetic**.\n\n*Kendall 4e, Ch 5*",
+      "note_id": "1777193452986"
+    },
+    {
+      "id": "1777193452987",
+      "front_md": "**Evidence base — RCTs מובילים**",
+      "back_md": "**Coping Cat** הוא אחד ה-CBT הכי מבוססים-ראיות לילדים. נקודות מפתח:\n- **Kendall 1994** (J Consult Clin Psychol 62:100) — RCT ראשון, response rate ~64% vs 5% waitlist\n- **Kendall et al. 1997** — replication, +follow-up\n- **CAMS — Walkup 2008** (NEJM 359:2753) — RCT 4-זרועות (CBT alone, sertraline alone, COMBINED, placebo). N=488, גילאי 7-17. Response rates: COMBINED 81%, CBT 60%, sertraline 55%, placebo 24%. Number-needed-to-treat ל-COMBINED: ~2.\n- **Long-term follow-up (Ginsburg 2014)** — gains נשמרים 6-7 שנים פוסט-טיפול.\n\nהמסקנה הקלינית: CBT (Coping Cat) ו-SSRI שניהם first-line לחרדה בילדים; **COMBINED** הכי יעיל (NICE NG134 מסכים). אבחנה ראשונה — אם CBT זמין, התחל איתו או COMBINED.\n\n*Walkup 2008 NEJM · CAMS RCT*",
+      "note_id": "1777193452987"
+    },
+    {
+      "id": "1777193452990",
+      "front_md": "מהם 4 שלבי ה-FEAR plan, ואיך הילד מיישם אותם בזמן exposure?",
+      "back_md": "(1) **F — Feeling frightened?** — הילד מזהה somatic signals (דופק מהיר, בטן, רעד). זה ה-cue להתחיל את התהליך. (2) **E — Expecting bad things to happen?** — הילד מנסח את המחשבה הקטסטרופלית (\"המורה תצחק עליי\"). (3) **A — Attitudes and actions that can help** — הילד בוחר coping: deep breathing, self-talk (\"עשיתי את זה קודם\"), problem-solving steps. (4) **R — Results and rewards** — אחרי ה-exposure, הילד מעריך מה קרה (לרוב פחות נורא ממה שצפה) ומקבל reinforcement (על-ידי עצמו או הורה). יישום: בכל שלב ב-hierarchy, הילד עובר דרך F→E→A→R לפני, במהלך, ואחרי החשיפה.\n\n*Kendall 4e, Ch 5*",
+      "note_id": "1777193452990"
+    },
+    {
+      "id": "1777193452991",
+      "front_md": "מה הראה CAMS RCT (Walkup 2008) על השוואת CBT, SSRI, ו-COMBINED בחרדה בילדים?",
+      "back_md": "**CAMS** (Child/Adolescent Anxiety Multimodal Study, NEJM 2008) השווה 4 זרועות ב-N=488 ילדים גילאי 7-17 עם anxiety disorders: **CBT alone (Coping Cat), sertraline alone, COMBINED (CBT+SSRI), placebo**. תוצאות: COMBINED 81% response, CBT 60%, sertraline 55%, placebo 24%. ההבדלים בין CBT ל-sertraline לא היו significant. NNT ל-COMBINED: ~2. השלכות קליניות (ושל NICE/AACAP בעקבותיו): COMBINED הוא המומלץ ל-moderate-severe; CBT alone או SSRI alone גם viable. Long-term follow-up (Ginsburg 2014) הראה ש-gains נשמרים 6-7 שנים. CAMS השפיע על כל קו הראשון לחרדה בילדים בעולם.\n\n*Walkup et al. 2008 · NEJM 359:2753 · CAMS*",
+      "note_id": "1777193452991"
+    },
+    {
+      "id": "1777193452993",
+      "front_md": "מתי Coping Cat **לא** מתאים? מי לא מועמד טוב?",
+      "back_md": "(1) **גיל** — הפרוטוקול תוקף לגילאי 7-13 (גרסה מורחבת C.A.T. Project ל-14-17). מתחת לגיל 7 — חוסר יכולת cognitive restructuring; השתמש ב-parent-mediated CBT (Comer Coaching Approach Behavior). (2) **קוגניטיב** — IQ < 70, ASD חמור — חוסר יכולת לעקוב אחר FEAR plan המופשט. (3) **OCD** — Coping Cat ייסודי לחרדה אבל POTS-aligned exposure-with-response-prevention עדיף ל-OCD. (4) **PTSD** — TF-CBT (Cohen) מתאים יותר. (5) **חרדה משנית ל-depression חמור** — תחילה לטפל בדיכאון. (6) **הורים שמחזקים avoidance באופן קריטי + לא ניתנים לחינוך** — הסיכוי לכישלון גבוה ללא שינוי הסביבה (אז family-based treatment או PMT). (7) **selective mutism** — modifications נדרשים.\n\n*Kendall 4e, Ch 5*",
+      "note_id": "1777193452993"
+    }
+  ]
+}

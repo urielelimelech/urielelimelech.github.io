@@ -1,0 +1,175 @@
+{
+  "id": "B006-risk-assessment",
+  "label": "B006 · הערכת סיכון · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1776915923684",
+      "front_md": "[Intent] מה 4 מרכיבי הערכת כוונה אובדנית (Suicidal intent)?",
+      "back_md": "(1) אמונה לגבי הכוונה — משאלה למות; (2) התנהגות הכנה (חלוקת חפצים, מכתב פרידה); (3) מניעת גילוי (תכנון שלא-יצילו); (4) תקשור של הכוונה [D-3].",
+      "note_id": "1776915923684"
+    },
+    {
+      "id": "1776915923688",
+      "front_md": "[Risk-highest] לפי AACAP — מיהם החולים בפרופיל הסיכון הגבוה ביותר?",
+      "back_md": "זכרים בוגרים 16-19y + היסטוריה של ניסיון קודם + שיטה שאינה בליעה/חיתוך שטחי [A-2].",
+      "note_id": "1776915923688"
+    },
+    {
+      "id": "1776915923690",
+      "front_md": "[Evidence-levels] 4 רמות ההוכחה של AACAP?",
+      "back_md": "**MS** (Minimal Standards, >95% מקרים, חריגה דורשת תיעוד); **CG** (Clinical Guidelines, ~75%); **OP** (Options); **NE** (Not Endorsed) [A-1].",
+      "note_id": "1776915923690"
+    },
+    {
+      "id": "1776915923691",
+      "front_md": "[Firearm] פי כמה נשק חם טעון בבית מעלה סיכון אובדני?",
+      "back_md": "**×30** — גם בצעירים ללא פסיכופתולוגיה גלויה [D-7].",
+      "note_id": "1776915923691"
+    },
+    {
+      "id": "1776915923692",
+      "front_md": "[Mood-disorder] איזה % מהמנסים סובלים מהפרעות מצב רוח?",
+      "back_md": "**>80%** מהמנסים; ~90% מהמשלימים עם פסיכופתולוגיה [D-8].",
+      "note_id": "1776915923692"
+    },
+    {
+      "id": "1776915923693",
+      "front_md": "[Sleep] כמה שעות שינה מעלות סיכון אובדני?",
+      "back_md": "**<6 שעות** ביחס U-shape [D-10].",
+      "note_id": "1776915923693"
+    },
+    {
+      "id": "1776915923695",
+      "front_md": "[Tarasoff] מתי חלה חובת Tarasoff?",
+      "back_md": "סיכון אקוטי ומיידי לאדם ספציפי — חובה משפטית להזהיר את קורבן המטרה, בכפוף לחוקי המדינה [D-21].",
+      "note_id": "1776915923695"
+    },
+    {
+      "id": "1776915923696",
+      "front_md": "[School-shooter] 5 התנהגויות אזהרה ל-Targeted violence?",
+      "back_md": "(1) מחקר+תכנון הפעולה; (2) עיסוק באידיאולוגיה; (3) הזדהות עם יורים קודמים; (4) אלימות \"חדשנית\" (Novel act); (5) תקשור כוונה לצד שלישי [D-20].",
+      "note_id": "1776915923696"
+    },
+    {
+      "id": "1776915923697",
+      "front_md": "[NSSI-vs-SI] עיקרון Casey verbatim: NSSI מעיד על כוונה אובדנית?",
+      "back_md": "> \"NSSI, by definition, does not evidence suicidal intent\" [C-4].",
+      "note_id": "1776915923697"
+    },
+    {
+      "id": "1776915923698",
+      "front_md": "[Distal-proximal] מה ההבדל בין distal לproximal risk factors?",
+      "back_md": "Distal/Static = היסטוריים (טראומה, דיכאון קודם, אובדנות משפחתית); Proximal/Dynamic = נוכחיים ניתנים להתערבות (עימות לאחרונה, NSSI עולה, שכרות, נשק בבית, ideation פעילה) [C-3, D-6, D-9].",
+      "note_id": "1776915923698"
+    },
+    {
+      "id": "1776915923700",
+      "front_md": "[Lethality-vs-intent] למה קטלניות נמוכה לא בהכרח כוונה נמוכה?",
+      "back_md": "ילדים נוטים להעריך שגוי (over/underestimate) את קטלניות האמצעים [D-15]. מטופל אימפולסיבי עם גישה לאמצעי קטלני + כוונה \"נמוכה\" → יכול לבצע ניסיון קטלני [D-16].",
+      "note_id": "1776915923700"
+    },
+    {
+      "id": "1776915923701",
+      "front_md": "[Attempt-4-Q] 4 שאלות הערכת ניסיון (לאחר אירוע)?",
+      "back_md": "(1) מדוע שיטה זו? (2) הציפיות — חשב שיהרוג? (3) עד כמה נראתה הפיכה? (4) חיפש הצלה או הסתיר? [D-17].",
+      "note_id": "1776915923701"
+    },
+    {
+      "id": "1776915923702",
+      "front_md": "[Firearm-MS] ציטוט MS verbatim של AACAP על נשק בבית?",
+      "back_md": "> \"Availability and presence in the home of firearms and lethal medication must be determined during assessment, and parents must be explicitly told to remove firearms and lethal medication\" [A-14].",
+      "note_id": "1776915923702"
+    },
+    {
+      "id": "1776915923703",
+      "front_md": "[Screen] AACAP על כלי סינון אובדנות — NE (אסור)?",
+      "back_md": "תוכנית סינון שאינה כוללת מנגנון הפניה להערכה פסיכיאטרית מקיפה — **NE (Not Endorsed)** [A-7]. > \"A child or adolescent who is positive on a suicide scale should always be assessed clinically\" [A-9].",
+      "note_id": "1776915923703"
+    },
+    {
+      "id": "1776915923704",
+      "front_md": "[Safety-plan-5] 5 שלבי Safety Plan?",
+      "back_md": "(1) Means restriction; (2) משא-ומתן על פעולה בדחפים; (3) זיהוי טריגרים+Warning signs; (4) Internal strategies (לבד); (5) External strategies (מבוגרים אחראים+קווי חירום) [D-31] [D-32] [D-33] [D-34].",
+      "note_id": "1776915923704"
+    },
+    {
+      "id": "1776915923706",
+      "front_md": "[No-contract] למה AACAP נגד no-suicide contracts?",
+      "back_md": "אין עדות אמפירית ליעילות; יוצרים שאננות כוזבת; מטופל סוער חסר שיפוט להבנה [A-26, A-27, A-28]. חוזים כפייתיים אסורים — מעודדים שקר וניתוק ברית [A-29].",
+      "note_id": "1776915923706"
+    },
+    {
+      "id": "1776915923708",
+      "front_md": "[Hospitalize-3Q] 3 שאלות הליבה להחלטת אשפוז?",
+      "back_md": "(1) האם צפוי להשלים התאבדות עתידית? (2) האם יעשה ניסיון נוסף בקרוב? (3) האם הוא ומשפחתו מסוגלים ליישם הפניה קהילתית בבטחה? [D-40..D-42].",
+      "note_id": "1776915923708"
+    },
+    {
+      "id": "1776915923709",
+      "front_md": "[Partial-hosp] מתי מתאים Partial Hospitalization?",
+      "back_md": "הפרעה משמעותית דורשת טיפול אינטנסיבי רב-מקצועי, אבל ניתנת להכלה בסביבה ביתית תומכת. גם step-down מאשפוז [A-21].",
+      "note_id": "1776915923709"
+    },
+    {
+      "id": "1776915923710",
+      "front_md": "[Post-D/C-MS] מה ה-MS ב-follow-up לאחר שחרור ממיון?",
+      "back_md": "תור להמשך הערכה פסיכיאטרית נקבע **לפני** השחרור [A-23]. אם אי-אפשר — מעקב טלפוני יזום פרואקטיבי מצד הצוות אם ההורה לא יזם קשר בזמן סביר [A-24].",
+      "note_id": "1776915923710"
+    },
+    {
+      "id": "1776915923711",
+      "front_md": "[Confidentiality] verbatim על סודיות הורה-מתבגר?",
+      "back_md": "> \"Parents should be told that the clinician will give them the overview of problems and diagnoses, without specific details of statements and behaviors reported by the adolescent, unless the adolescent would be at risk for harm\" [D-37].",
+      "note_id": "1776915923711"
+    },
+    {
+      "id": "1776915923712",
+      "front_md": "[Custody] למה תיעוד משמורת חובה לפני טיפול?",
+      "back_md": "> \"Documenting custody or guardianship is an important prerequisite to beginning an assessment\" [D-39]. הורה לא-משמורן אינו מורשה להסכים לטיפול רציף, למעט חירום.",
+      "note_id": "1776915923712"
+    },
+    {
+      "id": "1776915923713",
+      "front_md": "[Abuse-forensic] למה הקלינאי המטפל לא צריך להיות הבודק הפורנזי?",
+      "back_md": "> \"The forensic evaluation should be performed by a clinician who is trained in forensic assessment; this individual should not be the physician or therapist who is involved in ongoing treatment\" [D-24]. ערבוב מזהם עדות + גורם רה-טראומטיזציה.",
+      "note_id": "1776915923713"
+    },
+    {
+      "id": "1776915923715",
+      "front_md": "[Methods-AACAP] איזו שיטה השכיחה ביותר להשלמת התאבדות בארה\"ב?",
+      "back_md": "**Firearms (נשק חם)** — השיטה המובילה להשלמה בכל המינים. Ingestions (בליעה) = שיטת הניסיון הנפוצה, בעיקר במתבגרות [A-11, A-12].",
+      "note_id": "1776915923715"
+    },
+    {
+      "id": "1776915923716",
+      "front_md": "[Dev-prepub] מאיזה גיל רעיונות אובדניים מתחילים לעלות?",
+      "back_md": "רעיונות אובדניים כמעט לא קיימים לפני גיל 10; עולים לקראת גיל 12 [D-45]. ילדים צעירים מוגבלים קוגניטיבית בתכנון ניסיון מורכב.",
+      "note_id": "1776915923716"
+    },
+    {
+      "id": "1776915923717",
+      "front_md": "[Tool-C-SSRS] מה מבנה C-SSRS משקף?",
+      "back_md": "משווה \"החודש האחרון\" לעומת \"lifetime worst\" — מדגים את עיקרון timeline (7/30/lifetime) [D-28].",
+      "note_id": "1776915923717"
+    },
+    {
+      "id": "1776915923719",
+      "front_md": "[Case-Casey] למה Casey הוחלט outpatient למרות NSSI פעיל?",
+      "back_md": "היעדר תוכנית/כוונה אקוטית, תובנה למצבה, dynamic factors מאוזנים; DBT \"to address multiple problems and suicide risk factors simultaneously\" [C-5].",
+      "note_id": "1776915923719"
+    },
+    {
+      "id": "1776915923720",
+      "front_md": "[Case-Madison] מה הפך את Madison לאשפוז חד-משמעי למרות SI passive בלבד?",
+      "back_md": "Dynamic modifiers חמורים: intoxication/withdrawal פעיל + גישה לתרופות בבית + חוסר השגחה הורית מהימנה. האשפוז לא היה על ה-SI אלא על **סיכוני ה-withdrawal + poor environmental safeguards** [C-9, C-11].",
+      "note_id": "1776915923720"
+    },
+    {
+      "id": "1776915923721",
+      "front_md": "[Disinhibit] AACAP CG על אלכוהול וסמים במשבר אובדני?",
+      "back_md": "> \"It is valuable for the clinician to warn the adolescent (and the parents) about the dangerous disinhibiting effects of alcohol and other drugs\" [A-17].",
+      "note_id": "1776915923721"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "B043-ocd-pediatric-intro-summary",
+  "label": "B043 · OCD בילדים — מבוא · סיכום",
+  "source": "residency-summary",
+  "cards": [
+    {
+      "id": "1776891385869",
+      "front_md": "מהי ההגדרה והפנומנולוגיה של OCD בילדים, ומה ההבדל מטקסים נורמטיביים?",
+      "back_md": "OCD = obsessions (worries) + compulsions (rituals/habits) [D-1]. בילדים: פריצה טרום-התבגרות · תבנית ייחודית · family loading גבוה · פרוגנוזה טובה יותר [D-2]. מאפיין שמקשה על CBT — **קומפולסיות ללא obsessions מגובשות, רק \"feeling bad\"** [D-3]. **הבחנה מנורמטיבי:** טקסים נורמטיביים לא גורמים ל-impairment וקטיעה לא יוצרת severe distress [D-4]. OCD — ego-dystonic, secretive [D-5].",
+      "note_id": "1776891385869"
+    },
+    {
+      "id": "1776891385870",
+      "front_md": "מה האפידמיולוגיה של OCD בילדים?",
+      "back_md": "**Bimodal onset** — פיק טרום-התבגרות + פיק בגרות מוקדמת [D-6]. **Mean onset פדיאטרי: 9-10y**; רוב בין 6.5-12.5y; **≥30% של כל OCD מתחיל טרום-התבגרות** [D-7]. Prevalence: ארה\"ב 1-2% [D-8], דנמרק 0.84% (slight F preponderance) [D-9], בריטניה 0.25% (5-15y, ~90% undetected) [D-10]. **Male + early onset → ADHD comorbidity** [D-11].",
+      "note_id": "1776891385870"
+    },
+    {
+      "id": "1776891385871",
+      "front_md": "מה קריטריוני DSM-5-TR ל-OCD + ה-specifiers?",
+      "back_md": "**A.** obsessions, compulsions, או שניהם · **B.** >1h/day או impairment · **C.** לא substance/medical · **D.** לא disorder אחר. Obsessions = intrusive/unwanted thoughts/urges/images + attempts to neutralize. Compulsions = repetitive behaviors/mental acts \"driven to perform\" + לא realistically connected [D-12]. **Specifiers:** Good/fair insight · Poor insight · Absent insight (delusional) · Tic-related. **Note DSM:** \"Young children may not be able to articulate the aims of these behaviors.\"",
+      "note_id": "1776891385871"
+    },
+    {
+      "id": "1776891385872",
+      "front_md": "מה הממדים הנפוצים של obsessions וcompulsions בילדים?",
+      "back_md": "**Obsessions:** contamination · somatic/sexual · scruples (moral/religious) [D-14]. **תבנית ייחודית:** פחד מאסון משפחתי/מוות → checking + מחקה SAD ללא SAD הקודם [D-15]. **Compulsions:** washing · repeating · checking · ordering [D-16]. **התפתחות:** מתבגרים — יותר obsessions דתיות/מיניות [D-17]. **Hoarding עד 26%** מבני נוער; קשור לטיקים + indecision [D-18].",
+      "note_id": "1776891385872"
+    },
+    {
+      "id": "1776891385873",
+      "front_md": "מה הנוירוביולוגיה של OCD (ברמת Intro)?",
+      "back_md": "**CSTC circuits** (cortico-striatal-thalamic) [D-19]. **NTs:** glutamate (excit) + GABA (inhib) + DA + 5-HT [D-20]. **מבנים:** OFC · anterior cingulate · caudate · thalamus [D-21]. **Imaging specific:** ילדי OCD = **נפח מוגדל של thalamus** [D-22]. **מודל:** פעילות-יתר גלוטמטרגית בין globus pallidus → thalamus → striatum [D-23].",
+      "note_id": "1776891385873"
+    },
+    {
+      "id": "1776891385874",
+      "front_md": "מה ידוע על גנטיקה + heritability של OCD?",
+      "back_md": "**Family risk (childhood-onset):** morbid risk **24-26%** [D-24]. **5-15% subthreshold** בקרובים [D-25]. **GWAS heritability: 0.25-0.28** [D-26]. **Twin study (4,246 pairs):** genetic 45-58% · unique environment 42-55% — מסביר חוסר concordance מלא ב-MZ [D-27]. **Polygenic** + CNVs; גנים גלוטמטרגיים + סרוטונרגיים בולטים [D-28].",
+      "note_id": "1776891385874"
+    },
+    {
+      "id": "1776891385875",
+      "front_md": "מה האתיולוגיה הסביבתית + Family Accommodation?",
+      "back_md": "**Sporadic מצטרפת לגנטיקה** [D-29]. **פרינטלי:** maternal smoking · breech · C-section · prematurity · LBW · low Apgar [D-30]. **טראומה + immune changes** (inflammation, cytokines) [D-31]. **🚨 Family Accommodation ביותר מ-90% מהמשפחות** — verbal reassurance, excessive washing, opening doors for child → מחזק הימנעות [D-32]. **CBT חייב להתמקד בהפחתה** תוך הבחנה בין חרדה הורית לתגובה ל-OCD של הילד [D-33].",
+      "note_id": "1776891385875"
+    },
+    {
+      "id": "1776891385876",
+      "front_md": "מה המהלך והפרוגנוזה של OCD פדיאטרי?",
+      "back_md": "**Gradual onset · wax and wane** לאורך שנים [D-34]. **Meta-analysis persistence (1-15.6y follow-up):** full 41% · clinical+subthreshold **60%** [D-35]. **NordLOTS עם CBT פרוטוקולי:** **90% responders · 73% remission at 3y** [D-36]. **Adverse predictors:** very early onset · comorbidity (esp. externalizing) · poor initial response · long duration · first-degree FH [D-37]. פגיעה ארוכת-טווח ב-QoL + isolation/unemployment בבגרות [D-38].",
+      "note_id": "1776891385876"
+    },
+    {
+      "id": "1776891385877",
+      "front_md": "מה ה-DDx המרכזי של OCD בילדים?",
+      "back_md": "**Normal rituals:** אין impairment · אין distress קשה בקטיעה [D-39]. **ASD:** ego-syntonic (ילד נהנה); ב-OCD ego-dystonic. **רק 5-7% של OCD עומדים ב-ASD** [D-40]. **Psychosis:** poor insight מחקה delusions — ב-OCD insight **דינמי** עם חרדה; בפסיכוזה — תסמינים +/- נוספים + תוכן אטיפי מוזר [D-41]. **טיקים + חרדה:** phenomenological distinction [NOT IN THIS SOURCE] [D-42].",
+      "note_id": "1776891385877"
+    },
+    {
+      "id": "1776891385878",
+      "front_md": "מתי לשקול PANDAS/PANS + Medical Mimickers?",
+      "back_md": "**PANDAS:** הוגדרה היסטורית עקב OCD/טיקים עם Sydenham's chorea [D-43]. **מנגנון:** תגובה חיסונית ל-GABHS → reactivity דלקתית ב-basal ganglia → acute fulminant OCD [D-44]. **Workup trigger:** פריצה אקוטית טרום-התבגרות / relapse דרמטי — בדיקות: soft neuro signs + **ASO + anti-DNase B**; ≥0.2 log עלייה / ≥2× ULN מחשיד [D-45]. **PANS** = מושג רחב יותר; לא תלוי פתוגן ספציפי; פריצה דרמטית של OCD או ARFID [D-46]. **Autoimmune encephalitis** (anti-NMDA-R) — חייב שלילה; biomarkers אחידים עדיין לא מבוססים [D-47, D-48].",
+      "note_id": "1776891385878"
+    },
+    {
+      "id": "1776891385879",
+      "front_md": "מה המלצות AACAP לגבי הערכה?",
+      "back_md": "**Semi-structured**: **CY-BOCS** לדירוג חומרה + תיעוד [A-3]. **ראיון separate + joint** (ילד + הורים) [A-2]. **חובה לשלול comorbidity:** דיכאון · חרדה · ADHD · ASD [A-4-A-7]. **שאילת טיקים** — OCD עם טיקים = subtype שעשוי לדרוש תגובה טיפולית שונה [A-8-A-9]. **פריצה אקוטית / החרפה פתאומית:** throat culture + ASO + anti-DNase B → PANDAS workup [A-10-A-11].",
+      "note_id": "1776891385879"
+    },
+    {
+      "id": "1776891385880",
+      "front_md": "מה הגישה המדורגת של AACAP לטיפול קו-ראשון?",
+      "back_md": "**Mild-moderate + ללא קומורבידיות משמעותית:** **CBT = first-line** (עמיד לאורך זמן, ללא side effects) [A-12]. **SRI כ-first-line רק** כשילד לא בשל ל-CBT / משפחה לא יכולה לתמוך [A-12]. **קומורבידיות משמעותית** (דיכאון/חרדה קשה/disruptive): הוספת SRI מלכתחילה [A-13]. **Clinical consensus:** **Combined CBT+SRI** מפחית relapse בהפסקת תרופה [A-14].",
+      "note_id": "1776891385880"
+    },
+    {
+      "id": "1776891385881",
+      "front_md": "מה ה-SSRIs המאושרים פדיאטרית + trial duration?",
+      "back_md": "**FDA-approved:** **Clomipramine ≥10y** · **Fluvoxamine ≥8y** · **Sertraline ≥6y** [A-15]. **Clomipramine target: עד 3 mg/kg/day** (cap 5 mg/kg או 250 mg/day — cardiotoxicity) [A-16]. **Fluoxetine** (off-label peds): התחלה 2.5-5 mg → ~1 mg/kg [A-17-A-18]. **Trial duration: 10-12 שבועות** במינון מקסימלי נסבל לפני declaration of non-response [A-19] — רבים לא מגיבים ב-6-10 שבועות. **Response → המשך 12-18 חודשים** לפני taper [A-20].",
+      "note_id": "1776891385881"
+    },
+    {
+      "id": "1776891385882",
+      "front_md": "מה פרוטוקול CBT/ERP לפי AACAP + NICE?",
+      "back_md": "**AACAP: 13-20 מפגשים** פרטניים/משפחתיים [A-21]. **3 שלבים:** איסוף מידע → ERP הדרגתי → homework [A-22]. \"ארגז כלים\" קוגניטיבי (הרפיה/נשימה) [A-23]. **Family accommodation מרכזי** — לא חד-צדדי, בשיתוף פעולה עם הילד [A-24]. **NICE:** low-intensity ≤10 hrs · high-intensity >10 hrs [NICE 1.5.1.1-1.5.1.2]. **Age adaptations:** developmental age · family engagement \"especially in ERP\" · rewards · school collaboration [NICE 1.5.1.9, 1.5.2.12-13].",
+      "note_id": "1776891385882"
+    },
+    {
+      "id": "1776891385883",
+      "front_md": "מתי לטפל ב-OCD עמיד לטיפול (Treatment-refractory)?",
+      "back_md": "**CBT alone failure:** הגברת אינטנסיביות (ERP יומיומי/מחוץ לקליניקה) או הוספת SRI [A-21]. **Severe עם compulsions מסוכנות (אלימות/פגיעה עצמית):** hospitalization / day hospitalization [A-21]. **SSRI #1 failure:** **Switch** אחרי 10-12 שבועות — כישלון בתרופה אחת ≠ כישלון בכולן [A-25-A-26]. **2-3 SSRIs failure:** **Augmentation** — Clonazepam או low-dose Neuroleptic (Haloperidol/Risperidone). **Neuroleptic יעיל במיוחד ב-Tic-related OCD** [A-20, A-27]. **NICE:** children 8-11 עם partial CBT response → SSRI \"may be considered\" [NICE 1.5.5.2]; adolescents 12-18 עם CBT failure → SSRI \"should be offered\" [NICE 1.5.5.3]; inpatient ל-risk to life / severe neglect / refractory [NICE 1.6.1.2, 1.6.1.5].",
+      "note_id": "1776891385883"
+    }
+  ]
+}

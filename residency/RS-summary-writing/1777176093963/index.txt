@@ -1,0 +1,56 @@
+1:"$Sreact.fragment"
+2:I[6957,[],""]
+3:I[7369,[],""]
+5:I[1968,[],"OutletBoundary"]
+7:I[3705,[],"AsyncMetadataOutlet"]
+9:I[1968,[],"ViewportBoundary"]
+b:I[1968,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[6287,[],""]
+:HL["/_next/static/media/d2e3c073bbb3955e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ec516af01d950ed6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/9042bdbc9e0ec5a8.css","style"]
+0:{"P":null,"b":"6GTlYCq7H5zczOzVAwLTy","p":"","c":["","residency","RS-summary-writing","1777176093963",""],"i":false,"f":[[["",{"children":["residency",{"children":[["deck","RS-summary-writing","d"],{"children":[["card","1777176093963","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9042bdbc9e0ec5a8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"he","dir":"rtl","className":"__variable_152d43","children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function() {\n  try {\n    var t = localStorage.getItem('theme');\n    if (!t) t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';\n    document.documentElement.setAttribute('data-theme', t);\n  } catch(e) {}\n})();"}}]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["residency",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["deck","RS-summary-writing","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["card","1777176093963","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#1e3a8a"}]]
+6:null
+f:I[2121,[],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"לימוד — דולקן + פסיכותרפיה + בריף AI"}],["$","meta","1",{"name":"description","content":"אפליקציית לימוד יומית עם FSRS"}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"property":"og:title","content":"לימוד"}],["$","meta","4",{"property":"og:description","content":"אפליקציית לימוד יומית — דולקן, פסיכותרפיה, בריף AI"}],["$","meta","5",{"property":"og:locale","content":"he_IL"}],["$","meta","6",{"property":"og:image","content":"http://localhost:3000/og-image.png"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"לימוד"}],["$","meta","10",{"name":"twitter:description","content":"אפליקציית לימוד יומית — דולקן, פסיכותרפיה, בריף AI"}],["$","meta","11",{"name":"twitter:image","content":"http://localhost:3000/og-image.png"}],["$","link","12",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","13",{"rel":"icon","href":"/icon-512.png","sizes":"512x512","type":"image/png"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}],["$","$Lf","15",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"
+10:I[4155,["400","static/chunks/400-a017da0691df664d.js","979","static/chunks/979-82900d818bb139e5.js","820","static/chunks/app/residency/%5Bdeck%5D/%5Bcard%5D/page-56a680fa2cc6ccb6.js"],"AppShell"]
+11:I[4400,["400","static/chunks/400-a017da0691df664d.js","979","static/chunks/979-82900d818bb139e5.js","820","static/chunks/app/residency/%5Bdeck%5D/%5Bcard%5D/page-56a680fa2cc6ccb6.js"],""]
+12:I[30,["400","static/chunks/400-a017da0691df664d.js","979","static/chunks/979-82900d818bb139e5.js","820","static/chunks/app/residency/%5Bdeck%5D/%5Bcard%5D/page-56a680fa2cc6ccb6.js"],"SwipeNav"]
+13:I[7112,["400","static/chunks/400-a017da0691df664d.js","979","static/chunks/979-82900d818bb139e5.js","820","static/chunks/app/residency/%5Bdeck%5D/%5Bcard%5D/page-56a680fa2cc6ccb6.js"],"FlipCard"]
+14:T134c,CFI = Cultural Formulation Interview של DSM-5.
+מבנה: **16 שאלות ליבה + 12 מודולים** משלימים (לפי אוכלוסייה ואזור־עניין).
+
+ארבעת הצירים העיקריים של ה-CFI:
+1. הגדרת הבעיה התרבותית.
+2. תפיסות של סיבה, הקשר ותמיכה.
+3. גורמי השפעה תרבותיים על coping ועל פנייה לעזרה.
+4. גורמי השפעה תרבותיים על מערכת היחסים הטיפולית.
+
+בישראל ה-CFI אינו "תוספת" אלא חובה מעשית: רב־תרבותיות (ערבי-יהודי, חילוני-דתי, ותיק-עולה, אתיופי-רוסי) משפיעה ישירות על הצגה, אבחנה ועמדה כלפי טיפול.
+
+**דוגמאות verbatim (עברית) — מטופל חרדי / דתי:**
+- *"מתבגר בן 16 בן למשפחה חרדית מזרם החסידי, תלמיד ישיבה קטנה ב__ , בכור לתשעה אחים."* (לא "מהמגזר", לא "אוכלוסייה סגורה" — שם הזרם משמעותי)
+- *"במסגרת ההערכה נלקחה בחשבון העובדה שהפנייה לפסיכיאטר נעשתה לאחר התייעצות עם רב המשפחה, וכי כל החלטה טיפולית — ובמיוחד נטילת תרופות פסיכואקטיביות — דורשת בירור הלכתי משלים."*
+- *"הוסברה למטופל ולהוריו חשיבותו של הסודיות הרפואית, וכן זכותם לבחור את היקף השיתוף עם דמויות מערכתיות (רב, ראש ישיבה, מורה דרך)."*
+- *"ההפניה תהיה למטפלת בת מינו של המטופל ככל הניתן, בהתאם לבקשת המשפחה ולנורמות התרבותיות."*
+
+**דוגמאות verbatim (עברית) — מטופל ערבי / דובר ערבית:**
+- *"הראיון התקיים בשפה הערבית, השפה הראשונה של המטופל. במידה ואין דובר ערבית בצוות — נעשה שימוש במתורגמן מקצועי, ולא בבן משפחה, על מנת לאפשר חופש הבעה ולהימנע מקונפליקטים תוך־משפחתיים בשיח על נושאים רגישים."*
+- *"מטופל בן __ , בן לקהילה הערבית הנוצרית/המוסלמית/הדרוזית, תושב __ . מבנה משפחתי מורחב הכולל אינטראקציה יום־יומית עם החמולה."*
+- *"בנוסף למשפחה הגרעינית, ההחלטות הקשורות לטיפול נפשי מערבות את ראש החמולה (ה'מח'תאר' / 'ראס אל־עיילה'), ויש לשלבו בנקודות מפנה משמעותיות, בהסכמת המטופל."*
+- *"הוסבר למטופל ולמשפחתו שאבחנה פסיכיאטרית אינה נחלתם הבלעדית של 'מג'נון' (משוגע); הניסוחים מותאמים לאוצר המילים הקליני בערבית מודרנית."*
+
+**דוגמאות verbatim (עברית) — יוצאי אתיופיה ויוצאי ברה"מ:**
+- אתיופיה: *"מטופל בן __ , יוצא קהילת ביתא ישראל, עלה לארץ ב-__ במסגרת מבצע __ . במסגרת ההערכה לקחנו בחשבון מודלים מסורתיים של מצוקה נפשית, כולל מושג ה'ז'אר' (אחיזה רוחנית) ותפקיד ה'קייס' (מנהיג רוחני)."*
+- אתיופיה — שפה: *"בשיחה עם הסבתא נדרש מתורגמן לאמהרית/תיגרינית. ההורים — דור 1.5 — דוברי עברית רהוטה, אך במצוקה נוטים לחזור לשפת המקור."*
+- ברה"מ — סטיגמה: *"בתרבות המקור — סטיגמה משמעותית כלפי פסיכיאטריה כתוצאה מהיסטוריה של 'פסיכיאטריה מענישה' בברה"מ; פניה למטפל לעיתים מתפרשת כסימן חולשה אישית."*
+- ברה"מ — סומטיזציה: *"יש להיזהר מאבחון יתר — פציינטים רוסים נוטים להציג את הסבל בשפה גופנית (סומטיזציה: 'דיכאון בלב', 'עצבים'), ולא תמיד במונחים פסיכיאטריים מודרניים."*
+
+הכלל: הימנעו ממונחי "פתיחות" / "סגירות" — שופטים. הקשבה למודל ההסבר של המטופל (Kleinman's explanatory model) — לא התעקשות על מודל DSM קשיח. הימנעו מסטריאוטיפים: לא להניח דכאון "בשל המסגרת הסגורה", לא להניח OCD בגלל "טקסי דת". האוכלוסייה הערבית בישראל הטרוגנית; אין להניח אוטומטית PTSD על בסיס הגירה.
+
+*Lewis-Fernández et al., DSM-5 Handbook on the CFI, APA 2016; Kleinman, Patients & Healers 1980; ספיר־אסיא; אגוד הפסיכיאטריה בישראל*4:["$","$L10",null,{"children":[["$","div",null,{"className":"flex items-center justify-between mb-3 text-sm","children":[["$","$L11",null,{"href":"/?tab=residency","className":"opacity-70","children":"← בלוקים"}],["$","span",null,{"className":"opacity-60","children":[42," / ",42]}]]}],["$","$L12",null,{"prevHref":"/residency/RS-summary-writing/1777176093962","nextHref":null,"children":["$","$L13",null,{"front":"מהו ה-**CFI**? כמה שאלות וכמה מודולים?","back":"$14"}]}],"$L15","$L16"]}]
+15:["$","div",null,{"className":"grid grid-cols-2 gap-3 mt-4","children":[["$","$L11",null,{"href":"/residency/RS-summary-writing/1777176093962","className":"py-3 rounded-xl border border-[var(--color-border)] text-center active:opacity-70","children":"→ הקודם"}],["$","span",null,{}]]}]
+16:["$","p",null,{"className":"text-xs opacity-50 text-center mt-3","children":"↔️ החלק כדי לעבור בין קלפים"}]

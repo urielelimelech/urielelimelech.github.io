@@ -1,0 +1,175 @@
+{
+  "id": "B010-biopsychosocial-formulation",
+  "label": "B010 · פורמולציה ביו-פסיכו-סוציאלית · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1777001881456",
+      "front_md": "[Moving-target] Dulcan verbatim על ההבדל בין formulation של ילד למבוגר?",
+      "back_md": "> \"Unlike adults, who may have an established baseline of functioning, intellect, and emotional well-being from which they may have deviated with the onset of a mental illness, children are a 'moving target.'\" [D-1]",
+      "note_id": "1777001881456"
+    },
+    {
+      "id": "1777001881464",
+      "front_md": "[Uneven-dev] מה verbatim על \"uneven developmental status\"?",
+      "back_md": "> \"Developmental status may be uneven, with a child being more mature or advanced in some domains than others\" [D-2] — ילד אינטלקטואלית מתקדם אך רגשית בשל.",
+      "note_id": "1777001881464"
+    },
+    {
+      "id": "1777001881465",
+      "front_md": "[Perspectives] 4 \"perspectives of psychiatry\" של Dulcan?",
+      "back_md": "**Disease · Dimension · Behavior · Life story** [D-3]. המטרה: \"avoids single-model etiologies\" [D-3].",
+      "note_id": "1777001881465"
+    },
+    {
+      "id": "1777001881469",
+      "front_md": "[Bilingual] Gabbard verbatim על \"bilingual\" פסיכיאטר?",
+      "back_md": "> \"The domain of mind and the domain of brain have different languages. The modern dynamic psychiatrist must strive to be bilingual—the language of brain and language of mind must both be mastered in the service of knowing the person and providing optimal patient care\" [G-1].",
+      "note_id": "1777001881469"
+    },
+    {
+      "id": "1777001881471",
+      "front_md": "[Bio-content] מה 6 הרכיבים של ה-Biological quadrant ב-Dulcan?",
+      "back_md": "היסטוריה רפואית/פסיכיאטרית משפחתית + היסטוריה התפתחותית + היסטוריה רפואית/פסיכיאטרית של המטופל + תפקוד קוגניטיבי + LD קו-מורבידיים + **inborn temperament** [D-4].",
+      "note_id": "1777001881471"
+    },
+    {
+      "id": "1777001881473",
+      "front_md": "[Prenatal] מה 4 הנקודות שחייבים להעלות ב-prenatal history?",
+      "back_md": "חשיפות למחלות + תרופות מרשם + סמים + לחץ; גורמי דחק gestational [D-4].",
+      "note_id": "1777001881473"
+    },
+    {
+      "id": "1777001881476",
+      "front_md": "[Bio-magnet] Gabbard — איך ביולוגיה פועלת כ\"מגנט\"?",
+      "back_md": "כוחות ביולוגיים (נוירוטרנסמיטרים) = מגנט שאליו קונפליקטים דינמיים קיימים נצמדים → **הסימפטום הביולוגי מנוצל כרכב לביטוי קונפליקט לא-מודע** [G-3].",
+      "note_id": "1777001881476"
+    },
+    {
+      "id": "1777001881478",
+      "front_md": "[Psycho-4] Gabbard — 4 הרכיבים של הציר הפסיכולוגי?",
+      "back_md": "**Ego** (חוזקים, הגנות, superego) + **Object relations** (יחסי משפחה, transference-countertransference, אובייקטים פנימיים) + **Self** (cohesiveness, continuity, גבולות) + **Attachment + mentalization** [G-5].",
+      "note_id": "1777001881478"
+    },
+    {
+      "id": "1777001881481",
+      "front_md": "[Psycho-focus] verbatim — כיצד Gabbard רוצה שהציר הפסיכולוגי יהיה ממוקד?",
+      "back_md": "> \"The psychological axis should not attempt to explain everything about the patient. Instead, it should succinctly highlight the major intrapsychic issues, particularly how they interact with biological and social factors, and emphasize their direct relevance to treatment planning\" [G-6].",
+      "note_id": "1777001881481"
+    },
+    {
+      "id": "1777001881484",
+      "front_md": "[Social-items] 7 הפריטים של ה-Social quadrant ב-Dulcan?",
+      "back_md": "Family dynamics + caregivers יציבים + food availability consistency + גורמים כלכליים + יחסי peer + גזע/תרבות/דת + הקשר שכונתי [D-6].",
+      "note_id": "1777001881484"
+    },
+    {
+      "id": "1777001881487",
+      "front_md": "[Culture-shock] Gabbard על \"culture shock\" אצל עולים?",
+      "back_md": "מערער זהות + self-esteem + מתניע תהליך אבל. חייב להיכלל בהערכה התרבותית [G-7].",
+      "note_id": "1777001881487"
+    },
+    {
+      "id": "1777001881490",
+      "front_md": "[Symptom-as-carrier] Gabbard — איך המתבגר עשוי לשמש \"carrier\"?",
+      "back_md": "הסימפטום של המתבגר עשוי לשקף **קונפליקטים מערכת-משפחתיים רחבים** (בעיות נישואין של ההורים) — object relations פנימיים מוחצנים ביחסים הנוכחיים [G-8].",
+      "note_id": "1777001881490"
+    },
+    {
+      "id": "1777001881492",
+      "front_md": "[Developmental-dims] 4 דימנסיות של מעקב התפתחותי ב-Dulcan?",
+      "back_md": "**Cognitive · Physical · Social · Emotional** [D-7]. השאלה: \"on track?\"",
+      "note_id": "1777001881492"
+    },
+    {
+      "id": "1777001881494",
+      "front_md": "[Arrested-vs-regressed] Gabbard — 2 דפוסים התפתחותיים דינמיים?",
+      "back_md": "**Arrested** (developmentally frozen בשלב ספציפי) או **Regressed** תחת לחץ לשלבים פרימיטיביים — oral/anal/phallic-oedipal/separation-individuation [G-9].",
+      "note_id": "1777001881494"
+    },
+    {
+      "id": "1777001881497",
+      "front_md": "[4-P] מה 4 ה-P's של הפורמולציה?",
+      "back_md": "**Predisposing** (מה היה לפני — גנים, טמפרמנט) + **Precipitating** (מה גרם עכשיו — מעבר, פטירה) + **Perpetuating** (מה שומר זאת — מחלוקת מתמשכת) + **Protective** (מה עוזר — חוזקים, resilience) [D-8] [D-9].",
+      "note_id": "1777001881497"
+    },
+    {
+      "id": "1777001881500",
+      "front_md": "[Grid] cross-tab 4P × 4-quadrant?",
+      "back_md": "**[NOT IN DULCAN]** כגריד פורמלי — הם ממליצים לשלב אבל לא מספקים מטריצה מפורשת. עקרונית **מטריצת 4×4 = 16 תאים**.",
+      "note_id": "1777001881500"
+    },
+    {
+      "id": "1777001881502",
+      "front_md": "[Sperry-3] Gabbard — 3 הרכיבים של Sperry's formulation structure?",
+      "back_md": "(1) 1-2 משפטים על תמונה קלינית + סטרסור; (2) סט השערות על איך biological + intrapsychic + sociocultural תורמים; (3) משפט קצר על איך 1+2 מנחים טיפול + פרוגנוזה [G-10].",
+      "note_id": "1777001881502"
+    },
+    {
+      "id": "1777001881504",
+      "front_md": "[Fluid-formulation] verbatim — הפורמולציה כ\"fluid\"?",
+      "back_md": "> \"The formulation should also be approached with the understanding that it undergoes continual modification as treatment proceeds. In dynamic psychiatry, diagnosis and treatment are always evolving together.\" [G-11].",
+      "note_id": "1777001881504"
+    },
+    {
+      "id": "1777001881507",
+      "front_md": "[Age-0-3] בפורמולציה של תינוק/toddler (0-3)?",
+      "back_md": "5 צירי **DC:0-5** (Clinical disorders / Relational context / Physical health context / Psychosocial stressors / Developmental competence). העקרון: **מערכת הקשר ההורית = הקובעת החזקה ביותר** [D-11].",
+      "note_id": "1777001881507"
+    },
+    {
+      "id": "1777001881509",
+      "front_md": "[Age-3-5] בפורמולציה של preschool (3-5)?",
+      "back_md": "**Multi-session observations** (dyadic play + semi-structured tasks), לא ראיון-יחיד. מצגת כ-**mismatch** בין התנהגויות הורים לצרכי הילד [D-12].",
+      "note_id": "1777001881509"
+    },
+    {
+      "id": "1777001881511",
+      "front_md": "[Age-6-11] בפורמולציה של school-age (6-11)?",
+      "back_md": "סינתזה **ישירה ונייטרלית**, **פתיחה בחוזקים**, הצגת גורמים מרובים → הצדקת התערבויות נחוצות [D-13].",
+      "note_id": "1777001881511"
+    },
+    {
+      "id": "1777001881513",
+      "front_md": "[Age-12-18] בפורמולציה של מתבגר (12-18)?",
+      "back_md": "**השפעות הדדיות** מתבגר-משפחה + מבנה מפורש של Predisposing/Precipitating/Perpetuating (+ biological/psychological/social/cultural/spiritual) + \"**sandwiched**\" בין חוזקים לעורר תקווה [D-14].",
+      "note_id": "1777001881513"
+    },
+    {
+      "id": "1777001881516",
+      "front_md": "[Premature-dx] verbatim — הטעות המובילה של המתמחה?",
+      "back_md": "> \"One of the most common mistakes that inexperienced interviewers make is to prematurely home in on a diagnosis.\" [D-15].",
+      "note_id": "1777001881516"
+    },
+    {
+      "id": "1777001881519",
+      "front_md": "[Rescue-fantasy] verbatim — מה הטעות הטעונה-רגשית של Dulcan?",
+      "back_md": "> \"Clinicians may have their own fantasies of rescuing a child from 'terrible' parents.\" [D-17].",
+      "note_id": "1777001881519"
+    },
+    {
+      "id": "1777001881521",
+      "front_md": "[Causation-meaning] Gabbard verbatim — \"mindless psychiatry\"?",
+      "back_md": "> \"In psychodynamic psychiatry, we must differentiate causation from meaning. Psychiatry that loses the domain of meaning is mindless.\" [G-14].",
+      "note_id": "1777001881521"
+    },
+    {
+      "id": "1777001881524",
+      "front_md": "[Caspi-GxE] מה הממצא המרכזי של Caspi 2003?",
+      "back_md": "לחץ חיים מוביל לדיכאון **רק** אצל נשאים של 5-HTT short-allele — ביסוס **Gene × Environment interaction** [P-1].",
+      "note_id": "1777001881524"
+    },
+    {
+      "id": "1777001881528",
+      "front_md": "[Moffitt-taxonomy] 2 המסלולים של Moffitt 1993?",
+      "back_md": "**Life-course-persistent** (נוירו-התפתחותי, מוקדם, יציב) vs **Adolescence-limited** (מושפע-עמיתים, זמני) [P-2].",
+      "note_id": "1777001881528"
+    },
+    {
+      "id": "1777001881531",
+      "front_md": "[Sonuga-Barke] מה הרעיון המרכזי של Sonuga-Barke 2005?",
+      "back_md": "**Multiple developmental pathways** — דפיציט ביולוגי ראשוני **טרנזאקט** עם הסביבה לאורך זמן (אימפולסיביות → הורות עונשית → delay aversion) [P-3].",
+      "note_id": "1777001881531"
+    }
+  ]
+}

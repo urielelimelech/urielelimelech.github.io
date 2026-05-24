@@ -1,0 +1,589 @@
+{
+  "id": "Ch03",
+  "label": "פרק 3 — הערכת ילדים בגיל הגן",
+  "source": "dulcan",
+  "cards": [
+    {
+      "id": "C01-dyadic-principle",
+      "front_md": "**עקרון הדיאדה — הילד הגילאי-רך אינו נפרד מהמטפל**",
+      "back_md": "הילד בגיל הגן (2–6) אינו יחידה פסיכולוגית אוטונומית — הוא תלוי במטפל (caregiver) העיקרי לצורך תפקוד אדפטיבי ורגשי, גם כשכבר מתרחשים מעברים התפתחותיים חשובים בקשר. לכן יחידת התצפית והאבחון היא **הדיאדה caregiver–child**, לא הילד לבדו. ה-mental status examination צריך להיערך כשהילד והמטפל נוכחים יחד בחדר ולא בראיון אינדיבידואלי של הילד. ראיון-משחק אישי עם הילד לבדו (individual play interview) הוא חריג — שמור למקרים שבהם אין caregiver זמין. התצפית על אינטראקציה דיאדית היא השיטה המתאימה, לא פגישה פרטית.\n\n*Dulcan 3e, Ch 3 · \"Introduction\"*",
+      "note_id": "1777008861882"
+    },
+    {
+      "id": "C02-play-context-principle",
+      "front_md": "**עקרון הקשר-המשחק — ה-MSE חייב להתבצע במשחק**",
+      "back_md": "ה-mental status examination של ילד גן חייב להתבצע **בקונטקסט של משחק** — לא בראיון מילולי. שני תנאים נדרשים: (1) זמינות צעצועים מותאמי-גיל שמאפשרים representational play; (2) נכונות וכישורים של הבוחן להיכנס למשחק. הבוחן **לא לובש חלוק לבן**, לא נושא chart או כלי בדיקה, ויודע לאמץ עמדה משחקית — לרוב לשבת על הרצפה, לעקוב אחרי המשחק של הילד (follow, not lead), ולאמץ דמות מדמיינת ושובבה. קלינאים שאינם מסוגלים או מעוניינים להיכנס למשחק מורכב — לא מתאימים לעבודה עם הגיל הזה. זה אינו סגנון אישי, אלא תנאי-סף מקצועי.\n\n*Dulcan 3e, Ch 3 · \"Introduction\"*",
+      "note_id": "1777008861886"
+    },
+    {
+      "id": "C03-multisession-multicaregiver-principle",
+      "front_md": "**עקרון רב-המפגשים ורב-המטפלים**",
+      "back_md": "ה-mental status של הילד הצעיר משתנה משמעותית לפי **state ולפי relationship**, ולכן יש לצפות בו ביותר ממפגש אחד, ובאופן אידיאלי עם יותר ממטפל אחד. לפיכך — ההערכה נערכת על פני סדרת מפגשים בימים שונים, לעיתים על פני שבועות. אומנם זה מסורבל לתיאום, אך **שינויים בהתנהגות הילד שמתרחשים בתוך מערכות יחסים שונות ועל פני זמן** הם בעלי ערך אבחוני שאי אפשר לשחזר במפגש בודד. הראייה החד-פעמית של ילד צעיר — בעיקר אם נצפה רק עם מטפל אחד — מטעה אבחנתית. הקלינאי צריך לעמוד על כך גם כשמשפחה או חברת ביטוח לוחצים לקיצור.\n\n*Dulcan 3e, Ch 3 · \"Introduction\"*",
+      "note_id": "1777008861887"
+    },
+    {
+      "id": "C04-socioeconomic-pressures",
+      "front_md": "**לחצים סוציו-אקונומיים מול עמדה קלינית נחושה**",
+      "back_md": "חברות ביטוח ומשפחות נוטים להתנגד למספר המפגשים הדרוש להערכה מקיפה, ושיתוף-פעולה של מספר מטפלים הוא פחות נוח. אך הקלינאי **חייב לעמוד על דרישות ההערכה לאבחנה תקפה**. הערכה מקוצרת ולא מספיקה גורמת **יותר נזק מתועלת** — עלולה להוביל לאבחון לא מדויק, החמצת הזדמנות לזיהוי מוקדם, או להחמצת בעיות יחסיות (relational) שלא נראות במפגש בודד. הלחץ הכלכלי לא יכול לשמש הצדקה לטשטוש הסטנדרט הקליני; להיפך, זו דווקא נקודה שבה הקלינאי צריך לחנך את המשפחה ואת המערכת לגבי משך הערכה הולם.\n\n*Dulcan 3e, Ch 3 · \"Introduction\"*",
+      "note_id": "1777008861889"
+    },
+    {
+      "id": "C05-early-intervention-outcomes",
+      "front_md": "**תוצאות התערבות מוקדמת — Heckman & Campbell**",
+      "back_md": "הערכה והתערבות מותאמות בגיל הגן עשויות לקזז תוצאות שליליות חברתיות, משפחתיות ותעסוקתיות בהמשך החיים (Allmann et al. 2016; Vergunst et al. 2019). תוכניות early childhood intervention הוכחו ככאלה שמניבות תועלות לטווח-הארוך עד גיל הבגרות — **הפחתת פשיעה, הכנסות גבוהות יותר, יותר שנות לימוד, ובריאות משופרת** (Campbell et al. 2014; Heckman 2011). הפוטנציאל החזק של early intervention עשוי להניב תוצאות **cost-effective** הן ברמת היחיד והן ברמת החברה. נקודה זו משמשת הצדקה כלכלית-חברתית ל-investment במפגשי הערכה ארוכים יותר בגיל הגן.\n\n*Dulcan 3e, Ch 3 · \"Introduction\"*",
+      "note_id": "1777008861890"
+    },
+    {
+      "id": "C06-washington-4session-paradigm",
+      "front_md": "**Washington University 4-Session Assessment Paradigm (Table 3-1)**",
+      "back_md": "פורמט סטנדרטי שפותח ב-Infant/Preschool Mental Health Clinic של אוניברסיטת וושינגטון, בשימוש מעל שלושה עשורים. **4 מפגשים שבועיים בני 50 דקות**:\n(1) **Session 1** — היסטוריה רגשית, פסיכולוגית, משפחתית והתפתחותית מלאה מהמטפלים, **בלי הילד** (מידע נאסף יעיל יותר ללא הילד; אין סיכון לפגיעה ב-rapport כמו עם מתבגרים).\n(2) **Session 2** — תצפית **free-play** עם מטפל משני (secondary caregiver).\n(3) **Session 3** — תצפית **semistructured** עם מטפל ראשי: ארוחה משותפת, משימה קוגניטיבית מאתגרת מתונה, משחק דיאדי, ואז הפרדה ואיחוד (separation/reunion).\n(4) **Session 4** — סקירת תצפיות וממצאים, ניסוח ביו-פסיכו-סוציאלי, אבחנה מבדלת, ותוכנית טיפול עם המטפלים.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\", Table 3–1*",
+      "note_id": "1777008861892"
+    },
+    {
+      "id": "C07-history-core-components",
+      "front_md": "**רכיבי הליבה של ה-mental health history של ילד גן**",
+      "back_md": "ההיסטוריה של ילד גן כוללת את כל הרכיבים של היסטוריה פסיכיאטרית סטנדרטית — chief complaint, history of current illness, family and medical histories — ובנוסף, **היסטוריות סוציאלית והתפתחותית מפורטות**. ההיסטוריה ההתפתחותית כוללת השגת milestones בתחומים: **motor, language, cognitive, sensory, social, emotional**. צריך לתעד פרטים על דפוסי אכילה ושינה (relevant to adaptation), טקסי בדיתום, האם הילד ישן לבד או עם אחים/מטפלים, האם יודע לעשות self-soothe באמצע הלילה. הרגלי אכילה — צמצום בתפריט, חוסר יכולת לשבת לארוחה משפחתית, food refusal — עשויים להיות chief complaint או מתלווים לבעיות התנהגות אחרות.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861893"
+    },
+    {
+      "id": "C08-screen-time-inquiry",
+      "front_md": "**screen time — תחקור חובה (AAP, Skalicka 2019)**",
+      "back_md": "חיוני לשאול בפירוט על כל סוגי החשיפה האלקטרונית והמסכים — **גם הכמות וגם סוגי החשיפה**. ה-American Academy of Pediatrics פרסמה המלצות ספציפיות ל-screen time ולפיקוח עבור ילדים בני 2–5. **יותר screen time בגיל 4 חוזה רמות נמוכות יותר של emotional understanding בגיל 6** (Skalicka et al. 2019). שאלות שצריך לשאול: כמה שעות מסך, אילו תוכנות/אפליקציות, האם הצפייה לבד או עם הורה (co-viewing), האם המסך משמש כ-pacifier להרגעה רגשית. screen time בכמות מופרזת אינו ממצא ניטרלי — הוא מנבא פגיעה בהתפתחות הבנת רגשות.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861894"
+    },
+    {
+      "id": "C09-perinatal-history-prematurity",
+      "front_md": "**היסטוריית הריון ולידה — פגות וסיכון פסיכיאטרי**",
+      "back_md": "פרטי הריון ולידה — רפואיים ופסיכולוגיים — חיוניים, ולעיתים קרובות רלוונטיים ל-chief complaint ול-current mental state. **לידה מוקדמת או אשפוזים ממושכים** עשויים להשפיע גם על ההתפתחות וגם על מערכות יחסים מוקדמות. ילדים שנולדו prematurely נמצאים בסיכון מוגבר להפרעות פסיכיאטריות — בעיקר חרדה ו-ADHD — בהשוואה ל-peers שנולדו ב-term. מחקר מציע ש-**maternal depression מתווך את סיכון החרדה אצל late-preterm children** (Rogers et al. 2013), כלומר ההשפעה של הפגות אינה ישירה אלא עוברת דרך הקשר עם אם דכאונית. לכן הערכה רגשית של האם בנפרד היא חלק מהבירור של ילד שנולד מוקדם.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861895"
+    },
+    {
+      "id": "C10-prenatal-exposures",
+      "front_md": "**חשיפות in utero — סמים, אלכוהול, ניקוטין, דיכאון אימהי**",
+      "back_md": "חשיפות in utero לסמים, אלכוהול וניקוטין הן בעלות חשיבות ברורה. **maternal smoking בהיריון** קשור לסיכון מוגבר ל-ADHD ו-ODD בני 4 (Ellis et al. 2012). תפקוד אימהי peri-natal ו-psychosocial stressors תורמים לאיכות ה-attachment של הדיאדה. **maternal depression בהיריון** חוזה הגברה של תסמינים פסיכיאטריים בילדים צעירים (Lahti et al. 2017). החשיפות הללו אינן רק אנמנזה רפואית — הן יוצרות הקשר אטיולוגי חיוני להבנת הסימפטומים הנוכחיים. שאלות סקר על שתייה, עישון, חשיפה לסמים ו-mood של האם במהלך ההיריון הן חלק חובה מההיסטוריה.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861896"
+    },
+    {
+      "id": "C11-caregiver-expectations",
+      "front_md": "**ציפיות המטפל ו-attributions לגבי הילד**",
+      "back_md": "ציפיות המטפלים מהילד תורמות **משמעותית** לתסמיני הילד ולתגובת המשפחה והתמודדותה. שאלות פתוחות צריכות לחקור: (1) **חוויות הילדות של המטפל עצמו**; (2) **הציפיות שלו מהילד**; (3) **הייחוסים (attributions) שלו לאטיולוגיה של הבעיות הנוכחיות**. אם הורה מאמין שהבעיה היא \"ילד עצלן\" או \"ילד רע\", זו עמדה שיוצרת ומחזקת את התסמינים. הבנת ה-internal working model של ההורה לגבי הילד היא מרכזית לתכנון התערבות. דוגמה: הורה שמאמין שתינוק בן שנה \"מעצבן בכוונה\" — תפיסה זו תוביל ל-discipline לא מותאם ולעלייה בקונפליקט. דיון בייחוסים לעיתים פותח ערוץ טיפולי בפני עצמו.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861897"
+    },
+    {
+      "id": "C12-trauma-maltreatment-inquiry",
+      "front_md": "**טראומה והתעללות אצל ילדי גן — שכיחות וחקירה**",
+      "back_md": "ההיסטוריה הפסיכיאטרית של הילד צריכה לכלול שאלות על **discipline ביתי, פרקטיקות הוריות מגבילות ועונשיות, וחשיפה אפשרית לאירועים טראומטיים** — בהינתן ש**כמעט מחצית מילדי הגן ממשפחות בעלות הכנסה נמוכה בארה\"ב נחשפו לאירועים טראומטיים פוטנציאליים** (Glackin et al. 2019), והתעללות (maltreatment) שכיחה (Kim & Drake 2019). אירועים פוטנציאליים טראומטיים ו-maltreatment עשויים להוביל לרצף השלכות רפואיות ופסיכיאטריות לטווח-הארוך. כשמידע נאסף מכל המטפלים הרלוונטיים — מקבלים הבנה פחות מוטה של תסמיני הילד, מתייחסים ל-discordant reporting בין מטפלים, ונמנעים ממצב שבו מטפל יחיד הופך להיות \"spokesperson\" של המשפחה.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861898"
+    },
+    {
+      "id": "C13-play-history-inquiry",
+      "front_md": "**חקירת היסטוריית משחק — מעבר לשאלות כלליות**",
+      "back_md": "מידע מפורט על משחק הילד חיוני להערכה: (1) **צעצועים מועדפים**; (2) **thematic play themes ספונטניים**; (3) **פעילויות משחק מועדפות**. מטפלים נוטים לתת תיאורים כלליים — **required probing**: לבקש שיתארו יום טיפוסי של משחק, מה הילד עושה. קריטי להבחין בין **symbolic/representational play לבין sensorimotor/mechanical play**. כשיש symbolic play — המורכבות מעידה על יכולות קוגניטיביות. חשוב יותר — **התוכן התמטי של המשחק הסמלי מאיר את ההעסקות הפנימיות של הילד**. כדאי לתעד: יכולת הילד ליהנות מהמשחק, הטווח האפקטיבי שלו במשחק, יכולתו ל-parallel או interactive play עם peers, אחים, ואחרים (טבלה 3-2).\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861900"
+    },
+    {
+      "id": "C14-sensorimotor-play",
+      "front_md": "**Sensorimotor play I & II (0–12 חודשים) — Table 3-2**",
+      "back_md": "**Sensorimotor play I (0–12 חודשים)** — הילד עוסק בפעולות שבהן הוא מקבל את ההנאה מ**להיות הסיבה לפעולה**. דוגמאות: mouthing, banging, dropping, throwing של צעצועים או חפצים אחרים. זה משחק של \"מה אני יכול לעשות לעולם\".\n\n**Sensorimotor play II (6–12 חודשים)** — הילד מפתח יכולת **לשלב דפוסי פעולה סנסומוטוריים שונים** למשחק שחוקר את מאפייני האובייקטים. דוגמאות: moving parts, poking, pulling. זה כבר חקירת מאפיינים של חפצים, לא רק יצירת אפקט. שני שלבים אלה הם הבסיס של תפיסת self-as-cause לפני המעבר לשימוש פונקציונלי בחפצים.\n\n*Dulcan 3e, Ch 3 · Table 3-2 (Casby 2003; Greenspan 2003; Thomas 1997)*",
+      "note_id": "1777008861901"
+    },
+    {
+      "id": "C15-functional-play",
+      "front_md": "**Functional play (12–18 חודשים) — Table 3-2**",
+      "back_md": "הילד **משתמש באובייקטים בצורה שמדגימה הבנה וחקירה של תפקודם או שימושם**. דוגמאות: דחיפת מכונית, נגיעה במסרק לשיער, הצמדת טלפון לאוזן, הנחת אוכל מדומה על צלחת. זה השלב שבו הילד \"יודע מה החפץ עושה\" ומחקה את השימוש האותנטי, אך עדיין לא מבצע pretend transformation אמיתי. הופעת functional play מצביעה על התפתחות תקינה של הבנת רגיל-שימוש בעולם, ועל ניצנים של שימוש סמלי. אם בגיל 18 חודשים אין functional play — זה דגל אדום שמצדיק חשיבה על עיכוב התפתחותי, ASD, או חשיפות סנסוריות מוגבלות.\n\n*Dulcan 3e, Ch 3 · Table 3-2*",
+      "note_id": "1777008861902"
+    },
+    {
+      "id": "C16-early-symbolic-play",
+      "front_md": "**Early symbolic play (18 חודשים ומעלה) — Table 3-2**",
+      "back_md": "הילד מתחיל **pretend play** במורכבות הולכת וגוברת — מעבר מ-sensorimotor patterns ל-mental operations / representations. דוגמאות: להעמיד פנים שאוכלים, ישנים, מבשלים; pretending עם אחרים; **\"להאכיל\" אם או בובה**; שימוש באובייקט אחד שמייצג אחר (בלוק שהופך למכונית). זה מסמן את ה-**onset של mental representation** — הילד מבחין בין הסימן (אובייקט) לסימן הסימן (מה שהוא מייצג). מעבר זה הוא קריטי קוגניטיבית והתפתחותית, ובמרפאה מהווה אינדיקטור חיובי על תפקוד תקין. היעדר pretend play בגיל 24-30 חודשים — דגל אדום ל-ASD או עיכוב משמעותי.\n\n*Dulcan 3e, Ch 3 · Table 3-2*",
+      "note_id": "1777008861903"
+    },
+    {
+      "id": "C17-complex-symbolic-play",
+      "front_md": "**Complex symbolic play (30 חודשים ומעלה) — Table 3-2**",
+      "back_md": "הילד מפתח **play themes** עם עומק דמיוני, עושר, ארגון ורצף לוגי גדולים יותר — מצרף פרטי סצנות שקודם הוצגו בנפרד. ככל שהמורכבות עולה — מתפתחת היכולת **לשנות מציאות במקום רק לשחזר אותה**, לחזות תוצאות, ולהתאים פעולות לקונטקסט המשחק. דוגמאות: שיחזור tea party, רחיצה והלבשה של בובה, סיפור נושאים מורכבים על דמויות בבית בובות וקשרים ביניהן לאורך זמן. זה משחק עם narrative, עם דמויות בעלות perspectives, ועם זרימה זמנית. נוכחות complex symbolic play בגיל 3-4 — אינדיקטור התפתחותי חזק; היעדרו מצדיק הערכה לעיכוב cognitive או social-cognitive.\n\n*Dulcan 3e, Ch 3 · Table 3-2*",
+      "note_id": "1777008861904"
+    },
+    {
+      "id": "C18-play-themes-content",
+      "front_md": "**Play themes and content — תמונה של החיים הפנימיים**",
+      "back_md": "תמונה ראשונית של היבטים מסוימים של החיים הפנימיים של הילד מתקבלת דרך: (1) **איך הילד משתמש בסביבת חדר המשחקים**; (2) **המידה שבה הוא יכול לסנתז ולשלב אלמנטים שונים בתוך אישיותו**; (3) **הטווח והעומק של הנושאים** במשחק. דוגמאות לדפוסים: ילד שלוקח הכל פנימה בהתחלה, נע בחדר ומפתח כמה נושאים, ואז שוזר אותם יחד; ילד שנכנס לפינה אחת ונשאר שם רוב המפגש; ילד שחוזר על נושא אחד למשך כל המפגש. כל דפוס נושא מידע על ה-internal world — perseveration לעומת flexibility, חרדה לעומת חקירה, dyadic engagement לעומת בידוד.\n\n*Dulcan 3e, Ch 3 · Table 3-2 (Play themes and content row)*",
+      "note_id": "1777008861905"
+    },
+    {
+      "id": "C19-translating-dsm5-criteria",
+      "front_md": "**תרגום קריטריוני DSM-5 לחיי הילד הצעיר**",
+      "back_md": "כשהמיקוד הוא נוכחות או היעדר תסמינים ספציפיים של הפרעות DSM-5, **קריטי לשאול את המטפלים שאלות מפורטות על הביטויים age-appropriate של מצבי תסמין**. הקלינאי חייב **\"לתרגם\" את קריטריוני התסמין של DSM-5 לחוויות חיים ויכולות התפתחותיות של הגיל הצעיר**. למשל, \"irritable mood\" אצל מתבגר מתבטא במילים — אצל ילד גן יכול להופיע כתסכולים, התקפי זעם ארוכים, או רגישות יתר לשינויים. \"loss of interest\" — אצל ילד גן יכול להופיע כירידה בעיסוק במשחק האהוב. הקריטריון לא משתנה — הביטוי משתנה. בלי תרגום זה, מאבחנים שגויים — או \"מפספסים\" תסמינים אמיתיים, או \"מאבחנים יתר\" התנהגויות נורמטיביות.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861906"
+    },
+    {
+      "id": "C20-papa-interview",
+      "front_md": "**Preschool Age Psychiatric Assessment (PAPA)**",
+      "back_md": "ה-PAPA (Egger et al. 1999, 2006) הוא **structured psychiatric interview** מקיף שתוכנן עבור הערכה מחקרית של ילדי גן. בעל **established reliability**, וכולל את תסמיני DSM-IV — וכן תסמינים שמופיעים בילדים צעירים אך **לא נכללים במערכת ה-DSM**. זה הופך אותו לכלי המקיף ביותר עבור הגיל הזה. השימוש העיקרי הוא במחקר, אך בקליניקה ההתמצאות במבנה שלו עוזרת לקלינאי לדעת אילו תחומים לכסות. PAPA הוא parent-report — לא מבוסס על דיווח עצמי של הילד. הציון מאפשר אבחנה והערכת חומרה.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861907"
+    },
+    {
+      "id": "C21-db-dos",
+      "front_md": "**Disruptive Behavior Diagnostic Observation Schedule (DB-DOS)**",
+      "back_md": "ה-DB-DOS (Wakschlag et al. 2008) הוא **שיטה תצפיתית** להערכת disruptive behavior אצל ילדי גן. בעל **established validity**, ומאפיין disruptive behaviors **לשני subtypes** — בניגוד לכלים מבוססי דיווח. ה-DB-DOS פועל על-ידי הצגת situations מובנים (structured tasks) שמעוררים התנהגויות שעשויות להיראות disruptive — מה שמאפשר לקלינאי להבחין בין reactivity נורמטיבית לבין pathology אמיתית. הכלי בנוי במיוחד לתחום זה — שאלון פשוט מהורה לא יבדל בצורה תקפה בין \"ילד רגיל קצת חזק\" ל-ODD מתפתחת. ה-DB-DOS מוסיף שכבת תצפית ישירה.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861908"
+    },
+    {
+      "id": "C22-ksads-anxdos-ycps",
+      "front_md": "**K-SADS-PL (preschool), Anx-DOS, YCPS — כלי הערכה נוספים**",
+      "back_md": "ה-**Schedule for Affective Disorders and Schizophrenia for School-Age Children, Present and Lifetime Version (K-SADS-PL)** זמין גם לילדי גן (Birmaher et al. 2009; Gaffrey & Luby 2012) — מה שמאפשר אבחנה הולמת של הפרעות מצב-רוח וסכיזופרניה גם בגיל הזה. ה-**Anxiety Dimensional Observation Scale (Anx-DOS)** מאת Mian et al. (2015) הוא כלי תצפיתי שתוכנן במיוחד למדידת חרדה אצל הגיל הצעיר — חשוב כי דיווח עצמי של ילד גן על תסמיני חרדה הוא מוגבל. ה-**Young Child PTSD Screen (YCPS)** של Scheeringa (2019) הוא דוגמה ל-screening tool חדש ומתפתח לזיהוי PTSD אצל ילדים צעירים. ארבעת הכלים — PAPA, DB-DOS, K-SADS-PL preschool, Anx-DOS — מהווים את הליבה של structured assessment בגיל הגן.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861909"
+    },
+    {
+      "id": "C23-collateral-multicontext",
+      "front_md": "**Collateral information ממספר contexts — חובה אבחנתית**",
+      "back_md": "הדפוס של מידע ממספר contexts — preschool, day care, home, בית של בן משפחה אחר — **חיוני**. התנהגויות specific-to-environment חשובות להבנת הבעיות הנוכחיות. דוגמה: ילד שמסתגל ל-preschool חדש עשוי להיות withdrawn ו-distressed לפי המורה אך happy ו-engaged בבית. **חלק מאבחנות DSM-5, כמו ADHD, דורשות פגיעה בלפחות שני settings** — אם ילד הופך hyperactive רק בבית של סבא וסבתא בנוכחות peers, זה לא בהכרח psychopathology קלינית. שימושי שמספר informants ימלאו measures התנהגות סטנדרטיים, **תוך שמירה על הבנה ש-disagreement צפוי** (Major et al. 2015) — בחלקו בגלל context- ו-relationship-specificity של תסמינים.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861910"
+    },
+    {
+      "id": "C24-preparing-child-play-doctor",
+      "front_md": "**הכנת הילד למפגש — \"play doctor\"**",
+      "back_md": "ההורים צריכים הדרכה כיצד להכין את הילד למפגש: (1) **בשפה ברורה, פשוטה, מובנת ולא שיפוטית**; (2) להיות **כנים ככל האפשר** לגבי טבע הקושי — זו לעיתים הפעם הראשונה שהמטפלים משוחחים בכנות עם הילד על הבעיה; (3) להבהיר ש**שניהם — הילד והמטפל — באים לקבל הדרכה** על הרגשות וההתנהגויות, כך שהילד לא ירגיש שהוא היחיד עם \"הבעיה\" — מקטין shame, anxiety, embarrassment; (4) להסביר שזה \"play doctor\" — **אין בדיקות רפואיות מפחידות או כואבות**; (5) **כדי להימנע מ-anticipatory anxiety**, וכי לילד צעיר יש sense of time מוגבל, להודיע על המפגש **רק יום קודם**; (6) לחשוף שהמטפל כבר נפגש עם המטפלים.\n\n*Dulcan 3e, Ch 3 · \"Preparing the Preschooler for the Play Evaluation\"*",
+      "note_id": "1777008861911"
+    },
+    {
+      "id": "C25-dyadic-free-play-setup",
+      "front_md": "**Dyadic free-play session — מטרה והכנה**",
+      "back_md": "המפגש הראשון של הילד בקליניקה **קובע את הבמה** להערכה כולה ולעמדות עתידיות לטיפול נפשי. לכן **קריטי לקיים free-play session לפני כל משימה מובנית** שכוללת stressors. הקלינאי: (1) מתקשר את מטרת המפגש; (2) חושף (כראוי) את מה שלמד מהמפגש הקודם עם המטפלים; (3) מעודד את הילד **לשחק עם הצעצועים איך שהוא מעדיף**. כי המפגש כולל גם את המטפל וגם את הקלינאי בחדר עם הילד, חיוני להנחות את המטפל **\"לשחק עם הילד כמו שאת/ה משחק/ת בבית\"**. יש להפנות מחדש ניסיונות של המטפל לשוחח עם הקלינאי — שיחות אלה מפרקות את האינטראקציה הדיאדית, **שהיא מטרת המפגש**.\n\n*Dulcan 3e, Ch 3 · \"Dyadic Play Assessment Part I\"*",
+      "note_id": "1777008861912"
+    },
+    {
+      "id": "C26-examiner-participant-observer",
+      "front_md": "**הקלינאי כ-participant-observer — לעקוב, לא להוביל**",
+      "back_md": "תפקיד הבוחן ב-dyadic free-play observation הוא **participant-observer במשחק**. זה דורש איזון עדין בין: (1) פעולה ספונטנית ומשחקית; (2) קבלת **direction ו-narration מהילד** שמעצבים את תפקידו במשחק. הבוחן **follows and does not lead** את המשחק של הילד. המטרה הראשונית היא **לצפות בילד במשחק עם המטפל** — לכן הקלינאי צריך להיזהר **לא להאפיל על המטפל**, גם כשהוא משתתף ומגיב לבקשות הילד למשחק. **חובה לשבת על הרצפה או ליד שולחן עם המטפל והילד, להיות קשוב לחלוטין לילד, ולהימנע מהערות או רישום**. רישום הערות כאן הורס את ה-rapport ושובר את עמדת ה-participant.\n\n*Dulcan 3e, Ch 3 · \"Dyadic Play Assessment Part I\"*",
+      "note_id": "1777008861913"
+    },
+    {
+      "id": "C27-secondary-vs-primary-caregiver",
+      "front_md": "**מטפל משני ב-free-play, מטפל ראשי ב-semistructured**",
+      "back_md": "ה-free-play session הוא **פחות תובעני** מהמפגש ה-semistructured ולכן ראוי להיערך **עם המטפל המשני** (secondary caregiver) כשאפשר — למשל אבא, סבתא. ה-semistructured observation שאחריו הוא **יותר מלחיץ ומקיף**, ולכן מתאים יותר ל-**מטפל הראשי** (primary caregiver) — בדרך-כלל האם. החלוקה הזו אינה שרירותית — היא מאפשרת: (1) לצפות בילד עם **שני מטפלים שונים**, מה שחושף הבדלים יחסיים שלא ייראו במפגש בודד; (2) להעמיס את ה-stress (semistructured) על הקשר הראשי, שבו ה-attachment מבוסס יותר ויכול לשאת את הלחץ; (3) לתת למטפל המשני הזדמנות להיות נצפה בלי הלחץ.\n\n*Dulcan 3e, Ch 3 · \"Dyadic Play Assessment Part I\"*",
+      "note_id": "1777008861914"
+    },
+    {
+      "id": "C28-brief-separation-midplay",
+      "front_md": "**brief separation באמצע ה-free-play**",
+      "back_md": "ייתכן ויהיה שימושי לבצע **הפרדה קצרה בין המטפל לילד באמצע מפגש ה-free-play**. זה מאפשר תצפית על: (1) **איך המטפל נפרד מהילד**; (2) **איך הילד מגיב להפרדה**; (3) **איך הם מתאחדים** (reunion). הבוחן **לא נותן הוראות מפורטות** למטפל איך להזהיר את הילד שהוא יוצא — אלא משאיר לו להחליט \"מה שאת/ה חושב/ת שהכי טוב\". במהלך ההפרדה הקצרה — לבוחן יש הזדמנות לעסוק בילד ב-individual play. **אם הילד מאוד resistant להפרדה או מבטא תגובה רגשית עזה — יש לוותר על הניסיון** (כי היבטים חשובים של הקשר הדיאדי כבר הוארו). זה תצפית מסוג Strange Situation אך פחות מובנית.\n\n*Dulcan 3e, Ch 3 · \"Dyadic Play Assessment Part I\"*",
+      "note_id": "1777008861916"
+    },
+    {
+      "id": "C29-semistructured-session",
+      "front_md": "**Part II — Semistructured play session (מטפל ראשי)**",
+      "back_md": "המפגש השני עם המטפל הראשי — **פורמט semistructured**, שבו הדיאדה נצפית מבצעת משימות ספציפיות. **שימושיות קלינית**: צפייה בדיאדה ב-(1) **שיתוף snack**; (2) **משימה קוגניטיבית מובנית מאתגרת מתונה תחת לחץ זמן**; (3) **separation ו-reunion קצרים**; (4) **free play**. בניגוד ל-Part I, **הגדרת החדר צריכה להיות מינימלית** — שולחן, שני כיסאות, **ללא צעצועים** — כדי להגביל הסחות הילד ולהעריך התנהגויות בסביבה פחות מגרה. הקלינאי מביא את הצעצועים והפעילויות לחדר **בתחילת כל משימה** כדי לעורר התנהגויות ואינטראקציות ספציפיות. זה מודל מובנה שמבחן יכולות regulation דווקא בהקשר חרדה ומתח.\n\n*Dulcan 3e, Ch 3 · \"Dyadic Play Assessment Part II\"*",
+      "note_id": "1777008861917"
+    },
+    {
+      "id": "C30-pcera",
+      "front_md": "**Parent-Child Early Relational Assessment (PCERA, Clark 1985)**",
+      "back_md": "ב-PCERA, הקלינאי צופה **דרך one-way mirror** בדיאדה מבצעת מספר משימות: (1) המטפל הראשי והילד **חולקים snack**; (2) הם מבצעים **משימה מובנית של בניית block designs** מקרטון דוגמה; (3) משחק חופשי; (4) **separation ו-reunion קצרים**. הראיון מספק פורמט **מעניין ומגוון**, שבו נצפים: (א) איכות הקשר caregiver-child; (ב) התנהגויות הילד כלפי המטפל. זה הסטנדרט הקליני ה\"קלאסי\" להערכה של דיאדה — מאפשר לקלינאי לראות איך הקשר מתנהג ב-context של אכילה (regulation בסיסית), משימה (frustration tolerance, סקאפולדינג), חופש (יוזמה הדדית), וההיפרדות (attachment system).\n\n*Dulcan 3e, Ch 3 · \"Dyadic Play Assessment Part II\"*",
+      "note_id": "1777008861918"
+    },
+    {
+      "id": "C31-crowell-procedure",
+      "front_md": "**Crowell procedure (Crowell & Fleischmann 1993)**",
+      "back_md": "ה-Crowell procedure הוא **ראיון דומה ל-PCERA**, אך **מוסיף blowing bubbles** למטרה ספציפית — **לעורר affect אצל הילד**. הוספת הבועות אינה גימיק; היא יוצרת רגע שבו הילד מתבקש להגיב רגשית באופן ספונטני, ומאפשרת לקלינאי לראות: (1) האם הילד מסוגל ליהנות; (2) האם המטפל מצטרף לרגע השמחה; (3) איכות ה-shared joy/positive affect. תוספת הבועות נותנת לפרוצדורה רגישות גבוהה לטווח ה-positive emotion של הדיאדה, שהוא מנבא חזק של רווחת הקשר. שאר רכיבי המשימות דומים ל-PCERA.\n\n*Dulcan 3e, Ch 3 · \"Dyadic Play Assessment Part II\"*",
+      "note_id": "1777008861919"
+    },
+    {
+      "id": "C32-teaching-task",
+      "front_md": "**Teaching Task (Egeland et al. 1995)**",
+      "back_md": "ה-**Teaching Task** הוא הערכה תצפיתית-דיאדית נוספת, שבה **משימות בקושי הולך וגובר** מבוצעות על-ידי הדיאדה — **בעוד אינטראקציות caregiver-child נצפות ומוקלטות בווידיאו לסקירה מאוחרת**. עליית הקושי באופן הדרגתי מאפשרת לראות: (1) איך המטפל מסכל ומכוון (scaffolding); (2) איך הילד מגיב לתסכול ולהדרכה; (3) באיזה שלב הקשר \"נשבר\" — אם בכלל. השם \"Teaching\" מדגיש את היבט ההוראה של המטפל. דרך המשימות העולות בקושי מתגלים: סבלנות המטפל, יכולתו להרגיע, איכות ה-emotional availability תחת stress, ו-frustration tolerance של הילד.\n\n*Dulcan 3e, Ch 3 · \"Dyadic Play Assessment Part II\"*",
+      "note_id": "1777008861920"
+    },
+    {
+      "id": "C33-video-review-clinical-value",
+      "front_md": "**Video review — ערך קליני, feedback, והוראה**",
+      "back_md": "רכיב יקר-ערך של הראיון ה-semistructured הוא **סקירה מאוחרת של וידיאו של האינטראקציה** — לעיתים מוביל את הקלינאי **לזהות אינטראקציות חשובות שלא נראו ב-live observation**. סקירת הווידיאו יכולה לשמש גם כחלק מ-**feedback session עם המטפלים** — להאיר את התנהגויות הילד ואת דפוסי האינטראקציה caregiver-child. **עדויות מצביעות שהצגת אינטראקציות וידיאו למטפלים יכולה לחזק עמדות הוריות של רגישות ו-discipline**. בנוסף, עם הסכמה כתובה מהאפוטרופוס החוקי, **הווידיאו יכול לשמש ככלי הוראה constructive**. הערך של הסקירה המאוחרת — לדמיין דברים שעיניים live פספסו (microexpressions, ניגנון ההפסקות, רגעים של רוגע אחרי קונפליקט).\n\n*Dulcan 3e, Ch 3 · \"Dyadic Play Assessment Part II\"*",
+      "note_id": "1777008861921"
+    },
+    {
+      "id": "C34-video-feedback-interventions",
+      "front_md": "**VIP, VIPP-SD, MAP — video-feedback interventions**",
+      "back_md": "פרוטוקולים בעלי **proven effectiveness** ל-video-feedback intervention:\n(1) **VIP — Video Interaction Project** (Mendelsohn et al. 2011) — מתמקד בקידום parent-child interaction ו-school readiness, פותח עבור משפחות at-risk.\n(2) **VIPP-SD — Video-feedback Intervention to promote Positive Parenting and Sensitive Discipline** (Van Zeijl et al. 2006) — RCT-tested, מתמקד ב-sensitive discipline אצל מטפלים של ילדים בני 1–3 בסיכון להתנהגויות externalizing.\n(3) **MAP — Modifying Attributions of Parents** (Bohr et al. 2008) — התערבות שמתמקדת ב-attributions של ההורים על הילד (זוכרים? \"ילד עצלן\" = attribution שלילית). שלושתן מתבססות על הצגת clip של אינטראקציה דיאדית להורה ועיבוד מודרך עם clinician.\n\n*Dulcan 3e, Ch 3 · \"Dyadic Play Assessment Part II\"*",
+      "note_id": "1777008861922"
+    },
+    {
+      "id": "C35-greenspan-feedback-5-approaches",
+      "front_md": "**5 גישות של Greenspan למפגש feedback**",
+      "back_md": "Greenspan (2003) מציע 5 דרכים למפגש feedback למטפלים:\n(1) **לתת למטפלים להתחיל** ולהציג את החששות שלהם — להעריך אם הם נשארו אותו דבר או השתנו;\n(2) **להתמקד ולהתייחס לכל caregiver resistance** — לא להתעלם, לא לעקוף;\n(3) **לשמש כ-collaborator** — לעזור למטפלים לשלב את התפיסות הקודמות שלהם על הילד עם זו שעלתה מההערכה;\n(4) **להפנות לתצפיות על הילד בקונטקסט התפתחותי** — להזכיר עוגנים של גיל, attachment disruptions — כדי להציג מידע באופן לא מאיים;\n(5) **להכיר ב-ambivalence** של המטפל — לא לדחוק אותה, לא להתעלם ממנה. הסבירות שהמטפלים יקבלו את האבחנה ויפעלו לפי ההמלצה — **גוברת ככל שהמפגש ניגש collaboratively**.\n\n*Dulcan 3e, Ch 3 · \"Providing Feedback and Recommendations\"*",
+      "note_id": "1777008861923"
+    },
+    {
+      "id": "C36-parenting-feedback-principles",
+      "front_md": "**5 עקרונות למסירת feedback על parenting**",
+      "back_md": "כשדיון caregiver-child interactions, על הקלינאי:\n(1) **למסגר אמירות באופן noncritical ו-nonjudgmental**;\n(2) **להזדהות עם המטפל** ולהציג את ה-feedback **בקונטקסט של mismatch** בין התנהגויות המטפל לצרכים ההתפתחותיים והרגשיים של הילד;\n(3) **לחקור איך סגנון ה-parenting הזה צמח** — negative attributions, חוסר ידע או כישורים, מודלים הוריים לא-בריאים;\n(4) **לזהות את ה-intended goals של המטפל** (להפחית התנהגויות שליליות), ולהראות איך **תגובת המטפל יכולה דווקא להגביר את ההתנהגות הלא-רצויה** במקום להפחיתה;\n(5) **לסיים בהצעת גישות חלופיות**, ולקשר את התוצאות ההתנהגותיות החדשות בחזרה ל-original intended goals של המטפל. כך המטפל חווה את המפגש כ-validating ו-collaborative.\n\n*Dulcan 3e, Ch 3 · \"Providing Feedback and Recommendations\"*",
+      "note_id": "1777008861924"
+    },
+    {
+      "id": "C37-clinical-threshold-terrible-twos",
+      "front_md": "**Clinical threshold — נורמטיבי vs פתולוגי (\"terrible twos\")**",
+      "back_md": "אחד האתגרים בהערכת ילדי גן הוא **ההבחנה בין behavioral extremes נורמטיביים-התפתחותית לבין psychopathology קלינית משמעותית**. דרושה הבנה מעמיקה של השינויים המהירים בהתפתחות הסוציאלית והרגשית של תקופת הגן. למשל, **תחושת autonomy גוברת נורמטיבית של ילד הגן — המכונה \"the terrible twos\"** — עשויה לחקות defiance או opposition קליניים. **הופעת התקפי זעם או defiance עשויה להוביל מטפלים להגיש בקשה להערכה — אך הדפוסים הללו עשויים להיות התפתחותית מתאימים**. הקלינאי חייב להחזיק במקביל את ידיעת הנורמה ההתפתחותית ואת הקריטריונים הקליניים, ולא להניח אוטומטית שהפניית הורה = pathology.\n\n*Dulcan 3e, Ch 3 · \"Clinical Threshold: Differentiation From Developmental Norms\"*",
+      "note_id": "1777008861925"
+    },
+    {
+      "id": "C38-belden-tantrum-markers",
+      "front_md": "**Belden tantrum markers (2008) — סימני pathology בהתקפי זעם**",
+      "back_md": "Belden et al. (2008) הראו שהמאפיינים שמבדילים בין התקפי זעם **נורמטיביים** לבין התקפים **פתולוגיים** הם:\n(1) **frequency** — תכיפות התקפי הזעם;\n(2) **behavioral intensity** — למשל הילד **מכה אחרים, שובר חפצים** במהלך ההתקף;\n(3) **duration** — התקפים שנמשכים **מעבר ל-20 דקות**;\n(4) **functional impairment across contexts** — פגיעה בתפקוד בבית, בית-ספר, day care.\nארבעת המארקרים יחד מבדילים בין הילד עם temperament קשה לבין ילד עם psychopathology בפיתוח. נוסחה מעשית: התקף קצר (<20 דק׳), נדיר (פחות מכמה פעמים בשבוע), בלי תוקפנות לאחרים/הרס, מוגבל ל-context אחד = ככל הנראה נורמטיבי.\n\n*Dulcan 3e, Ch 3 · \"Clinical Threshold: Differentiation From Developmental Norms\"*",
+      "note_id": "1777008861926"
+    },
+    {
+      "id": "C39-delayed-vs-altered-development",
+      "front_md": "**Delayed vs altered development — הבחנה אבחנתית קריטית**",
+      "back_md": "כשהקלינאי עושה פירושים על יכולות התפתחותיות, **ההבחנה בין delayed development ל-altered development היא קריטית**. דוגמה: האם הילד בן ה-3 מציג התנהגויות של ילד בריא בן 18 חודשים (**delayed** — בכיוון תקין, רק מאוחר), או שההתנהגויות שלו **חורגות מהמסלול ההתפתחותי הנורמלי** (**altered** — בכיוון שונה ולא צפוי)? **delays in play skills** עשויים לאותת על cognitive או social reciprocity deficits אופייניים ל-developmental delays או ל-ASD. כשמתגלה cognitive delay משמעותי — **חובה לשלול הפרעות organic ו-metabolic**. neurological examination (Chapter 6), organic workup, וכן הפניה ל-geneticist ולמומחים אחרים — עשויים להיות מצוינים. ההבחנה משנה את ה-workup הרפואי כולו.\n\n*Dulcan 3e, Ch 3 · \"Clinical Threshold: Differentiation From Developmental Norms\"*",
+      "note_id": "1777008861927"
+    },
+    {
+      "id": "C40-piaget-egocentrism",
+      "front_md": "**יכולות פיתוחיות של ילד הגן ו-Piaget egocentrism**",
+      "back_md": "מחקרים התפתחותיים הראו שילדי גן הם **קוגניטיבית ורגשית מיומנים יותר מכפי שחשבו בעבר**. למשל, הם עשויים לייחס תכונות אנושיות לאורגניזמים לא-אנושיים. **אופייני לתקופת הגן — ולעיתים סקור בספרי התפתחות — הוא הקונספט של Piaget של egocentrism**, הניכר בחוסר יכולת של הילד **להבין את נקודת המבט של אחר**. הקלינאי המעריך ילד גן חייב להתחשב ב-**טווח של variations אינדיבידואליים** שעשויים להתבסס על סביבה, קונטקסט, או temperament. שני זרמים: מצד אחד, להעריך את היכולות שלהם יותר ממה שמסורתית הניחו (לא להתייחס אליהם כאל \"ילדים קטנים שלא מבינים\"), ומצד שני — לזכור שיש מגבלות אמיתיות (egocentrism) שצריך להיות עירני להן בעת ניסוחי שאלות.\n\n*Dulcan 3e, Ch 3 · \"Clinical Threshold: Differentiation From Developmental Norms\"*",
+      "note_id": "1777008861928"
+    },
+    {
+      "id": "C41-berkeley-puppet-interview",
+      "front_md": "**Berkeley Puppet Interview (BPI, Ablow & Measelle 1993)**",
+      "back_md": "ה-BPI הוא ראיון **reliable ו-validated** המשמש בהרחבה במחקר התפתחותי (Measelle et al. 1998). השיטה: **שתי בובות מוסרות אמירות רגשיות discrepant**, והילד **בוחר את אחת מהן כייצוג של תחושותיו**. בעוד **self-report של הילד הצעיר נגיש**, הילד יכול **לעקור (displace) את הרגש לבובה** — מה שהופך את הראיון פחות confrontational ופחות מאיים. זה עוקף את החסמים של דיווח ישיר (פחד מתגובה, אמונה שרגשות שליליים אסורים). תסמיני דיכאון וחרדה מדווחי-BPI **הוכחו כמתואמים לדירוגי מורה ומטפל** (Luby et al. 2007) — תיקוף חיצוני חזק. כלי שימושי לכל מי שמעריך mood/anxiety בגיל גן.\n\n*Dulcan 3e, Ch 3 · \"Accessing the Preschool Child as Informant\"*",
+      "note_id": "1777008861929"
+    },
+    {
+      "id": "C42-macarthur-story-stem",
+      "front_md": "**MacArthur Story Stem Battery — narrative semiprojective**",
+      "back_md": "שיטה **indirect אך informative** היא ה-**narrative story stem** — שיטה semiprojective שפותחה במחקר התפתחותי. צורה אחת בשימוש קליני היא ה-**MacArthur Story Stem Battery** (Bretherton et al. 2003). הכלי מכיל **story stems מעוררי-רגש** שהילד משלים. סיפור מתחיל סצנה — למשל \"הילד נופל ופגוע\" — וההמשך של הילד מאיר את ה-internal working models שלו לגבי attachment, פתרון רגשי, וצפיות מהעולם. **משימות השלמת סיפור עשויות להיות שיטה שימושית של הערכת משחק בקליניקה**. Oppenheim et al. (1997) חקרו את ייצוגי הילדים של המטפלים שלהם דרך השלמת narrative — ומצאו correlations משמעותיים בין רמות נמוכות של מצוקה פסיכולוגית לבין תפיסת הילדים את המטפלים כ-\"positive\" או \"disciplinary\". Belden et al. (2007) הראו ש-narratives מבדילים בין preschoolers שהופנו קלינית לבריאים על-פי תפיסות ייצוגי המטפלים.\n\n*Dulcan 3e, Ch 3 · \"Accessing the Preschool Child as Informant\"*",
+      "note_id": "1777008861930"
+    },
+    {
+      "id": "C43-mse-preschool-components",
+      "front_md": "**MSE של ילד הגן — רכיבים נצפים במשחק**",
+      "back_md": "תצפית על הילד במשחק חיונית ל-MSE. בנוסף לתוכן ה-thematic של המשחק, ניתן לבצע מספר תצפיות mental-status:\n(1) **general appearance**;\n(2) **התנהגות ראשונית בקבלת הבוחן**;\n(3) **cooperativeness**;\n(4) **eye contact**;\n(5) **social engagement**;\n(6) **social referencing**.\n**הערכת התפקוד ההתפתחותי במהלך המשחק היא feasible**. **רכיבי speech**: articulation, prosody, rate, volume, pragmatics, ונוכחות הצגות ייחודיות כמו echolalia — צריכים להיות מתועדים. **fine ו-gross motor skills** נצפים כשהילד נע בחדר ומתפעל את הצעצועים. כל רכיב MSE בוגר ניתן לחילוץ מתצפית במשחק — אך דורש מהקלינאי לדעת אילו פרמטרים הוא מחפש.\n\n*Dulcan 3e, Ch 3 · \"Mental Status Examination of the Preschool Child\"*",
+      "note_id": "1777008861932"
+    },
+    {
+      "id": "C44-flow-of-play",
+      "front_md": "**Flow of play — perseveration, organization, themes, attention**",
+      "back_md": "זרימת המשחק מאירה את ה-DDx: (1) **perseveration** — חזרה על משפטים או נושאי משחק; (2) **disorganization** במשחק — עשויים להעיד על ASD, חרדה, או psychosis; (3) **complexity של preferences** — isolative, repetitive, violent, או aggressive themes — וכן איך **דמויות המשחק מתנהגות זו עם זו**. **חובה לסבול play themes שליליים** — אלא אם הילד פוגע בעצמו/באחרים או הורס רכוש, הקלינאי **צריך לתת למשחק להתפתח ללא הפרעה**. (4) **יכולת הילד לשמור attention על המשחק** — מעניין אבחנתית. הקלינאי כ-participant-observer יכול להשתמש ב-**descriptive commenting**: הערות נרטיביות קצרות על המשחק כמו \"המשפחה הולכת ביחד לבית\" — דרך נייטרלית ולא-מובילה לבטא עניין. ה-perseveration על נושא מסוים — דגל אדום ל-trauma re-enactment, חרדה, או OCD.\n\n*Dulcan 3e, Ch 3 · \"Mental Status Examination of the Preschool Child\"*",
+      "note_id": "1777008861933"
+    },
+    {
+      "id": "C45-table33-attachment-attunement",
+      "front_md": "**Table 3-3: Attachment ו-Attunement בדיאדה**",
+      "back_md": "**Attachment** — רמת ה-attachment של הילד למטפל. תצפיות: (1) תגובה ל-separation ו-reunion; (2) רמות של comfort seeking, בקשה וקבלה של עזרה, cooperating, exploring, controlling behavior; (3) האם הילד משתמש במטפל כ-**\"secure base\"** לחקור? (4) **ילדים שעברו abuse או neglect** עשויים להציג **disrupted attachments**: פחדנות, clinging, overcompliance, hypervigilance, impulsive overactivity ו-defiance; חקירה restricted, hyperactive, ו-distractible; indiscriminate affection ו-comfort seeking.\n\n**Attunement** — מידת ה-pacing של המטפל לפי התנהגות, אותות ותקשורת הילד. תצפיות: (1) verbalizations או הבעות פנים אמפתיות; (2) shared joy ו-excitement; (3) modulation של תגובה להתנהגות; (4) האם המטפל מגיב **לילד או על** הילד.\n\n*Dulcan 3e, Ch 3 · Table 3-3 (Greenspan 2003; McCall 2010; Thomas 1997)*",
+      "note_id": "1777008861934"
+    },
+    {
+      "id": "C46-table33-caregiver-affect-discipline-support",
+      "front_md": "**Table 3-3: Caregiver affect, disciplinary control, support**",
+      "back_md": "**Caregiver affect** — רמת affection פיזית/וורבלית כלפי הילד. תצפיות: nurturing, warm, loving, expressive — **או** harsh, hostile, critical, blaming. האם המטפל מבטא enthusiasm לתגובות הישגי הילד? expressionless או mechanical? איך affect משתנה לאורך זמן?\n\n**Caregiver disciplinary control** — אופן ומידת אכיפת limits. תצפיות: רמת supportive ו-empathic guidance; האם המטפל משנה התנהגות באופן positive ו-supportive — **או** intrusive, controlling, demanding obedience? האם מסביר rule/consequence וב-redirect רגוע?\n\n**Caregiver support** — יכולת לווסת תגובות רגשיות של הילד. תצפיות: מידת sympathy/empathy עם ילד מתקשה. שלושת המימדים יחד יוצרים תמונה של \"regulatory partnership\" — האם המטפל הוא co-regulator יעיל, או יוצר ו-perpetuator של dysregulation.\n\n*Dulcan 3e, Ch 3 · Table 3-3*",
+      "note_id": "1777008861935"
+    },
+    {
+      "id": "C47-table33-engagement-relatedness",
+      "front_md": "**Table 3-3: Caregiver/child-directed behaviors, child affect, engagement, relatedness to examiner**",
+      "back_md": "**Caregiver/child-directed behaviors** — איך המטפל מאפשר משחק אוטונומי. האם שואל מה הילד רוצה לעשות, או מדבר **at** הילד? איזו מידת הפרעה ל-stream של הילד? איזה איזון בין הדגמה לבין מתן ל-lead?\n\n**Child affect** — יכולת הילד למעורבות אפקטיבית עם המטפל. האם מבטא negative affect אך מווסת? האם תואם רגשות לרגשות המטפל/למצב? איך affect משתנה לאורך זמן?\n\n**Engagement** — נכונות ויכולת המטפל למעורבות וורבלית/לא-וורבלית. עם eye-contact, harmony, יוזמת משחק; **molding** הילד לגוף המטפל; checking back; הבאת צעצועים להראות.\n\n**Relatedness to examiner** — איך הילד מתייחס לבוחן: התחלת קשר, ערנות וזהירות, יכולת להתחמם בהדרגה (slow warm-up), שליטה, distance/mechanical, או יחס לבוחן כ-\"אובייקט בחדר\" (דגל אדום ל-ASD).\n\n*Dulcan 3e, Ch 3 · Table 3-3*",
+      "note_id": "1777008861936"
+    },
+    {
+      "id": "C48-itmse-ccserrs",
+      "front_md": "**ITMSE ו-CCSERRS — כלי MSE לגיל הצעיר**",
+      "back_md": "ה-**Infant and Toddler Mental Status Exam (ITMSE)** (Thomas et al. 1997) הוא **clinical guide שימושי** המשקף התאמות של ה-MSE הבוגר לתינוק וילד צעיר — כולל תשומת לב ל-**sensory regulation ו-state regulation** של הילד. אך **לא עבר empirical testing** — לכן הוא דריכה מבנית, לא כלי מתוקף.\n\nה-**Caregiver-Child Social/Emotional Relational Rating Scale (CCSERRS)** (McCall et al. 2010) הוא measure המדגיש היבטים סוציאליים ורגשיים ספציפיים של אינטראקציות וקשרים caregiver-child. ה-CCSERRS היעיל יכול **לסייע לתהליך האבחון** (Esins et al. 2017) על-ידי הערכת מימדים שמכסים את טווח האינטראקציות **ללא הצורך באימון נרחב, מדריכים, או חומרים**. זה הופך אותו ל-feasible לקליניקות שאין להן משאבים ל-PCERA מלא.\n\n*Dulcan 3e, Ch 3 · \"Mental Status Examination of the Preschool Child\"*",
+      "note_id": "1777008861937"
+    },
+    {
+      "id": "C49-cultural-context",
+      "front_md": "**Cultural context — הגדרה רחבה ומשמעות**",
+      "back_md": "הערכה מקיפה כוללת לא רק הערכה רלציונית וקונטקסטואלית, אלא גם **התחשבות בקונטקסט התרבותי של הילד והמשפחה**. מודל culturally sensitive כולל הבנת הילד ביחס למשפחה, לבית, לבית-ספר, לקהילה, לדת, ולחברה. **תרבות אינה רק race ו-ethnicity** אלא גם קונטקסטים תרבותיים אחרים — כמו **עוני (poverty), טראומה, ומערכת ה-child welfare**. שיקולים קליניים נוספים מורכבים נוגעים להערכה מדויקת של משפחות **linguistically diverse** (לסקירה, ראה Trent et al. 2018). ההגדרה הרחבה הזו הופכת את \"תרבות\" לקונטקסט מתחת לכל הערכה — עוני הוא תרבות, חוויית פליטים היא תרבות, ילד שגדל ב-foster care הוא תרבות. בלי הגדרה זו, \"תרבות\" מתפרשת כפשטנית-אתנית.\n\n*Dulcan 3e, Ch 3 · \"Cultural Context of the Preschool Assessment\"*",
+      "note_id": "1777008861938"
+    },
+    {
+      "id": "C50-collectivistic-vs-individualistic",
+      "front_md": "**Culture and play — collectivistic vs individualistic**",
+      "back_md": "המשחק מושפע ממשתנים רבים — values תרבותיים, יחסים משפחתיים, child-rearing practices, מוכרות צעצועים, ציפיות התפתחותיות, וחוויות חיים (Hwa-Froelich 2004). הבדלים תרבותיים נראים בתכיפות ובתוכן של משחק וגם באינטראקציות caregiver-child (Jent et al. 2011). חלק מהמשפחות **מעריכות יותר רכיבים אקדמיים של משחק** על-פני pretend play. אחרות מדגישות **individualism ו-self-reliance** ומעדיפות child-directed play. **משפחות collectivistic** עשויות לעודד פחות early choice making בגלל **הדגשת ילדים obedience ו-respect** (Johnston & Wong 2002). דינמיקות אלה עשויות להוביל ל-**משחק שנראה מאופק וחזק יותר caregiver-driven**. **חברות collectivistic לעיתים סומכות על משפחה מורחבת או הקהילה** לצורך משחק — מטפלים אלה עשויים להיראות כמייחסים פחות חשיבות ל-one-to-one playtime, אך בפועל הם מצפים שמבוגרים וילדים אחרים יהיו מעורבים. אל תפרש מאופקות תרבותית כ-detachment קליני.\n\n*Dulcan 3e, Ch 3 · \"Cultural Context of the Preschool Assessment\"*",
+      "note_id": "1777008861939"
+    },
+    {
+      "id": "C51-poverty-play-access",
+      "front_md": "**עוני וגישה למשחק — implications להערכה**",
+      "back_md": "ילדים צעירים במשפחות מעוטות-יכולת עשויים להיות בעלי **גישה מוגבלת לצעצועים ולהזדמנויות משחק**. זה רלוונטי במיוחד ל: משפחות פליטים ומהגרים אחרונים, ילדי אמהות צעירות, ילדים ב-foster care של קרובי-משפחה, משפחות שלא יכולות לעמוד בצרכים בסיסיים, משפחות חסרות-בית או כאלה שעוברות בית בתכיפות (Nwokah et al. 2013). מטפלים החיים בעוני ובעלי השכלה מוגבלת **עשויים שלא להבין את התועלות של age-appropriate play** ולא להיות מודעים לסבירות ההתפתחותית — בגלל **חוסר role models** (Nwokah et al. 2013). גורמים אלה משפיעים על תצפיות ההערכה. **טעות עיקרית להימנע ממנה**: לפרש משחק דל בגלל חסך ב-resources כעדות ל-pathology של הילד או של המטפל. הקלינאי **מודעות אישית** לתאוריות ולאמונות שלו על ילדות וערך תפקיד המטפל — חשובה.\n\n*Dulcan 3e, Ch 3 · \"Cultural Context of the Preschool Assessment\"*",
+      "note_id": "1777008861940"
+    },
+    {
+      "id": "C52-dsm5-preschool-disorders-overview",
+      "front_md": "**DSM-5 disorders בילדי גן — סקירה**",
+      "back_md": "ילדים בגיל הגן עשויים להציג מגוון רחב של תסמיני psychopathology והפרעות DSM-5 קטגוריות, כולל **ADHD, ODD, depressive ו-anxiety disorders**. **specific phobias** עשויות להיות שכיחות אך **פחות מפריעות** ולכן לא לעיתים קרובות clinically significant. ילדי גן עם **comorbid anxiety + depression** עשויים לייצג תמונה קלינית חמורה יותר (von Klitzing et al. 2014). **comorbid ADHD + anxiety** — תסמינים חמורים יותר, בעיקר inattention (Overgaard et al. 2016). **bipolar disorder עשוי להופיע נדירות החל מגיל 3** — נדרש מחקר נוסף על תקפות אבחנתית. **sleep ו-feeding disorders** שכיחים יחסית כ-presenting problems ראשיים או משניים. **autism spectrum disorder** — שכיחות 15.6 ל-1,000 (1 ב-64) בני 4, נתוני 2016, גבוה מ-2014 (14.1 ל-1,000) — Shaw et al. 2020.\n\n*Dulcan 3e, Ch 3 · \"Differential Diagnosis in Preschoolers\"*",
+      "note_id": "1777008861941"
+    },
+    {
+      "id": "C53-preschool-depression-luby",
+      "front_md": "**Preschool-onset depression — Luby et al. 2014**",
+      "back_md": "יש **תמיכה אמפירית מוצקה** ל-**preschool-onset depression** כ-significant risk (נפרד מגורמי סיכון אחרים) להתפתחות **major depression מלאה בילדות מאוחרת** (Luby et al. 2014). זה מבסס את הקיום ו-הקליניות של MDD בגיל גן ככזה שאינו ארטיפקט אבחנתי או \"בכי שגרתי\", אלא **חלון של opportunity** להתערבות מוקדמת בעלת השלכות לטווח ארוך. בנוסף, מחקרים על מאפיינים מובחנים של **suicidal ideation, behaviors, ו-non-suicidal self-injurious behaviors בילדות מוקדמת** (Luby et al. 2019) מצאו ש-**ילדים צעירים עם דיכאון ו-suicidal ideation מציגים הבנה מתקדמת יותר של מוות** מאשר peers שלהם (Hennefield et al. 2019). תפיסת המוות עצמה מתבגרת יותר אצל הקבוצה הסיכונית — מימצא טראגי ומשמעותי קלינית.\n\n*Dulcan 3e, Ch 3 · \"Differential Diagnosis in Preschoolers\"*",
+      "note_id": "1777008861942"
+    },
+    {
+      "id": "C54-preschool-ptsd-irritability",
+      "front_md": "**PTSD בגיל גן + chronic irritability**",
+      "back_md": "**PTSD research הוביל ל-age-adjusted criteria ב-DSM-5** — **פחות תסמיני numbing ו-avoidance** נדרשים לאבחון ילדי גן, מתוך הכרה שילדים צעירים מתקשים לבטא תסמינים אלה במילים. זה הופך את ה-criteria יותר sensitive לקבוצה הזו ומונע miss-diagnosis.\n\n**Chronic irritability בילדות מוקדמת** הוא תחום מחקר ו**קשור למגוון הפרעות פסיכיאטריות ו-functional impairment** (Dougherty et al. 2013, 2015). זו תוצאת-ביניים שאינה ייחודית להפרעה מסוימת (transdiagnostic), אך מאפיינת ילדים בסיכון להתפתחות פתולוגיה — ADHD, ODD, depression, anxiety. אצל ילדי גן עם chronic irritability ב-baseline, הסיכון לפתולוגיה ב-follow-up עולה משמעותית. סקרינג ל-irritability ב-baseline היא חלק חשוב מההערכה.\n\n*Dulcan 3e, Ch 3 · \"Differential Diagnosis in Preschoolers\"*",
+      "note_id": "1777008861943"
+    },
+    {
+      "id": "C55-functional-impairment-criterion",
+      "front_md": "**Functional impairment — הסף הקליני בגיל גן**",
+      "back_md": "נוכחות **functional impairment** היא **המפתח לחציית הסף הקליני**, כפי שמוגדר ב-DSM. אך **impairment קשה יותר לזיהוי בילד צעיר שלא מתפקד autonomously** ו-ייתכן שאינו ב-structured preschool settings. הערכת ה-impairment חייבת להתחשב ב: (1) **תפקוד אינדיבידואלי של הילד**; (2) **השפעת התסמינים על תפקוד המערכת המשפחתית** (למשל, אם לא יכולה להחזיק עבודה כי ילד הגן הורחק ממספר day care centers בגלל aggression). **פחדים מוגזמים שמעכבים רכישת capacities התפתחותיות** (לא נפרד מהאם, לא יכול להתחיל בית-ספר או לישון לבד) — צריכים להיות בהערכת impairment (Carter et al. 2004). במדגם גדול, **generalized ו-separation anxiety בעלי השפעה שלילית על תפקוד המשפחה דומה ל-ADHD ול-disruptive disorders** (Towe-Goodman et al. 2014). אנחנו לא יכולים לראות \"impairment בעבודה\" של תינוק — אנחנו רואים אותו דרך המשפחה.\n\n*Dulcan 3e, Ch 3 · \"Differential Diagnosis in Preschoolers\"*",
+      "note_id": "1777008861944"
+    },
+    {
+      "id": "C56-longitudinal-stability",
+      "front_md": "**Longitudinal stability של אבחנות בגיל הגן**",
+      "back_md": "מחקרים מצביעים שאבחנות בגיל הגן — כמו ODD, ADHD, MDD, ו-anxiety disorders — **נמשכות לגיל בית-הספר** ולכן **מצדיקות התערבות מוקדמת** (Bufferd et al. 2012; Finsaas et al. 2018b; Keenan & Wakschlag 2002; Lahey et al. 2004; Luby et al. 2014). ממצא ה-stability לאורך זמן רלוונטי גם ל-nosology — **תומך ב-validity של early-onset disorders**. **ADHD שאובחן בגיל 4–6 נמשך 3 שנים מאוחר יותר לגיל בית-ספר יסודי** (Lahey et al. 2004). יציבות אבחנות בגיל גן קושרה ל: low family cohesion, מעמד סוציואקונומי, תמיכת אם, אירועי חיים שליליים. בנוסף ל-stability, **rates ו-patterns של homotypic ו-heterotypic continuity דומים לתצפיות בילדים מבוגרים יותר**. **Early childhood psychopathology חוזה תפקוד סוציאלי שלילי בגיל ההתבגרות** (Finsaas et al. 2018a). אבחנות יכולות גם להשתנות בתקופת הגן ובית-הספר המוקדם — דורש **periodic reassessment** (Bunte et al. 2014).\n\n*Dulcan 3e, Ch 3 · \"Differential Diagnosis in Preschoolers\"*",
+      "note_id": "1777008861945"
+    },
+    {
+      "id": "C57-psychotic-disorders-rare-ddx",
+      "front_md": "**Psychotic disorders בגיל גן — נדירים, DDx של hallucinations**",
+      "back_md": "**הפרעות פסיכוטיות הן נדירות ביותר בגיל הצעיר הזה** ומאתגרות להערכה — בגלל **יכולת מוגבלת של expressive language ובלבול נורמטיבי-התפתחותי בין fantasy ו-reality**. מחקרי psychosis בגיל גן מסתכמים בעיקר ב-case reports (Beresford et al. 2005). בכל זאת, **חיוני לבדוק יסודית כל התנהגות שמרמזת על psychosis** — bizarre or disorganized play, או תיאורי חוויות hallucinatory. ההערכה צריכה לשלול: **delirium, exposure to toxins/psychoactive substances, ו-febrile status**. **חובה להבחין hallucinations מתופעות נורמטיביות** — imaginary companions, illusions, ו-elaborate fantasies, השכיחים בגיל הגן (Sosland & Edelsohn 2005). **היסטוריה משפחתית** — עשויה לסייע ב-DDx, כיוון שהפרעות psychotic ו-mood הן familial. אל תאבחן psychosis אצל ילד גן בלי שלילה זהירה של אלטרנטיבות.\n\n*Dulcan 3e, Ch 3 · \"Differential Diagnosis in Preschoolers\"*",
+      "note_id": "1777008861946"
+    },
+    {
+      "id": "C58-clinic-sample-characteristics",
+      "front_md": "**מאפייני מדגם של preschool mental health clinic**",
+      "back_md": "קלינאים יכולים לצפות למגוון רחב של הפניות, אם כי **externalizing disorders (ADHD ו-ODD) שולטים**. **מיעוט מציגים internalizing disorders** (חרדה ודיכאון), אחר-כך **somatic disorders** — sleeping, eating, enuresis, encopresis (Luby & Morgan 1997). **יותר משליש מציגים הפרעות התפתחותיות**. **language delays קשורים לשיעורים גבוהים יותר של externalizing psychopathology**. למרות שה-disruption של externalizing מניע הפניות רבות — **internalizing symptoms עשויים להיות אף יותר distressing לילד ולמשפחה**. **לרבים יש תסמינים מעורבים**. במדגם קהילתי גדול: **כמעט 30% מהילדים פגשו קריטריוני אבחנה DSM-IV**, עם **ODD, specific phobia, ו-separation anxiety** השכיחים ביותר; depression, selective mutism, ו-panic — הנדירים ביותר. **comorbidity משמעותית של ODD** עם depression, anxiety, ו-ADHD (Bufferd et al. 2011).\n\n*Dulcan 3e, Ch 3 · \"Characteristics of Preschool Clinic Samples\"*",
+      "note_id": "1777008861947"
+    },
+    {
+      "id": "Q01-why-dyad-not-individual",
+      "front_md": "למה ה-MSE של ילד גן צריך להתבצע בנוכחות המטפל ולא בראיון individual?",
+      "back_md": "הילד הגילאי-רך **אינו יחידה פסיכולוגית אוטונומית**, ונשאר תלוי במטפל הראשי לתפקוד adaptive ו-emotional. גם כשמתרחשים מעברים התפתחותיים בקשר — **הדיאדה caregiver–child היא יחידת התצפית והאבחון המשמעותית**. ראיון individual של הילד לבדו מתאים רק כחריג (כשאין caregiver זמין). תצפית של הילד עם המטפל מאפשרת לראות את מערכת הוויסות הדיאדית בפעולה — מקור עיקרי של מידע אבחנתי.\n\n*Dulcan 3e, Ch 3 · \"Introduction\"*",
+      "note_id": "1777008861948"
+    },
+    {
+      "id": "Q02-clinician-attire-stance",
+      "front_md": "למה הקלינאי לא לובש חלוק לבן ולא נושא chart במפגש עם ילד גן?",
+      "back_md": "ה-MSE חייב להתבצע בקונטקסט של משחק. חלוק לבן, chart, וכלי בדיקה מסמלים בדיקה רפואית — דבר שמגביר חרדה ומפר את ה-rapport. הקלינאי צריך לאמץ עמדה משחקית — לעיתים קרובות לשבת על הרצפה, לעקוב אחר משחק הילד (follow, not lead), ולאמץ דמות imaginative ו-whimsical. קלינאים שאינם יכולים או רוצים להיכנס למשחק מורכב — לא מתאימים לעבודה עם הגיל הזה.\n\n*Dulcan 3e, Ch 3 · \"Introduction\"*",
+      "note_id": "1777008861949"
+    },
+    {
+      "id": "Q03-why-multiple-sessions",
+      "front_md": "למה דרושים מספר מפגשים על פני שבועות, עם יותר ממטפל אחד, להערכת ילד גן?",
+      "back_md": "ה-mental status של הילד הצעיר משתנה מאוד **לפי state ולפי relationship** — הוא ייראה אחרת בבוקר מול בערב, עם אם מול אב, עם אדם זר מול בן משפחה. תצפית בודדת מטעה אבחנתית. שינויים בהתנהגות שמתגלים **בין מערכות יחסים שונות ולאורך זמן** הם בעלי ערך אבחנתי שלא ניתן לשחזר במפגש בודד. לכן ההערכה נערכת על פני סדרת מפגשים, באופן אידיאלי עם מספר מטפלים.\n\n*Dulcan 3e, Ch 3 · \"Introduction\"*",
+      "note_id": "1777008861950"
+    },
+    {
+      "id": "Q04-washington-paradigm-4-sessions",
+      "front_md": "תאר את 4 המפגשים של ה-Washington University paradigm להערכת ילד גן.",
+      "back_md": "(1) **Session 1** — היסטוריה רגשית, פסיכולוגית, משפחתית והתפתחותית מלאה מהמטפלים, **בלי הילד** (יעיל יותר; אין סיכון ל-rapport).\n(2) **Session 2** — תצפית **free-play** עם **מטפל משני** (secondary caregiver).\n(3) **Session 3** — תצפית **semistructured** עם **מטפל ראשי**: ארוחה משותפת (snack), משימה קוגניטיבית מאתגרת מתונה, משחק דיאדי, separation/reunion.\n(4) **Session 4** — סקירת תצפיות וממצאים, biopsychosocial formulation, DDx, ותוכנית טיפול עם המטפלים.\n\n*Dulcan 3e, Ch 3 · Table 3-1*",
+      "note_id": "1777008861951"
+    },
+    {
+      "id": "Q05-why-history-without-child",
+      "front_md": "למה Session 1 מתבצע **בלי** הילד, בניגוד להערכת מתבגרים?",
+      "back_md": "שתי סיבות: (1) **המידע נאסף יעיל יותר** — מטפלים יכולים לדבר בפתיחות על תסמינים, על קשיי המשפחה, ועל ייחוסים שליליים על הילד, בלי לפגוע בילד; (2) **בניגוד למתבגרים**, אין סיכון ש-rapport עם הילד הצעיר ייפגע מכך שהמטפלים מדברים תחילה עם הקלינאי. הילד הצעיר אינו תופס \"להיות מאחורי הגב שלי\" כפי שמתבגר עשוי לחוש. הסידור הזה משחרר את שני הצדדים לדיון פתוח.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861952"
+    },
+    {
+      "id": "Q06-which-developmental-domains",
+      "front_md": "אילו דומיינים התפתחותיים יש לבדוק להישגי milestones בהיסטוריה של ילד גן?",
+      "back_md": "שישה דומיינים: (1) **motor** (גס + עדין); (2) **language** (ביטוי + הבנה); (3) **cognitive**; (4) **sensory**; (5) **social**; (6) **emotional**. בנוסף — פרטים על דפוסי **eating** (תפריט מוגבל, יכולת לשבת לארוחה משפחתית, food refusal) ו-**sleeping** (בדיתום, האם ישן לבד או עם אחים/הורים, יכולת self-soothe). הסקירה ב-6 דומיינים נדרשת כי delays בדומיין אחד יכולים לפצות או להחמיא דומיין אחר.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861953"
+    },
+    {
+      "id": "Q07-screen-time-finding",
+      "front_md": "מה הקשר בין screen time בגיל 4 ל-emotional understanding בגיל 6 (Skalicka 2019)?",
+      "back_md": "**יותר screen time בגיל 4 חוזה רמות נמוכות יותר של emotional understanding בגיל 6** (Skalicka et al. 2019). זה מצדיק שאלה ספציפית בכל הערכה של ילד גן על: כמות שעות מסך, סוגי תוכנות, האם הצפייה לבד או עם הורה (co-viewing), והאם המסך משמש כ-\"pacifier\" רגשי. ה-AAP פרסמה המלצות ספציפיות ל-screen time עבור ילדים בני 2–5.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861954"
+    },
+    {
+      "id": "Q08-prematurity-mediator",
+      "front_md": "איך פגות (prematurity) קשורה לסיכון פסיכיאטרי בילד הגן, ומה ה-mediator?",
+      "back_md": "ילדים שנולדו prematurely נמצאים ב-**סיכון מוגבר ל-anxiety ו-ADHD** בהשוואה ל-peers שנולדו ב-term. **maternal depression מתווכת (mediates) את סיכון החרדה אצל late-preterm children** (Rogers et al. 2013) — כלומר ההשפעה של הפגות אינה ישירה אלא עוברת דרך הקשר עם אם דכאונית. ההשלכה הקלינית: **הערכת mood של האם בנפרד היא חלק מהבירור** של ילד שנולד מוקדם, וטיפול ב-depression של האם עשוי להיות התערבות יעילה על סיכון הילד.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861955"
+    },
+    {
+      "id": "Q09-prenatal-smoking-outcomes",
+      "front_md": "לאילו הפרעות בגיל 4 קשור עישון אימהי בהיריון (Ellis 2012)?",
+      "back_md": "**maternal smoking בהיריון** קשור לסיכון מוגבר ל-**ADHD ו-ODD** בני 4 (Ellis et al. 2012). יחד עם דיכאון אימהי בהיריון (Lahti 2017) — אלה חשיפות in utero שמצדיקות שאלות ספציפיות בכל אנמנזה של ילד גן: שתייה, עישון, חשיפה לסמים, mood של האם בהיריון. הזיהוי שלהן אינו רק רטרוספקטיבי — הוא מודיע על סיכון להפרעות שגם נכדים נמצאים בסיכון אליהן (intergenerational).\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861956"
+    },
+    {
+      "id": "Q10-trauma-prevalence-low-income",
+      "front_md": "מה השכיחות של חשיפה לאירועים טראומטיים פוטנציאליים אצל ילדי גן ממשפחות בהכנסה נמוכה (Glackin 2019)?",
+      "back_md": "**כמעט מחצית מילדי הגן ממשפחות בעלות הכנסה נמוכה בארה\"ב נחשפו לאירועים טראומטיים פוטנציאליים** (Glackin et al. 2019), ו-maltreatment שכיח (Kim & Drake 2019). זה מצדיק שאלות routine על trauma ו-discipline ביתי בכל הערכה — לא רק כשיש presenting complaint שמצביע על כך. אירועים אלה קשורים להשלכות רפואיות ופסיכיאטריות לטווח-ארוך. נטילת היסטוריית trauma היא חלק מההיסטוריה הסטנדרטית, לא תוסף.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861957"
+    },
+    {
+      "id": "Q11-spokesperson-bias",
+      "front_md": "למה חשוב לקבל מידע מכל המטפלים, ולא להסתפק ב\"spokesperson\" אחד?",
+      "back_md": "(1) **הבנה פחות מוטה** של תסמיני הילד — מטפלים שונים רואים את הילד בקונטקסטים שונים ויחסים שונים; (2) **מתייחסים ל-discordant reporting** — אם אבא רואה התנהגות אחת ואמא אחרת, זה מידע אבחנתי בפני עצמו (context-specificity); (3) **נמנעים מ-bias של \"spokesperson\"** — מטפל אחד שמייצג את כל המשפחה לעיתים מסנן את המידע (לעיתים מבלי משים); (4) **מאזן יחסים בין המטפלים** — שיתוף-פעולה הוא חלק מההתערבות, לא רק מהאבחון.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861958"
+    },
+    {
+      "id": "Q12-symbolic-vs-mechanical-play",
+      "front_md": "מה ההבדל הקליני בין symbolic/representational play ל-sensorimotor/mechanical play?",
+      "back_md": "**Sensorimotor/mechanical play** — שימוש ב-physical properties של חפצים (banging, dropping, mouthing). אופייני ל-0–18 חודשים. המשך שלו מעבר לגיל הזה — דגל אדום.\n\n**Symbolic/representational play** — שימוש בייצוגים מנטליים (העמדת פנים, דמיון). מתחיל ב-18 חודשים, מתבסס מ-30 חודשים.\n\nהמשמעות: (1) **complexity של symbolic play מעידה על יכולות קוגניטיביות**; (2) **התוכן התמטי של symbolic play מאיר את ההעסקות הפנימיות של הילד** — חרדות, conflict, attachment representations. בלי symbolic play בגיל 3 — שקילת ASD או delay חמור.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861959"
+    },
+    {
+      "id": "Q13-play-developmental-stages-by-age",
+      "front_md": "מה הסדר ההתפתחותי של שלבי המשחק בגיל הצעיר, ובאילו גילאים?",
+      "back_md": "(1) **Sensorimotor I** (0–12 חודשים) — הילד הוא הסיבה לפעולה (banging, dropping, throwing).\n(2) **Sensorimotor II** (6–12 חודשים) — שילוב patterns לחקירת אובייקטים (poking, pulling, moving parts).\n(3) **Functional play** (12–18 חודשים) — שימוש פונקציונלי (מסרק לשיער, טלפון לאוזן).\n(4) **Early symbolic play** (18 חודשים+) — pretend עם complexity הולכת וגוברת; אובייקט אחד מייצג אחר.\n(5) **Complex symbolic play** (30 חודשים+) — נושאים מורכבים, narrative, שינוי מציאות, חיזוי תוצאות.\n\n*Dulcan 3e, Ch 3 · Table 3-2*",
+      "note_id": "1777008861960"
+    },
+    {
+      "id": "Q14-translate-dsm-criteria-example",
+      "front_md": "מה הכוונה ב\"לתרגם קריטריוני DSM-5 לחיי הילד הצעיר\"? תן דוגמה.",
+      "back_md": "הכוונה: **הקריטריון אינו משתנה — הביטוי משתנה**. דוגמה — \"irritable mood\": אצל מתבגר זה מתבטא בויכוחים, גסות; אצל ילד גן זה יכול להיות התקפי זעם ארוכים, רגישות-יתר לשינויים, \"מצב רוח רע\" כמעט קבוע. דוגמה אחרת — \"loss of interest\" אצל מבוגר = anhedonia מילולית; אצל ילד גן = ירידה בעיסוק במשחק האהוב, פחות התרגשות מאירועים. **בלי תרגום זה — מאבחנים שגויים** (מפספסים תסמינים אמיתיים או מאבחנים יתר התנהגויות נורמטיביות).\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861961"
+    },
+    {
+      "id": "Q15-papa-vs-dbdos",
+      "front_md": "מה ההבדל בגישה בין PAPA ל-DB-DOS?",
+      "back_md": "**PAPA** (Egger 1999, 2006) — **structured psychiatric interview** מקיף עם המטפלים. כולל תסמיני DSM-IV וכן תסמינים שמופיעים בילדים צעירים אך לא נכללים ב-DSM. שיטה מבוססת-דיווח (parent-report).\n\n**DB-DOS** (Wakschlag 2008) — **שיטה תצפיתית** (לא דיווח), המתמחה בהערכת disruptive behavior. מציגה לילד situations מובנים שמעוררים התנהגויות שעלולות להיות disruptive — מאפשרת הבחנה בין reactivity נורמטיבית ל-pathology אמיתית. מאפיינת disruptive behaviors לשני subtypes.\n\nזה הבדל מהותי — **דיווח vs תצפית** — וכל אחד תופס היבט אחר של אותה הפרעה.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861962"
+    },
+    {
+      "id": "Q16-adhd-multiple-settings-implication",
+      "front_md": "למה הצורך ב-impairment בלפחות שני settings ל-ADHD רלוונטי במיוחד בגיל גן?",
+      "back_md": "(1) **DSM-5 דורש פגיעה בלפחות שני settings ל-ADHD** — למניעת מצבים שבהם ההתנהגות היא reaction לסביבה ספציפית, לא pathology כללית; (2) ילד גן שהופך hyperactive **רק בבית של סבא וסבתא בנוכחות peers** — ייתכן שהבעיה היא overstimulation, לא ADHD; (3) **מקור משלים נדרש** — collateral מ-day care, preschool, בית, בית של בן משפחה אחר; (4) **disagreement בין informants צפוי** — לפי Major et al. 2015, חלקית בגלל context- ו-relationship-specificity של תסמינים. אסור לאבחן ADHD בילד גן בלי קונטקסט שני מתועד.\n\n*Dulcan 3e, Ch 3 · \"Format of a Preschool Assessment\"*",
+      "note_id": "1777008861963"
+    },
+    {
+      "id": "Q17-prepare-child-day-before",
+      "front_md": "למה מומלץ להודיע לילד על המפגש רק יום לפני, ולא שבוע מראש?",
+      "back_md": "שתי סיבות: (1) **למנוע anticipatory anxiety** — מתח שנבנה לאורך ימים יכול לפגוע ב-rapport ובאיכות ההערכה; (2) **sense of time מוגבל אצל ילדים צעירים** — \"בעוד שבוע\" אינו משמעותי לילד בן 4, וההודעה תהפוך לסיוט שמתחיל מיד. מה כן לעשות: להודיע יום קודם, להבהיר ש-(א) זה \"play doctor\" — אין בדיקות מפחידות, (ב) שניהם — הילד והמטפל — באים לקבל הדרכה, (ג) שהמטפל כבר נפגש עם הקלינאי.\n\n*Dulcan 3e, Ch 3 · \"Preparing the Preschooler for the Play Evaluation\"*",
+      "note_id": "1777008861964"
+    },
+    {
+      "id": "Q18-why-secondary-caregiver-free-play",
+      "front_md": "למה ה-free-play session מתבצע עם מטפל **משני**, וה-semistructured עם מטפל **ראשי**?",
+      "back_md": "(1) ה-free-play **פחות תובעני** — מתאים למטפל המשני, שעימו הילד עשוי להיות פחות מוכר; (2) ה-semistructured **יותר מלחיץ ומקיף** — מצריך את הקשר עם המטפל הראשי, שהוא the secure base היציב ביותר ויכול לשאת את ה-stress; (3) **יחד מאפשרים תצפית בילד עם שני מטפלים שונים** — חושף הבדלים יחסיים שלא ייראו במפגש בודד; (4) זה מודל \"easy first, hard later\" שמשרת גם את ההערכה וגם את חוויית הילד.\n\n*Dulcan 3e, Ch 3 · \"Dyadic Play Assessment Part I\"*",
+      "note_id": "1777008861965"
+    },
+    {
+      "id": "Q19-redirect-caregiver-conversation",
+      "front_md": "למה הקלינאי צריך **להפנות מחדש** ניסיונות של המטפל לשוחח עמו במהלך ה-free-play?",
+      "back_md": "מטפלים נוטים באופן טבעי **לפנות לשיחה עם הקלינאי** — שאלות, הסברים, התנצלויות. שיחות אלה **מפרקות את האינטראקציה הדיאדית caregiver-child — שהיא מטרת המפגש**. הקלינאי צריך לעדן: \"נצליח לדבר על זה במפגש אחר; כרגע משהו חשוב לי לראות אותך משחקת איתו\". להזכיר שיש זמן אחר לשאלות. הקלינאי צריך גם **להנחות מראש** את המטפל \"לשחק עם הילד כמו בבית\". בלי כך — מקבלים אינטראקציה מלאכותית של מטפל-קלינאי, לא דיאדה אותנטית.\n\n*Dulcan 3e, Ch 3 · \"Dyadic Play Assessment Part I\"*",
+      "note_id": "1777008861966"
+    },
+    {
+      "id": "Q20-pcera-vs-crowell-vs-teaching-task",
+      "front_md": "השווה PCERA, Crowell, ו-Teaching Task — מה הייחודיות של כל אחת?",
+      "back_md": "**PCERA** (Clark 1985) — תצפית דרך one-way mirror. מרכיבים: snack משותף → block designs → free play → separation/reunion. הסטנדרט הקליני הקלאסי.\n\n**Crowell** (1993) — דומה ל-PCERA, אבל **מוסיף blowing bubbles** כדי לעורר affect ספונטני אצל הילד. רגישות גבוהה יותר ל-positive emotion ו-shared joy.\n\n**Teaching Task** (Egeland 1995) — **משימות בקושי הולך וגובר**, מוקלטות בווידיאו לסקירה מאוחרת. מאפשרת לראות איך הקשר נשבר תחת stress גובר; חושפת scaffolding ו-frustration tolerance.\n\nזה ניואנס: PCERA = מקיף; Crowell = רגיש ל-affect; Teaching Task = רגיש ל-stress הדרגתי.\n\n*Dulcan 3e, Ch 3 · \"Dyadic Play Assessment Part II\"*",
+      "note_id": "1777008861967"
+    },
+    {
+      "id": "Q21-vipp-sd-vip-map",
+      "front_md": "לאיזו אוכלוסיה מותאמת כל אחת מהתערבויות ה-video-feedback: VIP, VIPP-SD, ו-MAP?",
+      "back_md": "**VIP — Video Interaction Project** (Mendelsohn 2011) — משפחות **at-risk**, מתמקד ב-school readiness ו-parent-child interaction; מערכת בריאות-ראשונית (primary care).\n\n**VIPP-SD — Video-feedback Intervention to promote Positive Parenting and Sensitive Discipline** (Van Zeijl 2006) — מטפלים של ילדים בני **1–3 בסיכון להתנהגויות externalizing**; תיקוף RCT; מתמקד ב-sensitive discipline.\n\n**MAP — Modifying Attributions of Parents** (Bohr 2008) — הורים עם **negative attributions** על הילד (\"ילד עצלן\", \"ילד רע\"); מתמקד בשינוי המודל הקוגניטיבי של ההורה.\n\nשלושתן מציגות clip של אינטראקציה דיאדית ומעבדות עם clinician — אך הקבוצות והמיקוד שונים.\n\n*Dulcan 3e, Ch 3 · \"Dyadic Play Assessment Part II\"*",
+      "note_id": "1777008861968"
+    },
+    {
+      "id": "Q22-greenspan-feedback-5",
+      "front_md": "מה 5 הגישות של Greenspan למפגש ה-feedback עם המטפלים?",
+      "back_md": "(1) **לתת למטפלים להתחיל** ולהציג את החששות שלהם — להעריך אם השתנו;\n(2) **להתמקד ולהתייחס ל-caregiver resistance**;\n(3) **לשמש כ-collaborator** — לעזור למטפלים לשלב את התפיסות הקודמות שלהם על הילד עם זו שעלתה מההערכה;\n(4) **להפנות לתצפיות בקונטקסט התפתחותי** — עוגנים של גיל, attachment disruptions — להציג מידע באופן לא מאיים;\n(5) **להכיר ב-ambivalence** של המטפל.\n\nהסבירות שהמטפלים יקבלו את האבחנה ויפעלו לפי ההמלצה — **גוברת ככל שהמפגש ניגש collaboratively**.\n\n*Dulcan 3e, Ch 3 · \"Providing Feedback\"*",
+      "note_id": "1777008861969"
+    },
+    {
+      "id": "Q23-parenting-feedback-5-principles",
+      "front_md": "מה 5 העקרונות למסירת feedback על parenting?",
+      "back_md": "(1) **למסגר אמירות באופן noncritical ו-nonjudgmental**;\n(2) **להזדהות עם המטפל** — להציג את ה-feedback בקונטקסט של **mismatch** בין התנהגויות המטפל לצרכים ההתפתחותיים של הילד;\n(3) **לחקור איך סגנון ה-parenting הזה צמח** — negative attributions, חוסר ידע, מודלים הוריים לא-בריאים;\n(4) **לזהות את ה-intended goals של המטפל** ולהראות איך התגובה דווקא **מגבירה** את ההתנהגות הלא-רצויה במקום להפחיתה;\n(5) **לסיים בהצעת גישות חלופיות**, ולקשר את התוצאות החדשות בחזרה לגול המקורי של המטפל.\n\nכך המטפל חווה את המפגש כ-validating ו-collaborative, לא כביקורת.\n\n*Dulcan 3e, Ch 3 · \"Providing Feedback\"*",
+      "note_id": "1777008861970"
+    },
+    {
+      "id": "Q24-belden-tantrum-criteria",
+      "front_md": "לפי Belden et al. 2008 — אילו 4 מאפיינים של temper tantrums מבדילים בין נורמטיבי לפתולוגי?",
+      "back_md": "(1) **frequency** — תכיפות התקפי הזעם;\n(2) **behavioral intensity** — האם הילד **מכה אחרים, שובר חפצים** במהלך ההתקף;\n(3) **duration** — התקפים שנמשכים **מעבר ל-20 דקות**;\n(4) **functional impairment across contexts** — פגיעה בתפקוד בבית, בית-ספר, day care.\n\nנוסחה מעשית: התקף קצר (פחות מ-20 דק׳), נדיר, בלי תוקפנות לאחרים/הרס, מוגבל ל-context אחד = ככל הנראה נורמטיבי. כל אחד מארבעת המארקרים מעלה את הסבירות לפתולוגיה.\n\n*Dulcan 3e, Ch 3 · \"Clinical Threshold\"*",
+      "note_id": "1777008861971"
+    },
+    {
+      "id": "Q25-delayed-vs-altered-clinical",
+      "front_md": "מה ההבדל הקליני בין delayed development ל-altered development, ואיך זה משנה את הבירור?",
+      "back_md": "**Delayed** — הילד בכיוון התפתחותי תקין, רק מאוחר. דוגמה: ילד בן 3 שמציג התנהגויות של 18 חודשים תקינים. הבירור: הערכה התפתחותית, התערבות חינוכית, מעקב.\n\n**Altered** — ההתנהגויות **חורגות מהמסלול הנורמלי** — לא רק מאוחר אלא בכיוון שונה. דוגמה: stereotypies, רגרסיה. הבירור: **neurological exam** (Ch 6), **organic workup, הפניה ל-geneticist ומומחים נוספים**, שלילת הפרעות metabolic ו-organic.\n\nההבחנה משנה לחלוטין את ה-workup הרפואי — altered מצריך בירור רחב יותר ושלילת מצבים organic.\n\n*Dulcan 3e, Ch 3 · \"Clinical Threshold\"*",
+      "note_id": "1777008861972"
+    },
+    {
+      "id": "Q26-bpi-mechanism",
+      "front_md": "איך עובד ה-Berkeley Puppet Interview, ולמה הוא יעיל אצל ילדי גן?",
+      "back_md": "**מנגנון**: שתי בובות מוסרות **אמירות רגשיות discrepant**, והילד **בוחר את אחת מהן כייצוג של תחושותיו**. הילד יכול **לעקור (displace) את הרגש לבובה** — מה שהופך את הראיון פחות confrontational ופחות מאיים.\n\n**למה יעיל**: עוקף את החסמים של דיווח ישיר — פחד מתגובה, אמונה שרגשות שליליים אסורים, חוסר vocabulary. תסמיני דיכאון וחרדה ב-BPI **מתואמים לדירוגי מורה ומטפל** (Luby et al. 2007) — תיקוף חיצוני חזק. כלי שימושי לכל מי שמעריך mood/anxiety בגיל גן.\n\n*Dulcan 3e, Ch 3 · \"Accessing the Preschool Child as Informant\"*",
+      "note_id": "1777008861973"
+    },
+    {
+      "id": "Q27-narrative-story-stem-purpose",
+      "front_md": "מה מטרת ה-narrative story stem (כמו MacArthur Story Stem Battery)?",
+      "back_md": "**שיטה semiprojective indirect** שבה הילד **משלים סיפור שמתחיל ב-emotionally evocative stem** — למשל \"הילד נופל ופגוע\" — וההמשך של הילד מאיר את ה-internal working models שלו לגבי attachment, פתרון רגשי, וצפיות מהעולם. **Oppenheim et al. (1997)** מצאו correlations בין מצוקה פסיכולוגית נמוכה לבין תפיסת המטפלים כ-\"positive\" או \"disciplinary\" בנרטיב הילד. **Belden et al. (2007)** הראו ש-narratives מבדילים בין preschoolers שהופנו קלינית לבריאים על-פי תפיסות ייצוגי המטפלים.\n\nזה מבחן שמשלים את ה-BPI: ה-BPI נותן self-report פוטוצופי, ה-narrative נותן מודלים פנימיים נסתרים יותר.\n\n*Dulcan 3e, Ch 3 · \"Accessing the Preschool Child as Informant\"*",
+      "note_id": "1777008861974"
+    },
+    {
+      "id": "Q28-mse-via-play-components",
+      "front_md": "אילו רכיבי MSE ניתן להעריך תוך כדי תצפית במשחק של ילד הגן?",
+      "back_md": "(1) **General appearance** ו-**התנהגות ראשונית בקבלת הבוחן**;\n(2) **Cooperativeness, eye contact, social engagement, social referencing**;\n(3) **Speech components**: articulation, prosody, rate, volume, pragmatics, נוכחות echolalia;\n(4) **Fine ו-gross motor skills** (תוך תנועה בחדר ותפעול צעצועים);\n(5) **Mood ו-affect** (דרך טווח אפקטיבי במשחק);\n(6) **Thought process** דרך flow of play — perseveration, disorganization;\n(7) **Thought content** דרך נושאים ו-themes (חרדה, תוקפנות, attachment).\n\nהמשחק הוא ה-MSE — לא משהו ש\"קודם משחקים ואז עושים MSE\".\n\n*Dulcan 3e, Ch 3 · \"MSE of the Preschool Child\"*",
+      "note_id": "1777008861975"
+    },
+    {
+      "id": "Q29-tolerate-negative-themes",
+      "front_md": "למה הקלינאי צריך לסבול play themes שליליים, ומתי כן להתערב?",
+      "back_md": "**לסבול נושאים שליליים — חיוני** — הם מקור עיקרי של מידע אבחנתי על ה-internal world של הילד (חרדה, תוקפנות, attachment representations, trauma re-enactment). הקלינאי **צריך לתת למשחק להתפתח ללא הפרעה**.\n\n**יוצאי-דופן — להתערב כש**: (1) הילד **פוגע בעצמו**; (2) הילד **פוגע באחרים**; (3) הילד **מהרס רכוש**.\n\nהקלינאי כ-participant-observer יכול להשתמש ב-**descriptive commenting** (\"המשפחה הולכת לבית\") או ב-**wondering** (\"מעניין למה התינוק בוכה?\") — דרך נייטרלית להראות עניין בלי להוביל. אסור: לשאול שאלות שדורשות תשובה ישירה מהילד באמצע המשחק.\n\n*Dulcan 3e, Ch 3 · \"MSE of the Preschool Child\"*",
+      "note_id": "1777008861976"
+    },
+    {
+      "id": "Q30-disrupted-attachment-signs",
+      "front_md": "אילו סימנים של disrupted attachment עשויים להופיע אצל ילד שעבר abuse או neglect?",
+      "back_md": "(1) **פחדנות** (fearfulness);\n(2) **clinging** מוגזם;\n(3) **overcompliance**;\n(4) **hypervigilance**;\n(5) **impulsive overactivity ו-defiance**;\n(6) **חקירה restricted, hyperactive, ו-distractible**;\n(7) **indiscriminate affection ו-comfort seeking** (גם כלפי זרים).\n\nהסימנים הללו אינם ייחודיים — חלקם דומים ל-ADHD או ל-ODD — אבל **הקומבינציה שלהם, במיוחד indiscriminate sociability ו-restricted exploration**, מצביעה על attachment disorder ולא על psychopathology אחרת. ההבחנה משנה את כל מסלול הטיפול.\n\n*Dulcan 3e, Ch 3 · Table 3-3 (Attachment row)*",
+      "note_id": "1777008861979"
+    },
+    {
+      "id": "Q31-collectivistic-misinterpretation",
+      "front_md": "מטפלת ממשפחה collectivistic מציגה משחק שנראה caregiver-driven ומאופק. מה הסיכון בפרשנות הקלינית, ומה הגישה הנכונה?",
+      "back_md": "**הסיכון**: לפרש משחק caregiver-driven או child-restraint כ-controlling parenting או כ-detachment של הילד — ולהמליץ על \"התערבות\" שאינה תרבותית-רלוונטית.\n\n**הגישה הנכונה**: להבין שב-**קולקטיביזם**, early choice making מתעודד פחות, יש דגש על obedience ו-respect (Johnston & Wong 2002), ו-**משפחה מורחבת מעורבת** במשחק. מטפלת לא משחקת one-to-one כי **היא מצפה שאחרים** (סבים, אחים, שכנים) יהיו מעורבים. **לא לפרש מאופקות תרבותית כ-detachment קליני**. הקלינאי צריך לחקור את ה-cultural framework לפני שמסיק psychopathology.\n\n*Dulcan 3e, Ch 3 · \"Cultural Context\"*",
+      "note_id": "1777008861980"
+    },
+    {
+      "id": "Q32-poverty-play-trap",
+      "front_md": "איזו טעות אבחנתית עלולה לקרות בהערכת ילד ממשפחה בעוני, וכיצד להימנע?",
+      "back_md": "**הטעות**: לפרש משחק דל בגלל **גישה מוגבלת לצעצועים והזדמנויות משחק** כעדות ל-pathology של הילד או של המטפל. למשל — ילד פליט שלא מכיר block toys ולא בונה structures מורכבים — לא delay התפתחותי, אלא חוסר חשיפה.\n\n**איך להימנע**: (1) **לחקור את ה-resources של המשפחה** לפני אבחון delay; (2) **להציע צעצועים מוכרים תרבותית** במידת האפשר; (3) **להעריך מספר sessions** כדי לאפשר familiarization; (4) להיות מודע ש-מטפלים בעוני שלא חוו role models הוריים יכולים להזדקק ל-psychoeducation על age-appropriate play, **לא** לאבחנה של parenting deficit.\n\n*Dulcan 3e, Ch 3 · \"Cultural Context\"*",
+      "note_id": "1777008861981"
+    },
+    {
+      "id": "Q33-most-common-disorders-clinic",
+      "front_md": "אילו הפרעות שולטות במדגם של preschool mental health clinic, ומה עוד צריך לחפש?",
+      "back_md": "**שולטים — externalizing disorders** (ADHD ו-ODD).\n**מיעוט — internalizing** (חרדה ודיכאון).\n**אחר-כך — somatic disorders** — sleeping, eating, enuresis, encopresis (Luby & Morgan 1997).\n**יותר משליש — הפרעות התפתחותיות** (language delays קשורים לשיעורים גבוהים יותר של externalizing).\n\n**מסר חשוב**: למרות ש-disruption של externalizing מניע הפניות — **internalizing symptoms עשויים להיות אף יותר distressing לילד ולמשפחה**. **לרבים יש תסמינים מעורבים**. במדגם קהילתי גדול: ODD היה השכיח ביותר; comorbidity של ODD עם depression/anxiety/ADHD שכיחה (Bufferd 2011). חובה לחפש internalizing אקטיבית.\n\n*Dulcan 3e, Ch 3 · \"Characteristics of Preschool Clinic Samples\"*",
+      "note_id": "1777008861982"
+    },
+    {
+      "id": "Q34-functional-impairment-family-system",
+      "front_md": "איך מעריכים functional impairment אצל ילד גן שאינו עוד באמת \"עובד\"?",
+      "back_md": "הערכת ה-impairment בילד הגן חייבת להתחשב ב:\n(1) **תפקוד אינדיבידואלי של הילד** — שינה, אכילה, peer engagement, אצל preschool;\n(2) **השפעת התסמינים על תפקוד המערכת המשפחתית** — דוגמה: אם לא יכולה להחזיק עבודה כי הילד הורחק ממספר day care centers בגלל aggression;\n(3) **פחדים מוגזמים שמעכבים רכישת capacities התפתחותיות** — לא נפרד מהאם, לא יכול להתחיל בית-ספר או לישון לבד (Carter et al. 2004);\n(4) ב-Towe-Goodman 2014 — **separation/generalized anxiety בעלי השפעה דומה ל-ADHD ו-disruptive disorders על תפקוד המשפחה**.\n\nהילד הצעיר חי דרך המשפחה — לכן ה-impairment נמדד שם.\n\n*Dulcan 3e, Ch 3 · \"Differential Diagnosis\"*",
+      "note_id": "1777008861983"
+    },
+    {
+      "id": "Q35-preschool-depression-evidence",
+      "front_md": "מה התרומה של מחקרי Luby להבנת preschool-onset depression?",
+      "back_md": "(1) **Luby 2014** — preschool-onset depression מהווה **גורם סיכון נפרד ועצמאי** להתפתחות **major depression מלאה בילדות מאוחרת**. זה מבסס את הקיום של MDD בגיל הצעיר ככזה שאינו ארטיפקט אבחנתי — אלא חלון להתערבות.\n(2) **Luby 2019** — מאפיינים מובחנים של **suicidal ideation, behaviors, ו-NSSI בילדות מוקדמת** קיימים וניתנים לזיהוי.\n(3) **Hennefield 2019** — ילדים צעירים עם דיכאון ו-suicidal ideation מציגים **הבנה מתקדמת של מוות** מאשר peers — נוכחות הקשר טראגית בין הסבל לבין התבגרות מוקדמת של ייצוג המוות.\n\nההשלכה: לא להתעלם מתסמיני דיכאון ו-suicidal ideation אצל ילדי גן.\n\n*Dulcan 3e, Ch 3 · \"Differential Diagnosis\"*",
+      "note_id": "1777008861984"
+    },
+    {
+      "id": "Q36-ptsd-dsm5-modifications",
+      "front_md": "איך ה-criteria של PTSD ב-DSM-5 הותאמו לגיל הצעיר?",
+      "back_md": "DSM-5 הציג **age-adjusted criteria ל-PTSD בגיל הצעיר** עם **פחות תסמיני numbing ו-avoidance** נדרשים לאבחנה. זה מתוך הכרה ש**ילדים צעירים מתקשים לבטא תסמיני numbing/avoidance במילים**, וקריטריון מבוגר היה מוביל ל-under-diagnosis. ההתאמה הופכת את הקריטריון יותר sensitive לקבוצה הזו.\n\nזה אחד מההישגים של מחקרי PTSD בילדות הצעירה (כולל Scheeringa) — היכולת להראות שאין צורך לכפות criteria של מבוגרים על תינוקות. ה-YCPS (Young Child PTSD Screen, Scheeringa 2019) הוא דוגמה ל-screening tool שמתאים לקבוצה.\n\n*Dulcan 3e, Ch 3 · \"Differential Diagnosis\"*",
+      "note_id": "1777008861985"
+    },
+    {
+      "id": "Q37-psychosis-rule-outs",
+      "front_md": "ילד גן מתאר \"הוא רואה דמויות בחדר\". מה ה-DDx ומה ה-workup לפני שמאבחנים psychosis?",
+      "back_md": "**DDx של hallucinations בגיל גן** (לא לאבחן psychosis במהירות):\n(1) **Imaginary companions** — נורמטיביים, מוגדרים, יוצרים שמחה;\n(2) **Illusions** — פירוש מוטעה של גירוי אמיתי;\n(3) **Elaborate fantasies** — שכיחות בגיל גן (Sosland & Edelsohn 2005);\n(4) **Delirium** — שינוי מצב הכרה אקוטי;\n(5) **Toxin/substance exposure**;\n(6) **Febrile status**.\n\n**Workup**: שלילת מצבים organic, ECG, electrolytes, סקירת חשיפות, היסטוריה משפחתית של psychosis ו-mood disorders. רק לאחר שלילת זה — שקילת psychosis אמיתית (נדירה ביותר; בעיקר case reports — Beresford 2005).\n\n*Dulcan 3e, Ch 3 · \"Differential Diagnosis\"*",
+      "note_id": "1777008861986"
+    },
+    {
+      "id": "Q38-stability-of-preschool-dx",
+      "front_md": "מה הראיות שאבחנות בגיל גן יציבות לאורך זמן, ולמה זה משמעותי?",
+      "back_md": "**ראיות**: ODD, ADHD, MDD, חרדה — כולן **נמשכות לגיל בית-הספר** (Bufferd 2012; Finsaas 2018b; Lahey 2004; Luby 2014). **ADHD שאובחן בגיל 4–6 נמשך 3 שנים מאוחר יותר** (Lahey 2004). יציבות קושרה ל-low family cohesion, מעמד סוציואקונומי, תמיכת אם, אירועי חיים שליליים. **Homotypic ו-heterotypic continuity דומים לתצפיות בילדים מבוגרים**. early childhood psychopathology חוזה תפקוד סוציאלי שלילי בהתבגרות (Finsaas 2018a).\n\n**משמעות**:\n(1) **תומך ב-validity של early-onset disorders** — לא ארטיפקט;\n(2) **מצדיק התערבות מוקדמת** — לא \"יחלוף עם הזמן\";\n(3) **periodic reassessment חשובה** — אבחנות יכולות להשתנות (Bunte 2014).\n\n*Dulcan 3e, Ch 3 · \"Differential Diagnosis\"*",
+      "note_id": "1777008861987"
+    },
+    {
+      "id": "Q39-summary-points-comprehensive-eval",
+      "front_md": "סכם את ה-Summary Points של Ch 3 — 6 עקרונות מרכזיים להערכת ילד גן.",
+      "back_md": "(1) **הערכה מקיפה אידיאלית מתבצעת על פני מספר מפגשים בימים שונים, עם יותר ממטפל אחד**;\n(2) **שילוב unstructured ו-semistructured observation הוא הכי אינפורמטיבי**;\n(3) **תצפית במשחק דיאדי חיונית להערכה**;\n(4) **מתן feedback למטפלים — גישה collaborative חיונית** להגדלת הסבירות לעמידה בהמלצות;\n(5) **למרות ש-disruptive behavior היא הסיבה הנפוצה לפנייה — חיוני להעריך אקטיבית גם תסמיני internalizing**;\n(6) **הפרעות נפש בילדי גן מפריעות, ולרבות יציבות לטווח-ארוך** — מצדיקות התערבות מוקדמת.\n\nששת הנקודות יחד הן הסיכום האופרטיבי של הפרק כולו.\n\n*Dulcan 3e, Ch 3 · \"Summary Points\"*",
+      "note_id": "1777008861988"
+    }
+  ]
+}

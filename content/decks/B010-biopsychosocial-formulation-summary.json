@@ -1,0 +1,73 @@
+{
+  "id": "B010-biopsychosocial-formulation-summary",
+  "label": "B010 · פורמולציה ביו-פסיכו-סוציאלית · סיכום",
+  "source": "residency-summary",
+  "cards": [
+    {
+      "id": "1777001881535",
+      "front_md": "למה \"ביו-פסיכו-סוציאלי-**התפתחותי**\" ולא רק ביו-פסיכו-סוציאלי?",
+      "back_md": "Engel (1977) ייסד את המודל הביו-פסיכו-סוציאלי כמודל רפואי חדש [NOT IN DULCAN/GABBARD]. **בפדיאטריה נוסף ציר רביעי — התפתחותי — כי הילד הוא \"מטרה נעה\":** > \"Unlike adults, who may have an established baseline of functioning, intellect, and emotional well-being from which they may have deviated with the onset of a mental illness, children are a 'moving target.'\" [D-1]. **Developmental status** עשוי להיות **uneven** — ילד מתקדם אינטלקטואלית אך בשל רגשית מחבריו לכיתה [D-2]. Dulcan מקצה לגישה \"multipronged\" + \"perspectives of psychiatry\" (disease · dimension · behavior · life story) כדי להימנע מ\"reductionistic single-model etiologies\" [D-3]. Gabbard מוסיף \"**bilingual**\" — מוח ונפש כשתי שפות [G-1]. *Structural hook:* 4 quadrants × 4 P's = **מטריצה 4×4 של 16 תאים**. הפורמולציה הבוגרת ממלאת את רובם; המתחילה מתעוגנת ב-2-3 תאים בלבד. ההבדל הקריטי מפורמולציה בוגרת: בילד **אין baseline יציב** להשוואה — יש רק **עקומת התפתחות צפויה** שצריך להשוות אליה.",
+      "note_id": "1777001881535"
+    },
+    {
+      "id": "1777001881537",
+      "front_md": "Quadrant 1 — ביולוגי (BIO): מה להעלות?",
+      "back_md": "**תוכן [D-4]:** היסטוריה רפואית ופסיכיאטרית משפחתית + היסטוריה התפתחותית של המטופל + היסטוריה רפואית/פסיכיאטרית של המטופל + תפקוד קוגניטיבי + learning disorders קו-מורבידיים + **inborn temperament**. **מה להעלות:** חשיפות **prenatal** (מחלות, תרופות, סמים, לחץ) + גורמי דחק gestational + **developmental milestones** (הליכה, דיבור, toileting, מוטוריקה). **הגשר של Gabbard [G-2] [G-3]:** diatheses גנטיות או שינויים ביולוגיים מסביבה (טראומה מוקדמת, חבלת ראש) **חייבים להיכלל** בפורמולציה. כוחות ביולוגיים (נוירוטרנסמיטרים) = **\"מגנט\"** שאליו קונפליקטים דינמיים קיימים נצמדים → **הסימפטום הביולוגי מנוצל כרכב לביטוי קונפליקט לא-מודע**. תרופות = חומר דינמי: משמעות למטופל, השפעה על compliance, על self-esteem ועל transference [G-4]. *Takeaway:* הציר הביולוגי אינו רק \"סטטוסים + קטלוג תרופות\" — זה **הגנים, הטמפרמנט, ה-prenatal, והמשמעות הפסיכולוגית של התערבויות רפואיות** כיחידה אחת.",
+      "note_id": "1777001881537"
+    },
+    {
+      "id": "1777001881539",
+      "front_md": "Quadrant 2 — פסיכולוגי / דינמי (PSYCHO): מיקוד",
+      "back_md": "**תוכן [D-5]:** coping tools, **resilience**, קווי אישיות, **frustration tolerance**, self-esteem, **self-soothing + self-regulation**. **מה להעלות:** cognitive rigidity vs flexibility, intrinsic self-esteem, איך הילד מתמודד עם תסכול, emotional + behavioral self-regulation. **המיקוד הדינמי של Gabbard [G-5] [G-6]:** (1) **Ego** — חוזקים, הגנות, יחס ל-superego; (2) **Object relations** — יחסי משפחה, transference-countertransference, אובייקטים פנימיים; (3) **Self** — cohesiveness, continuity, גבולות; (4) **Attachment + mentalization**. > \"The psychological axis should not attempt to explain everything about the patient. Instead, it should succinctly highlight the major intrapsychic issues, particularly how they interact with biological and social factors, and emphasize their direct relevance to treatment planning\" [G-6]. *Contrastive anchor:* הציר הפסיכולוגי **אינו \"קטלוג הגנות מקיף\"** — הוא **תמצית ממוקדת** של 2-3 נושאים תוך-נפשיים מרכזיים המתקשרים ישירות לטיפול. המתחיל כותב 3 עמודים על הגנות ומפספס את ה-2 קונפליקטים שבאמת מחזיקים את הסימפטום.",
+      "note_id": "1777001881539"
+    },
+    {
+      "id": "1777001881542",
+      "front_md": "Quadrant 3 — חברתי / משפחתי (SOCIAL)",
+      "back_md": "**תוכן [D-6]:** family dynamics, נוכחות caregivers יציבים + סביבה יציבה, **food availability consistency**, גורמים כלכליים, יחסי peer, גזע/תרבות/דת, הקשר שכונתי. **מה להעלות:** בית יציב vs כאוטי, crime/poverty/violence בשכונה/ביה\"ס, איכות חברויות, רקע תרבותי-דתי. **Gabbard — הממד התרבותי [G-7]:** דת, מנהגים תרבותיים, **\"culture shock\"** לאחר עליה שמערער זהות + self-esteem + מתניע אבל. **Gabbard — הציר המשפחתי [G-8]:** האם התמונה הסימפטומטית בעצם משקפת **קונפליקטים מערכת-משפחתיים רחבים** (המתבגר כ\"carrier\" של בעיות הנישואין של ההורים) ואיך **object relations פנימיים מוחצנים** ביחסים הנוכחיים. *Structural hook:* ה-SOCIAL quadrant בפדיאטריה **לעולם אינו \"רק רקע\"** — זה הקרקע שבה הילד גדל. הורה אחד תפקודי = פורמולציה שונה לחלוטין ממשק בית שבור.",
+      "note_id": "1777001881542"
+    },
+    {
+      "id": "1777001881545",
+      "front_md": "Quadrant 4 — התפתחותי (DEVELOPMENTAL) — ייחודי לפדיאטריה",
+      "back_md": "**תוכן [D-7]:** מעקב ציוני דרך **cognitive + physical + social + emotional** צפויים. השאלה: \"on track?\" או שעיכובים/שוני יוצרים אתגרי תפקוד? **למה קריטי [D-1]:** > \"Unlike adults, who may have an established baseline of functioning, intellect, and emotional well-being from which they may have deviated with the onset of a mental illness, children are a 'moving target.'\" [D-1]. **Gabbard — שימוש התפתחותי [G-9]:** הפורמולציה משתמשת בתאוריה התפתחותית כדי לקבוע האם חוויית העצמי של המטופל **\"developmentally frozen\" (arrested)** בשלב ספציפי, או **רגרסי** תחת לחץ לשלבים פרימיטיביים (oral/anal/phallic-oedipal/separation-individuation). **Anna Freud developmental lines** — **[NOT IN GABBARD]** — acquisition TODO. *Takeaway:* הציר ההתפתחותי אומר לא רק \"גיל כרונולוגי\" אלא \"גיל **תפקודי** לאורך מספר ציוני דרך\", והסוגיה אם יש **arrest** (קיבעון) או **רגרסיה** תחת לחץ. בלי הציר הזה = פורמולציה של מבוגר שהודבקה לילד.",
+      "note_id": "1777001881545"
+    },
+    {
+      "id": "1777001881547",
+      "front_md": "4-P Framework — זמן + סוגיה",
+      "back_md": "**המסגרת השנייה שחייבים לשלב עם 4 ה-quadrants [D-8]:** **Predisposing** = פגיעויות בסיסיות ביו/פסיכו/חברתי/תרבותי/רוחני המקוננות בהיסטוריה (**\"מה היה לפני\"** — גנים, טמפרמנט). **Precipitating** = גורמי דחק אקוטיים, מעברים התפתחותיים, או אירועים שמעוררים את המשבר הנוכחי (**\"מה גרם עכשיו\"** — מעבר לבית ספר חדש, פטירה). **Perpetuating** = דינמיקות מתמשכות ששומרות את הבעיה (**\"מה שומר זאת\"** — מחלוקת משפחתית, הורות עונשית בתגובה לאימפולסיביות). **Protective [D-9]** = חוזקים + resilience + תכונות חיוביות של הילד והמשפחה (**\"מה עוזר\"** — תיעול ספורטיבי, הורה מקבל, IQ גבוה). **[NOT IN DULCAN]** של cross-tab 4P × 4-quadrant פורמלי — Dulcan ממליצה לשלב אבל לא מספקת grid מפורש. *Structural hook:* כשאתה נכנס לפורמולציה — חשוב על **מטריצת 4×4**. לכל quadrant, שאל את 4 ה-P's. 16 תאים סה\"כ. הבוגר ממלא 10-14 מהם; המתחיל שוכח את Protective ואת Perpetuating.",
+      "note_id": "1777001881547"
+    },
+    {
+      "id": "1777001881551",
+      "front_md": "אינטגרציה — Gabbard's 3-component Sperry structure",
+      "back_md": "**Dulcan's recommended approach [D-3] [D-10]:** > \"The adept clinician will gather information and weave it together to create a biopsychosocial formulation that can then inform treatment.\" [D-10]. **Gabbard's 3-component Sperry et al. (1992) [G-10]:** > \"The formulation should begin with a sentence or two describing the clinical picture and the associated stressor or stressors precipitating the reason for seeking help. The second part of a formulation is developing a set of hypotheses about how biological, intrapsychic, and sociocultural factors contribute to the clinical picture. The third component is a brief statement about how the first two features of the formulation may inform the treatment and the prognosis.\" [G-10]. **הפורמולציה = working hypothesis:** > \"The formulation should also be approached with the understanding that it undergoes continual modification as treatment proceeds. In dynamic psychiatry, diagnosis and treatment are always evolving together.\" [G-11]. *Takeaway:* מתמחה חכם **לא בורח מאי-ודאות** — הוא מציג פורמולציה כהיפותזה עם מרחב לתיקון. זה מה שבוחנים מצפים לראות ב-Committee 3: לא תשובה חתומה, אלא **תהליך חשיבה גמיש**.",
+      "note_id": "1777001881551"
+    },
+    {
+      "id": "1777001881553",
+      "front_md": "Age-variant Formulation — 4 פורמולציות שונות",
+      "back_md": "**Infant/toddler (0-3) [D-11]:** 5 צירי ה-**DC:0-5** (Clinical disorders / Relational context / Physical health context / Psychosocial stressors / Developmental competence). העקרון המארגן: **מערכת הקשר ההורית = הקובעת החזקה ביותר**. **Preschool (3-5) [D-12]:** לא ראיון-יחיד אלא **multi-session observations** (dyadic play + semi-structured tasks). מצגת לבית = מסגור הסימפטומים כ**mismatch** בין התנהגויות הורים לצרכי הילד. **School-age (6-11) [D-13]:** סינתזה **ישירה ונייטרלית** למשפחה, **פתיחה בחוזקים**, הצגת הגורמים המרובים → הצדקת התערבויות נחוצות (הדרכת הורים / טיפול משפחתי). **Adolescent (12-18) [D-14]:** **השפעות הדדיות** מתבגר-משפחה, מבנה מפורש של Predisposing/Precipitating/Perpetuating (+ biological/psychological/social/cultural/spiritual), \"**sandwiched**\" בין חוזקים להעברת תקווה. *Contrastive anchor:* 0-3 = **דיאדה**. 3-5 = **multi-session observations**. 6-11 = **משפחה + strengths first**. 12-18 = **הדדיות + 4P מפורש + sandwich**. מתמחה שטוען שהוא \"עושה פורמולציה\" בלי להבחין בין 4 המצבים — מפספס.",
+      "note_id": "1777001881553"
+    },
+    {
+      "id": "1777001881556",
+      "front_md": "5 הטעויות הנפוצות",
+      "back_md": "**Dulcan 3 errors [D-15] [D-16] [D-17]:** (1) > \"One of the most common mistakes that inexperienced interviewers make is to prematurely home in on a diagnosis.\" [D-15] — **premature closure** לפני שה-4 quadrants נבדקו; (2) > \"Building rapport with one party to the exclusion of the other is generally not useful and will often impair ultimate treatment success.\" [D-16] — הברית התלת-צדדית (ילד-הורה-קלינאי) חיונית; (3) > \"Clinicians may have their own fantasies of rescuing a child from 'terrible' parents.\" [D-17] — **rescue fantasy** traitor של neutrality. **Gabbard 2 errors [G-12] [G-13]:** (4) > \"thinking of psychotherapy as a treatment for 'psychologically based disorders' and medications as a treatment for 'biological or brain-based disorders' is a specious distinction.\" [G-12] — ההפרדה מפורקת על ידי GxE ו-developmental cascades; (5) > \"rigidly imposing theory onto clinical material. The patient must be allowed to lead the clinician into whatever theoretical realm appears to be the best match for the clinical material.\" [G-13]. *Clinical takeaway:* פורמולציה חכמה **מתחילה מהקליני** (מה הילד מציג, מה הסטרסור) ונבנית כלפי התיאוריה — לא ההפך. המתחיל קופץ לאבחנה ב-DSM אחרי 10 דקות, מתייג את המשפחה כ\"רעילה\", ומכניס את המקרה לקופסה תיאורטית מוכנה מראש.",
+      "note_id": "1777001881556"
+    },
+    {
+      "id": "1777001881558",
+      "front_md": "Causation vs Meaning — \"Mindful psychiatry\"",
+      "back_md": "Gabbard verbatim: > \"In psychodynamic psychiatry, we must differentiate causation from meaning. Psychiatry that loses the domain of meaning is mindless.\" [G-14]. גם אם הפרעה ביולוגית טהורה ב**causation**, המטופל יארוג אותה ב**meaning** האישי שלו — לכן הפורמולציה הביו-פסיכו-סוציאלית-התפתחותית **רלוונטית לכל מצב פסיכיאטרי**, לא רק ל\"הפרעות נפשיות במקור\". *Takeaway:* כאשר ADHD מופיע בילד ספציפי עם אבא קטליסט ואם מוצפת, ה-**meaning** שהילד עושה עם ה-**causation** הגנטי שלו הופך את התמונה הקלינית לייחודית. בלי זה — הפורמולציה הופכת לדיאגנוזה מנותקת.",
+      "note_id": "1777001881558"
+    },
+    {
+      "id": "1777001881560",
+      "front_md": "CAP Landmark Papers — איך משתלבים בפורמולציה",
+      "back_md": "**Caspi 2003 (GxE) [P-1]:** גנים לא גורמים לדיכאון באופן דטרמיניסטי; הם **מגבירים רגישות לסטרסורים ספציפיים**. בפורמולציה: יש לחפש את **הסטרסור שהפעיל את הדיספוזיציה**. **Moffitt 1993 (developmental taxonomy) [P-2]:** שני מסלולים אטיולוגיים להתנהגות אנטי-סוציאלית — **life-course-persistent** (נוירו-התפתחותי, מוקדם, יציב) לעומת **adolescence-limited** (מושפע-עמיתים, זמני). הפורמולציה חייבת לשאול **על ציר הזמן והמסלול** ולא רק על \"הסימפטום הנוכחי\". **Sonuga-Barke 2005 (multiple pathways) [P-3]:** דפיציט ביולוגי ראשוני **טרנזאקט** עם הסביבה לאורך זמן — הורות עונשית → delay aversion → cascade. לא \"סיבה אחת → סימפטום אחד\" אלא **cascade התפתחותי**. *Takeaway:* 3 המאמרים הם **3 עקרונות מארגנים** לפורמולציה הפדיאטרית: (1) **GxE** — תמיד לשאל על הסטרסור המפעיל את הגנים; (2) **Developmental taxonomy** — תמיד לשאל על ציר הזמן והפרוגנוזה; (3) **Cascades** — תמיד לשאל על האינטראקציה הטרנזאקטיבית ולא על סיבה יחידה.",
+      "note_id": "1777001881560"
+    }
+  ]
+}

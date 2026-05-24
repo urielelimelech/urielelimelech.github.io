@@ -1,0 +1,151 @@
+{
+  "id": "B004-mse-pediatric",
+  "label": "B004 · סטטוס פסיכיאטרי בילדים · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1776891385766",
+      "front_md": "[9-domains] מה 9 הדומיינים של MSE פדיאטרי לפי Dulcan Table 4-3?",
+      "back_md": "Appearance · Behavior/Relatedness · Speech · Motor · Mood/Affect · Thought Process+Content · Perception · Cognition · Impulse control/Insight/Judgment [D-1].",
+      "note_id": "1776891385766"
+    },
+    {
+      "id": "1776891385767",
+      "front_md": "[Uniqueness] מה 2 הייחודים של MSE פדיאטרי מול MSE מבוגרים?",
+      "back_md": "(1) **תצפית משולשת** — ילד-הורה-בודק [D-1]; (2) **יכולות אקדמיות** (קריאה/כתיבה/חישוב) כחלק מהקוגניציה [D-5].",
+      "note_id": "1776891385767"
+    },
+    {
+      "id": "1776891385768",
+      "front_md": "[Preschool] איזו יחידת בסיס של MSE בגיל גן?",
+      "back_md": "**הדיאדה** — תצפית על ילד+הורה; הילד אינו ישות אוטונומית פסיכולוגית [D-2].",
+      "note_id": "1776891385768"
+    },
+    {
+      "id": "1776891385769",
+      "front_md": "[School-age] מאיזה גיל מתחילה חשיבה מופשטת?",
+      "back_md": "סביב **9-10 שנים** [D-6]. לפני כן — פעולות קונקרטיות (Piaget).",
+      "note_id": "1776891385769"
+    },
+    {
+      "id": "1776891385770",
+      "front_md": "[Speech-verbatim] Dulcan על שפה בגיל בי\"ס?",
+      "back_md": "> \"Children typically use short sentences. Their lack of elaborate responses is indicative not of their unwillingness to speak but rather their tendency to be terse\" [D-6].",
+      "note_id": "1776891385770"
+    },
+    {
+      "id": "1776891385771",
+      "front_md": "[Play] איך Dulcan מנחה להעריך מחשבה דרך משחק (verbatim)?",
+      "back_md": "> \"When a child struggles to communicate verbally or has difficulty using words to describe emotional states or sensitive issues, using pictures or toys can be helpful\" [D-8].",
+      "note_id": "1776891385771"
+    },
+    {
+      "id": "1776891385772",
+      "front_md": "[Play] מה \"Flow of play\" בוחן?",
+      "back_md": "ארגון, perseveration, רצף סיבתי — **תהליך החשיבה** דרך ניתוח תמות משחק סימבולי [D-10].",
+      "note_id": "1776891385772"
+    },
+    {
+      "id": "1776891385773",
+      "front_md": "[Play-technique] מהי \"descriptive commenting\"?",
+      "back_md": "הבודק פועל כ-צופה-משתתף ומעיר בקול (\"אני תוהה למה התינוק בוכה\") בלי להוביל את המשחק — חושף עולם תוכן דרך השלכה [D-10].",
+      "note_id": "1776891385773"
+    },
+    {
+      "id": "1776891385774",
+      "front_md": "[Mood-Affect] ההבדל הפורמלי Mood vs Affect?",
+      "back_md": "**Mood** = סובייקטיבי במילות הילד. **Affect** = תצפית אובייקטיבית ב-5 פרמטרים: **Quality · Stability · Intensity · Appropriateness · Range** [D-1].",
+      "note_id": "1776891385774"
+    },
+    {
+      "id": "1776891385775",
+      "front_md": "[Insight] למה Insight מוגבל בילדי בי\"ס צעירים?",
+      "back_md": "חוסר בשלות — מתחילים לפתח awareness of situations + awareness of disruption rate only [D-14].",
+      "note_id": "1776891385775"
+    },
+    {
+      "id": "1776891385776",
+      "front_md": "[Judgment] 2 דרכים להעריך שיפוט בילדים?",
+      "back_md": "(1) שאלות היפותטיות מותאמות (מה לעשות במקרה אש?); (2) שאיבה מאירועי ההיסטוריה האמיתיים [D-14].",
+      "note_id": "1776891385776"
+    },
+    {
+      "id": "1776891385778",
+      "front_md": "[Cognition-adolescent] מה אבסטרקציה נמדדת ב-MSE מתבגר?",
+      "back_md": "פירוש **פתגמים** + **similarities** (דמיון בין מושגים) [D-7].",
+      "note_id": "1776891385778"
+    },
+    {
+      "id": "1776891385779",
+      "front_md": "[Cognition-school] מה צריך לבדוק בקוגניציה של ילד בי\"ס?",
+      "back_md": "התמצאות · קשב · זיכרון (חלש יחסית — פשט שאלות) · ידע כללי · **קריאה/כתיבה/חישוב** [D-4, D-5].",
+      "note_id": "1776891385779"
+    },
+    {
+      "id": "1776891385780",
+      "front_md": "[Red-flag-psychosis] מה לעשות כילד מדווח על הלוצינציות?",
+      "back_md": "**שלול ראשית:** delirium, רעלנים, מצב חום אקוטי; הבחן מפנטזיות נורמטיביות/חבר דמיוני [D-15]. פסיכוזה נדירה מאוד בילדים קטנים.",
+      "note_id": "1776891385780"
+    },
+    {
+      "id": "1776891385781",
+      "front_md": "[Red-flag-schizophrenia] סימני early-onset schizophrenia ב-MSE?",
+      "back_md": "**Loose associations + חשיבה אילוגית + השטחת אפקט** [D-16].",
+      "note_id": "1776891385781"
+    },
+    {
+      "id": "1776891385782",
+      "front_md": "[Red-flag-stereotypies] תנועות סטריאוטיפיות במתנה על מה?",
+      "back_md": "**טיקים או ASD** (נפנופי ידיים, סידור צעצועים בשורה) [D-18].",
+      "note_id": "1776891385782"
+    },
+    {
+      "id": "1776891385783",
+      "front_md": "[Errors] למה להימנע משאלות \"why\" בילדי בי\"ס (verbatim)?",
+      "back_md": "> \"A general rule in asking children questions is to avoid 'why' questions. Asking about cause requires analytical thinking that is beyond many children's abilities\" [D-6].",
+      "note_id": "1776891385783"
+    },
+    {
+      "id": "1776891385784",
+      "front_md": "[Errors-face-value] דוגמה קלאסית ל-face-value trap ב-MSE?",
+      "back_md": "\"הוא לא מציית\" של ההורה → ב-MSE מתגלה **inattention / receptive language impairment / hearing** — לא defiance [D-21].",
+      "note_id": "1776891385784"
+    },
+    {
+      "id": "1776891385785",
+      "front_md": "[Errors-premature] הציטוט verbatim על סגירה אבחנתית מוקדמת?",
+      "back_md": "> \"One of the most common mistakes that inexperienced interviewers make is to prematurely home in on a diagnosis\" [D-20].",
+      "note_id": "1776891385785"
+    },
+    {
+      "id": "1776891385786",
+      "front_md": "[Committee 1] מה MSE מהווה ב-10 דק׳ המצגת?",
+      "back_md": "אחד מ-**3 רכיבי המצגת** — לצד \"סיכום ממצאים\" ו\"אבחנה מבדלת\" [StageB-1].",
+      "note_id": "1776891385786"
+    },
+    {
+      "id": "1776891385787",
+      "front_md": "[Documentation] האם Dulcan מגדיר פורמט כתוב ל-MSE?",
+      "back_md": "**לא** — [NOT IN DULCAN] לגבי פורמט התיעוד. הספר מפורט על **תוכן** ולא על **מבנה כתיבה** [D-19].",
+      "note_id": "1776891385787"
+    },
+    {
+      "id": "1776891385788",
+      "front_md": "[Case Brian] איך תועד הקשר בין תנועות Brian לראיון (verbatim)?",
+      "back_md": "Jerky movements **\"distinctly increased in frequency when asked a question\"** [C-1] — דוגמה לקישור אובייקטיבי של התנהגות מוטורית לטריגר הראיון.",
+      "note_id": "1776891385788"
+    },
+    {
+      "id": "1776891385792",
+      "front_md": "[Case Brian] איך תועדו הלוצינציות של Brian תצפיתית?",
+      "back_md": "\"appeared distracted and at times responded to derogatory comments from a hallucinated voice named 'Brian'\" [C-1] — תיעוד **תצפיתי** של תגובה לגירויים פנימיים, לא רק דיווח עצמי.",
+      "note_id": "1776891385792"
+    },
+    {
+      "id": "1776891385793",
+      "front_md": "[Case Sam] איך הקלינאי העריך קוגניציה של Sam 10y?",
+      "back_md": "לא מבחני מבוגרים — אלא: סיכום סרט *Mighty Joe Young*, קריאת picture-book *Leo the Late Bloomer*, חישוב 5+3=7 — תיעוד **verbatim** של התגובות [C-5].",
+      "note_id": "1776891385793"
+    }
+  ]
+}

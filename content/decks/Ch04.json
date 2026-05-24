@@ -1,0 +1,1093 @@
+{
+  "id": "Ch04",
+  "label": "פרק 4 — הערכת ילדים בגיל בית ספר",
+  "source": "dulcan",
+  "cards": [
+    {
+      "id": "C01-age-definition-setting",
+      "front_md": "**הגדרה: ילד בגיל חינוך יסודי + מטרת הערכה**",
+      "back_md": "ילדים בגיל חינוך יסודי (school-age) מוגדרים בפרק כגילאי **6-12 שנים**. הערכה מתבצעת במגוון מסגרות — מיון, אשפוז ילדים, בית-ספר, מרפאת outpatient — והמטרה משתנה לפי המסגרת. הפרק מתמקד ב-**outpatient clinic**, שם המטרה היא **comprehensive evaluation** מקיפה שמקיפה את הילד, המשפחה, ביה\"ס, ועמיתים. זו הבחנה חשובה: הערכה במיון ממוקדת בבטיחות ובדיספוזיציה מיידית, בעוד שב-outpatient מדובר בהערכה רב-מימדית שמתפרסת על פני מספר פגישות.\n\n*Dulcan 3e, Ch 4 · \"Introduction\"*",
+      "note_id": "1777035043078"
+    },
+    {
+      "id": "C01-defining-school-age-and-settings",
+      "front_md": "**הגדרת גיל בית-ספר וזירות הערכה**",
+      "back_md": "ילדים בגיל בית-ספר מוגדרים כבני 6–12. הערכה פסיכיאטרית עשויה להתבצע במגוון זירות — חדר מיון, מחלקת ילדים, בית הספר, או מרפאה ambulatorit פסיכיאטרית. **המטרות משתנות לפי הזירה**: בחדר מיון המוקד הוא טריאז' ובטיחות, בעוד שבמרפאה החוץ-ביתית המטרה היא **comprehensive evaluation** מקיפה. הפרק כולו ממוקד בזירת המרפאה החוץ-ביתית, שבה לקלינאי יש זמן ומסגרת לבצע הערכה רב-ממדית הכוללת ילד, הורה, מורים, רישומי בית ספר ומקורות נוספים. ההבחנה בין הזירות חיונית — לא ניתן ליישם פרוטוקול הערכה ambulatorit שלם בחדר מיון, ולהפך.\n\n*Dulcan 3e, Ch 4 · \"Introduction\"*",
+      "note_id": "1777035043079"
+    },
+    {
+      "id": "C02-consent-and-pre-meeting-observation",
+      "front_md": "**הסכמה ותחילת הערכה לפני המפגש הפורמלי**",
+      "back_md": "הסכמה להערכה ולטיפול בילד חייבת להתקבל מההורה (או אפוטרופוס חוקי) **לפני** תחילת ההערכה. בפרק זה parent מתייחס לכל מי שאחראי חוקית. ההערכה עצמה יכולה להתחיל **לפני המפגש הפורמלי** — כשניתן, יש ערך רב לקלינאי לצפות באינטראקציות הלא-פורמליות של הילד והמשפחה בחדר ההמתנה לפני ההצגה. צפייה זו מספקת מידע \"טבעי\" שאינו זמין בסיטואציה הקלינית הרשמית, שבה כולם נמצאים על משמרתם. מקור המידע הזה זול, מהיר, ולעיתים חושף דפוסים (אימפולסיביות, חוסר פיקוח הורי) שלא יעלו בראיון מובנה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043080"
+    },
+    {
+      "id": "C02-waiting-area-observation",
+      "front_md": "**תצפית באזור ההמתנה לפני ההיכרות הפורמלית**",
+      "back_md": "לפני ההיכרות הפורמלית, המטפל יכול ורצוי שיתבונן באינטראקציה הבלתי-פורמלית של הילד והמשפחה באזור ההמתנה. אצל הילד שמים לב ל-level of activity, רמת סקרנות, אינטראקציות חברתיות עם ילדים ומבוגרים, ו-impulse control. אצל ההורים מתבוננים ברמת העניין והפיקוח על הילד, היענות לצרכיו, ויכולת להכיל תסכולים שעולים. תצפית זו מספקת מידע לא-מסונן (unfiltered) שלפעמים שונה מההתנהגות בחדר — ילד שקט בקליניקה יכול להיות פרוע במסדרון, וההיפך.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043082"
+    },
+    {
+      "id": "C03-family-distress-neutral-stance",
+      "front_md": "**מדוע המשפחה מגיעה במצוקה + תפקיד הקלינאי**",
+      "back_md": "רוב המשפחות מגיעות להערכה פסיכיאטרית ברמת מצוקה לא-מבוטלת: (1) חומרת הבעיה עצמה, (2) השפעה על החיים המשפחתיים, (3) בושה או מבוכה סביב פנייה לעזרה נפשית. תפקיד הקלינאי להעמיד את המשפחה בנוח (**place the family at ease**) באמצעות תנוחה **ניטרלית, בלתי-שיפוטית ורגועה**. בושה היא נקודה מפתח — היא לא רק רגשית, אלא עלולה להוביל למסירת מידע חלקי או מינימיזציה. קלינאי שיוצר אווירת ביטחון מוקדם מקבל היסטוריה עשירה יותר.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043083"
+    },
+    {
+      "id": "C03-waiting-room-observations",
+      "front_md": "**מה לחפש בתצפית בחדר ההמתנה**",
+      "back_md": "הקלינאי מתבקש לצפות בארבעה ממדים של הילד ושלושה ממדים של ההורה:\n\n**הילד** — (1) רמת פעילות (level of activity), (2) רמת סקרנות (level of curiosity), (3) אינטראקציות חברתיות עם ילדים ומבוגרים אחרים, (4) שליטה בדחפים (impulse control).\n\n**ההורה** — (1) רמת עניין ופיקוח על הילד, (2) קשב לצרכי הילד, (3) יכולת ניהול תסכולים שעולים. תצפית קצרה זו עשויה לחשוף ADHD, ASD, חרדה חברתית, חוסר תמיכה הורית או יחסי הורה-ילד מעורערים — כל אלה רלוונטיים להערכה ולפורמולציה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043084"
+    },
+    {
+      "id": "C04-introduction-and-rapport",
+      "front_md": "**הצגה ראשונית ויצירת רוגע במשפחה**",
+      "back_md": "מרבית המשפחות מגיעות במצוקה — בגלל חומרת הבעיות, ההשפעה המשפחתית, ו**בושה או מבוכה** סביב פניה לטיפול נפשי. הקלינאי חייב להתאמץ ליצור אווירה רגועה. שלושה מאפיינים המתוארים ב-Dulcan: **neutral, nonjudgmental, and calm demeanor**. זה אינו טכניקה אלא פוזה כללית. ההצגה כוללת תיאור של תהליך ההערכה לילד ולהורה. בלי ההפחתת מתח הזו, המשפחה תיכנס ל-defense, תסתיר מידע ולא תחזור לפגישה הבאה. השלב הזה הוא קריטי לבניית rapport ארוך-טווח, שבלעדיו אין הערכה אמיתית.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043085"
+    },
+    {
+      "id": "C04-office-setup-materials",
+      "front_md": "**סידור חדר הערכה לילד בגיל חינוך יסודי**",
+      "back_md": "חדר מתאים לילד וגם להורים: (1) ישיבה נוחה, (2) סידור רהיטים שמאפשר **direct eye contact**, (3) חומרים מותאמי-גיל. ילדים בגיל זה נמשכים ל-**games with rules** — משחקי לוח, פאזלים — אבל עדיין עסוקים במשחק דמיוני, ולכן יש לדאוג גם ל-dolls, action figures, ו-building blocks. כלי ציור הם קריטיים: הם נותנים לילד activity, וגם משמשים לאבחון יכולות motor, writing, ו-artistic. חשוב להבהיר לילד שהמפגש הוא לדבר בלבד — no shots — כי רוב הילדים מקשרים \"דוקטור\" לחיסונים וזה מפחיד אותם.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043086"
+    },
+    {
+      "id": "C05-appointment-structure-joint-vs-alone",
+      "front_md": "**מבנה הפגישה הראשונה — יחד או הורים קודם?**",
+      "back_md": "יש שונות בין קלינאים: חלק נפגשים עם הורים וילד **יחד** מראש, אחרים עם **הורים לבד** קודם. היתרון של פגישה משותפת — כל אחד מרגיש שהקלט שלו מוערך במידה שווה; הילד לא חושד במה מדברים עליו בלעדיו. היתרון של פגישה נפרדת עם הורים קודם — אפשר לקבל היסטוריה בעייתית שההורים לא ישתפו עם הילד. אבל **פגישות נפרדות בסופו של דבר הכרחיות** — אין חלופה. במהלך החלק המשותף, תפקיד הקלינאי לעצור נושאים שאינם מתאימים לאוזן הילד — זה מדגמן התנהגות מתאימה להורים.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043087"
+    },
+    {
+      "id": "C05-office-design",
+      "front_md": "**עיצוב המשרד לילד בגיל בית-ספר**",
+      "back_md": "המשרד צריך להיות **נוח למבוגרים ומזמין לילד**. אלמנטים: ישיבה נוחה, סידור רהיטים שמאפשר eye contact ישיר, וצעצועים מתאימי-גיל. ילדים בגיל בית-ספר מתחילים להבין ולהיכנס ל-**games with rules** (משחקי לוח, פאזלים), אך עדיין עוסקים ב-imaginative play, לכן בובות, action figures ו-building blocks שימושיים. נייר וצבעים חיוניים — הם מספקים פעילות, ערוץ תקשורת, והערכה של מיומנויות motor, writing ו-artistic של הילד. עיצוב נכון של המשרד הוא **כלי הערכה בפני עצמו** ולא רק רקע פיזי.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043088"
+    },
+    {
+      "id": "C06-differentiating-from-pediatric-visit",
+      "front_md": "**הבדלה מהביקור הפדיאטרי — \"אין זריקות\"**",
+      "back_md": "מרבית הילדים בגיל בית-ספר רגילים לבקר אצל **pediatrician**, שם נבדקים פיזית ומקבלים חיסונים. החוויה הזו עלולה להיות מאיימת. לכן חיוני להבהיר לילד ש**מטרת הביקור הזה היא לדבר ושלא יקבל שום זריקה** (\"the purpose is to talk and that no shots will be given\"). הבהרה קצרה זו מסירה חרדה אנטיציפטורית משמעותית, מאפשרת שיתוף פעולה עם הראיון, ומונעת התנגדות פסיבית או בכי שמסכלים את ההערכה. זה גם מגדיר את ההתערבות הפסיכיאטרית כ**שיחה** — כבסיס לטיפול עתידי.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043089"
+    },
+    {
+      "id": "C06-icebreaker-questions",
+      "front_md": "**שאלות פתיחה (ice-breaker) נורמטיביות**",
+      "back_md": "לילדים בגיל חינוך יסודי קשה להבין את הרעיון של \"פגישה עם מטפל בגלל בעיות רגשיות\". לכן, פתיחה ב-**normative nonthreatening questions** מרגיעה את הילד ומעבירה את המסר שהקלט שלו חשוב. דוגמאות: גיל, כיתה, שמות בני משפחה, חיות מחמד, תחומי עניין, תחביבים, חברים. יתרון נוסף — התשובות מספקות מידע **social history** ו-**mental status** (שפה, טון, הבנה, רמת שיתוף-פעולה) לפני שהילד מתעייף או נסגר.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043090"
+    },
+    {
+      "id": "C07-confidentiality-script",
+      "front_md": "**שיחת confidentiality — לילד ולהורים**",
+      "back_md": "לאחר \"שבירת הקרח\" חשוב לדון בסודיות ובגבולותיה (**mandatory reporting**). טקסט לילד בגיל 6-12 (Dulcan): *\"מה שאתה משתף איתי חשוב מאוד, ואני לא יכול לשתף את המידע עם אף אחד אחר אלא אם כן אחשוב שזה חשוב ואקבל את רשות ההורים שלך. אבל לפעמים, אם אדאג לבטיחות שלך או של אנשים סביבך, ייתכן שאשתף מידע עם אנשים שיכולים לעזור.\"* בנוסף — **גם ההורים** חייבים להבין את כללי הסודיות, כדי שיבינו שאם ישתפו מידע על safety, ייתכן שיופעלו גופים להגנה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043091"
+    },
+    {
+      "id": "C07-joint-vs-separate-meetings",
+      "front_md": "**מבנה הפגישה הראשונה — ביחד או נפרד**",
+      "back_md": "קיימת **שונות בין קלינאים** — חלק מעדיפים להיפגש עם ההורה והילד יחד, וחלק תחילה עם ההורה לבד. **יתרון מפגש משותף**: כולם מרגישים שהקלט שלהם מוערך באותה מידה. **יתרון מפגש נפרד עם ההורה תחילה**: ניתן לקבל מידע ללא נוכחות הילד; אך עלול לעורר חשדות אצל הילד מה נאמר עליו. הכלל המוחלט: **בכל מקרה — נדרשים מפגשים נפרדים לבסוף עם הילד והורה בנפרד**, גם אם הפגישה הראשונה הייתה משותפת. שני המודלים לגיטימיים, ההחלטה תלויה בסגנון הקלינאי ובמשפחה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043092"
+    },
+    {
+      "id": "C08-multidomain-functioning",
+      "front_md": "**הילד פועל במספר domains — לא רק במשפחה**",
+      "back_md": "הבנת הקלינאי לא יכולה להיות מצומצמת רק לילד ולמשפחה. הילד פועל בתחומי חיים משמעותיים נוספים: **school, social relationships, leisure activities**. כל תחום נותן זווית אחרת — ילד יכול להיות שונה בבית לעומת ביה\"ס לעומת קבוצת כדורגל. בנוסף חשוב לברר **previous evaluations or psychiatric treatment** ואת הניסיון שנצבר — מה עזר, מה לא, איך המשפחה חוותה את הטיפול. זה מונע חזרה על טיפולים שנכשלו ומסייע לבנות שיתוף-פעולה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043093"
+    },
+    {
+      "id": "C08-normative-icebreaker-questions",
+      "front_md": "**שאלות נורמטיביות לשבירת הקרח**",
+      "back_md": "עבור ילד בגיל בית-ספר, המושג \"פגישה עם איש מקצוע לפתור בעיות רגשיות\" עשוי להיות קשה להבנה. לכן השלב הראשון הוא **שאלות נורמטיביות, לא-מאיימות** — שיטה אפקטיבית להפחית מתח ולהעביר מסר שהקול של הילד חשוב. דוגמאות: גיל, כיתה, שמות בני המשפחה, חיות מחמד, תחביבים, חברים. **בונוס**: התשובות מספקות מידע רלוונטי להיסטוריה חברתית ולסטטוס המנטלי (מצב אפקט, התעניינות, יכולת עיבוד שאלות). השאלות הנורמטיביות הן גם הערכה וגם רפורט — שני יעדים בכלי אחד. אסטרטגיה זו עדיפה על שאילה ישירה על הסיבה לפניה כפתיחה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043094"
+    },
+    {
+      "id": "C09-collateral-poor-recall-disagreement",
+      "front_md": "**איסוף מידע מקורות חיצוניים (collateral) — למה חובה**",
+      "back_md": "איסוף collateral information מספק תמונה מלאה יותר ומתקן דיווחים לא-מדויקים, משתי סיבות מחקריות: (1) ילדים צעירים יש להם זכירה **moderately accurate** של אירועים (Edelbrock et al. 1985; Henry et al. 1994); (2) בדרך כלל אין הסכמה בין דיווחי ילדים, מטפלים ומורים (Herjanic and Reich 1982). המשמעות המעשית — על קלינאי לא להסתמך על מקור יחיד. דרוש **consent כתוב וורבלי** לתקשר מידע. רוב ההורים מסכימים עם שיתוף מורים, רופאי ילדים, מטפלים קודמים ובני משפחה, אבל יש שמגבילים — יש לכבד זאת ולחזור לכך כשבונים אמון.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043095"
+    },
+    {
+      "id": "C09-confidentiality-script",
+      "front_md": "**סודיות ודיווח חובה — ניסוח לילד**",
+      "back_md": "לאחר שבירת קרח, יש לדון בסודיות וחריגי מידע חובה. ניסוח דוגמתי לילד: *\"What you share with me is very important, and I cannot share any of the information with anyone else unless I think it is important and I have your parents' permission. But there may be times when I am worried about your safety or the safety of other people around you, and I may share information with people who can help.\"* באותה מידה — **ההורים חייבים לדעת את כללי הסודיות**, כך שיבינו שאם הם משתפים מידע לגבי בטיחות, ייתכן ויידרשו צעדים ליידע גורמי הגנה. ניסוח גלוי זה בונה אמון ומונע תחושת בגידה מאוחר יותר.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043096"
+    },
+    {
+      "id": "C10-collateral-information-sources",
+      "front_md": "**איסוף מידע משלים — אילו דומיינים**",
+      "back_md": "ההבנה של הילד אינה מוגבלת לילד ולמשפחה. הילד מתפקד **בדומיינים נוספים**: בית ספר, יחסים חברתיים, פעילויות פנאי. חיוני גם לאסוף מידע על הערכות וטיפולים פסיכיאטריים קודמים והחוויות שליוו אותם. **מטרת הקולטרל**: גם תמונה מקיפה יותר וגם **תיקון דיווחים לא מדויקים**. שיתוף עם גורמים אחרים דורש **הסכמה כתובה ומילולית** לתקשורת. ברוב המקרים הורים מסכימים לתקשורת עם מורים, ספקים קודמים, רופאים ובני משפחה. חלק מצמצמים שיתוף לסוגי מידע ספציפיים — בקשות אלה יש לכבד; אפשר לחזור אליהן כשמערכת היחסים מתגבשת.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043097"
+    },
+    {
+      "id": "C10-multi-session-evaluation",
+      "front_md": "**הערכה דורשת מספר פגישות — לא ניתן ב-hour אחת**",
+      "back_md": "רוב ההערכות המקיפות **אינן** ניתנות לסיום בפגישה אחת של שעה. ההמלצה — לפרוש את ההערכה על **מספר פגישות** ולהסביר זאת למשפחה בתחילת התהליך כדי לנהל ציפיות. יוצא-דופן: מצבים של acute presentation שמחייבים מעבר מהיר יותר לשלב הטיפול (לדוגמה, ילד בסיכון suicidality חריף). נקודה מעשית — **payers מכתיבים יותר ויותר מגבלות זמן**, וזה אתגר במערכת של reimbursement. הקלינאי צריך לשקול איך לפרוס את ההערכה בצורה שעומדת בגבולות המערכת אך עדיין מקיפה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043098"
+    },
+    {
+      "id": "C11-childrens-recall-accuracy",
+      "front_md": "**דיוק זיכרון של ילדים והורים — בסיס מחקרי**",
+      "back_md": "לאנשים, **ובמיוחד ילדים צעירים**, יש זיכרון מתון בלבד של אירועים — Edelbrock et al. 1985, Henry et al. 1994. בנוסף, פעמים רבות אין הסכמה בדיווח של אירועים בין ילדים, מטפלים ומורים — Herjanic and Reich 1982. שתי תופעות אלה מבססות את הצורך באיסוף מידע ממקורות מרובים: לא כדי \"לתפוס\" שקרים, אלא כדי לבנות תמונה מציאותית מ-discrepancies. כל מקור מידע משקף נקודת מבט (הילד יודע מה הוא חווה, ההורה רואה התנהגות בבית, המורה רואה תפקוד בבית-ספר), והאמת הקלינית מצויה בסינתזה של כולם.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043099"
+    },
+    {
+      "id": "C11-table-4-1-overview",
+      "front_md": "**Table 4-1: מבנה ההערכה הפסיכיאטרית (12 סעיפים)**",
+      "back_md": "Dulcan מציג outline מסודר: (I) Chief complaint — מה הילד אומר + מה ההורה אומר; (II) HPI; (III) Psychiatric ROS; (IV) Past psychiatric history; (V) Past medical history; (VI) Medications and allergies; (VII) Developmental history; (VIII) Educational history; (IX) Family medical history; (X) Family psychiatric history; (XI) Social history; (XII) Abuse and risk assessment. המבנה הזה הוא יותר מ-checklist — הוא משקף את הפילוסופיה ההוליסטית: הילד הוא מערכת ביולוגית-פסיכולוגית-חברתית, וחסר של domain אחד יוצר \"נקודה עיוורת\" בפורמולציה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components / Table 4-1\"*",
+      "note_id": "1777035043100"
+    },
+    {
+      "id": "C12-chief-complaint-child-vs-parent",
+      "front_md": "**Chief complaint — גרסת הילד וגרסת ההורה**",
+      "back_md": "שתי גרסאות — מה הילד אומר + מה ההורה אומר — ולעיתים הן שונות לחלוטין. בהערכת chief complaint מומלץ לשאול את הילד **\"מה סיפרו לך על הפגישה הזאת?\"**. זה חושף (1) מידת המודעות של הילד לבעיות — ילד שאומר \"לא יודע מה אני עושה כאן\" מרמז על חוסר תובנה או על חוסר הכנה ע\"י הורים; (2) רמת שיתוף-פעולה — **ילד opositional** עשוי להכחיש קיום כל בעיה. רוב הפגישה הראשונה בכל מקרה מבוססת על איסוף מההורים; הילד תורם בעיקר ל-HPI, ROS פסיכיאטרי/רפואי ולחלקים מסוימים של social history.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043104"
+    },
+    {
+      "id": "C12-multiple-sessions-and-payer-constraints",
+      "front_md": "**מספר פגישות ואילוצי מבטחים**",
+      "back_md": "מרבית ההערכות המקיפות **לא יכולות להסתיים בפגישת שעה אחת**. אופטימלית, ההערכה מתבצעת על פני מספר פגישות. הקלינאי צריך להסביר זאת למשפחה בתחילת ההערכה כדי לעצב ציפיות. **חריג**: כאשר חומרת ההצגה (acuity) מצדיקה התקדמות מהירה לטיפול. **אילוץ מערכתי**: payers (מבטחי בריאות) מכתיבים יותר ויותר מגבלות זמן — מציאות מערכתית שמתנגשת עם איכות הערכה. הקלינאי חי בין שני קטבים: שאיפה לאמינות ולעומק לעומת לחץ מערכתי לקצור זמן. שיתוף המשפחה בציפיות היא דרך לנהל את המתח הזה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043105"
+    },
+    {
+      "id": "C13-hpi-strategy-broad-to-directed",
+      "front_md": "**אסטרטגיית HPI — מה-broad ל-directed**",
+      "back_md": "שאלה פתיחה אפקטיבית: **\"מה הוביל את המשפחה לחפש טיפול בבריאות הנפש?\"**. דוגמאות שהספר מציע: \"What has concerned you regarding Jocelyn? Why are you seeking treatment now? How were you referred to this clinic?\". לאחר מכן — שאלות ממוקדות יותר. הפרמטרים הקריטיים של HPI: **intensity, frequency, duration, time of onset, triggers, ameliorators, associated symptoms, timing patterns, responses by others**. חשוב להבחין האם הסימפטומים pervasive או limited לסיטואציה, ו-acute או chronic. בנוסף לברר stressors או שינויים אחרונים — מחלה/מוות במשפחה, מעבר לבי\"ס חדש, פרידת הורים, מעבר דירה, לידת אח, נישואים חדשים של הורה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043106"
+    },
+    {
+      "id": "C13-table-4-1-evaluation-outline",
+      "front_md": "**Table 4-1 — מתאר ההערכה הפסיכיאטרית**",
+      "back_md": "12 רכיבים, חיוני להכיר בעל-פה לבחינה: (I) Chief Complaint — מהילד ומההורה בנפרד; (II) HPI; (III) Psychiatric ROS; (IV) Past Psychiatric History (כולל אובדנות, NSSI, אגרסיה); (V) Past Medical History (כולל head injuries, seizures, cardiac); (VI) Medications and Allergies; (VII) Developmental History (maternal, perinatal, milestones, temperament); (VIII) Educational History (early intervention, 504/IEP, records); (IX) Family Medical History; (X) Family Psychiatric History; (XI) Social History (living situation, custody, peers, hobbies, child welfare); (XII) Abuse and Risk Assessment (private — ילד והורה בנפרד). הילד תורם בעיקר ל-HPI, ROS, ולחלקים בהיסטוריה החברתית.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components — Table 4-1\"*",
+      "note_id": "1777035043107"
+    },
+    {
+      "id": "C14-hpi-opening-strategy",
+      "front_md": "**HPI — פתיחה אפקטיבית של ההיסטוריה הנוכחית**",
+      "back_md": "אסטרטגיה אפקטיבית: לשאול **מה הוביל את המשפחה לפנות לטיפול נפשי**. דוגמאות שאלות פתיחה: *\"What has concerned you regarding Jocelyn? Why are you seeking treatment now? How were you referred to this clinic?\"*. **עקרון כללי** — שאלות רחבות נפתחות תחילה, ולאחר מכן שאלות מכוונות יותר. בהקשר ה-CC, חשוב לשאול את הילד **מה נאמר לו על הפגישה** — זה שופך אור על מודעות הילד לבעיות ועל רמת ההיענות (ילדים אופוזיציוניים עלולים להכחיש קיום של בעיות). שאלת ה\"why now\" קריטית — היא מזהה את ה-trigger המידי של הפניה (החמרה, אירוע, החלטה מערכתית).\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043108"
+    },
+    {
+      "id": "C14-psych-ros-required-coverage",
+      "front_md": "**Psychiatric ROS — מה חובה לכסות גם אם לא ב-CC**",
+      "back_md": "תחומים מסוימים חובה לסקור גם אם אינם קשורים ל-chief complaint, כי הם שכיחים בגיל הזה (Kessler et al. 2005): **anxiety disorders** — separation anxiety, social anxiety, selective mutism, specific phobia; **ADHD**; **disruptive, impulse-control, and conduct disorders** — ODD, CD; **learning disorders, autism spectrum disorders, social concerns**; **trauma- and stressor-related disorders**, כולל adjustment disorders; **mood disorders** — depression ו-DMDD; **elimination disorders**. הטעות הקלאסית היא להיצמד לתלונה המוצהרת ולפספס comorbidities שיופיעו במעקב.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043109"
+    },
+    {
+      "id": "C15-past-psychiatric-history",
+      "front_md": "**Past psychiatric history — מה לכסות**",
+      "back_md": "רכיבי ה-past psych hx: (1) הערכות וטיפולים קודמים — גם במסגרות שאינן מיועדות לבריאות הנפש (משרד רופא הילדים, school-based clinic, spiritual guidance); (2) שימוש ב-ED, IOP, PHP, אשפוזים; (3) היסטוריית therapy — סוג ומסגרת; (4) **medication trials**, כולל תרופות שנרשמו ע\"י pediatrician; (5) genetic testing; (6) היסטוריה של SI, suicide attempts או near-attempts, NSSI ideation/behaviors, HI, ו-serious physical aggression. סעיף 6 קריטי כי לא פעם הורים לא מזכירים אותו מעצמם מתוך בושה או הכחשה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043110"
+    },
+    {
+      "id": "C15-symptom-characterization",
+      "front_md": "**אפיון סימפטומים — המימדים לחקור**",
+      "back_md": "לאחר פתיחה רחבה, הקלינאי מעמיק לתוך הסימפטומים על פני **8 מימדים**:\n(1) intensity (עוצמה)\n(2) frequency (תדירות)\n(3) duration (משך)\n(4) time of onset (מתי התחיל)\n(5) triggers (מעוררים)\n(6) ameliorators (מקלים)\n(7) associated symptoms (תסמינים נלווים)\n(8) timing patterns (דפוסי עיתוי)\nו-**responses by others** — איך הסביבה מגיבה.\n\nחיוני להבין: האם הסימפטומים **pervasive או limited** (מוכללים או מצביים)? **acute או chronic** (חד או כרוני)? ההבחנה הזו מנחה אבחון, פורמולציה והחלטות טיפול. דוגמה: התקפי זעם בכל הסיטואציות = פרוגנוזה ואבחון שונה מהתקפים רק בבית.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043111"
+    },
+    {
+      "id": "C16-stressors-and-recent-changes",
+      "front_md": "**סטרסורים ושינויים אחרונים**",
+      "back_md": "חיוני לשאול על stressors או שינויים אחרונים שיכולים להבהיר את ההצגה. רשימת המעוררים השכיחים:\n- **מחלה או מוות של קרוב משפחה**\n- **שינוי בבית הספר** (מעבר, מורה חדש)\n- **פרידה הורית או גירושין**\n- **מעורבות באירוע טראומטי** (עד או קורבן)\n- **מעבר דירה**\n- **לידת אח**\n- **נישואי הורה** (כולל מעבר משפחה משולבת)\n\nלעיתים שינוי שנראה זניח להורה (החלפת מורה) הוא קריטי לילד. השאלות האלה מזהות את הקונטקסט הסיטואציוני, מאפשרות פורמולציה דינמית, ולעיתים חושפות סיבה אדאפטיבית להצגה (adjustment disorder) במקום הפרעה מולדת.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043113"
+    },
+    {
+      "id": "C16-suicide-screening-imperative",
+      "front_md": "**חובת screening ל-SI בילדי חינוך יסודי**",
+      "back_md": "גם חשיבה ו-SI/NSSI קיימים בגיל הזה. יש עלייה **מדאיגה** במקרי התאבדות בילדים ומתבגרים (Janiri et al. 2020). לכן הערכת SI/suicide plans/attempts + NSSI (DeVille et al. 2020) היא imperative ולא אופציונלית. עיקרון מרכזי: **שאלה על SI אינה גורמת לילד לאמץ את המחשבה** (Greene 1994). ההפך — הנזק הרבה יותר גדול אם נמנעים מהשאלה. Inquiry ישיר וברור — ילדים 6-12 מבינים את השאלה כשהיא מנוסחת בצורה מותאמת-גיל (\"האם חשבת אי-פעם שלא תרצה להיות פה יותר?\").\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043114"
+    },
+    {
+      "id": "C17-psychiatric-ros-categories",
+      "front_md": "**ROS פסיכיאטרי — הקטגוריות המחייבות בגיל זה**",
+      "back_md": "חלק מהקטגוריות חייבות להיכלל גם אם אינן רלוונטיות ל-CC. ההפרעות הנפוצות בגיל בית-ספר (Kessler et al. 2005):\n- **Anxiety disorders** — separation anxiety, social anxiety, selective mutism, specific phobia\n- **ADHD**\n- **Disruptive disorders** — ODD, CD\n- **Learning disorders, ASD, או חששות חברתיים**\n- **Trauma- and stressor-related** (כולל adjustment disorders)\n- **Mood disorders** — דיכאון, DMDD\n- **Elimination disorders** (enuresis, encopresis)\n\nהקלינאי **חוצה** את כל הקטגוריות גם בילד שמובא ל-ADHD, מכיוון שתחלואה נלווית היא הכלל ולא היוצא מן הכלל בגיל זה. דילוג על קטגוריה = החמצה אבחונית.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043115"
+    },
+    {
+      "id": "C17-substance-use-preteen",
+      "front_md": "**Substance use בגיל pre-teen — מה לחפש**",
+      "back_md": "שימוש בחומרים לא שכיח בגיל 6-12 אבל **לא אפס**. סיגריות ו-inhalants יכולים להתחיל ב-preteen years. טרנד מדאיג חדש — **vaping of nicotine or marijuana**, לפעמים מתחיל ב-preadolescents (Miech et al. 2019). נקודה הורית חשובה: חשיפה להורים המשתמשים בחומרים היא predictor לשימוש של הילד, וגם ל-mood/anxiety problems ו-poor self-concept (Merikangas et al. 1998). לכן **substance use הורי חייב להיבדק בפרטיות עם ההורה** — לא ליד הילד, גם כדי להגן על willingness of disclosure וגם כדי להגן על הילד מחשיפה לא מתאימה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043116"
+    },
+    {
+      "id": "C18-medical-history-and-cardiac",
+      "front_md": "**Medical history בהערכה פסיכיאטרית**",
+      "back_md": "Mood ו-anxiety בגיל זה יכולים להציג **somatic manifestations** (כאבי ראש, בטן), לכן חובה לוודא שנעשתה evaluation רפואית מקיפה. מחלות רפואיות מדגמות פסיכיאטריה — **thyroid disease, hematological abnormalities**. Baseline רפואי הכרחי לפני פסיכוטרופיקה, כי תרופות רבות משפיעות על organ systems. **Neurological review** חובה — head injuries, loss of consciousness, seizures (ראה Ch 6 — Neuro/EEG/Neuroimaging). **Cardiac history** של הילד ושל המשפחה קריטית כ-precaution לפני מרשם — במיוחד לפני stimulants, atomoxetine, ו-TCAs. סקירה של כל התרופות הנוכחיות (כולל supplements ו-OTC).\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043117"
+    },
+    {
+      "id": "C18-suicidality-in-school-age-children",
+      "front_md": "**אובדנות בילדים בגיל בית-ספר — נתונים והסרת מיתוס**",
+      "back_md": "לא רק שמחשבות והתנהגויות אובדניות **קיימות** בקבוצת גיל זו — היה **alarming increase** בשיעורי ההתאבדות בילדים ובמתבגרים בשנים האחרונות (Janiri et al. 2020). לכן חיוני להעריך **היסטוריה עברית ונוכחית** של מחשבות אובדניות, תכניות, ניסיונות, ו-non-suicidal self-injurious thoughts ו-behaviors (DeVille et al. 2020). **מיתוס שיש להפריך** — שאילה על מחשבות אובדניות **לא** גורמת לילד לאמץ אותן (Greene 1994). **נזק רב יותר אפשרי אם מדיר את הקו הזה משאלה**. כלל הזהב: לא לדלג על השאלות הללו, גם אם נדמה ש\"הילד צעיר מדי לחשוב על זה\".\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043118"
+    },
+    {
+      "id": "C19-family-medical-psych-history",
+      "front_md": "**Family medical + psychiatric history**",
+      "back_md": "**Medical** — cardiac, thyroid, neurological. אלה עוזרים להעריך סיכון רפואי לילד ולזהות מצבים שמצריכים פינוי לפני טיפול. **Psychiatric** — מחלות נפשיות עיקריות בקרובים ביולוגיים, learning problems, emotional/behavioral/personality problems, substance use, ניסיונות אובדניים/מושלמים, תגובה לטיפול תרופתי. חשוב לא רק **genetic predispositions** אלא גם **כיצד ההיסטוריה המשפחתית משפיעה על חיי הילד** — דיכאון הורי, שימוש הורי בחומרים, דיכאון אחים, או התנהגות disruptive של אחים הם stressors פעילים שעיצבו את הילד עכשיו (Ramchandani and Stein 2003).\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043119"
+    },
+    {
+      "id": "C19-substance-use-assessment",
+      "front_md": "**הערכת שימוש בחומרים בגיל בית-ספר**",
+      "back_md": "הערכת חומרים **לא נפוצה** בקבוצת גיל זו, אך **שימוש בטבק או באינהלנטים יכול להתחיל בשנות ה-preteen**. מגמה מדאיגה: **vaping של ניקוטין או מריחואנה** הופכת שכיחה, לפעמים מתחילה אצל preadolescents (Miech et al. 2019). היבט נוסף: **חשיפה להורים שמשתמשים בחומרים** היא predictor לשימוש עתידי בילד, וגם לבעיות mood, חרדה, ו-poor self-concept (Merikangas et al. 1998). **חוק מעשי**: שימוש בחומרים של ההורה צריך להיות מוערך **בפרטיות עם ההורה** — לא בנוכחות הילד, כדי לאפשר דיווח כן ולהגן על הילד מזיהוי תפקיד הורה כ\"מכור\".\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043120"
+    },
+    {
+      "id": "C20-medical-history-key-elements",
+      "front_md": "**היסטוריה רפואית — הרכיבים החיוניים**",
+      "back_md": "חיוני להעריך מספר אלמנטים: (1) **תלונות סומטיות** — מצבי mood וחרדה יכולים להתבטא סומטית בגיל זה (כאבי ראש, בטן); ודא שבוצעה הערכה רפואית יסודית. (2) **מחלות רפואיות שמחקות פסיכיאטריה** — thyroid disease, hematological abnormalities. (3) **השפעת תרופות פסיכוטרופיות** על מערכות אורגניות — נדרשת baseline. (4) **סקירה נוירולוגית** — head injuries, loss of consciousness, seizures (ראה Ch 6 למורחב). (5) **היסטוריה קרדיאלית** של החולה והמשפחה — אזהרה לפני מתן תרופות פסיכוטרופיות. (6) סקירת **כל התרופות הנוכחיות**, כולל OTC, ויטמינים, supplements, herbal remedies, ורגישויות.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043121"
+    },
+    {
+      "id": "C20-social-history-scope",
+      "front_md": "**Social history — היקף הסעיף**",
+      "back_md": "ילדי חינוך יסודי אינם autonomous, חייהם עדיין **intertwined** עם המטפלים. לכן social history מקיף: (1) living situation — שכונה, סוג בית, מי גר בבית; (2) family structure; (3) additional caretakers — קרובים, מטפלות, בייביסיטר; (4) parental relations — מצב משפחתי, natureשל היחסים, custody; (5) step-parents/partners; (6) parental employment; (7) finances; (8) אחים — גילים ויחסים; (9) **attitude של הילד** כלפי הורים, אחים, מטפלים; (10) חברויות, peer group; (11) כישורים, תחביבים; (12) **child welfare involvement**; (13) parental legal involvement; (14) אם ב-foster care — nature של הסידור, סוכנות, case worker, מספר ההשמות. שאלה מרכזית להורה: **\"מה הם הכוחות והכישורים של הילד?\"**.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043122"
+    },
+    {
+      "id": "C21-abuse-assessment-private",
+      "front_md": "**Abuse & risk assessment — חובה בפרטיות, עם הילד וגם עם ההורה**",
+      "back_md": "הסעיף האחרון של Table 4-1 — לגשת אליו כל פעם בנפרד עם הילד ובנפרד עם ההורה. רכיבים: (1) abuse שההורה מדווח; (2) abuse שהילד מדווח (נערך **בנפרד**); (3) harm בבית — domestic violence, physical abuse, נשק חם בבית, neglectful caregivers, substance-using caregivers; (4) דיווח הילד על SI, plans, intentions, past attempts, past behaviors להכנה או near attempts; (5) תוקפנות פיזית משמעותית. הסיבה לפרטיות: ילדים יכולים להיות **משותקים על ידי בושה, פחד מהשלכות, או אשמה** בנוכחות ההורה (שיכול להיות הפוגע או להיתפס כלא-תומך).\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043123"
+    },
+    {
+      "id": "C21-family-medical-and-psychiatric-history",
+      "front_md": "**היסטוריה משפחתית — רפואית ופסיכיאטרית**",
+      "back_md": "**רפואית** — בעיקר cardiac disease, thyroid disease, neurological disease. ידיעה זו עוזרת בהערכת סיכון רפואי של הילד ובהחלטה על תרופות (לדוגמה — היסטוריה של מוות לבבי פתאומי משפיעה על מתן stimulants).\n\n**פסיכיאטרית** — חשובה ביותר. בנוסף לידיעת predisposition גנטי, חיוני להבין כיצד מצבים משפחתיים **משפיעים על חיי הילד**: parental depression, parental substance use, sibling depression, sibling disruptive behavior — כולם משפיעים על תפקוד המשפחה ועל הילד (Ramchandani and Stein 2003). היסטוריה משפחתית **כפולת תפקיד** — גם גורם סיכון גנטי וגם גורם סביבתי (modeling, ירידה בזמינות הורית). אסור להפריד בין השניים בפורמולציה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043124"
+    },
+    {
+      "id": "C22-educational-history",
+      "front_md": "**Educational history — למה זה לעיתים ה-chief reason**",
+      "back_md": "Educational history הוא לעיתים קרובות **הסיבה העיקרית** לפנייה להערכה — קושי בלימודים, התנהגות בכיתה, או בעיות חברתיות בביה\"ס. המרכיבים: (1) early intervention / early childhood programming; (2) הערכת day care/preschool — behavior, activity level, social, language/learning; (3) school history — כישלון בכיתה, מעברי בתי-ספר; (4) **school records** — תעודות, דו\"חות התנהגות, מבחנים סטנדרטיים; (5) special ed — **504 plan** או **IEP**; (6) attendance, academics, behavior, social. School entry חושף שכיחות בעיות שהמשפחה פיצתה עליהן בבית — ODD, LD, שפה, ADHD. ההתערבויות של ביה\"ס (school evaluations, services) הן מידע קריטי.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043125"
+    },
+    {
+      "id": "C22-social-history-school-age",
+      "front_md": "**היסטוריה חברתית של ילד בגיל בית-ספר**",
+      "back_md": "המוקד הוא **הבנת יחסי משפחה** — ילדים בגיל זה אינם autonomous בתפקודים רבים וחייהם עדיין שזורים במטפלים. שאלות מפתח: מה לדעת המטפל הם **חוזקות וכישורי הילד**? בגיל זה, **peers בעלי חשיבות גוברת** — חברויות מבחנות את היכולת לנווט חברתית. אספקטים נוספים חיוניים: **legal issues** — מעורבות social services, custody, parental criminal history. **בערכת התעללות** של הילד או בני משפחה אחרים — נושא קשה אך הכרחי. רכיבים נוספים מ-Table 4-1: location/neighborhood, מבנה משפחה, מטפלים נוספים (relatives, nannies), עמדות הוריות, מצב כלכלי, foster care details, אחים ויחסים.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043126"
+    },
+    {
+      "id": "C23-developmental-history",
+      "front_md": "**Developmental history בהערכת school-age**",
+      "back_md": "גם בגיל 6-12 נשאלת ההיסטוריה ההתפתחותית. רכיבים: (1) maternal history — מחלות, תרופות, חשיפה לטוקסינים, סיבוכי היריון; (2) **delivery history** — gestation, route, birth weight, Apgar; (3) סיבוכים perinatal ו-postnatal; (4) השגת milestones התפתחותיים (motor, speech, toileting); (5) **child temperament**. ההיגיון הקליני: טמפרמנט יכול לזהות risk factors ל-anxiety או disruptive behavior disorders; חשיפה ל-in utero toxins מסבירה learning/behavior problems; איחור milestones מצביע על learning/developmental disorders. גם אם הילד כבר בגיל 9, חסך מידע זה מחליש את הפורמולציה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043127"
+    },
+    {
+      "id": "C23-educational-history",
+      "front_md": "**היסטוריה חינוכית — מסמכים ושירותים**",
+      "back_md": "ההיסטוריה החינוכית כבר נבדקה לעיתים קרובות מכיוון ש**עניינים חינוכיים הם הסיבה הנפוצה ביותר לפניה**. כניסה לבית הספר חושפת **בעיות התנהגות, למידה, חברתיות וחרדה** שהיו תועלות או מותאמות בבית. נדרש לדעת כיצד בית הספר הגיב — הערכות בית-ספר, שירותים שניתנו. רכיבים מ-Table 4-1: **early intervention או תכניות גיל-רך**, day care/preschool assessment (התנהגות, פעילות, חברה, שפה ולמידה), school history (retention, school changes), **school records** (report cards, behavior reports, standardized testing), **special education** — 504 plan, IEP, היסטוריה של נוכחות, הישגים, התנהגות, אינטראקציות חברתיות. בקשת **מסמכים בכתב מבית הספר** היא חובה ולא אופציה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043129"
+    },
+    {
+      "id": "C24-developmental-history",
+      "front_md": "**היסטוריה התפתחותית — למה זה חיוני בגיל בית-ספר**",
+      "back_md": "חשוב לסקור התפתחות גם בגיל בית-ספר. **הבנת הטמפרמנט** של הילד עוזרת לזהות גורמי סיכון לחרדה או להפרעות התנהגות disruptive. **חשיפה לטוקסינים תוך-רחמית** עוזרת להסביר בעיות בלמידה או התנהגות. **השגת מיילסטונים motor, speech, toileting** חשובה לאיתור עיכובים שלא טופלו. רכיבים מ-Table 4-1: היסטוריה אימהית של מחלות, שימוש בתרופות, חשיפה לטוקסינים, סיבוכי הריון; היסטוריית לידה (full-term, route, birth weight, Apgar); סיבוכים perinatal/postnatal; מיילסטונים; טמפרמנט. **גם בגיל 10**, ההיסטוריה ההתפתחותית רלוונטית — היא מסבירה את הקונטקסט שבו ההפרעה הנוכחית התפתחה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043130"
+    },
+    {
+      "id": "C24-separate-interviews-critical",
+      "front_md": "**אילו נושאים דורשים ראיון separately**",
+      "back_md": "קריטי לראיין ילד והורה **בנפרד**: (1) **abuse** — ילד לא מסוגל להעלות בפני ההורה בגלל בושה, פחד, אשמה; (2) **self-esteem, friendships, hobbies** — ילד מרגיש חופשי יותר לדבר על תחושותיו בלי אוזן הורית; (3) **relations בין הורים, היסטוריית מחלות נפש משפחתית, discipline practices** — הורים יותר פתוחים לדבר בלי הילד; לעיתים הם רוצים להעלות נושאים נוספים. במהלך החלק המשותף, תפקיד הקלינאי לעצור שיחה על תכנים לא-מתאימים בנוכחות הילד — זה יוצר אווירה נוחה וגם **מדגמן התנהגות מתאימה** להורים.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043131"
+    },
+    {
+      "id": "C25-cognitive-developmental-features",
+      "front_md": "**Cognitive developmental features — גילאי חינוך יסודי**",
+      "back_md": "Piagetian concrete operations. המאפיינים (Table 4-2): (1) **concrete operations** — conservation ו-classification; (2) **theory of mind מפותח** — הבנה שאחרים חושבים אחרת; (3) **appreciation of rules** — וזה עלול להוביל ל-cognitive rigidity (ילד שנצמד לכללים באופן נוקשה); (4) improved grasp של **time and space**. המשמעות המעשית — הילד יכול לבצע מטלות מתמטיות קונקרטיות, להבין נקודת מבט של אחרים (אמפתיה בסיסית), אבל חסר לו חשיבה אבסטרקטית (שתתפתח ב-adolescence). עבור הקלינאי — שאלות קונקרטיות, לא היפותטיות-אבסטרקטיות.\n\n*Dulcan 3e, Ch 4 · \"Typical Developmental Features / Table 4-2\"*",
+      "note_id": "1777035043132"
+    },
+    {
+      "id": "C25-separate-vs-joint-interviewing",
+      "front_md": "**מתי לראיין נפרד את הילד וההורה**",
+      "back_md": "חיוני לראיין את הילד וההורה **בנפרד** עבור נושאים מסוימים. נושאים שיש לדון בהם **בהיעדר הילד או ההורה**:\n\n**עם הילד לבד** — שאלות על התעללות (קשה לדבר בנוכחות אחרים בגלל בושה, פחד מהשלכות, אשמה); הערכת self-esteem ע\"י שאלות על חברויות ותחביבים.\n\n**עם ההורה לבד** — יחסי הורים, **family history of mental illness**, discipline practices. גם הזדמנות להורים לפתח נושאים נוספים בהיעדר הילד.\n\nבמהלך החלק המשותף — תפקיד הקלינאי **לעצור** דיון על תכנים לא הולמים בנוכחות הילד. זה מקדם תהליך הערכה נוח **ומדגים התנהגות הולמת להורים**.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043133"
+    },
+    {
+      "id": "C26-emotional-features-erikson-competence",
+      "front_md": "**Emotional features — strives for competence**",
+      "back_md": "המנוע הרגשי של גילאי 6-12 — **מאבק ל-competence**. מה שהספר מדגיש: mastery מובילה ל-good self-esteem, חוסר mastery מוביל ל-**low self-esteem, hopelessness, easy frustration, resistance לנסות דברים חדשים**. יכולת גוברת ל-delay gratification ופחות outbursts. זה משתלב עם Erik Erikson (1950) — השלב של 5-12 שנים הוא **industry vs inferiority**. הילדים בוחנים את יכולותיהם דרך לימודים, ספורט, חברויות. ילד שלא מצליח לעמוד באתגרים (למידה לקויה, ID, attentional problems) נמצא ב-**סיכון מיוחד לדיכאון ו-low self-worth**.\n\n*Dulcan 3e, Ch 4 · \"Typical Developmental Features / Erikson 1950\"*",
+      "note_id": "1777035043135"
+    },
+    {
+      "id": "C26-typical-developmental-overview",
+      "front_md": "**Table 4-2 — מאפייני התפתחות תקינה (סקירה)**",
+      "back_md": "המשימות שמושלמות במקביל בגיל בית-ספר: ילדים נעשים מודעים ל-rules, ומודעות זו עלולה להוביל ל-**cognitive rigidity**. בדרך כלל יש להם הבנה טובה יותר של **space and time**. הם מנהלים grooming אישי ויכולים לעזור במשימות בית בסיסיות. ילדים בשלב זה בדרך כלל **eager to learn**, ו-**self-esteem מתחיל להיבנות עם הישגים** בבית-ספר, בית, ופעילויות פנאי. **ילדים עם פגיעה בלמידה** — intellectual disability, learning disorders, attentional problems — נמצאים בסיכון ל-**low self-esteem**. הטבלה מסווגת לפי 6 ממדים: cognitive, emotional, moral, self-view, social, family — כל אחד מהם נסקר בכרטיסים הבאים.\n\n*Dulcan 3e, Ch 4 · \"Typical Developmental Features — Table 4-2\"*",
+      "note_id": "1777035043136"
+    },
+    {
+      "id": "C27-cognitive-and-moral-development",
+      "front_md": "**קוגניציה ומוסר בגיל בית-ספר (Table 4-2)**",
+      "back_md": "**Cognitive** — מבצע **concrete operations**: conservation ו-classification (פיאז'ה). מבין ש-**others think differently** (theory of mind מתבססת). מעריך rules. אחיזה משופרת ב-time and space. אינו מסוגל עדיין לחשיבה מופשטת מלאה (זה מתחיל לקראת גיל 9–10).\n\n**Moral** — מבין נכון ולא נכון על בסיס **internal principles** (לא רק תגמול/ענישה). מתחיל לבנות **empathy** ולקחת **perspective of others** (Kohlberg 1970). זוהי קפיצה מסטדיום פרה-אופרציונלי שבו הילד מרוכז בעצמו.\n\nהבחנה זו חיונית כי משימות מטא-קוגניטיביות מתקדמות (analytical thinking, hypothetical reasoning) עדיין לא מבוססות, מה שמסביר למה שאלות \"why\" אינן עובדות (ראה C32).\n\n*Dulcan 3e, Ch 4 · \"Typical Developmental Features — Table 4-2\"*",
+      "note_id": "1777035043137"
+    },
+    {
+      "id": "C27-moral-development-kohlberg",
+      "front_md": "**Moral development — empathy ו-perspective-taking**",
+      "back_md": "גילאי חינוך יסודי מתחילים להבין right and wrong **על בסיס internal principles** (ולא רק פחד מעונש או רצון בפרס). הם בונים **empathy** ויכולת לקחת את ה-**perspective** של אחרים (Kohlberg 1970). זה יסוד של התפתחות מוסרית-חברתית. חשוב לזכור שזו יכולת מתפתחת ולא שלמה — ילדים בגיל זה יכולים להיות **critical ואפילו impulsively לא-אדיבים** (\"out-of-filter\"), להגיד ולעשות דברים פוגעים בלי לחשוב. זה חלק נורמלי מההתפתחות, אבל עלול להיראות כ-conduct אם לא נלקח בהקשר.\n\n*Dulcan 3e, Ch 4 · \"Typical Developmental Features / Kohlberg 1970\"*",
+      "note_id": "1777035043138"
+    },
+    {
+      "id": "C28-emotional-and-self-view",
+      "front_md": "**רגש ותפיסת עצמי בגיל בית-ספר (Table 4-2)**",
+      "back_md": "**Emotional** — שואף ל-**competence**: mastery → good self-esteem; lack of mastery → low self-esteem, hopelessness, easy frustration, resistance to trying novel things. הילד הולך ומסוגל ל-**delay gratification**, פחות outbursts. זוהי תקופה שבה הילד \"מבסס\" את היכולת להמתין ולעבוד לקראת מטרה.\n\n**Self-view** — מעוצבת על ידי הערכה פנימית **והערכה של אחרים**. יש **comparative awareness** — הילד משווה עצמו לאחרים. מגדיר עצמו לפי **physical appearance, possessions, and activities**. **Self-conscious about differences** — מודעות לכך ש\"אני שונה\" בקבוצת בני גילו (גובה, משקל, יכולת ספורט, סטטוס סוציו-אקונומי). זה מסביר למה bullying או ostracism מאיים כל-כך בגיל זה.\n\n*Dulcan 3e, Ch 4 · \"Typical Developmental Features — Table 4-2\"*",
+      "note_id": "1777035043139"
+    },
+    {
+      "id": "C28-self-view-comparative-awareness",
+      "front_md": "**Self-view — התפתחות של תפיסה עצמית**",
+      "back_md": "ה-self-view בגיל זה מעוצב על ידי (1) evaluation פנימית + (2) evaluation של אחרים. מופיעה **comparative awareness** — הילד מודע לאיפה הוא ממוקם ביחס לאחרים. ההגדרה העצמית מבוססת על **physical appearance, possessions, and activities** (לא עדיין על traits מופשטים). הילד **self-conscious לגבי הבדלים** — מראה, מבגדים, רמה כלכלית. מכאן קישור קליני: ילד עם גובה/משקל חריגים, dysmorphism, או רמה כלכלית שונה מעמיתיו בסיכון מיוחד ל-social ostracism ולנזק ל-self-esteem. שאלה שימושית — \"מה אתה חושב על עצמך?\" או \"במה אתה טוב?\".\n\n*Dulcan 3e, Ch 4 · \"Typical Developmental Features / Table 4-2\"*",
+      "note_id": "1777035043141"
+    },
+    {
+      "id": "C29-social-and-family",
+      "front_md": "**חברתי ומשפחתי בגיל בית-ספר (Table 4-2)**",
+      "back_md": "**Social** — מתחיל לעסוק יותר באופן עצמאי מההורים בפעילויות עם peers. עשוי לזהות **best friend ו-friend group**. משתתף ב-**team activities** (ספורט קבוצתי, הצגות, מועדונים).\n\n**Family** — עצמאי יותר משגרות משפחתיות, אך עדיין **מעריך זמן משפחתי ועמדות הוריות**. **מכיר שההורים אינם הסמכות היחידה** — מתחיל להשוות הורים למבוגרים אחרים. **עשוי לפתח attachments למבוגרים לא-הוריים** (teachers, coaches). זוהי תקופה של \"הרחבת עולם המבוגרים המשמעותיים\" של הילד — מורה מאמן או מנהל מועדון יכולים להפוך לדמויות חשובות חיוביות (או שליליות) בחיי הילד.\n\n*Dulcan 3e, Ch 4 · \"Typical Developmental Features — Table 4-2\"*",
+      "note_id": "1777035043142"
+    },
+    {
+      "id": "C29-social-features-peer-group",
+      "front_md": "**Social & family features**",
+      "back_md": "**Social** — הילד מתחיל לעסוק **independently** מההורים בפעילויות עם peers. מופיעים best friend וfriend group. ילדים משתתפים ב-**team activities** (ספורט, תנועת נוער). התוצאה הקלינית — חוסר יכולת ליצור ולשמר חברויות עלול להיות מקור משמעותי ל-**low self-worth** (Davies 2011). **Family** — הילד יותר עצמאי מהשגרות המשפחתיות, אבל **עדיין מעריך time משפחתי ואת דעת ההורים**. מזהה שההורים אינם הסמכות היחידה, ומתחיל **להשוות הורים לבוגרים אחרים**. עלול לפתח attachments לבוגרים לא-הוריים — מורים, מאמנים — שיכולים לפעול כפיקטורים מגינים.\n\n*Dulcan 3e, Ch 4 · \"Typical Developmental Features / Table 4-2, Davies 2011\"*",
+      "note_id": "1777035043143"
+    },
+    {
+      "id": "C30-erikson-industry-vs-inferiority",
+      "front_md": "**אריקסון — Industry vs. Inferiority**",
+      "back_md": "Erik Erikson (1950) תיאר ילדים בגילאי 5–12 כעומדים בפני האתגר של **achieving competence**. בשלב זה, ילדים נעשים פעילים בלמידה ובפעילויות. ברוב החברות, הם **מתחילים לבלות רוב זמן בבית הספר**, ומשתמשים בפעילויות למידה כדי לבנות **sense of accomplishment**. אם הם **נכשלים בהשגת הישגים**, ילדים עלולים להיאבק ב-**sense of inferiority או low self-esteem**. השלב מסביר את הריכוז של הילד בגיל זה ב-mastery (קריאה, חשבון, ספורט, חוגים), ומדוע פגיעה ב-mastery (LD, ADHD שלא מאובחנים) פוגעת ב-self-esteem ויכולה לזרוע זרעי דיכאון או הימנעות. תפיסה זו עומדת בבסיס הקליני של \"early identification\" ב-LD/ADHD.\n\n*Dulcan 3e, Ch 4 · \"Typical Developmental Features\"*",
+      "note_id": "1777035043144"
+    },
+    {
+      "id": "C30-language-cognition-gap",
+      "front_md": "**פער שפה-קוגניציה — הטעות הקלאסית של קלינאי**",
+      "back_md": "ילדי חינוך יסודי הם בעלי **language skills** מספקות — השיחה איתם זורמת, הם מבינים מילים רבות. הטעות: המאזין מניח שהם יכולים **לשוחח כמו מבוגר**. אבל **cognitive abilities** אינן בשלות — חסרים להם higher mental processes. לא כולם שולטים ב-turn-taking, facial/body gestures, nonverbal language, inferences, ו-**abstract concepts**. רק בסוף הטווח (**ages 9-10**) מתחילה הבנה של רעיונות אבסטרקטיים (Caplan and Bursch 2013). משמעות — יש להתאים את השפה לרמה הקוגניטיבית האמיתית של הילד, לא לרמה המוצהרת שלו.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043145"
+    },
+    {
+      "id": "C31-speaking-with-school-age-principles",
+      "front_md": "**שיחה עם ילד בגיל בית-ספר — עקרונות בסיסיים**",
+      "back_md": "ילדים בגיל זה לרוב יש את ה-**language skills** לתקשר, מה שמוביל את המאזין להאמין שהם יכולים לשוחח כמבוגר. אך **היכולות הקוגניטיביות אינן בשלות כשל מבוגר** — חסרים תהליכים מנטליים מסובכים יותר. תקשורת בוגרת משלבת **language + cognitive + social skills**. דברים כגון **turn-taking, use of facial and body gestures, nonverbal language, inferences, abstract concepts** עשויים להיות לא מובנים במלואם, במיוחד אצל הצעירים יותר. **חשיבה מופשטת מתחילה רק בגיל 9–10** (Caplan and Bursch 2013). חשוב לקלינאי להזכיר לעצמו ש-articulate ≠ mature — לא לבלבל בין שטף שפתי לבגרות קוגניטיבית.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043146"
+    },
+    {
+      "id": "C31-terse-responses-guide-expansion",
+      "front_md": "**ילדים בגיל זה terse — לא unwilling**",
+      "back_md": "ילדי חינוך יסודי לא מדברים ספונטנית על רוב הנושאים שקריטי לכסות בהערכה פסיכיאטרית. הם משתמשים ב-**short sentences** ולא מרחיבים על שאלות. ה-\"lack of elaborate responses\" הוא **לא חוסר רצון לדבר** אלא נטיית הגיל להיות terse. תפקיד הקלינאי — **to guide them to expand** באמצעות שאלות עוקבות, פראפרזה, ו-prompts. טעות שכיחה — לפרש את הקיצור כהתנגדות או disinterest, ולסיים את החלק של הילד בפגישה מוקדם מדי.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043147"
+    },
+    {
+      "id": "C32-avoid-why-questions",
+      "front_md": "**למה להימנע משאלות \"why\"**",
+      "back_md": "שאלות \"why\" דורשות **analytical thinking** שנמצאת מעל יכולת הרבה ילדים בגיל הזה. התשובה הטיפוסית ל-\"why did you hit your brother?\" היא \"I don't know\". במקום זה — שאלות עם **what, where, how**, שהן יותר קונקרטיות. ניסוחים חלופיים לאותה מטרה: (1) \"**What** happened to make you hit your brother?\"; (2) \"**What** did your brother do to make you hit him?\"; (3) \"**What** did you feel when you hit your brother?\". השלושה ביחד יוצרים גישה שמחלצת context, trigger, ו-internal state — כל מה שהיינו רוצים להפיק מ-\"why\" אחד.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043148"
+    },
+    {
+      "id": "C32-no-why-questions",
+      "front_md": "**איסור על \"Why\" — שאלות What/Where/How**",
+      "back_md": "**כלל זהב**: להימנע משאלות \"why\" עם ילדים. שאילה על סיבה דורשת **analytical thinking** שמעבר ליכולות של ילדים רבים. במקום, שאלות עם **what, where, how** הן יעילות יותר.\n\nדוגמה: *\"Why did you hit your brother?\"* — בדרך כלל יניב *\"I don't know\"*.\n\nלעומת:\n- *\"What happened to make you hit your brother?\"*\n- *\"What did your brother do to make you hit him?\"*\n- *\"What did you feel when you hit your brother?\"*\n\n— יניבו תגובה אינפורמטיבית יותר. השאלות הללו מבקשות **תיאור או רגש**, לא **סיבתיות**, ולכן בהישג ידם של ילדים בגיל זה. כלל יישומי גם בטיפול קוגניטיבי-התנהגותי.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043149"
+    },
+    {
+      "id": "C33-time-anchoring-markers",
+      "front_md": "**Time markers במקום שאלות onset/duration**",
+      "back_md": "גם אם ילד מתחיל להבין time constructs, הוא עדיין **poor historian** לגבי onset ו-duration מופשטים. במקום \"how long have you been feeling sad?\" (שהילד לא יוכל לענות במדויק), יש להשתמש ב-**recognizable markers**: \"You told me you have been feeling sad. Were you feeling sad back when it was still summer vacation?\". Markers שימושיים — חופש גדול, תחילת כיתה, חגים, יום הולדת, מעבר דירה, לידת אח. העיקרון — **anchoring ל-events שהילד זוכר**, לא לזמן מופשט. זה גם יוצר הזדמנות להעריך את ה-timeline ב-HPI ביחס ל-stressors.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043150"
+    },
+    {
+      "id": "C33-time-markers-and-working-memory",
+      "front_md": "**מסמני זמן וזיכרון עבודה**",
+      "back_md": "ילדים בגיל בית-ספר, גם כשהם מתחילים לשלוט במושגי זמן, **historians גרועים** לגבי onset ו-duration. שימושי יותר לשאול בהקשר של **markers מוכרים**. דוגמה: *\"You told me you have been feeling sad. Were you feeling sad back when it was still summer vacation?\"* עדיף על *\"How long have you been feeling sad?\"*.\n\n**זיכרון עבודה** — בדרך כלל חלש. הגבלות נדרשות גם ב-**vocabulary type** וגם ב-**word quantity**. *\"How old is your brother Ralph?\"* עדיף על *\"Tell me the ages of your brothers and sisters, Ralph, Simon, Lucy, and Lena.\"* יש למזג שאלות פתוחות וישירות; יותר מדי שאלות ישירות ברצף עלולות להוביל ל-**automatic yes/no responses**. בהצעת choices, תן זמן בין כל אופציה — אחרת הילד יבחר בזו האחרונה (זו שזכר).\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043152"
+    },
+    {
+      "id": "C34-pictures-toys-and-drawings",
+      "front_md": "**שימוש בתמונות, בובות וציורים**",
+      "back_md": "כשילד מתקשה לתקשר verbally או להשתמש במילים לתאר מצבי רגש או נושאים sensitive, **תמונות או צעצועים** עוזרים. ילדים עשויים להרגיש נוח יותר עם **displacement** — להעביר את הסיפור על תמונה, puppets, או figurines/dolls. **אוכלוסיות שירוויחו במיוחד**: ילדים עם **selective mutism, trauma-related symptoms, או communication disorders**.\n\n**ציור עם הוראה** (לדוגמה — לצייר את המשפחה) — מדגים **ability to hear, process, comprehend** ואת רמת הציות.\n\n**ציור ללא הוראה** (לצייר מה שרוצה) — נותן **entry into the child's thoughts** ומשמש כבסיס לחקירה נוספת.\n\nשני סוגי הציור הם **כלי הערכה ולא רק עיסוק** — מאפשרים לעקוף את החסמים הוורבליים של הילד.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043153"
+    },
+    {
+      "id": "C34-working-memory-one-item",
+      "front_md": "**Working memory מוגבלת — אילוצים על שאלות**",
+      "back_md": "לילדים בגיל זה בדרך כלל **working memory** מוגבלת. לכן שאלות צריכות להיות מוגבלות בשני ממדים: (1) **types of words** — vocabulary מותאם-גיל; (2) **quantity of words** — לא יותר מדי מילים בשאלה. דוגמה: \"How old is your brother Ralph?\" עדיף על \"Tell me the ages of your brothers and sisters, Ralph, Simon, Lucy, and Lena\". יש לערבב open-ended עם directive. שאלות directive רצופות עלולות להוביל את הילד ל-**automatic yes/no**. מתן choices — טוב, אבל עם יותר מדי, הילד יבחר את האחרון כי זה מה שהוא זוכר. יש לתת **time after each option** לתגובה.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043154"
+    },
+    {
+      "id": "C35-displacement-through-play",
+      "front_md": "**Displacement דרך pictures, puppets, figurines**",
+      "back_md": "כשילד מתקשה לתקשר מילולית או מתקשה למצוא מילים למצב רגשי/נושאים רגישים, **שימוש ב-pictures או toys** יכול לעזור. הילד לעיתים קרובות יותר נוח לבצע **displacement** — להעביר את הסיפור לתמונה, puppets, figurines/dolls. זוהי גישה שעובדת במיוחד טוב עבור: (1) ילדים עם **selective mutism**; (2) ילדים עם **trauma-related symptoms**; (3) ילדים עם **communication disorders**. העיקרון — הילד לא מדווח ישירות על חוויותיו, אלא מעניק אותן לדמות חיצונית, ובאמצעות הדמות מוצא מילים.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043155"
+    },
+    {
+      "id": "C35-mse-overview-developmental-lens",
+      "front_md": "**MSE — מטרה ועדשה התפתחותית**",
+      "back_md": "ה-Mental Status Examination של ילד בגיל בית-ספר חייב להיבחן דרך **developmental lens** (Table 4-3). אותם מימדים שמיושמים על מבוגרים — appearance, behavior, speech, mood/affect, thought, perception, cognition, insight, judgment — עוברים reframing לסטנדרטים של גיל. **דוגמה**: thought process \"linear ו-organized\" אצל ילד בן 8 = **קונקרטי וליניארי**, לא מופשט; אצל מבוגר אותו תיאור משקף משהו אחר. **דוגמה נוספת**: hallucinations נדירים אך קיימים בקבוצת גיל זו — אם דווחו, חיפוש שגרתי לפני אבחון פסיכוטי הוא **trauma reactive symptoms ו-mood symptoms**, ולא הפרעה פסיכוטית פרימרית. כל ממד מ-Table 4-3 — כרטיס נפרד.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination — Table 4-3\"*",
+      "note_id": "1777035043156"
+    },
+    {
+      "id": "C36-drawing-with-without-instruction",
+      "front_md": "**ציור — with instruction לעומת without instruction**",
+      "back_md": "שני סוגי שימוש בציור, עם יעדים שונים: (1) **עם הנחיה** (למשל \"צייר את המשפחה שלך\") — מאפשר להעריך את יכולת הילד **to hear, process, and comprehend** את המשימה. זה גם בודק **level of compliance**. (2) **ללא הנחיה** (הילד מצייר מה שהוא רוצה) — נותן לקלינאי **entry into the child's thoughts** ומהווה בסיס לבירורים נוספים — \"ספר לי על הציור\". הבחירה בין השיטות תלויה במטרה — הערכת יכולות מול סיעור-מוחות רגשי. תמיד אפשר להשתמש בשתיהן בהערכות עוקבות.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043157"
+    },
+    {
+      "id": "C36-mse-appearance",
+      "front_md": "**MSE — Appearance**",
+      "back_md": "(1) **Size relative to chronological age** — height ו-weight abnormalities יכולות להיות מקור ל-social ostracism. (2) **Facial or body dysmorphisms** — עשויים לרמוז על **genetic abnormalities או in utero toxin exposure** (FAS שכיח). (3) **Presence of scars** — עשוי להעיד על **abuse או self-harmful behavior** — נושא לחקירה פרטית עם הילד. (4) **Hygiene, grooming, ו-appropriateness of clothes** — משקפים **adequate parental care** או רמז ל-neglect.\n\nהופעה היא ה\"כותרת\" של ה-MSE — תוך שניות הקלינאי כבר אוסף 4 קטגוריות ראיון נפרדות (גנטי, התעללות, הזנחה, סטטוס סוציאלי). תיעוד מסודר חיוני לתיק.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination — Table 4-3\"*",
+      "note_id": "1777035043158"
+    },
+    {
+      "id": "C37-mse-behavior-and-relatedness",
+      "front_md": "**MSE — Behavior ו-Relatedness**",
+      "back_md": "**שאלות מנחות מהפרק**: באיזו קלות הילד מתחבר ל-interviewer? **Sustained inhibition עשוי לשקף anxiety**. ילד **overly familiar** עשוי להציג סימנים של **poor attachment**. ילד **aloof** עשוי לרמז על **autism spectrum disorder**. **Relatedness** — נצפית: איך הילד וההורה מתקשרים? יש בונד? ההורה עצול passive או harsh? הילד נינוח או מתוח? איך ההורה מגיב לבלבול / disruptive behaviors / חרדה של הילד? איך הילד מתקשר עם המראיין — cooperative, indifferent, disrespectful, overly familiar, friendly? **כל \"תגובה\" של הילד היא נתון**, לא רעש. הסיווגים האלה מאפיינים את ה-attachment style ואת הסיגנליטי החברתית של הילד.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination — Table 4-3\"*",
+      "note_id": "1777035043159"
+    },
+    {
+      "id": "C37-mse-developmental-lens-table",
+      "front_md": "**MSE דרך developmental lens — מבנה Table 4-3**",
+      "back_md": "ה-MSE של ילד חינוך יסודי חייב להיקרא דרך **developmental lens**. המבנה של Table 4-3: (1) Appearance; (2) Behavior; (3) Relatedness to others; (4) Speech; (5) Motor examination; (6) Mood; (7) Affect; (8) Thought process; (9) Thought content; (10) Perceptual examination; (11) **Cognitive examination** — orientation, attention, memory, calculation, reading, writing, fund of knowledge; (12) Impulse control; (13) Insight; (14) Judgment. ההבדל מ-MSE של מבוגר — כל מרכיב חייב להיות פרשני ביחס לגיל. לדוגמה, חשיבה **concrete** היא נורמטיבית, לא פתולוגית כמו במבוגר.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination / Table 4-3\"*",
+      "note_id": "1777035043160"
+    },
+    {
+      "id": "C38-mse-appearance",
+      "front_md": "**MSE — Appearance**",
+      "back_md": "מרכיבי ההופעה ב-MSE: (1) **size relative to chronological age** — height ו-weight חריגים יכולים להיות מקור ל-social ostracism (ילד נמוך/גבוה/שמן מעמיתיו); (2) **facial/body dysmorphisms** — יכולים להצביע על genetic abnormalities (Down, Williams, FXS) או על חשיפה ל-**in utero toxins** (FAS); (3) **scars** — יכולים להיות אינדיקטור ל-**abuse** או ל-**self-harmful behavior** (חיתוכי זרוע, כוויות סיגריה); (4) **hygiene, grooming, and clothing appropriateness** — משקפים את רמת ה-**parental care** והאם יש neglect. הופעה רעבה, לא-מקלחת, עם בגדים לא-מותאמים לעונה — דגל אדום.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination / Table 4-3\"*",
+      "note_id": "1777035043161"
+    },
+    {
+      "id": "C38-mse-speech-and-motor",
+      "front_md": "**MSE — Speech ו-Motor Examination**",
+      "back_md": "**Speech** — נשים לב לקשיי תקשורת של expression ו-comprehension. האם הילד מבין מילים מתאימות לגילו ההתפתחותי? יש קשיי **fluency**? יש דיבור מובן? Rate, rhythm, tone, volume, prosody — כולם רכיבים. ייתכן שיהיו רמזים ל-language disorder, hearing problem, או ASD.\n\n**Motor examination** — pertinent מאוד לגיל זה. כמה הילד **active** במשרד? יכול להעצור impulses? יש **abnormal movements, repetitive movements, tics, stereotypies, motor compulsions**? הסקירה המוטורית עוזרת באבחון ADHD (היפראקטיביות), Tourette/tics, OCD (קומפולסיות מוטוריות), ASD (סטריאוטיפים). הקלינאי **גם מתבונן וגם מתעד** במהלך הראיון — לא רק שואל.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination — Table 4-3\"*",
+      "note_id": "1777035043162"
+    },
+    {
+      "id": "C39-mse-behavior-interpretation",
+      "front_md": "**MSE — Behavior & Relatedness**",
+      "back_md": "Behavior: level of cooperation, ability to transition, level of flexibility. פרשנות התנהגויות אופייניות: **sustained inhibition** → anxiety; **overly familiar** (חוסר גבולות, \"over-friendly\" עם זרים) → בעיות attachment/RAD/DSED; **aloof** → autism spectrum disorder. **Relatedness**: מוערכת על ידי תצפית. שאלות — כיצד הילד וההורה אינטראקטיביים? האם יש bond? האם ההורה **overly passive או harsh**? האם הילד נוח או tense? איך ההורה מגיב ל-confusion, disruptive behavior, anxiety של הילד? איך הילד אינטראקטיבי עם הבוחן — cooperative, indifferent, disrespectful, overly familiar, או friendly? כל התצפיות האלה נכנסות ל-MSE ומזינות את ה-DDx.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination / Table 4-3\"*",
+      "note_id": "1777035043163"
+    },
+    {
+      "id": "C39-mse-mood-affect-thought",
+      "front_md": "**MSE — Mood, Affect, Thought Process**",
+      "back_md": "**Mood** — מתואר על בסיס **direct questioning**. עבור ילדים בקבוצה הצעירה, **דוגמאות או תמונות** (face scales) שימושיות. תיאור במילותיו של הילד עצמו.\n\n**Affect** — מבוסס על הערכת המראיין: **appropriateness לסיטואציה, stability, range, quality, intensity**. ילד שמתאר רגש אך פניו מנותקות — incongruent affect.\n\n**Thought process** — של ילדים בגיל זה בדרך כלל **קונקרטי**. **Linear ו-organized thoughts מצופים**. סטייה מקונקרטיות והגיון לינארי בגיל הזה היא נורת אדום (psychosis, autism, מצב נוירולוגי). **Coherence and organization** — שני קריטריונים מרכזיים. הקלינאי שואל את עצמו: האם המחשבה זורמת מנקודה לנקודה? יש קפיצות פתאומיות?\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination — Table 4-3\"*",
+      "note_id": "1777035043165"
+    },
+    {
+      "id": "C40-mse-speech-motor",
+      "front_md": "**MSE — Speech & Motor בילדי חינוך יסודי**",
+      "back_md": "**Speech** — rate, rhythm, tone, volume, prosody. לבדוק: understandable speech? fluency difficulties (גמגום)? articulation? האם הילד מבין מילים מתאימות-גיל? ילדים עם communication disorders או ASD יציגו חריגות כאן. **Motor** — gait, abnormal movements, tics, tremors, stereotypies. שאלות: כמה פעיל הילד במשרד? האם הוא מסוגל **to inhibit impulses**? האם יש motor compulsions (למשל נגיעות חוזרות)? הבדלה בין tic (פתאומי, לא-מכוון) לבין compulsion (עם היגיון פנימי, לעיתים עם תחושת הקלה). Stereotypies (תנועות חזרתיות כמו מסטול ידיים) מרמזות על ASD או ID.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination / Table 4-3\"*",
+      "note_id": "1777035043166"
+    },
+    {
+      "id": "C40-mse-thought-content-perceptual",
+      "front_md": "**MSE — Thought Content ו-Perceptual Examination**",
+      "back_md": "**Thought content** — חשובה היכולת **להבחין בין fantasy ו-reality**, במיוחד בקבוצה הבוגרת. **Suicidal thinking ו-homicidal thinking** קריטיים לכלול בתיאור.\n\n**Perceptual examination** — מעריך את **הילד מודעות לריאליטי**. האם יכול להבחין fantasy thoughts מ-reality-based experiences? **תסמינים פסיכוטיים אמיתיים נדירים בגיל זה**, אך חיוני להעריך. **כלל קליני קריטי**: אם מדווחים תסמינים פסיכוטיים, יש לחפש קודם:\n1. **Trauma-reactive symptoms**\n2. **Mood symptoms** (דיכאון פסיכוטי)\n3. **Delirium ממקור רפואי או חומרים**\n\n— לפני אבחנה של schizophrenia בגיל הזה. הזיות בילדים אינן אוטומטית פסיכוזה ראשונית.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination — Table 4-3\"*",
+      "note_id": "1777035043167"
+    },
+    {
+      "id": "C41-mse-cognitive-and-judgment",
+      "front_md": "**MSE — Cognitive Examination, Insight, Judgment**",
+      "back_md": "לבחינה הקוגניטיבית **תת-רכיבים רבים**: orientation, attention, memory, **fund of knowledge**, יכולות writing, reading, calculation, ויוקרה. שאלות כיווניות: איך הילד עושה ב-reading, writing, simple calculations? — חיוני להפרעות למידה.\n\n**Insight** — מוגבל בגיל בקבוצה הצעירה, אך ילדים בגיל זה מתחילים להיות מודעים לסיטואציות (סימפטומים שלהם, הסיבה לפניה).\n\n**Judgment** — נמדד בשתי דרכים: (1) **שאלות hypothetical** (לדוגמה — \"מה היית עושה אם מצאת ארנק?\"); (2) **gleaning from history** — איך הילד התנהג במצבים שהיו. ה-MSE הקוגניטיבי משלים את הראיון ההיסטורי, ולעיתים חושף LD שלא דווח, חרדה ביצועית, או צמצום attention שלא נראה בשגרה.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination — Table 4-3\"*",
+      "note_id": "1777035043168"
+    },
+    {
+      "id": "C41-mse-mood-affect",
+      "front_md": "**MSE — Mood & Affect**",
+      "back_md": "**Mood** — מתואר על בסיס questioning ישיר של הילד, במילים של הילד עצמו. עבור ילדים צעירים יותר (6-8), **examples או pictures** של פנים/רגשות שימושיים — הילד מצביע על פנים שמתאר איך הוא מרגיש. **Affect** — הערכת הקלינאי (לא דיווח הילד). מעריכים: **appropriateness** של מצב-הרוח לסיטואציה, **stability** (יציבות או lability), **intensity**, **range** (מרחב הרגש — blunted, full, expansive), **quality** (euthymic, dysphoric, euphoric, anxious). ילד שמציג mood של \"fine\" אבל affect של חרדה מתמדת — יש mismatch שדורש חקירה.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination / Table 4-3\"*",
+      "note_id": "1777035043169"
+    },
+    {
+      "id": "C42-mse-thought-process-content",
+      "front_md": "**MSE — Thought Process & Content**",
+      "back_md": "**Thought process** — בילדי חינוך יסודי, **concrete, linear, ו-organized** זה הנורמה. חוסר ארגון, tangentiality, או הקפצות לא-הגיוניות — מעוררות דגל אדום. **Thought content** — נקודות חובה: (1) יכולת **להבחין fantasy מ-reality** — במיוחד בקבוצת הגיל המבוגרת יותר. ילדי 6-7 עדיין מחזיקים חלק מ-magical thinking; (2) **Suicidal thinking** — חובה לתעד; (3) **Homicidal thinking** — חובה לתעד. תיעוד מפורט מגן קליני ורפואי-משפטי. חסרות דוגמאות של abnormality: בלבול fantasy-reality מעבר לגיל, loose associations, flight of ideas, obsessions, paranoid thinking.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination / Table 4-3\"*",
+      "note_id": "1777035043170"
+    },
+    {
+      "id": "C42-structured-and-semi-structured-interviews",
+      "front_md": "**ראיונות מובנים וחצי-מובנים — דוגמאות, יתרונות, חסרונות**",
+      "back_md": "**הראיונות העיקריים** המוזכרים בפרק:\n- **K-SADS** (Kiddie Schedule for Affective Disorders and Schizophrenia)\n- **DISC** (NIMH Diagnostic Interview Schedule for Children)\n- **ADIS** (Anxiety Disorders Interview Schedule)\n- **DICA** (Diagnostic Interview for Children and Adolescents)\n- **ChIPS** (Children's Interview for Psychiatric Syndromes)\n- **CAPA** (Child and Adolescent Psychiatric Assessment)\n- **CY-BOCS** (Children's Yale-Brown Obsessive Compulsive Scale)\n\n**יתרונות**: elicit סימפטומים בפורמט סטנדרטי וכולל; רבים יש להם **diagnostic algorithms**.\n\n**חסרונות**: צורך ב-**training, cost, lengthy administration time, possible delay לטיפול**.\n\nברוב הקליניקות ambulatorit הם תוספת ולא תחליף לראיון הקליני.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043171"
+    },
+    {
+      "id": "C43-perceptual-psychosis-rare",
+      "front_md": "**Perceptual examination — פסיכוזה נדירה, DDx רחב**",
+      "back_md": "Perceptual examination מעריך את **awareness of reality** — האם הילד יכול להבחין fantasy מ-reality-based experiences. **Truly psychotic symptoms רָרוֹת** בגיל זה, אבל חובה להעריך. אם הילד מדווח על symptoms פסיכוטיים — הגישה **אינה** לקפוץ לאבחנה של schizophrenia. יש לבדוק בדייקנות: (1) **trauma-reactive symptoms** — קולות או פלאשבקים שקשורים ל-PTSD; (2) **mood symptoms** — hallucinations יותר שכיחים ב-mood disorders חמורים בילדים; (3) **delirium** מ-medical conditions או substances — חובה לשלול. ל-Dulcan יש כאן גישה של הערכת DDx רחב לפני אבחנה של psychosis primary.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination\"*",
+      "note_id": "1777035043172"
+    },
+    {
+      "id": "C43-rating-scales-broadband-and-specific",
+      "front_md": "**כלי דירוג — Broadband ו-Category-Specific**",
+      "back_md": "**Broadband** (מסקרים רחבים):\n- **CBCL** (Child Behavior Checklist)\n- **BASC** (Behavior Assessment System for Children)\n- **CSI** (Children's Symptom Inventory)\n\n**Externalizing-specific**:\n- **Conners Rating Scale (CSR)**\n- **Vanderbilt ADHD Diagnostic (VAD)** — teacher ו-parent\n\n**Internalizing-specific**:\n- **CDI** (Children's Depression Inventory)\n- **CDRS** (Children's Depression Rating Scale)\n- **BDI** (Beck Depression Inventory)\n- **MASC** (Multidimensional Anxiety Scale for Children)\n- **SCARED** (Screen for Child Anxiety Related Disorders)\n- **YMRS** (Young Mania Rating Scale)\n- **CPSS** (Child PTSD Symptom Scale)\n- **TSCC** (Trauma Symptom Checklist for Children)\n\nהכלים שימושיים גם ל-**אבחון** וגם למעקב אחר תגובה לטיפול. קצרים, קלים לניהול, ומאפשרים גם **collection מ-informants נוספים**.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043173"
+    },
+    {
+      "id": "C44-cognitive-examination-subcomponents",
+      "front_md": "**Cognitive examination — subcomponents**",
+      "back_md": "ב-MSE של ילדי חינוך יסודי ה-**cognitive** חשוב במיוחד כי יש השלכות ישירות על תפקוד בביה\"ס. Subcomponents: (1) **Orientation** — person, place, time; (2) **Attention** — מעקב אחר שיחה, digit span, serial 3s; (3) **Memory** — recall קצר-טווח, long-term; (4) **Calculation** — מטלות מתמטיות קונקרטיות; (5) **Reading skills**; (6) **Writing skills**; (7) **Fund of knowledge** — נשיא, ערים, זמן. **Insight** יכול להיות age-limited בקבוצה הצעירה אבל בגיל הזה מתחילה awareness של הסיטואציה. **Judgment** מוערך דרך שאלות היפותטיות או דרך ההיסטוריה עצמה (איך הילד קיבל החלטות בעבר).\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination\"*",
+      "note_id": "1777035043174"
+    },
+    {
+      "id": "C44-other-informants-and-medical-workup",
+      "front_md": "**מקורות מידע נוספים ו-medical workup**",
+      "back_md": "**איסוף ישיר מאחרים** (בהסכמת הורה) — חיוני: family members, caregivers, teachers, school-based **psychologists, social workers, case workers, coaches**. קלינאים נוספים: מטפלים נוספים, pediatricians, pediatric specialists, child welfare workers.\n\n**Medical workup**:\n- **Medical examination בתוך השנה האחרונה** — הכרחי\n- ייעוץ עם הפדיאטר על צורך ב-**laboratory, imaging, או procedural testing** נוסף\n- חשד למקור רפואי — הפניה לסקציאליסט המתאים\n- **Psychological testing** עבור learning-based disorders — הכרחי לחקור LD מלא\n- הפנייה ל-**speech-language pathologist** עבור בעיות שפה ודיבור\n\nהערכה פסיכיאטרית **אינה אי בודד** — היא חלק ממערך רב-תחומי שכולל פדיאטריה, פסיכולוגיה, חינוך מיוחד וריפוי בדיבור.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043175"
+    },
+    {
+      "id": "C45-school-entry-and-anxiety-disorders",
+      "front_md": "**מעבר לבית הספר — חרדות שמתגלות**",
+      "back_md": "**School entry הוא major transition**. עבור ילדים שלא היו ב-formal early childhood education (preschool), המעבר עלול להיות מאתגר במיוחד. ילדים חייבים ללמוד **לחוש בטוח ללא הוריהם בקרבת מקום**. **Separation anxiety** היא נפוצה בקבוצת גיל זו. בית הספר מטיל גם **משימות ואחריות רבות**: להיות בזמן, לבצע מטלות, להגיש משימות, לעמוד במבחנים, לעקוב אחר כללי כיתה — כל אלה יכולים להפנות תשומת לב לילד עם **generalized anxiety** בסיסית. **Group setting** וההתבקשות להשתתף ולהתקשר עם אחרים הם משימות חברתיות שכיחות בגיל בית-ספר. ילדים שעוברים את הסף הזה בהצלחה רוכשים confidence; הנכשלים סובלים החרפה של חרדות שכבר היו.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043176"
+    },
+    {
+      "id": "C45-structured-interviews-list",
+      "front_md": "**Structured/semi-structured interviews — רשימת הכלים**",
+      "back_md": "הראיון הקליני וההתבוננות הם הדרך הטובה ביותר, אבל אפשר להשלים עם כלים מובנים: (1) **K-SADS** — Kiddie Schedule for Affective Disorders and Schizophrenia; (2) **DISC** — NIMH Diagnostic Interview Schedule for Children; (3) **ADIS** — Anxiety Disorders Interview Schedule; (4) **DICA** — Diagnostic Interview for Children and Adolescents; (5) **ChIPS** — Children's Interview for Psychiatric Syndromes; (6) **CAPA** — Child and Adolescent Psychiatric Assessment; (7) **CY-BOCS** — Children's Yale-Brown Obsessive Compulsive Scale. יתרון — **standardized ו-comprehensive** format + diagnostic algorithms. חסרונות — צריך **training**, יש cost, זמן ביצוע ארוך, ועלול לעכב את המעבר לטיפול.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043177"
+    },
+    {
+      "id": "C46-broadband-rating-scales",
+      "front_md": "**Broadband rating scales — לילדי חינוך יסודי**",
+      "back_md": "Rating scales שימושיים ל-**detection of symptoms and impairment** וגם ל-**tracking treatment response**. הם קצרים, קלים למתן, ויכולים לאסוף מידע מ-informants נוספים (מורים, קרובים). **Broadband** — מכסים תחומים רבים בבת אחת: (1) **CBCL** — Child Behavior Checklist (Achenbach); (2) **BASC** — Behavior Assessment System for Children; (3) **CSI** — Children's Symptom Inventory. שימושם היומיומי — לזהות אזורי בעיה פוטנציאליים. התוצאה אינה אבחנה אלא **screening positive** שמפנה לבירור ממוקד יותר.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043180"
+    },
+    {
+      "id": "C46-learning-behavior-and-social-problems",
+      "front_md": "**בעיות למידה, התנהגות וחברה בכיתה**",
+      "back_md": "ה-**learning challenges** של חינוך פורמלי, במיוחד כשילדים מושווים ל-same-age peers, **חושפים primary learning problems, language problems, attentional problems**. **המבנה של הכיתה** — שגרות וכללים רבים — הוא אתגר עבור ילדים עם **hyperactivity, poor impulse control, oppositional behavior**. לכן זה לא יוצא דופן ש-**learning disorders, speech and language disorders, ADHD, ODD מתגלים בבית הספר**.\n\nבית הספר גם **מטפח אינטראקציות חברתיות**, וילדים חייבים ללמוד לנווט בעולם זה. ילדים עם **social anxiety disorder** יכולים לחוות קשיים חדשים. ילדים עם **ASD** בדרך כלל מזוהים לפני גיל בית-ספר; אך ילדים עם סימנים סובטיליים יותר עשויים לא להיות מזוהים עד שהם בבית הספר, **שם דרכי האינטראקציה המוזרות שלהם אינן מותרות על-ידי peers**.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043182"
+    },
+    {
+      "id": "C47-bullying-and-cyberbullying",
+      "front_md": "**בריונות וסייברבריונות**",
+      "back_md": "**בעיות בית-ספר כגון teasing ו-bullying נפוצות**. **Bullying יכול להיות בעל תוצאות catastrophic** — suicide, homicide — ויש להתייחס אליו ברצינות (Klomek et al. 2009). **Cyberbullying הגדיל את הבעיה**, במיוחד עבור ילדים מבוגרים יותר בגיל בית-ספר. שלא כמו בריונות מסורתית, הסייברבריונות אינה נפסקת בסוף יום הלימודים — היא מלווה את הילד הביתה, ל-bedroom, ולחיי הפרט.\n\n**שאלה קלינית חובה**: לשאול שאלות על **involvement של הילד עם social media sites ו-online activities** — לא רק \"האם יש?\" אלא \"אילו פלטפורמות, כמה שעות, האם יש אינטראקציות שליליות?\". זיהוי מוקדם של בריונות (שני הכיוונים — בולה ונבול) הוא **safety issue**, לא בעיה צדדית.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043183"
+    },
+    {
+      "id": "C47-externalizing-internalizing-scales",
+      "front_md": "**Category-specific rating scales**",
+      "back_md": "**Externalizing-specific**: (1) **Conners Rating Scale** (CRS) — ADHD ו-conduct; (2) **Vanderbilt ADHD Diagnostic** (VAD) — parent ו-teacher versions, נפוצים ב-primary care. **Internalizing-specific**: (1) **CDI** — Children's Depression Inventory; (2) **CDRS** — Children's Depression Rating Scale (clinician-rated); (3) **BDI** — Beck Depression Inventory; (4) **MASC** — Multidimensional Anxiety Scale for Children; (5) **SCARED** — Screen for Child Anxiety Related Disorders; (6) **YMRS** — Young Mania Rating Scale; (7) **CPSS** — Child PTSD Symptom Scale; (8) **TSCC** — Trauma Symptom Checklist for Children. מתן routine שלהם משפר את ה-diagnostic process ומאפשר מעקב אחר treatment response לאורך זמן.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043184"
+    },
+    {
+      "id": "C48-collateral-sources-people",
+      "front_md": "**Collateral information — מקורות בני-אדם**",
+      "back_md": "עם parental consent, collateral מ-direct information מקורות נוספים. האנשים: (1) בני משפחה משמעותיים נוספים; (2) caregivers; (3) **teachers**; (4) school-based psychologists, social workers, case workers; (5) **coaches**; (6) providers של בריאות נפש קודמים; (7) **pediatricians** ומומחי ילדים; (8) **child welfare workers**. כל מקור מביא פרספקטיבה — מורה רואה עמיתים ו-attention, מאמן רואה frustration tolerance ו-motor skills, pediatrician רואה התפתחות ו-medical comorbidities. איסוף ממספר מקורות מתקן דיווחים חלקיים ומקטין bias.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043185"
+    },
+    {
+      "id": "C48-mood-disorders-dmdd-tics",
+      "front_md": "**הפרעות מצב רוח, DMDD וטיקים בגיל בית-ספר**",
+      "back_md": "**Mood disorders** — major depression ו-bipolar **לא נפוצים** בילדים pre-pubescent. עם זאת, הם **לא חסונים** להפרעות אלה. ילדים שמפגרים academically או socially במשימות בית הספר חשופים לפיתוח **דיכאון**. **Bipolar disorder** uncommon בקבוצת גיל זו, אך תשומת לב מיוחדת לילדים שמציגים **sustained mood changes ויש family history of mood ו-psychotic disorders**.\n\n**DMDD** — מצב עם **onset לפני גיל 10**, מאופיין ב-**chronic irritability ו-recurrent temper tantrums**. תלונות אלו מובילות לעיתים קרובות משפחות לפנות לטיפול פסיכיאטרי (Copeland et al. 2013).\n\n**Tic disorders** — נצפים בקבוצת גיל זו. **Transient tics נפוצים ו-peak במהלך שנות יסודי**. עזרה מבוקשת אם **ה-tics persist או גורמים לפגיעה משמעותית**.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043186"
+    },
+    {
+      "id": "C49-medical-exam-testing-referrals",
+      "front_md": "**בדיקה רפואית, בדיקות, והפניות**",
+      "back_md": "ל-evaluation יסודי דרושה **medical examination within the past year**. לאחר מכן, התייעצות עם pediatrician האם נדרשים laboratory, imaging, procedural testing, או referral למומחים. **Underlying medical cause** בחשד → lab/imaging. **Psychological testing** — להערכת learning-based disorders (IQ, achievement, neuropsychological). **Speech-language pathologist** — לבעיות שפה ודיבור. זהו מודל של evaluation רב-מקצועי: הפסיכיאטר ילדים אינו עושה הכל לבד, אלא משמש מתאם. ההפניות המתאימות הן חלק בלתי-נפרד מההערכה הפסיכיאטרית.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043187"
+    },
+    {
+      "id": "C49-ptsd-presentation-school-age",
+      "front_md": "**PTSD בילדים — הצגה ייחודית**",
+      "back_md": "תסמינים של trauma **לא ספציפיים לקבוצת גיל זו**, אך יש להעריך. **תסמיני ה-PTSD בילדים בגיל זה עשויים להיות שונים מ-classic DSM-5 PTSD** (APA 2013). ילדים עם PTSD עשויים להציג:\n\n- **תלונות סומטיות** (כאבי ראש חוזרים, כאבי בטן)\n- **regression in skills**\n- **increase in clinginess**\n- **onset of separation anxiety**\n- **school academic decline**\n- **social changes**\n- **sleep disturbance**\n- **בעיות התנהגות**\n- **רמת חרדה מוגברת**\n\n(Perrin et al. 2000). ההצגה הסומטית והרגרסיבית עלולה להוביל לאבחנה שגויה (אנקופרזיס, ADHD חדש, חרדת פרידה primary). חיוני לחקור היסטוריית טראומה לפני הסקת מסקנה אבחונית.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043188"
+    },
+    {
+      "id": "C50-formulation-and-treatment-planning",
+      "front_md": "**פורמולציה והצגת ממצאים למשפחה**",
+      "back_md": "לאחר איסוף כל המידע, הקלינאי **מסנתז biopsychosocial formulation** (ראה Ch 1). הצגת הממצאים למשפחה צריכה להיות **direct ו-neutral**. למשפחות לרוב יש apprehension, guilt, ו-anxiety לגבי מחלות פסיכיאטריות. **באופן טיפוסי, מציגים בנוכחות הילד וההורה יחד**.\n\n**אסטרטגיית הצגה**:\n1. **לפתוח עם** strengths של הילד והמשפחה\n2. **להדגיש דומיינים שבהם psychopathology absent**\n3. בדיון על מסקנות אבחוניות — לא רק לפרט סימפטומים אלא גם **להסביר factors שתרמו**\n4. גם אם נושאים כמו **family relations** קשים, חיוני להעלות — ההסבר מצדיק התערבויות כמו parental guidance או family therapy\n5. **תרופות** — נושא רגיש, דורש sensitivity מיוחדת בהצעה. ההחלטה על תרופות בקבוצת גיל זו קשה ודורשת זהירות.\n\n*Dulcan 3e, Ch 4 · \"Assessment: Formulation and Treatment Planning\"*",
+      "note_id": "1777035043190"
+    },
+    {
+      "id": "C50-school-entry-challenges",
+      "front_md": "**School entry — transition שחושף הפרעות**",
+      "back_md": "כניסה לביה\"ס היא **major transition**, במיוחד לילדים שלא היו ב-formal early childhood education. אתגרים: (1) ללמוד להרגיש confident בלי קרבת ההורים — חושף **separation anxiety**; (2) tasks ו-responsibilities — להגיע בזמן, לעשות שיעורי בית, להגיש assignments, מבחנים, כללי כיתה — מושכים תשומת-לב לילד עם **generalized anxiety** סמוי; (3) להיות בקבוצה גדולה, להשתתף ולעמוד באינטראקציה — משימות חברתיות. הפרעות שנחשפות בכניסה לבי\"ס: separation anxiety, GAD, learning disorders, language disorders, attentional problems, ADHD, ODD, social anxiety, ASD עם סימנים subtle.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043191"
+    },
+    {
+      "id": "C51-bullying-cyberbullying-suicide",
+      "front_md": "**Bullying ו-cyberbullying — סיכוני suicide/homicide**",
+      "back_md": "School cultivates social interactions. **Teasing ו-bullying** הם בעיות נפוצות. Bullying יכול להיות בעל תוצאות **catastrophic** — suicide, homicide — וחייב להילקח ברצינות (Klomek et al. 2009). **Cyberbullying** מעצים את הבעיה, במיוחד לילדים בגיל חינוך יסודי מבוגר יותר. משמעות קלינית — **חובה לשאול** על מעורבות הילד ב-social media sites ו-online activities. שאלות לשקול: מי מחובר? מה תכולת השיחות? האם הילד מרגיש מושפל? מי הוא ה-follower/follows? Cyberbullying שונה מ-bullying קונבנציונלי — הוא 24/7, אנונימי, וקשה לברוח.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders / Klomek et al. 2009\"*",
+      "note_id": "1777035043192"
+    },
+    {
+      "id": "C52-mood-disorders-prepubertal",
+      "front_md": "**Mood disorders — MDD ו-BP בגילי החינוך יסודי**",
+      "back_md": "**MDD ו-BP אינם שכיחים ב-prepubescent children**, אבל ילדים בגיל זה לא **immune**. קבוצות בסיכון: ילדים שמפגרים אחר עמיתים — אקדמית או חברתית — עלולים לפתח depression. **BP — הופעת סימפטומים בגיל זה נדירה**, אבל צריך לשים לב מיוחדת לילדים עם (1) שינויי מצב-רוח sustained (לא חולפים); (2) **family history של mood and psychotic disorders**. הדחף הקליני להיזהר מ-over-diagnosis של BP בילדות — סימפטומים שנראים מניאקליים יכולים להיות ADHD, DMDD, או תגובה ל-trauma.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043193"
+    },
+    {
+      "id": "C53-dmdd-prior-to-10",
+      "front_md": "**DMDD — Disruptive Mood Dysregulation Disorder**",
+      "back_md": "DMDD = קטגוריה של DSM-5, עם הופעה **לפני גיל 10**, המאופיינת ב-**chronic irritability** ו-**recurrent temper tantrums**. אלה הן תלונות שפעמים רבות מביאות משפחות לפנות לטיפול פסיכיאטרי (Copeland et al. 2013). הרציונל של ה-DSM — להפריד \"chronic irritability\" מ-BP (אחרי עליה ב-over-diagnosis של BP ילדים בארה\"ב). קריטריונים מרכזיים: outbursts ≥3/שבוע, mood בין התקפים irritable/angry, duration ≥12 חודשים, קיים ב-≥2 settings, גיל הופעה לפני 10, לא לפני 6 ולא אחרי 18 לאבחנה. DMDD מחליף לפעמים את ה-ODD/BP בילדי חינוך יסודי עם irritability חמור.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders / Copeland et al. 2013\"*",
+      "note_id": "1777035043194"
+    },
+    {
+      "id": "C54-tic-disorders-peak",
+      "front_md": "**Tic disorders — שיא בגילי חינוך יסודי**",
+      "back_md": "Tic disorders נצפים גם בקבוצת גיל זו. **Transient tics שכיחים, ומגיעים לשיא במהלך elementary school years**. מדובר ב-twitches מוטוריים (מצמוץ, הרמת כתפיים) או vocal (ריכוז קול, sniffing) שחולפים לרוב עצמאית תוך <12 חודשים. המשפחה פונה לעזרה אם ה-tics (1) persist מעל גיל בו היה צפוי לחלוף, (2) גורמים impairment (הטרדה חברתית, physical injury, הפרעה בלימודים), או (3) מלווים ב-vocal tics חמורים. אבחון מבדיל — Tourette syndrome (motor+vocal >1 year), persistent tic disorder, stereotypies (ASD/ID).\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043195"
+    },
+    {
+      "id": "C55-ptsd-atypical-presentation",
+      "front_md": "**PTSD בילדי חינוך יסודי — הצגה atypical**",
+      "back_md": "Trauma-related symptoms שכיחים, וההצגה **שונה** מ-classic PTSD של DSM-5 (APA 2013). ילדים בגיל זה עלולים להציג (Perrin et al. 2000): (1) **somatic complaints** — recurrent headaches, stomachaches; (2) **regression in skills** — חזרה להתנהגות יותר צעירה; (3) **increase in clinginess**; (4) **onset of separation anxiety**; (5) **academic decline**; (6) **social changes**; (7) **sleep disturbance**; (8) **behavioral problems**; (9) **increased anxiety**. משמעות — לא להחמיץ PTSD אצל ילד שמציג \"סתם\" כאבי בטן, דרדור ציונים, או anxiety חדש; לשאול על trauma exposure.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders / Perrin et al. 2000\"*",
+      "note_id": "1777035043196"
+    },
+    {
+      "id": "C56-formulation-biopsychosocial",
+      "front_md": "**Biopsychosocial formulation — תהליך הסינתזה**",
+      "back_md": "לאחר איסוף כל המידע, הקלינאי חייב לסנתז **biopsychosocial formulation** (ראה Ch 1). זה לא רק רשימת אבחנות — זו תמונה שמשלבת גורמים ביולוגיים (genetic predispositions, temperament, medical factors), פסיכולוגיים (cognitions, emotional regulation, attachment), ו-social (family dynamics, school, peers, SES, community). פורמולציה טובה **מסבירה מדוע דווקא הילד הזה, דווקא עכשיו, מציג את הסימפטומים הללו**. היא מזינה את ה-treatment plan — אילו ממדים לטפל בהם ובאיזה סדר.\n\n*Dulcan 3e, Ch 4 · \"Assessment: Formulation and Treatment Planning\"*",
+      "note_id": "1777035043197"
+    },
+    {
+      "id": "C57-presenting-findings-lead-with-strengths",
+      "front_md": "**הצגת הממצאים למשפחה — עקרונות**",
+      "back_md": "Findings מוצגים באופן **direct and neutral**. למשפחות יש לעיתים קרובות apprehension, guilt, anxiety על מחלות נפש, ולכן דרך ההצגה חשובה לא פחות מהתוכן. עקרונות: (1) **לפגוש את הילד וההורה יחד** (בדרך כלל) בהצגת הממצאים; (2) **לפתוח ב-strengths** של הילד והמשפחה; (3) להדגיש תחומים **שאין בהם psychopathology**; (4) בהצגת האבחנות — לא רק לרשום symptoms אלא להסביר **contributing factors**; (5) גם אם קשה — להעלות את תרומת **family relations**, כי זה מצדיק המלצות כמו parental guidance או family therapy; (6) להעלות אופציות לתרופות — בגיל זה החלטה קשה שדורשת רגישות יתרה.\n\n*Dulcan 3e, Ch 4 · \"Assessment: Formulation and Treatment Planning\"*",
+      "note_id": "1777035043198"
+    },
+    {
+      "id": "C58-summary-points",
+      "front_md": "**Summary Points — המסקנות הקליניות של הפרק**",
+      "back_md": "(1) איכות ה-**primary caregiving relationship** היא הקובע החזק ביותר של התפתחות ילדות מוקדמת. (2) בעיות בריאות הנפש בילדי חינוך יסודי משמעותיות ומשפיעות על התפתחות רגשית/קוגניטיבית/חברתית. (3) בעיות נפוצות: anxiety, learning/attention, behavioral, social. (4) ההערכה חייבת לכלול **multiple informants**. (5) בראיון הילד — **developmentally appropriate language**. (6) חובה לראיין את הילד לבד בחלק מההערכה. (7) ילדים יפתחו בעיות בגלל חוסר יכולת לעמוד ב-**developmental tasks** — לכן חובה להכיר את התפתחות חברתית, רגשית וקוגניטיבית תקינה. (8) **SI, suicidal behaviors, ו-completed suicides** עלו בקבוצת גיל זו — **safety assessment חובה**.\n\n*Dulcan 3e, Ch 4 · \"Summary Points\"*",
+      "note_id": "1777035043199"
+    },
+    {
+      "id": "Q01-age-range-definition",
+      "front_md": "לפי Dulcan, מהו טווח הגיל של elementary school-age child, ובאיזו מסגרת הפרק מתמקד?",
+      "back_md": "- **טווח גיל**: 6-12 שנים.\n- **מסגרות הערכה**: emergency department, pediatric hospital, school, outpatient psychiatric clinic — ומטרות ההערכה משתנות לפי המסגרת.\n- **מסגרת הפרק**: **outpatient clinic** עם מטרה של comprehensive evaluation רב-מימדית, לעומת הערכת מיון שמתמקדת ב-safety ו-disposition.\n\n*Dulcan 3e, Ch 4 · \"Introduction\"*",
+      "note_id": "1777035043200"
+    },
+    {
+      "id": "Q01-waiting-room-observation-value",
+      "front_md": "איך תצפית בחדר ההמתנה תורמת להערכה ומה לחפש?",
+      "back_md": "תצפית בחדר ההמתנה לפני המפגש הפורמלי מספקת מידע \"טבעי\" שלא נחשף בראיון מובנה.\n\n**אצל הילד**: רמת פעילות, סקרנות, אינטראקציות עם ילדים ומבוגרים, שליטה בדחפים.\n\n**אצל ההורה**: עניין ופיקוח, קשב לצורכי הילד, ניהול תסכולים שעולים.\n\nהצפייה זולה ומהירה, וחושפת דפוסים (ADHD, ASD, חרדה חברתית, חוסר תמיכה הורית) שלא יעלו בראיון רשמי שבו כולם על משמרתם.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043201"
+    },
+    {
+      "id": "Q02-joint-vs-separate-meeting-tradeoff",
+      "front_md": "מהם הטרייד-אופים בין פגישה משותפת לבין מפגש נפרד עם ההורה תחילה?",
+      "back_md": "**משותפת**: כולם מרגישים שקלטם מוערך באותה מידה; הילד אינו חושד מה נאמר עליו בהיעדרו.\n\n**נפרדת עם ההורה תחילה**: ניתן לקבל מידע ללא הצנזורה שיוצרת נוכחות הילד; אך הילד עלול להרגיש מודר ולחשוד.\n\n**הכלל המוחלט**: גם אם נפתח במשותף, **חיוני בהמשך מפגש נפרד עם הילד ועם ההורה לבד** עבור נושאים sensitive כמו abuse, יחסי הורים, family psych history ו-discipline.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043202"
+    },
+    {
+      "id": "Q02-why-observe-waiting-area",
+      "front_md": "למה Dulcan ממליץ להתבונן במשפחה ב-waiting area לפני ההיכרות הפורמלית, ומה בודקים אצל הילד ואצל ההורה?",
+      "back_md": "- **הרציונל**: תצפית בלתי-פורמלית מספקת מידע לא-מסונן (unfiltered), שלעיתים שונה מההתנהגות בחדר הטיפולים.\n- **אצל הילד**: activity level, curiosity, social interactions עם ילדים ומבוגרים, impulse control.\n- **אצל ההורים**: עניין ופיקוח, היענות לצרכי הילד, יכולת להכיל frustrations.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043203"
+    },
+    {
+      "id": "Q03-confidentiality-script-to-child",
+      "front_md": "איזה ניסוח של סודיות אתה משתמש מול ילד בגיל בית-ספר?",
+      "back_md": "ניסוח דוגמתי מ-Dulcan: *\"What you share with me is very important, and I cannot share any of the information with anyone else unless I think it is important and I have your parents' permission. But there may be times when I am worried about your safety or the safety of other people around you, and I may share information with people who can help.\"*\n\nמסר כפול — **אמון** (לא אגיד סתם) ו-**גבול בטיחות** (אם הסכנה אמיתית, אגיד). חיוני להסביר את אותם כללים גם להורים, כדי שיבינו שמידע שהם משתפים לגבי בטיחות עלול להוביל ליידוע גורמי הגנה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043204"
+    },
+    {
+      "id": "Q03-office-materials",
+      "front_md": "אילו חומרים מומלץ שיהיו בחדר הערכה לילד בגיל חינוך יסודי, ומדוע לכל אחד?",
+      "back_md": "- **Games with rules** (board games, puzzles) — גילאי 6-12 נמשכים לכללים.\n- **Dolls, action figures, building blocks** — עדיין בשלב של imaginative play.\n- **Paper ו-drawing supplies** — נותנים activity, מאפשרים communication, וגם משמשים להערכת motor/writing/artistic skills.\n- **ישיבה נוחה ורהיטים שמאפשרים eye contact**.\n- **הבהרה**: \"no shots\" — לפזר את החרדה מ-pediatrician office.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043205"
+    },
+    {
+      "id": "Q04-collateral-information-with-whom",
+      "front_md": "עם אילו גורמים תקבל מידע משלים, ומה הצורך הפורמלי לעשות זאת?",
+      "back_md": "**גורמים**: teachers, school-based psychologists, social workers, case workers, coaches, מטפלים פסיכיאטריים קודמים, pediatrician או רופאים אחרים, child welfare workers, ובני משפחה רלוונטיים.\n\n**צורך פורמלי**: **הסכמה כתובה ומילולית** של ההורה לתקשורת. מרבית ההורים מסכימים לרוב התקשורת. חלק מצמצמים — יש לכבד הצמצום, ואפשר לחזור לבקש כשהקשר מתפתח.\n\nהמטרה: גם תמונה מקיפה יותר, וגם **תיקון של דיווחים לא מדויקים** — פערים בין מקורות הם נתון קליני, לא רעש.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043206"
+    },
+    {
+      "id": "Q04-joint-vs-parents-alone",
+      "front_md": "מהם היתרונות של פגישה משותפת (הורים + ילד יחד) לעומת פגישה עם ההורים לבד ראשונה?",
+      "back_md": "- **פגישה משותפת**: כל אחד מרגיש שהקלט שלו חשוב באותה מידה; הילד לא חושד במה מדברים עליו בלעדיו.\n- **הורים לבד קודם**: מאפשר קבלת היסטוריה בעייתית שההורים לא ישתפו ליד הילד.\n- **חובה בכל מקרה**: פגישות נפרדות עם כל אחד נחוצות לפני סיום ההערכה — אין להן חלופה.\n- **תפקיד הקלינאי** בחלק המשותף: לעצור דיונים לא-מתאימים לאוזן הילד — מדגמן התנהגות להורים.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043207"
+    },
+    {
+      "id": "Q05-icebreaker-examples",
+      "front_md": "תן 5 דוגמאות ל-ice-breaker questions לילד בגיל 6-12, ומה היתרון הכפול שלהן?",
+      "back_md": "- **דוגמאות**: גיל, כיתה, שמות בני משפחה, חיות מחמד, תחומי עניין, תחביבים, חברים.\n- **יתרון 1**: נורמטיביות ולא-מאיימות — מרגיעות את הילד שקשה לו להבין את הרעיון של \"מפגש סביב בעיה רגשית\".\n- **יתרון 2**: התשובות מספקות מידע **social history + MSE** (שפה, הבנה, טון, שיתוף פעולה) לפני שהילד מתעייף או נסגר.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043208"
+    },
+    {
+      "id": "Q05-multiple-sessions-rule-and-exception",
+      "front_md": "מדוע נדרשות מספר פגישות להערכה ומהי החריגה?",
+      "back_md": "מרבית ההערכות המקיפות **לא יכולות להסתיים בשעה אחת** — מעורבות איסוף מהורים, מהילד נפרדות, MSE, ROS פסיכיאטרי מלא, היסטוריות (רפואית, התפתחותית, חינוכית, חברתית), ולעיתים אינסטרומנטים מובנים.\n\n**חריגה**: כש**acuity** של ההצגה (אובדנות פעילה, פסיכוזה, שינוי התנהגות חמור) מצדיקה התקדמות מהירה לטיפול.\n\n**אילוץ מערכתי**: payers מכתיבים יותר מגבלות זמן — מציאות שמתנגשת עם איכות ההערכה. שיתוף המשפחה מראש מנהל את ציפיות.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043209"
+    },
+    {
+      "id": "Q06-confidentiality-script",
+      "front_md": "כיצד מנסח Dulcan את הסבר הסודיות לילד בגיל 6-12, ומדוע חשוב שגם ההורים ישמעו את הכללים?",
+      "back_md": "- **Script לילד**: \"מה שאתה משתף איתי חשוב מאוד ואני לא יכול לשתף עם אף אחד אלא אם כן זה חשוב ואני מקבל רשות מההורים שלך. אבל לפעמים, אם אני דואג לבטיחות שלך או של אנשים סביבך, אשתף מידע עם אנשים שיכולים לעזור.\"\n- **ההורים חייבים לדעת**: כדי שיבינו שאם ישתפו מידע על safety, ייתכן שידווח ל-protective agencies — זה מונע הפתעות ותחושת בגידה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043210"
+    },
+    {
+      "id": "Q06-hpi-opening-questions",
+      "front_md": "איך תפתח שיחה על HPI עם משפחה חדשה?",
+      "back_md": "שאלות פתיחה אפקטיביות שמצוטטות ב-Dulcan:\n\n- *\"What has concerned you regarding [child's name]?\"*\n- *\"Why are you seeking treatment now?\"*\n- *\"How were you referred to this clinic?\"*\n\n**עקרון**: רחב לפני ספציפי. שאלת ה-\"why now\" קריטית — מזהה את ה-trigger המידי לפניה (החמרה, אירוע, החלטה מערכתית כמו דרישת בית הספר). את הילד שואלים **מה נאמר לו על הפגישה** — חושף מודעות לבעיות ורמת היענות (ילדים אופוזיציוניים יכחישו).\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043211"
+    },
+    {
+      "id": "Q07-symptom-dimensions",
+      "front_md": "אילו 8 מימדים תחקור על כל סימפטום במהלך HPI?",
+      "back_md": "(1) intensity (עוצמה)\n(2) frequency (תדירות)\n(3) duration (משך)\n(4) time of onset (מתי התחיל)\n(5) triggers (מעוררים)\n(6) ameliorators (מקלים)\n(7) associated symptoms (תסמינים נלווים)\n(8) timing patterns (דפוסי עיתוי)\n\nובנוסף — **responses by others** (איך הסביבה מגיבה).\n\nחיוני להבין: pervasive או limited? acute או chronic? התשובות הללו מנחות את ה-DDx ואת המלצות הטיפול.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043212"
+    },
+    {
+      "id": "Q07-why-collateral",
+      "front_md": "מהן שתי הסיבות המחקריות לכך ש-collateral information הוא קריטי, ומי מצוטט לכך?",
+      "back_md": "- **סיבה 1**: ילדים — במיוחד הצעירים — יש להם recall **moderately accurate** בלבד של אירועים (Edelbrock et al. 1985; Henry et al. 1994).\n- **סיבה 2**: לרוב אין agreement בדיווחי ילדים, מטפלים ומורים (Herjanic and Reich 1982).\n- **יישום**: איסוף ממספר מקורות (מורים, רופא ילדים, מטפלים קודמים, בני משפחה) מתקן דיווחים חלקיים. דרוש consent verbal + כתוב.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043213"
+    },
+    {
+      "id": "Q08-number-of-sessions",
+      "front_md": "כמה פגישות נדרשות בדרך-כלל להערכה מקיפה של ילד בגיל חינוך יסודי, מהו היוצא-דופן, ומהו האתגר המערכתי?",
+      "back_md": "- **נורמה**: רוב ההערכות **אינן** ניתנות לסיום ב-1-hour session בודד. הסטנדרט — **מספר פגישות**.\n- **יוצא-דופן**: presentation acute שמחייב מעבר מהיר יותר לטיפול (למשל, ילד עם SI חריף).\n- **אתגר**: **payers מכתיבים מגבלות זמן** גוברות, ועל הקלינאי למצוא איזון בין עומק ההערכה למגבלות reimbursement.\n\n*Dulcan 3e, Ch 4 · \"Assessment Process\"*",
+      "note_id": "1777035043214"
+    },
+    {
+      "id": "Q08-ros-categories-mandatory",
+      "front_md": "אילו קטגוריות הפרעה חובה לכלול ב-ROS פסיכיאטרי בגיל בית-ספר?",
+      "back_md": "לפי Kessler 2005 — ההפרעות הנפוצות בגיל זה:\n\n- **Anxiety** — separation, social, selective mutism, specific phobia, GAD\n- **ADHD**\n- **Disruptive** — ODD, CD\n- **Learning disorders, ASD, חששות חברתיים**\n- **Trauma- and stressor-related** (כולל adjustment)\n- **Mood** — דיכאון, BD, DMDD\n- **Elimination** (enuresis, encopresis)\n\nיש לכסות את כל הקטגוריות **גם אם הן לא רלוונטיות ל-CC**, מכיוון שתחלואה נלווית בגיל זה היא הכלל ולא היוצא מן הכלל.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043215"
+    },
+    {
+      "id": "Q09-asking-about-suicide-myth",
+      "front_md": "האם שאילה ילד על מחשבות אובדניות מעלה את הסיכון לאובדנות? מה הציטוט?",
+      "back_md": "**לא**. השאילה לא גורמת לילד לאמץ את המחשבה — מיתוס נפוץ שכבר הופרך (Greene 1994). **נזק רב יותר אפשרי אם מדירים את הקו הזה משאלה** — הילד שמסתיר אובדנות, ולא נשאל, נשאר ללא הערכה ובטיחות.\n\nנדרש להעריך באופן ישיר ומלא:\n- מחשבות אובדניות עבר ונוכח\n- תכניות וניסיונות\n- non-suicidal self-injurious thoughts ו-behaviors\n\n— תוך התייחסות לעלייה הדרמטית בשיעורי ההתאבדות בילדים (Janiri 2020) ולנתוני NSSI (DeVille 2020).\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043216"
+    },
+    {
+      "id": "Q09-hpi-parameters",
+      "front_md": "מהם ה-parameters הקריטיים לברר ב-HPI בהערכת ילד בגיל חינוך יסודי?",
+      "back_md": "- **Intensity**\n- **Frequency**\n- **Duration**\n- **Time of onset**\n- **Triggers + ameliorators**\n- **Associated symptoms**\n- **Timing patterns**\n- **Responses by others**\n- **Pervasive vs. limited** (האם מופיע בכל ההקשרים או רק באחד?)\n- **Acute vs. chronic**\n- **Stressors/recent changes** — מחלה/מוות במשפחה, מעבר בי\"ס, פרידת הורים, לידת אח, נישואים חדשים.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043217"
+    },
+    {
+      "id": "Q10-mandatory-ros-domains",
+      "front_md": "אילו תחומים חייבים להיסקר ב-psychiatric ROS בילד בגיל 6-12, גם אם אינם ב-chief complaint?",
+      "back_md": "- **Anxiety disorders**: separation anxiety, social anxiety, selective mutism, specific phobia, GAD.\n- **ADHD**.\n- **Disruptive/impulse-control/conduct disorders**: ODD, CD.\n- **Learning disorders, autism spectrum disorders, social concerns**.\n- **Trauma/stressor-related** (כולל adjustment).\n- **Mood**: MDD, BP, DMDD.\n- **Elimination disorders** (enuresis, encopresis).\n- **Tics**.\n- **Neurovegetative**: sleep, appetite, concentration, toileting.\n- **Citation**: Kessler et al. 2005 — שכיחות באוכלוסייה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043218"
+    },
+    {
+      "id": "Q10-substance-use-assessment-children",
+      "front_md": "איך מעריכים שימוש בחומרים בגיל בית-ספר ולמה גם בהורה?",
+      "back_md": "**בילד** — לא נפוץ, אך חשוב במיוחד **טבק, אינהלנטים ו-vaping של ניקוטין/מריחואנה** שיכולים להתחיל ב-preteen years (Miech 2019). יש לשאול תוך שמירה על אווירה לא-שיפוטית.\n\n**בהורה** — חיוני, מכיוון שחשיפה להורים שמשתמשים בחומרים היא **predictor לשימוש עתידי בילד**, וגם לבעיות mood, חרדה ו-self-concept (Merikangas 1998).\n\n**כלל מעשי**: מעריכים שימוש הורי ב**פרטיות עם ההורה** — לא בנוכחות הילד, כדי לאפשר דיווח כן ולהגן על תפיסת הילד את ההורה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043219"
+    },
+    {
+      "id": "Q11-medical-conditions-mimic-psychiatric",
+      "front_md": "אילו מצבים רפואיים שכיחים שיכולים לחקות סימפטומים פסיכיאטריים בילדים?",
+      "back_md": "לפי Ch 4:\n- **Thyroid disease** (היפר ↔ חרדה / היפו ↔ דיכאון, אנרגיה נמוכה)\n- **Hematological abnormalities** (אנמיה ↔ עייפות, ירידה בקוגניציה)\n- **Head injuries / loss of consciousness / seizures** (סיבוכים נוירולוגיים)\n- **Cardiac pathology** (חשוב בעיקר לפני מתן stimulants)\n\nועם זאת, **תלונות סומטיות** הן לרוב **הסומטיזציה של חרדה ודיכאון** בגיל זה — תהליך דו-כיווני. **medical examination בתוך השנה האחרונה** הוא הכרחי, ובמקרה של חשד למקור רפואי — ייעוץ עם הפדיאטר על labs/imaging/הפניה לסקציאליסט.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043220"
+    },
+    {
+      "id": "Q11-suicide-screening-myth",
+      "front_md": "מדוע screening ל-SI בילדי חינוך יסודי הוא חובה, ומי סותר את המיתוס שהשאלה \"זורעת\" מחשבות אובדניות?",
+      "back_md": "- **המצב**: יש עלייה מדאיגה במקרי suicide בילדים ומתבגרים (Janiri et al. 2020). SI/NSSI קיימים בגיל הזה (DeVille et al. 2020).\n- **עיקרון**: שאלה על SI **אינה גורמת לילד לאמץ את המחשבה** (Greene 1994).\n- **נזק בהפוך**: הרבה יותר נזק אפשרי אם נמנעים מ-line of questioning זה.\n- **יישום**: שאלה ישירה ומותאמת-גיל — \"האם חשבת אי-פעם שלא תרצה להיות פה יותר?\".\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043221"
+    },
+    {
+      "id": "Q12-family-medical-history-content",
+      "front_md": "מה כולל סקירת היסטוריה משפחתית רפואית בהערכת ילד בגיל בית-ספר?",
+      "back_md": "**רפואית**:\n- **Cardiac disease** (כולל functional, structural, מוות פתאומי מוקדם) — חיוני לפני stimulants\n- **Thyroid disease**\n- **Neurological disease, seizures, headaches**\n- **Genetic disorders**\n\n**פסיכיאטרית**:\n- בעיות פסיכיאטריות עיקריות בקרובים מדם\n- **בעיות למידה, רגש, התנהגות, אישיות**\n- **שימוש בחומרים**\n- **התאבדות completed או attempted**\n- **תרופות וטיפולים — איזה ניסה ומה הייתה התגובה**\n\nההיסטוריה היא **גנטית וסביבתית כאחד** (Ramchandani 2003) — דיכאון הורי משפיע על זמינות הורית בנוסף לסיכון התורשתי.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043222"
+    },
+    {
+      "id": "Q12-preteen-substance-use",
+      "front_md": "אילו חומרים יכולים להופיע ב-preteens, ומדוע חובה לשאול על substance use הורי בפרטיות?",
+      "back_md": "- **Preteen substance use**: סיגריות ו-inhalants יכולים להתחיל. טרנד חדש — **vaping של ניקוטין או marijuana** (Miech et al. 2019).\n- **Parental substance use מנבא**:\n  - שימוש עצמי של הילד בחומרים.\n  - Mood ו-anxiety problems.\n  - Poor self-concept (Merikangas et al. 1998).\n- **למה בפרטיות**: הגנה על willingness של ההורה ל-disclose + הגנה על הילד מחשיפה לא-מתאימה.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043223"
+    },
+    {
+      "id": "Q13-medical-mimicry",
+      "front_md": "אילו מצבים רפואיים יכולים להידמות לתסמינים פסיכיאטריים בילדי חינוך יסודי, ומה רלוונטי רפואית לפני מרשם פסיכוטרופי?",
+      "back_md": "- **מצבים רפואיים mimic**:\n  - **Thyroid disease** — hypo/hyper יכול להציג כ-depression/anxiety.\n  - **Hematological abnormalities** — אנמיה עלולה להיראות כעייפות/דיכאון.\n  - **Neurological**: head injuries, loss of consciousness, seizures.\n- **Somatic manifestations** של mood/anxiety — כאבי ראש, בטן חוזרים.\n- **לפני פסיכוטרופיקה**:\n  - Baseline של organ systems.\n  - **Cardiac history אישי ומשפחתי** (קריטי לפני stimulants, atomoxetine, TCAs).\n  - סקירה של כל התרופות הנוכחיות כולל OTC ו-supplements.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043224"
+    },
+    {
+      "id": "Q13-social-history-school-age-emphases",
+      "front_md": "אילו תחומים בהיסטוריה החברתית בולטים במיוחד בגיל בית-ספר?",
+      "back_md": "- **חברויות ו-peer group** — peers בעלי חשיבות גוברת בגיל זה; חברויות בודקות יכולת לנווט חברתית\n- **best friend ו-friend group** — האם יש?\n- **חוזקות וכישורי הילד** מנקודת ראות המטפל\n- **תחביבים, פעילויות, ספורט** — בסיס ל-self-esteem\n- **legal issues** — מעורבות social services, custody, parental criminal history\n- **abuse** של הילד ובני משפחה אחרים — תמיד נחקר בנפרד עם הילד והורה\n- **history of foster placement** אם רלוונטי\n- **מטפלים נוספים** מעבר להורה הביולוגי — relatives, nannies, babysitters\n\nהילד עדיין לא autonomous — חיי הילד שזורים במטפלים.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043225"
+    },
+    {
+      "id": "Q14-cognitive-features-school-age",
+      "front_md": "מהם המאפיינים הקוגניטיביים של גיל בית-ספר לפי Table 4-2?",
+      "back_md": "- **Concrete operations** — conservation ו-classification (פיאז'ה)\n- **Theory of mind** מבוססת — מבין ש-others think differently\n- **מעריך rules** — מודעות לכללים, לפעמים מובילה ל-cognitive rigidity\n- **אחיזה משופרת ב-time and space**\n- **חשיבה מופשטת מתחילה רק בגיל 9–10** (Caplan & Bursch 2013)\n\nחשיבות קלינית: שאלות עם cause/why מבקשות analytical thinking שעדיין לא בשל; הילד יענה \"I don't know\". במקום, יש להשתמש ב-what/where/how — שאלות תיאוריות שבהישג יד הקוגניטיבי שלו.\n\n*Dulcan 3e, Ch 4 · \"Typical Developmental Features\"*",
+      "note_id": "1777035043226"
+    },
+    {
+      "id": "Q14-table-4-1-twelve-sections",
+      "front_md": "מהם 12 הסעיפים של Table 4-1 — Outline for Psychiatric Evaluation of the Elementary School-Age Child?",
+      "back_md": "(I) Chief complaint — child + parent versions.\n(II) History of present illness.\n(III) Psychiatric review of symptoms.\n(IV) Past psychiatric history.\n(V) Past medical history.\n(VI) Medications and allergies.\n(VII) Developmental history.\n(VIII) Educational history.\n(IX) Family medical history.\n(X) Family psychiatric history.\n(XI) Social history.\n(XII) Abuse and risk assessment.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components / Table 4-1\"*",
+      "note_id": "1777035043227"
+    },
+    {
+      "id": "Q15-erikson-industry-vs-inferiority",
+      "front_md": "מה ההבדל בין Industry ל-Inferiority לפי Erikson 1950?",
+      "back_md": "Erikson תיאר ילדים בגילאי 5–12 כעומדים בפני האתגר של **achieving competence**.\n\n- **Industry** (מסוגלות) — הילד פעיל בלמידה ובפעילויות, משתמש בהישגים בבית-ספר ופנאי לבנות **sense of accomplishment** ו-self-esteem.\n- **Inferiority** (נחיתות) — אם הילד **נכשל בהישגים**, הוא נאבק ב-sense of inferiority ו-low self-esteem.\n\n**רלוונטיות קלינית**: ילדים עם LD, ADHD לא מאובחנים, intellectual disability — נמצאים בסיכון להחמיץ את ה-mastery של הגיל ולהיכנס ל-inferiority, מה שיכול לזרוע זרעי דיכאון, הימנעות, ובעיות התנהגות.\n\n*Dulcan 3e, Ch 4 · \"Typical Developmental Features\"*",
+      "note_id": "1777035043228"
+    },
+    {
+      "id": "Q15-why-separate-abuse-assessment",
+      "front_md": "מדוע Dulcan מדגיש בפני הילד וההורה **לשאול על abuse separately**, ואיזה עוד נושאים עדיף לברר בכל מסגרת?",
+      "back_md": "- **למה בנפרד**: ילדים עלולים להיות **משותקים בנוכחות ההורה** מבושה, פחד מהשלכות, או אשמה (וההורה עצמו יכול להיות הפוגע או להיות נתפס כלא-תומך).\n- **עם הילד לבד**: abuse, self-esteem, friendships, hobbies.\n- **עם ההורה לבד**: relations בין הורים, family history של מחלות נפש, discipline practices, substance use הורי, ובעיות רגישות נוספות שההורים מעדיפים להעלות בלי הילד.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043229"
+    },
+    {
+      "id": "Q16-erikson-stage",
+      "front_md": "איזה שלב של Erikson מתאים לגילאי 5-12 שנים, ומה המשימה של השלב ומה הסיכון הפסיכופתולוגי?",
+      "back_md": "- **Stage**: Industry vs. Inferiority (Erikson 1950).\n- **המשימה**: השגת **competence** דרך learning ו-activities. בחברות רוב הילדים מבלים majority of time בבי\"ס ומשתמשים ב-learning activities לבניית sense of accomplishment.\n- **תוצאה חיובית**: good self-esteem.\n- **תוצאה שלילית**: אם הילד נכשל ב-achievements — **sense of inferiority, low self-esteem, hopelessness, easy frustration, resistance לנסות דברים חדשים**. ילדים עם ID, LD, attentional problems — בסיכון מוגבר.\n\n*Dulcan 3e, Ch 4 · \"Typical Developmental Features / Erikson 1950\"*",
+      "note_id": "1777035043230"
+    },
+    {
+      "id": "Q16-why-no-why-question-example",
+      "front_md": "מדוע \"Why\" היא שאלה גרועה לילד? תן דוגמה לשיפור.",
+      "back_md": "שאלות \"why\" דורשות **analytical thinking** שמעבר ליכולות הקוגניטיביות של ילדים בגיל זה (concrete operations, חשיבה מופשטת מתחילה רק בגיל 9–10). התגובה הטיפוסית: *\"I don't know\"* — ולא בגלל התנגדות, אלא כי השאלה מעבר ליכולתם.\n\n**דוגמה מ-Dulcan**:\n- ❌ *\"Why did you hit your brother?\"* → \"I don't know\"\n- ✅ *\"What happened to make you hit your brother?\"*\n- ✅ *\"What did your brother do to make you hit him?\"*\n- ✅ *\"What did you feel when you hit your brother?\"*\n\n→ יניבו תגובה אינפורמטיבית. השימוש ב-what/where/how הופך שאלת סיבתיות לשאלת תיאור או רגש.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043231"
+    },
+    {
+      "id": "Q17-asking-about-time-duration",
+      "front_md": "איך תשאל ילד בגיל בית-ספר על משך זמן של סימפטום?",
+      "back_md": "ילדים בגיל זה הם **historians גרועים** לגבי onset ו-duration, גם כשהם מתחילים לשלוט במושגי זמן.\n\n**גרוע**: *\"How long have you been feeling sad?\"* — דורש חישוב מופשט.\n\n**טוב**: שימוש ב-**markers מוכרים** מחיי הילד:\n- *\"Were you feeling sad back when it was still summer vacation?\"*\n- *\"Was it before Hanukkah or after?\"*\n- *\"Before your birthday or after?\"*\n\n**עיקרון**: לקבע את הסימפטום ביחס לאירוע קונקרטי שהילד זוכר — לא ביחס למספר שבועות או חודשים. גישה זו מבוססת על concrete reasoning של הילד.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043232"
+    },
+    {
+      "id": "Q17-why-avoid-why-questions",
+      "front_md": "מדוע Dulcan ממליץ להימנע משאלות \"why\" בילד חינוך יסודי, ואיך לנסח את השאלה \"Why did you hit your brother?\" בצורה אפקטיבית?",
+      "back_md": "- **למה לא \"why\"**: דורש **analytical thinking** שמעל יכולת רוב הילדים בגיל זה. התוצאה הצפויה — \"I don't know\".\n- **חלופות** (what/where/how):\n  1. \"**What** happened to make you hit your brother?\"\n  2. \"**What** did your brother do to make you hit him?\"\n  3. \"**What** did you feel when you hit your brother?\"\n- **המנגנון**: מה-3 שאלות ביחד מפיקים context, trigger, ו-internal state — כל מה ש-\"why\" אחת היה אמור לחשוף.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043233"
+    },
+    {
+      "id": "Q18-time-anchoring",
+      "front_md": "איך לנסח שאלה על onset/duration של סימפטום לילד בן 8, במקום \"How long have you been feeling sad?\"?",
+      "back_md": "- **העיקרון**: ילדים בגיל זה הם **poor historians** לגבי onset/duration מופשטים, גם אם מתחילים להבין time constructs.\n- **טכניקה**: **anchor ל-recognizable markers** — events שהילד זוכר.\n- **ניסוח לדוגמה**: \"You told me you have been feeling sad. Were you feeling sad back when it was still summer vacation?\"\n- **Markers שימושיים**: חופש גדול, תחילת כיתה, חגים, יום הולדת, מעבר דירה, לידת אח.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043234"
+    },
+    {
+      "id": "Q18-when-pictures-toys-drawings",
+      "front_md": "מתי כדאי להשתמש בציור, תמונות, או צעצועים במקום שאלות מילוליות?",
+      "back_md": "כאשר הילד מתקשה לתקשר verbally או להשתמש במילים לתאר מצבי רגש או נושאים sensitive.\n\n**אוכלוסיות יעד מובהקות** (Dulcan):\n- **Selective mutism**\n- **Trauma-related symptoms**\n- **Communication disorders**\n\n**מנגנון**: **displacement** — להעביר את הסיפור על תמונה, puppet, figurine או דמות בציור, מאפשר לילד לחשוף תוכן רגשי בלי להיות \"האחראי\" עליו.\n\n**שני סוגי ציור**: עם הוראה (מדגים compliance ו-comprehension), בלי הוראה (entry into the child's thoughts, בסיס לחקירה).\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043235"
+    },
+    {
+      "id": "Q19-overly-familiar-child-meaning",
+      "front_md": "מה מעידה התעניינות יתר (overly familiar) של ילד עם המראיין?",
+      "back_md": "ילד **overly familiar** עם הקלינאי (חיבוק מיידי, יושב על הברך, מציג צמידות לאדם זר) עשוי להציג סימנים של **poor attachment** — דפוס \"indiscriminate\" הקלאסי בילדים שגדלו בסביבות עם חוסר תגובה הורית עקבית.\n\nב-DSM-5 זוהי הקריטריון המרכזי של **DSED** (Disinhibited Social Engagement Disorder), אך גם בלי האבחון יש לזה משמעות קלינית — סיכון לניצול, פגיעות, וקושי ביחסים עתידיים.\n\nמנגד, ילד **aloof** עשוי לרמז על **ASD**, וילד עם **sustained inhibition** עשוי לשקף **anxiety**. שלושה ביטויי behavior שונים, שלוש פורמולציות שונות.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination\"*",
+      "note_id": "1777035043236"
+    },
+    {
+      "id": "Q19-working-memory-rules",
+      "front_md": "מהם הכללים לניסוח שאלות לילדי חינוך יסודי בהתחשב במגבלת working memory?",
+      "back_md": "- **ממד 1 — vocabulary**: מילים age-appropriate.\n- **ממד 2 — quantity**: לא יותר מדי מילים בשאלה. דוגמה: \"How old is your brother Ralph?\" עדיף על \"Tell me the ages of your brothers and sisters, Ralph, Simon, Lucy, and Lena.\"\n- **ערבוב open + directed**: שאלות directive רצופות מייצרות **automatic yes/no**.\n- **מתן choices**: טוב כאסטרטגיה, אך עם יותר מדי אפשרויות הילד יבחר את האחרונה (effect of recency). לאפשר **time after each option** לתגובה.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043237"
+    },
+    {
+      "id": "Q20-drawing-with-without",
+      "front_md": "מהו ההבדל בין ציור \"with instruction\" לציור \"without instruction\", ואיזה מידע כל אחד מספק?",
+      "back_md": "- **With instruction** (למשל \"צייר את המשפחה שלך\"):\n  - מעריך יכולת **לשמוע, לעבד, ולהבין** את המשימה.\n  - מאפשר הערכת **level of compliance**.\n- **Without instruction** (הילד מצייר חופשי):\n  - נותן **entry into the child's thoughts**.\n  - מהווה בסיס לבירור נוסף — \"ספר לי על הציור\".\n- **אוכלוסיות מיועדות**: selective mutism, trauma-related, communication disorders — משלב שני הסוגים בהערכות עוקבות.\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043238"
+    },
+    {
+      "id": "Q20-mse-appearance-content",
+      "front_md": "מה מחפשים בבחינת ה-Appearance של ילד בגיל בית-ספר?",
+      "back_md": "(1) **Size relative to chronological age** — height/weight abnormalities יכולות להיות מקור ל-social ostracism.\n\n(2) **Facial or body dysmorphisms** — רמז ל-genetic abnormalities או in utero toxin exposure (FAS).\n\n(3) **Presence of scars** — חשד ל-abuse או self-harm; נושא לחקירה פרטית.\n\n(4) **Hygiene, grooming, ו-appropriateness of clothes** — משקפים adequate parental care; הזנחה אפשרית.\n\nהופעה היא ה\"כותרת\" של ה-MSE — בשניות, הקלינאי כבר אסף 4 קטגוריות שונות (גנטית, התעללות, הזנחה, סטטוס סוציאלי) שדורשות חקירה נוספת.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination — Table 4-3\"*",
+      "note_id": "1777035043239"
+    },
+    {
+      "id": "Q21-mse-appearance-red-flags",
+      "front_md": "אילו ממצאים ב-appearance ב-MSE של ילד חינוך יסודי מרמזים על abuse או neglect?",
+      "back_md": "- **Scars**: אינדיקטור ל-abuse פיזי או self-harmful behavior (חיתוכים, כוויות סיגריה).\n- **Hygiene/grooming/clothing**:\n  - רעב, לא-מקלחת, שיער מבולגן — דגל של **neglect**.\n  - בגדים לא-מותאמים לעונה או למידה.\n- **Facial/body dysmorphism**: יכולים להצביע על genetic abnormalities או על in utero toxin exposure (למשל FAS).\n- **Size relative to chronological age**: גובה/משקל חריג יכולים להיות גורם ל-social ostracism.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination\"*",
+      "note_id": "1777035043240"
+    },
+    {
+      "id": "Q21-structured-interviews-7-instruments",
+      "front_md": "אילו 7 ראיונות מובנים/חצי-מובנים מוזכרים בפרק 4?",
+      "back_md": "- **K-SADS** — Kiddie Schedule for Affective Disorders and Schizophrenia\n- **DISC** — NIMH Diagnostic Interview Schedule for Children\n- **ADIS** — Anxiety Disorders Interview Schedule\n- **DICA** — Diagnostic Interview for Children and Adolescents\n- **ChIPS** — Children's Interview for Psychiatric Syndromes\n- **CAPA** — Child and Adolescent Psychiatric Assessment\n- **CY-BOCS** — Children's Yale-Brown Obsessive Compulsive Scale (ספציפי ל-OCD)\n\n**יתרון** — מעוררים סימפטומים בפורמט סטנדרטי וכולל; רבים יש להם diagnostic algorithms.\n\n**שימוש** — בעיקר במחקר; בקליניקה ambulatorit הם תוספת ולא תחליף לראיון הקליני.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043241"
+    },
+    {
+      "id": "Q22-behavior-patterns-differential",
+      "front_md": "אילו אבחנות מבדילות מרמזים ה-behavior patterns הבאים ב-MSE: sustained inhibition, overly familiar, aloof?",
+      "back_md": "- **Sustained inhibition**: → **anxiety disorder**.\n- **Overly familiar** (חוסר גבולות, friendly יתר-על-המידה עם זרים): → בעיות **attachment** (RAD/DSED).\n- **Aloof** (מנותק, חוסר eye contact): → **autism spectrum disorder**.\n- **Bond ילד-הורה**: חוסר bond, הורה passive/harsh, ילד tense — דגל אדום ליחסים בעיתיים או abuse.\n- **תגובות לחזן/frustration**: מלמד על attachment, impulse control, ו-co-regulation.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination\"*",
+      "note_id": "1777035043242"
+    },
+    {
+      "id": "Q22-structured-interviews-disadvantages",
+      "front_md": "מהם החסרונות של ראיונות מובנים בקליניקה ambulatorit?",
+      "back_md": "לפי Dulcan:\n- **Need for training** — לא ניתן להפעיל בלי הכשרה ייעודית\n- **Cost** — חלק מהכלים ממוסחרים\n- **Lengthy administration time** — חצי שעה עד שעתיים, מעבר לראיון הקליני\n- **Possible delay of progression to treatment** — דחיית טיפול עד שמסיימים את הראיון\n\n**משמעות מעשית**: בזירת outpatient עם לחץ זמן ומבטחי בריאות, הראיונות המובנים שמורים בעיקר ל-(א) מקרים מורכבים שבהם נדרש בירור שיטתי, (ב) חוסר סגירה אחרי כמה פגישות, (ג) הקשרי מחקר. כלי הדירוג (rating scales) הם הפתרון היומיומי במקום.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043243"
+    },
+    {
+      "id": "Q23-broadband-rating-scales",
+      "front_md": "אילו 3 כלי דירוג רחבי-טווח (broadband) מוזכרים בפרק לגיל בית-ספר?",
+      "back_md": "- **CBCL** — Child Behavior Checklist (Achenbach)\n- **BASC** — Behavior Assessment System for Children\n- **CSI** — Children's Symptom Inventory\n\n**מאפיין משותף** — מסרבים מגוון רחב של תסמינים בו-זמנית, בניגוד לכלי ספציפי שמתמקד בסיווג אחד (ADHD, depression, anxiety).\n\n**שימוש**: סקרינינג ראשוני לקראת אבחון, ובמעקב אחר תגובה לטיפול. קצרים, קלים לניהול, ומאפשרים collection מ-multiple informants (parent form, teacher form, self-report).\n\nהסקאלות מספקות פרופיל פסיכומטרי ולא אבחנה — הן תוספת לראיון הקליני, לא תחליף.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043244"
+    },
+    {
+      "id": "Q23-normal-thought-process",
+      "front_md": "מהם ה-thought process ו-thought content הצפויים ב-MSE של ילד בריא בגיל 8-10, ומתי לחשוד ב-psychosis?",
+      "back_md": "- **Thought process נורמלי**: concrete, linear, organized.\n- **Thought content**: יכולת להבחין fantasy מ-reality (במיוחד בגיל המבוגר); SI/HI שליליים.\n- **Psychosis primary נדיר** בגיל זה. אם מדווח:\n  - **Trauma-reactive symptoms** (flashbacks, קולות).\n  - **Mood disorders חמורים** (hallucinations במצבי דיכאון כבד).\n  - **Delirium** ממחלה רפואית או חומרים — שלילה חובה.\n- **Magical thinking** קל עדיין תקין בגיל 6-7.\n\n*Dulcan 3e, Ch 4 · \"Mental Status Examination\"*",
+      "note_id": "1777035043245"
+    },
+    {
+      "id": "Q24-adhd-rating-scales",
+      "front_md": "אילו כלי דירוג ספציפיים ל-ADHD מוזכרים בפרק ובמי משתמשים?",
+      "back_md": "- **Conners Rating Scale (CSR)** — מהוותיקים והמוכרים, גרסאות parent/teacher/self\n- **Vanderbilt ADHD Diagnostic (VAD)** — נפוץ במיוחד בפדיאטריה הראשונית, יש parent form ו-teacher form\n\n**שימוש קליני**:\n- **Teacher form** — חיוני לפני אבחון ADHD (קריטריון cross-setting); מורה רואה את הילד 6 שעות ביום במשימות מאתגרות, נקודת מבט שאי-אפשר לקבל מההורה\n- **Parent form** — בית כנגד בית-ספר; שני המקורות יחד מאשרים pervasive\n- **לפני ואחרי טיטרציית** של stimulants — מעקב אובייקטיבי אחר תגובה\n\nה-Vanderbilt גם מסרב comorbidities נפוצות (ODD, anxiety, depression, learning).\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043246"
+    },
+    {
+      "id": "Q24-structured-interviews",
+      "front_md": "תן דוגמאות ל-structured/semi-structured interviews לילדי חינוך יסודי + היתרונות והחסרונות שלהם.",
+      "back_md": "- **דוגמאות**: K-SADS, DISC, ADIS, DICA, ChIPS, CAPA, CY-BOCS.\n- **יתרונות**:\n  - **Standardized ו-comprehensive** format.\n  - **Diagnostic algorithms** בנויים.\n- **חסרונות**:\n  - דורשים **training**.\n  - **Cost** של רישיונות.\n  - **Lengthy administration time**.\n  - **Delay procession to treatment** — זמן שהיה יכול להיות לטיפול.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043247"
+    },
+    {
+      "id": "Q25-broadband-scales",
+      "front_md": "תן 3 דוגמאות של broadband rating scales לילדי חינוך יסודי, ומה היתרון של rating scales בכלל?",
+      "back_md": "- **Broadband scales**: CBCL (Child Behavior Checklist), BASC (Behavior Assessment System for Children), CSI (Children's Symptom Inventory).\n- **יתרונות של rating scales בכלל**:\n  - קצרים וקלים למתן.\n  - ניתנים למתן חוזר ל-**tracking treatment response**.\n  - מאפשרים איסוף מידע מ-**multiple informants** (הורים, מורים).\n  - משפרים את ה-diagnostic process, במיוחד כ-screening לאזורים שאולי פספסנו בראיון.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043248"
+    },
+    {
+      "id": "Q25-internalizing-rating-scales",
+      "front_md": "אילו כלי דירוג קיימים להפרעות חרדה, דיכאון וטראומה בילדים?",
+      "back_md": "**Depression**:\n- **CDI** — Children's Depression Inventory (self-report)\n- **CDRS** — Children's Depression Rating Scale (clinician)\n- **BDI** — Beck Depression Inventory\n\n**Anxiety**:\n- **MASC** — Multidimensional Anxiety Scale for Children\n- **SCARED** — Screen for Child Anxiety Related Disorders\n\n**Mania**:\n- **YMRS** — Young Mania Rating Scale\n\n**Trauma**:\n- **CPSS** — Child PTSD Symptom Scale\n- **TSCC** — Trauma Symptom Checklist for Children\n\nהסקאלות שימושיות גם **לאבחון** וגם **למעקב תגובה לטיפול**. יש לבחור כלי בהתאם ל-CC ולהפעילו בצורה rotinית.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043249"
+    },
+    {
+      "id": "Q26-additional-information-sources",
+      "front_md": "אילו מקורות מידע נוספים יש לאסוף לאחר הראיונות והכלים?",
+      "back_md": "**אנשים** (בהסכמת ההורה): teachers, school-based psychologists, social workers, case workers, coaches, **family members**, ומטפלים פסיכיאטריים קודמים.\n\n**גורמים רפואיים**: pediatrician, pediatric specialists, child welfare workers.\n\n**הערכות נוספות**:\n- **Medical examination בתוך השנה האחרונה** — חיוני\n- **Laboratory, imaging, procedural testing** — לפי חשד למקור רפואי\n- **Psychological testing** — להערכת LD מלא\n- **Speech-language pathologist** — לבעיות שפה ודיבור\n\n**עיקרון**: הערכה פסיכיאטרית היא חלק ממערך רב-תחומי, לא איזולציה. כל מקור מידע משלים נקודת מבט נוספת לתמונה הקלינית.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043250"
+    },
+    {
+      "id": "Q26-externalizing-scales",
+      "front_md": "מהם ה-rating scales המיועדים להפרעות externalizing (ADHD, התנהגות) בילדי חינוך יסודי?",
+      "back_md": "- **Conners Rating Scale (CRS)**: מכוון ל-ADHD ו-conduct.\n- **Vanderbilt ADHD Diagnostic (VAD)**: גרסאות parent ו-teacher; שכיח ב-primary care.\n- **שימוש טיפוסי**: מתן ל-screening בבי\"ס + בבית לזיהוי pervasive ADHD, ול-monitoring of treatment response.\n- **CBCL** (broadband) גם נותן sub-scale של externalizing.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043251"
+    },
+    {
+      "id": "Q27-disorders-uncovered-by-school-entry",
+      "front_md": "אילו הפרעות עלולות להתגלות עם כניסה לבית הספר?",
+      "back_md": "**חרדה**:\n- **Separation anxiety**\n- **Generalized anxiety** (נחשפת ע\"י משימות, מבחנים, כללים)\n- **Social anxiety**\n\n**למידה והתנהגות**:\n- **Learning disorders** (השוואה ל-peers חושפת)\n- **Speech and language disorders**\n- **ADHD** (מבנה הכיתה אינו מתאים ל-hyperactivity ו-poor impulse control)\n- **ODD**\n\n**חברתיות**:\n- **ASD סובטילי** — ילדים שלא זוהו לפני בית-ספר; **peers אינם מקבלים את האינטראקציות המוזרות**\n\n**טראומה / mood**:\n- **Bullying victims** עם השלכות פסיכיאטריות\n- **דיכאון** בילדים שמפגרים academically/socially\n- **DMDD** עם onset לפני גיל 10\n\nבית הספר הוא \"stress test\" התפתחותי שחושף פתולוגיה לטנטית.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043252"
+    },
+    {
+      "id": "Q27-internalizing-scales",
+      "front_md": "מהם ה-rating scales הספציפיים להפרעות internalizing (depression, anxiety, mania, PTSD) בילדי חינוך יסודי?",
+      "back_md": "- **Depression**:\n  - CDI — Children's Depression Inventory (self-report).\n  - CDRS — Children's Depression Rating Scale (clinician-rated).\n  - BDI — Beck Depression Inventory.\n- **Anxiety**:\n  - MASC — Multidimensional Anxiety Scale for Children.\n  - SCARED — Screen for Child Anxiety Related Disorders.\n- **Mania**: YMRS — Young Mania Rating Scale.\n- **PTSD/Trauma**:\n  - CPSS — Child PTSD Symptom Scale.\n  - TSCC — Trauma Symptom Checklist for Children.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043253"
+    },
+    {
+      "id": "Q28-bullying-clinical-presentation",
+      "front_md": "איך מציגים בריונות בקליניקה ומהן הסכנות?",
+      "back_md": "**הצגות אפשריות**: הימנעות מבית הספר, תלונות סומטיות, ירידה בהישגים, social withdrawal, חרדה חדשה, חידוש separation anxiety, sleep disturbance, ובמצבים חמורים — אובדנות.\n\n**סכנות** (Klomek 2009): bullying יכול להוביל ל-**suicide ו-homicide** — ולכן **חייבים להתייחס ברצינות**.\n\n**Cyberbullying הגדיל את הבעיה**, במיוחד אצל ילדים בקבוצה הבוגרת — אינו נפסק עם סוף יום הלימודים. שאלות חובה: אילו social media platforms הילד משתמש? כמה שעות online? אינטראקציות שליליות? יש שיתוף תמונות/מידע שעלול להיות מנוצל?\n\n**השתמע**: זיהוי בריונות (ילד בולה או נבול) הוא **safety issue**, לא בעיה צדדית.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043254"
+    },
+    {
+      "id": "Q28-referrals-learning-speech",
+      "front_md": "מתי להפנות ל-psychological testing או ל-speech-language pathologist, ומתי להפנות ל-pediatrician להמשך בירור?",
+      "back_md": "- **Psychological testing**: להערכת learning-based disorders — IQ, achievement, neuropsychological.\n- **Speech-language pathologist**: לבעיות שפה ודיבור (fluency, articulation, comprehension).\n- **Pediatrician**: (1) לוודא שעברה **medical exam בשנה האחרונה**; (2) אם יש חשד ל-**underlying medical cause** — laboratory, imaging, או procedural testing, או referral למומחה (endocrinologist, neurologist, cardiologist).\n- **העיקרון**: פסיכיאטר ילדים משמש **coordinator** ברשת רב-מקצועית, לא מבצע הכל לבדו.\n\n*Dulcan 3e, Ch 4 · \"Assessment Tools\"*",
+      "note_id": "1777035043255"
+    },
+    {
+      "id": "Q29-disorders-uncovered-school-entry",
+      "front_md": "אילו הפרעות נחשפות לעיתים קרובות עם כניסה לביה\"ס, ולמה?",
+      "back_md": "- **Separation anxiety** — הילד נפרד מההורים לראשונה למשך שעות.\n- **GAD** — responsibilities חדשות (זמן, assignments, tests, rules).\n- **Learning disorders, language disorders** — נחשפות כשהילד מתחיל formal academics.\n- **ADHD** — classroom structure דורשת attention ו-impulse control.\n- **ODD** — חוקי כיתה + סמכות.\n- **Social anxiety** — נדרש להשתתף בקבוצה גדולה.\n- **ASD עם סימנים subtle** — peers לא סובלים את דפוסי האינטראקציה.\n- **ID קל** — המטלות האקדמיות חושפות את הפער.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043256"
+    },
+    {
+      "id": "Q29-dmdd-symptoms-copeland-2013",
+      "front_md": "מהם הסימפטומים העיקריים של DMDD לפי Copeland 2013?",
+      "back_md": "**DMDD** = Disruptive Mood Dysregulation Disorder.\n\n**מאפיינים מרכזיים**:\n- **Onset לפני גיל 10**\n- **Chronic irritability** — מצב רוח עצבני רוב הימים, רוב היום\n- **Recurrent temper tantrums** — לא תואמי-גיל בעוצמה ובמשך, מתפרצים על טריגרים זניחים, מתקיימים בכמה סטינגים\n\n**אבחון**: ילדים בני 6–18, סימפטומים ≥12 חודשים, ב-2 סטינגים לפחות (בית, בית-ספר, peers).\n\n**משמעות**: התלונות הללו (irritability + tantrums) הן הסיבה השכיחה לפניה פסיכיאטרית בגיל זה. ה-DSM-5 הציג DMDD כדי להבחין מ-bipolar בילדים, שהיה over-diagnosed בעבר.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043257"
+    },
+    {
+      "id": "Q30-dmdd-features",
+      "front_md": "מהם המאפיינים האבחנתיים המרכזיים של DMDD, מהו גיל ה-onset, ומי הציג את השכיחות שלה?",
+      "back_md": "- **DMDD** (Disruptive Mood Dysregulation Disorder) — DSM-5.\n- **Onset**: לפני **גיל 10**.\n- **מאפיינים מרכזיים**:\n  - **Chronic irritability** בין התקפים.\n  - **Recurrent temper tantrums** — ≥3/שבוע.\n  - Mood בין התקפים — irritable/angry רוב ימות השבוע.\n  - Duration ≥12 חודשים, ב-≥2 settings.\n- **אבחון נעשה בין גילאי 6-18** (לא לפני 6 ולא אחרי 18).\n- **שכיחות + correlates**: Copeland et al. 2013.\n- **רציונל ב-DSM-5**: להפחית over-diagnosis של Bipolar בילדים.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders / Copeland et al. 2013\"*",
+      "note_id": "1777035043258"
+    },
+    {
+      "id": "Q30-ptsd-presentation-children-vs-dsm5",
+      "front_md": "איך נראה PTSD בילדים בגיל בית-ספר ומדוע שונה מה-DSM-5 הקלאסי?",
+      "back_md": "תסמיני PTSD בילדים יכולים להיות שונים מה-classic DSM-5 PTSD (Perrin 2000):\n\n- **תלונות סומטיות** — כאבי ראש, כאבי בטן חוזרים\n- **Regression in skills** — חזרה לדפוסים מוקדמים (enuresis, baby talk, צמידות)\n- **Increase in clinginess**\n- **Onset of separation anxiety**\n- **School academic decline**\n- **Social changes**\n- **Sleep disturbance**\n- **Behavioral problems**\n- **Increased anxiety level**\n\n**השלכה אבחונית**: הצגה סומטית/רגרסיבית עלולה להוביל לאבחנה שגויה (אנקופרזיס, ADHD חדש, חרדת פרידה primary). חיוני לחקור היסטוריית טראומה לפני הסקת מסקנה אבחונית בילד עם ירידה תפקודית פתאומית.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043259"
+    },
+    {
+      "id": "Q31-formulation-presentation-strategy",
+      "front_md": "איך מציגים פורמולציה למשפחה בצורה אפקטיבית?",
+      "back_md": "לאחר biopsychosocial formulation (Ch 1), הקלינאי מציג את הממצאים **בצורה ישירה ונייטרלית**, בנוכחות הילד וההורה יחד באופן טיפוסי.\n\n**אסטרטגיה**:\n1. **לפתוח עם strengths** של הילד והמשפחה\n2. **להדגיש דומיינים שבהם psychopathology absent**\n3. בדיון על מסקנות אבחוניות — לא רק לפרט סימפטומים אלא **להסביר factors שתרמו**\n4. גם אם נושאים כמו family relations קשים — חיוני להעלות, ההסבר מצדיק התערבויות (parental guidance, family therapy)\n5. **תרופות** — נושא רגיש, דורש sensitivity מיוחדת\n\n**מטרה**: להפחית guilt ו-anxiety, לבסס שותפות טיפולית, ולמסגר את המסקנות במונחים של פעולה.\n\n*Dulcan 3e, Ch 4 · \"Assessment: Formulation and Treatment Planning\"*",
+      "note_id": "1777035043260"
+    },
+    {
+      "id": "Q31-ptsd-atypical-presentation",
+      "front_md": "אילו תסמינים \"לא-קלאסיים\" של PTSD צריך לחפש בילדי חינוך יסודי, ומי הציג זאת?",
+      "back_md": "- **Somatic**: recurrent headaches, stomachaches.\n- **Regression in skills**: חזרה להתנהגות של גיל צעיר יותר (למשל enuresis שחזר).\n- **Clinginess** מוגברת.\n- **Onset של separation anxiety חדש**.\n- **Academic decline** — דרדור בציונים או concentration.\n- **Social changes**.\n- **Sleep disturbance**.\n- **Behavioral problems** — outbursts, aggression.\n- **Anxiety מוגברת** באופן כללי.\n- **Citation**: Perrin et al. 2000.\n- **יישום**: לא להחמיץ PTSD בילד שמציג \"סתם\" כאבי בטן או דרדור ציונים.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders / Perrin et al. 2000\"*",
+      "note_id": "1777035043261"
+    },
+    {
+      "id": "Q32-bipolar-prepubescent-watch",
+      "front_md": "מי מילדי החינוך היסודי צריך להעורר חשד מוגבר ל-BP, ולמה BP כאבחנה בגיל זה נדירה?",
+      "back_md": "- **BP בגיל prepubescent נדיר** — הופעת סימפטומים לא שכיחה.\n- **Watch-list**:\n  - שינויי mood **sustained** (לא תוך יום, אלא שבועות-חודשים).\n  - **Family history של mood disorders ו-psychotic disorders**.\n- **למה זהירות ב-over-diagnosis**:\n  - סימפטומים שנראים מניאקליים יכולים להיות ADHD, DMDD, או reaction ל-trauma.\n  - Irritability כרונית → DMDD (לא BP).\n- **Implications**: אבחנה של BP בגיל זה מחייבת observation מוארכת, collateral מ-מורים, ובדרך-כלל ייעוץ של expert.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043262"
+    },
+    {
+      "id": "Q32-classroom-features-disorder-mismatch",
+      "front_md": "למה מבנה הכיתה חושף ילדים עם hyperactivity, impulsivity ואופוזיציה?",
+      "back_md": "**המבנה של הכיתה** כולל:\n- שגרות וכללים רבים\n- הצורך לישב בשקט לתקופות זמן ארוכות\n- הצורך לפעול לפי הוראות sequential\n- מעבר בין משימות שדורש self-regulation\n- אינטראקציה חברתית עם peers ומורה\n- מטלות שדורשות sustained attention\n\n**Mismatch**:\n- ילד עם **hyperactivity** — אינו יכול לישב, מפריע\n- ילד עם **poor impulse control** — מדבר ללא רשות, פוגע בילדים\n- ילד עם **oppositional behavior** — מתעמת עם המורה ועם הכללים\n\nלכן ה-**learning disorders, speech and language disorders, ADHD, ODD מתגלים** דווקא בכיתה — שם הסביבה דורשת בדיוק את היכולות שחסרות.\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders\"*",
+      "note_id": "1777035043263"
+    },
+    {
+      "id": "Q33-balancing-open-directed-choices",
+      "front_md": "איך מאזנים בין שאלות פתוחות, שאלות מכוונות ובחירות עם ילד בגיל בית-ספר?",
+      "back_md": "**עקרונות מ-Dulcan**:\n\n- **Mixing** של שאלות פתוחות ומכוונות חיוני\n- **רצף ארוך מדי של שאלות מכוונות** — מוביל לתגובות אוטומטיות (yes/no חוזר)\n- **Choices** — אסטרטגיה טובה כשהילד מתקשה לתאר ביוזמה (לדוגמה — emotion words)\n- **יותר מדי choices** — הילד יבחר באחרון כי זה מה שזכר (working memory מוגבל)\n- **כשמציעים choices — להמתין בין כל אופציה** עד שהילד מגיב\n\n**עקרון נוסף**: להגביל **vocabulary type** ו-**word quantity**. *\"How old is your brother Ralph?\"* עדיף על *\"Tell me the ages of your brothers and sisters, Ralph, Simon, Lucy, Lena.\"*\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child\"*",
+      "note_id": "1777035043264"
+    },
+    {
+      "id": "Q33-bullying-suicide",
+      "front_md": "מה מראה Klomek et al. 2009 לגבי bullying, ואיזה ממד חדש של הבעיה הוא cyberbullying?",
+      "back_md": "- **Klomek et al. 2009** (JAACAP, birth cohort study): bullying בילדות הוא **risk factor** ל-**suicide attempts** ו-**completed suicides**. זה כולל bully, victim, ו-bully-victim.\n- **Cyberbullying**:\n  - מעצים את הבעיה — במיוחד ב-**older school-age children**.\n  - שונה מ-bullying קונבנציונלי: 24/7, אנונימי, קשה לברוח ממנו.\n- **יישום קליני**: שאלות על social media + online activity חובה בהערכה בגיל זה. \"מי עוקב אחריך? מה אתה קורא online? האם מישהו שלח לך משהו שפגע?\".\n\n*Dulcan 3e, Ch 4 · \"Common Problems and Disorders / Klomek et al. 2009\"*",
+      "note_id": "1777035043265"
+    },
+    {
+      "id": "Q34-developmental-history-relevance-school-age",
+      "front_md": "למה ההיסטוריה ההתפתחותית עדיין רלוונטית גם בגיל בית-ספר?",
+      "back_md": "גם בילד בן 10, ההיסטוריה ההתפתחותית רלוונטית — היא **מסבירה את הקונטקסט** שבו ההפרעה הנוכחית התפתחה.\n\n**מה לחפש**:\n- **טמפרמנט** — סיכון לחרדה או disruptive behaviors\n- **חשיפה לטוקסינים תוך-רחמית** — מסבירה בעיות למידה והתנהגות (FAS, prenatal alcohol/drug exposure)\n- **מיילסטונים motor, speech, toileting** — עיכובים קודמים שלא טופלו, רמז ל-LD/communication disorder/ASD/ID\n- **סיבוכים perinatal** — סיכון נוירולוגי ולמידה\n- **Birth weight, Apgar scores** — אינדיקטורים לסיכון\n\nהילד הוא **תוצר של ההיסטוריה ההתפתחותית** שלו, ופורמולציה ללא זה לא שלמה. ילד עם ADHD בן 10 — האם הוא ילד שהיה stimulant-responsive בגיל 7 או חדש לפניה?\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043266"
+    },
+    {
+      "id": "Q34-presenting-findings-principles",
+      "front_md": "מה העקרונות להצגת ממצאי ההערכה למשפחה, ובמה חשוב לפתוח את השיחה?",
+      "back_md": "- **להציג ב-direct and neutral manner**.\n- **לפתוח ב-strengths** של הילד והמשפחה — **lead with them**.\n- **להדגיש תחומים ללא psychopathology** — נותן פרופורציה.\n- בהצגת האבחנות — לא רק לרשום symptoms אלא להסביר **contributing factors**.\n- להעלות (גם אם קשה) תרומת family relations — זה מצדיק המלצות כמו parental guidance או family therapy.\n- **Medications** — אם רלוונטי, להעלות עם רגישות יתרה; ילדים בגיל זה דורשים שיקול מוגבר לפני תרופה.\n- בדרך-כלל — הילד וההורה ביחד בהצגת הממצאים.\n\n*Dulcan 3e, Ch 4 · \"Assessment: Formulation and Treatment Planning\"*",
+      "note_id": "1777035043267"
+    },
+    {
+      "id": "Q35-abstract-thinking-onset",
+      "front_md": "באיזה גיל בערך מתחילה הבנה של רעיונות אבסטרקטיים בילדי חינוך יסודי, ומי הציג זאת?",
+      "back_md": "- **Onset של abstract thinking**: בערך **ages 9-10 years**.\n- **Citation**: Caplan and Bursch 2013.\n- **לפני כן**: ילדים פועלים ב-**concrete operations** (Piaget), מבינים conservation ו-classification, אך מתקשים עם היפותטיות ואנליזה.\n- **השלכה קלינית**:\n  - ילדים צעירים יותר — שאלות קונקרטיות.\n  - ילדים בני 9-10+ — אפשר להוסיף שאלות היפותטיות (\"מה היית עושה לו...?\").\n  - הבדלה זו משפיעה גם על יכולת להשתתף ב-therapy קוגניטיבית (CBT).\n\n*Dulcan 3e, Ch 4 · \"Speaking With the School-Age Child / Caplan & Bursch 2013\"*",
+      "note_id": "1777035043268"
+    },
+    {
+      "id": "Q35-summary-points-recap",
+      "front_md": "מהן 8 נקודות הסיכום של Ch 4?",
+      "back_md": "(1) **איכות הקשר ההורי-ילדי** היא הקובע החזק ביותר של התפתחות בילדות מוקדמת.\n\n(2) **בעיות נפשיות משמעותיות** בגיל בית-ספר — משפיעות רגשית, קוגניטיבית, חברתית.\n\n(3) **בעיות נפוצות**: anxiety, learning, attention, behavior, חברה.\n\n(4) **multiple informants** הכרחיים בהערכה.\n\n(5) שימוש ב**שפה ותקשורת מתאימים-להתפתחות** בעת ראיון הילד.\n\n(6) **ראיון נפרד** של הילד בחלק מההערכה — חובה.\n\n(7) ילדים עלולים לפתח בעיות בגלל **חוסר עמידה במשימות התפתחותיות** — לכן הקלינאי חייב להבין את המשימות הטיפוסיות.\n\n(8) **התאבדות, התנהגויות אובדניות והתאבדויות completed עלו** באוכלוסייה — **safety assessment חיוני**.\n\n*Dulcan 3e, Ch 4 · \"Summary Points\"*",
+      "note_id": "1777035043269"
+    },
+    {
+      "id": "Q36-strongest-determinant",
+      "front_md": "לפי Summary Points של Dulcan, מהו הקובע **החזק ביותר** של התפתחות ילדות מוקדמת?",
+      "back_md": "- **הקובע החזק ביותר**: איכות ה-**primary caregiving relationship**.\n- **מדוע**:\n  - מעצב attachment (secure vs. insecure vs. disorganized).\n  - משפיע על emotional regulation.\n  - מעצב internal working model של יחסים עתידיים.\n  - מושפע גם על התפתחות קוגניטיבית ושפה.\n- **בהערכת school-age**: גם אם הילד כבר בגיל 9-10, חובה להעריך את איכות היחסים המוקדמים עם caregivers — הם מסבירים חלק ניכר מהפתולוגיה הנוכחית.\n\n*Dulcan 3e, Ch 4 · \"Summary Points\"*",
+      "note_id": "1777035043270"
+    },
+    {
+      "id": "Q37-developmental-features-table-summary",
+      "front_md": "סכם את ששת ה-developmental facets של Table 4-2 (cognitive, emotional, moral, self-view, social, family) ואילו מאפיין מייצג כל אחד.",
+      "back_md": "- **Cognitive**: concrete operations; understands others think differently; appreciates rules (עלול להוביל ל-rigidity); improved grasp of time/space.\n- **Emotional**: **strives for competence** → mastery = good self-esteem; lack = hopelessness, easy frustration; delays gratification better.\n- **Moral**: right/wrong על בסיס internal principles; building empathy + perspective-taking (Kohlberg).\n- **Self-view**: informed by internal + external evaluation; **comparative awareness**; defines self by physical/possessions/activities.\n- **Social**: **peer independence**; best friend + friend group; team activities.\n- **Family**: יותר עצמאי; אבל עדיין מעריך; משווה הורים לבוגרים אחרים; attaches ל-teachers/coaches.\n\n*Dulcan 3e, Ch 4 · \"Typical Developmental Features / Table 4-2\"*",
+      "note_id": "1777035043271"
+    },
+    {
+      "id": "Q38-what-child-contributes",
+      "front_md": "באיזה חלקים של ההערכה הילד בגיל חינוך יסודי תורם הכי הרבה, ובאילו חלקים ההורים?",
+      "back_md": "- **הילד תורם הכי הרבה**:\n  - **HPI** — תיאור חוויה סובייקטיבית.\n  - **Psychiatric + medical review of symptoms** — מה הוא מרגיש.\n  - **חלקים של social history** — חברים, תחביבים, יחסים בבית מנקודת מבטו.\n  - **Abuse** — חובה לשאול בפרטיות.\n- **ההורים תורמים הכי הרבה**:\n  - רוב ה-**historical information** — developmental history, past psych hx, family hx.\n  - **educational records**.\n  - Collateral מ-בי\"ס, רופאים, מטפלים קודמים.\n- **רוב הפגישה הראשונה** — איסוף מידע מההורים.\n\n*Dulcan 3e, Ch 4 · \"Assessment Components\"*",
+      "note_id": "1777035043272"
+    }
+  ]
+}

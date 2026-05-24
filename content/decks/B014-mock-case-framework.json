@@ -1,0 +1,175 @@
+{
+  "id": "B014-mock-case-framework",
+  "label": "B014 · מסגרת מקרה מדומה · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1777088402953",
+      "front_md": "[Format] כמה דקות נמשכת ועדה 1 בסה\"כ ומה החלוקה הפנימית?",
+      "back_md": "‫105 דקות סה\"כ, 3 בוחנים. חלוקה: 60 דקות בדיקה (10-20 הורה + 40 ילד, גמיש) → 10 דקות התארגנות → 10 דקות הצגה חופשית → 30 דקות שאלות [StageB-1]‬",
+      "note_id": "1777088402953"
+    },
+    {
+      "id": "1777088402961",
+      "front_md": "[Format] מה החלוקה verbatim של 60 הדקות עם המטופל?",
+      "back_md": "‫\"יוזמן הורה אחד שיכנס עם הילד/המתבגר... שלב זה ימשך כ- 10 עד 20 דקות, ושלאחר מכן ייבדק הילד/מתבגר כ-40 דקות ללא ההורה\" [StageB-1]‬",
+      "note_id": "1777088402961"
+    },
+    {
+      "id": "1777088402962",
+      "front_md": "[Format] מה הנבחן מציג ב-10 הדקות שאחרי ההתארגנות?",
+      "back_md": "‫\"הצגה חופשית של סיכום הממצאים, סטטוס פסיכיאטרי ואבחנה מבדלת\" verbatim [StageB-1]‬",
+      "note_id": "1777088402962"
+    },
+    {
+      "id": "1777088402963",
+      "front_md": "[Format] מהו ציון המעבר verbatim ב-Stage B?",
+      "back_md": "‫\"ציון של 3 נקודות (מתוך 5) ומעלה ע\"י שני בוחנים לפחות\" [StageB-3]‬",
+      "note_id": "1777088402963"
+    },
+    {
+      "id": "1777088402965",
+      "front_md": "[Format] טווח הגיל של מטופלי ועדה 1?",
+      "back_md": "‫5-18 שנים [StageB-1]‬",
+      "note_id": "1777088402965"
+    },
+    {
+      "id": "1777088402966",
+      "front_md": "[Format] כמה דקות לשאלה מתגלגלת ב-ועדה 2?",
+      "back_md": "‫45 דקות (מתוך 75 הכוללות; 15 דקות × 2 שאלות אחרות) [StageB-3]‬",
+      "note_id": "1777088402966"
+    },
+    {
+      "id": "1777088402968",
+      "front_md": "[RollingCase] מה ההגדרה verbatim של \"שאלה מתגלגלת\"?",
+      "back_md": "‫\"מקרה קליני עם מעט מידע, שאר המידע יינתן בהתאם להתקדמות המקרה, לפי תסריט הבנוי מראש\" [StageB-2]‬",
+      "note_id": "1777088402968"
+    },
+    {
+      "id": "1777088402969",
+      "front_md": "[Challenges] שלוש דוגמאות verbatim של אתגרים התנהגותיים בועדה 1?",
+      "back_md": "‫\"קושי של ילד צעיר להיפרד מההורה, סירוב של מתבגר לשתף פעולה בבדיקה, חוסר גבולות של ההורה המשתתף\" [StageB-2]‬",
+      "note_id": "1777088402969"
+    },
+    {
+      "id": "1777088402970",
+      "front_md": "[Vignette] איך נראית vignette טיפוסית ב-Dulcan (דוגמה)?",
+      "back_md": "‫3-6 משפטים — דמוגרפיה + היסטוריה בסיסית + הצגת בעיה + ממצאים בולטים, ולאחריה פסקת חשיבה קלינית. דוגמה: \"John is an 8-year-old boy with a history of premature birth...\" [D-1]‬",
+      "note_id": "1777088402970"
+    },
+    {
+      "id": "1777088402971",
+      "front_md": "[Sourcing] מה 3 המקורות המומלצים ל-vignettes למוק?",
+      "back_md": "‫(1) DSM-5-TR Casebook Child (peds-library src ad2550df) — קל; (2) Dulcan vignettes [D-1] — בינוני; (3) חוויה קלינית פסבדונימיזציה — קשה אך הכי realistic. אסור real names/IDs/addresses [vault-CLAUDE.md]‬",
+      "note_id": "1777088402971"
+    },
+    {
+      "id": "1777088402972",
+      "front_md": "[Eval] 10 הסעיפים של Dulcan ב-outline להערכה פסיכיאטרית?",
+      "back_md": "‫chief complaint · HPI · psychiatric ROS · past psych hx · past medical hx · developmental hx · educational hx · family medical+psych hx · social hx · abuse+risk assessment [D-5]‬",
+      "note_id": "1777088402972"
+    },
+    {
+      "id": "1777088402973",
+      "front_md": "[Eval] מודל הפורמולציה האבחנתית של Dulcan?",
+      "back_md": "‫DSM + bio-psycho-social + 4 perspectives (illness, dimension, behavior, life-story) [D-2]‬",
+      "note_id": "1777088402973"
+    },
+    {
+      "id": "1777088402974",
+      "front_md": "[Funnel] מה הציטוט verbatim של Dulcan על broad-to-narrow funnel?",
+      "back_md": "‫\"Broad general questions should be followed by more directed questions. Asking about intensity, frequency, duration, time of onset, triggers, ameliorators, associated symptoms, timing patterns, and responses by others can yield significant information.\" [D-6]‬",
+      "note_id": "1777088402974"
+    },
+    {
+      "id": "1777088402975",
+      "front_md": "[Funnel] שאלת פתיחה לדוגמה מ-Dulcan?",
+      "back_md": "‫\"What has concerned you regarding Jocelyn? Why are you seeking treatment now?\" [D-6]‬",
+      "note_id": "1777088402975"
+    },
+    {
+      "id": "1777088402977",
+      "front_md": "[Error] ציטוט verbatim על premature closure?",
+      "back_md": "‫\"One of the most common mistakes that inexperienced interviewers make is to prematurely home in on a diagnosis. This often excludes other diagnoses from consideration and results in an incomplete evaluation and inadequate treatment plan.\" [D-7]‬",
+      "note_id": "1777088402977"
+    },
+    {
+      "id": "1777088402978",
+      "front_md": "[Error] ציטוט verbatim על \"moving target\"?",
+      "back_md": "‫\"Unlike adults, who may have an established baseline of functioning, intellect, and emotional well-being from which they may have deviated with the onset of a mental illness, children are a 'moving target.'\" [D-2]‬",
+      "note_id": "1777088402978"
+    },
+    {
+      "id": "1777088402979",
+      "front_md": "[Error] ציטוט verbatim על medical mimickers (פסיכוזה)?",
+      "back_md": "‫\"Recognition and correction of medical conditions producing symptoms of psychosis can often result in the remission of psychotic symptoms and address potential life-threatening illness.\" [D-3]‬",
+      "note_id": "1777088402979"
+    },
+    {
+      "id": "1777088402980",
+      "front_md": "[Error] איך Dulcan מבדילה developmental delayed vs altered?",
+      "back_md": "‫\"When the clinician is making interpretations about developmental capacities, the distinction between delayed development and altered development is critical.\" [D-4]‬",
+      "note_id": "1777088402980"
+    },
+    {
+      "id": "1777088402981",
+      "front_md": "[Error] האם Dulcan מזכיר במפורש \"anchoring bias\"?",
+      "back_md": "‫לא [NOT IN DULCAN]; המונח הקוגניטיבי לא מופיע. ההמלצה במוק: סמן anchoring כשנבחן לא משנה כיוון אחרי curveball שסותר את האבחנה הראשונית.‬",
+      "note_id": "1777088402981"
+    },
+    {
+      "id": "1777088402982",
+      "front_md": "[Supervisor] מה Dulcan מספק כאזכור supervisor intervention?",
+      "back_md": "‫Vignette אחד: \"A supervisor, who was observing, knocked on the door. He spoke to the clinician and recommended that she ask the mother to leave the room so that the clinician could speak to Gina alone.\" [D-8] — אין מתודולוגיית debrief פורמלית בספר [NOT IN DULCAN]‬",
+      "note_id": "1777088402982"
+    },
+    {
+      "id": "1777088402984",
+      "front_md": "[Mock] כמה משתתפים מינימום ל-mock ועדה 1?",
+      "back_md": "‫4 לפחות: נבחן + הורה-מדמה + ילד-מדמה + 1+ בוחנים [synthesis from StageB-1]‬",
+      "note_id": "1777088402984"
+    },
+    {
+      "id": "1777088402985",
+      "front_md": "[Mock] כמה curveballs ב-mock 45-דקות?",
+      "back_md": "‫2-3 (כלל: ~1 curveball / 15 דקות). curveball צריך להגביר אבחנה אחת ולהחליש אחרת — לא להמציא חדשה.‬",
+      "note_id": "1777088402985"
+    },
+    {
+      "id": "1777088402986",
+      "front_md": "[Mock] איזה 5 צירים מציע ה-rubric debrief?",
+      "back_md": "‫(1) שיטתיות אנמנזה [D-5] · (2) broad-to-narrow funnel [D-6] · (3) MSE כתוב/דווח [D-2] · (4) DDx + פורמולציה [D-2] · (5) תוכנית טיפול. כל ציר 1-5; מעבר = 3 מ-2+ בוחנים [StageB-3]‬",
+      "note_id": "1777088402986"
+    },
+    {
+      "id": "1777088402988",
+      "front_md": "[Mock] תרגיל ייעודי ל-funnel debrief?",
+      "back_md": "‫סופרים את 3 השאלות הפתוחות הראשונות של הנבחן. אם פחות מ-3 — סימן ל-funnel נכשל (קפץ ישר ל-DSM checklist).‬",
+      "note_id": "1777088402988"
+    },
+    {
+      "id": "1777088402989",
+      "front_md": "[Mock] מתי בוחן בכיר רשאי לקרוא time-out במוק?",
+      "back_md": "‫פעם אחת בלבד. מתי כן: הנבחן נכנס ל-loop באותה שאלה 3 פעמים, או מתכוון לסיים מוקדם. מתי לא: שגיאה אבחנתית (זה ל-debrief).‬",
+      "note_id": "1777088402989"
+    },
+    {
+      "id": "1777088402990",
+      "front_md": "[StageB-Silence] 4 דברים ש-Stage B PDF שותק לגביהם?",
+      "back_md": "‫(1) תיק רפואי מקדים — לא מוגדר; (2) תוכן ספציפי של תסריטים מתגלגלים — לא ניתן; (3) פירוט פנימי של 5 הנקודות; (4) הנחיות לבניית \"מקרה טוב\" [NOT IN STAGE B PDF]‬",
+      "note_id": "1777088402990"
+    },
+    {
+      "id": "1777088402991",
+      "front_md": "[Casebook] למה DSM-5-TR Casebook Child הוא נקודת התחלה הטובה ביותר?",
+      "back_md": "‫מקרים מוכנים, פסבדונימיזציה כבר נעשתה, DDx מובנה — אפס עבודת הכנה לבוחן-המדמה. peds-library src ad2550df.‬",
+      "note_id": "1777088402991"
+    },
+    {
+      "id": "1777088402992",
+      "front_md": "[Pseudonym] כללי פסבדונימיזציה ב-vault?",
+      "back_md": "‫שינוי שם · גיל ±3 שנים · יישוב · פרטים מזהים. ⚠️ אסור real names / ID numbers / addresses / phone numbers בכל קובץ wiki [vault-CLAUDE.md]. נשמר ב-wiki/clinical/cases/ עם YAML type: case.‬",
+      "note_id": "1777088402992"
+    }
+  ]
+}

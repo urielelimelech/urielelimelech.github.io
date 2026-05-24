@@ -1,0 +1,73 @@
+{
+  "id": "B003-parent-interview-summary",
+  "label": "B003 · ראיון הורים · סיכום",
+  "source": "residency-summary",
+  "cards": [
+    {
+      "id": "1776891385747",
+      "front_md": "מתי לראיין הורים לבד מול יחד עם הילד — חוקי גיל?",
+      "back_md": "**Preschool (2-6):** הורים לבד ראשונים. > \"In the first session, all primary caregivers... are asked to be present without the child for a comprehensive history\" [D-2]. > \"...in contrast to the assessment of the adolescent, there is little risk of damaging the rapport with the preschool child when caregivers are interviewed before the child\" [D-3]. **School-age (6-12):** שונות בסדר, אבל > \"Ultimately, however, separate meetings with the child and parent are necessary\" [D-5] — נושאים רגישים (יחסי הורים, heritability, משמעת, abuse) חייבים ראיון-לבד [D-6]. **חריג:** ילדים עד 8 אפשר יחד אם הנושא ADHD, מעל 8 חובה פרטני [D-7]. **Adolescents (12-18):** **joint קצר → מתבגר לבד → הורה לבד**; להתחיל בהורה-לבד הופך את המטפל ל\"agent of the parent\" והמתבגר מסרב [D-8]. *Hook:* כל גיל — אבל תמיד יש שלב parent-alone; רק הסדר משתנה לפי גיל התפתחותי [D-5].",
+      "note_id": "1776891385747"
+    },
+    {
+      "id": "1776891385749",
+      "front_md": "מה 8 קטגוריות התוכן שחייבים לדלות מההורים (Table 4-1)?",
+      "back_md": "(1) **Chief Complaint** — למה עכשיו? [D-11]. (2) **HPI** — עוצמה, תדירות, משך, triggers, ameliorators [D-11]. (3) **Psychiatric ROS** — קשב/למידה/חרדה/מצב רוח/ODD/CD/נוירווגטטיבי (שינה ותיאבון)/טיקים [D-11]. (4) **Developmental** — הריון/לידה, אבני דרך, טמפרמנט מולד [D-11]. (5) **Educational** — תפקוד בי\"ס, ציונים, IEP/504 [D-11]. (6) **Social** — מבנה משפחה, נוכחים בבית [D-11]. (7) **Family** — איכות הקשר הזוגי או גירושין, תחלואה פסיכיאטרית/גנטית רחבה [D-11]. (8) **Abuse/Risk** — חשיפה לאלימות, התעללות [D-11]. *Takeaway:* הילד יכול להוסיף רזולוציית חוויה, אבל ציר הזמן ומידת הפגיעה התפקודית חייבים להישען על ההורה — זה התפקיד האפיסטמי שלו [D-11].",
+      "note_id": "1776891385749"
+    },
+    {
+      "id": "1776891385752",
+      "front_md": "איך מנתחים דיווחים סותרים (Divergent reports)?",
+      "back_md": "דיסקורדנציה רב-מקורית היא **הצפי**, לא החריג [D-5]. > \"Parents tend to report more accurately on externalizing symptoms and behaviors, and adolescents tend to report more accurately on internalizing symptoms\" [D-12]. כשההורים עצמם סותרים, > \"this may indicate a relational component to the child or adolescent's behavior that is valuable to know\" [D-13]. **3 דפוסים:** (a) **הורה-מורה** → תלות-סביבתית (ADHD שמופיע רק בכיתה גדולה); (b) **הורה-הורה** → עיוותים יחסיים/משפחתיים (טריאנגולציה); (c) **הורה-ילד** → internalizing vs externalizing split. **מידע קולטרלי:** מורה ע\"י שאלונים סטנדרטיים (Conners/Vanderbilt ל-ADHD) כמו איזון [D-5]. *Takeaway:* אי-הסכמה היא **מידע אבחנתי טהור** — לא לחפש מי \"צודק\" אלא מה הדפוס מלמד על הדינמיקה הסביבתית/הבינאישית [D-13].",
+      "note_id": "1776891385752"
+    },
+    {
+      "id": "1776891385753",
+      "front_md": "כיצד לנהל ראיון הורים במשפחות גרושות/בסכסוכי משמורת?",
+      "back_md": "**חובת תיעוד משמורת לפני תחילת הערכה:** > \"Documenting custody or guardianship is an important prerequisite to beginning an assessment. Typically, a noncustodial parent has the right to participate in medical assessment and treatment but not to begin a treatment process unless it is emergent\" [D-14]. משפחות בטרנזיציה פגיעות במיוחד — יש לחקור יחידות משפחה קודמות, עיתוי שינויים, וצפי עתידי; שינוי בהרכב הבית עלול > \"precipitate a crisis\" [D-15]. **שתי מלכודות בסכסוכים עצימים:** (a) **Disparagement** — הורה מכפיש את השני בנוכחות הילד; (b) **Triangulation** — הילד הופך לנשק במאבק נאמנויות [D-16]. חובת הפסקה מיידית אם תכנים לא-הולמים על ההורה השני עולים [D-6]. *Hook:* לעולם אל תתחיל הערכה בלי לוודא מי המשמורן החוקי — הורה לא-משמורן יכול להוסיף אנמנזה, אבל אינו רשאי לאשר התחלת טיפול אמבולטורי [D-14].",
+      "note_id": "1776891385753"
+    },
+    {
+      "id": "1776891385756",
+      "front_md": "מתי דרושים ראיונות הורים **נפרדים** לכל אחד?",
+      "back_md": "כאשר עולה חשד לאחד מהבאים [D-17]: (1) **אלימות במשפחה**; (2) **מחלת נפש פעילה** אצל ההורה — דיכאון, חרדה, פסיכוזה [D-17]; (3) **שימוש בחומרים/סמים** אצל ההורה; (4) **מעורבות CPS / רווחה**. **הסיבה:** ההשפעה הורה-ילד היא הדדית [D-13], ו-\"Parental problems such as child abuse or domestic violence and anxiety, depression, or psychotic disorders may have an immense effect on a developing child\" [D-17]. הורה מדוכא צובע התנהגויות רגילות באור פתולוגי שגוי, או לחלופין מחמיץ מצוקה אמיתית. עבור מקרי CPS: ההסתרה או דיווח-יתר הם סטרס-תלויים. *Hook:* ההנחה ש\"ההורה מדווח על הילד\" שגויה — ההורה תמיד מדווח דרך הפילטר של תחלואתו הנפשית שלו, ולכן הפרדה הכרחית להבנת המסלול האמיתי.",
+      "note_id": "1776891385756"
+    },
+    {
+      "id": "1776891385757",
+      "front_md": "מה הטכניקה לדליית היסטוריית התעללות מהורים?",
+      "back_md": "**כלל זהב: הפרדה מוחלטת.** > \"It is critical to ask about possible abuse privately with the child and with the parents. Children may find it more difficult to discuss abuse in the presence of others because of shame, fear of consequences, or guilt\" [D-6]. **לא להסתפק בשאלה דיכוטומית:** > \"It is not adequate to simply ask about physical or sexual abuse. Instead, the clinician needs to explore the breadth and depth of adversity that a child has experienced in order to gauge the risk of subsequent psychopathology...\" [D-18]. **מה לחקור מעבר לכן/לא:** משך החשיפה, חומרה, מגוון adversity (אלימות במשפחה, הזנחה, חשיפה לפשע), ותגובת המשפחה (Avoidant? Protective? Denying?). *Hook:* ילד שבושה או פוחד מתגובת ההורה לא יחשוף בפומבי; ההורה יכול לחשוף דברים שהוא שומר מהילד. שני הראיונות הנפרדים חייבים — לא אחד מהם.",
+      "note_id": "1776891385757"
+    },
+    {
+      "id": "1776891385758",
+      "front_md": "איך ההורה הופך לבעל-בעיה כשאינו מכיר בזה (Taking complaint at face value)?",
+      "back_md": "מלכודת שכיחה: ההורה מתאר מעשה \"הוא פשוט סירב לציית\", ורזידנט מאבחן ODD. אבל > \"It can be misleading to take at face value a parent's complaint that a child will not listen or follow directions because this could reflect a child's inattention, receptive language problems, or hearing impairment rather than defiance\" [D-19]. **הפתרון הקליני:** > \"It is better to ask caregivers to describe a recent example or incident\" [D-19] — לא תיאור כללי, אלא דוגמה מוחשית עם שעה, הקשר, וטקסט מדויק. זה חושף האם הילד לא שמע (הפרעת שמיעה), לא הבין (קשיי שפה), לא היה מסוגל להתרכז (ADHD), או באמת סירב (ODD). מעבר לזה: > \"It is important to remember that information from the parent about the adolescent's current problems and functioning is frequently not complete and is sometimes not accurate\" [D-9]. *Takeaway:* הורים מתארים דרך הפילטר של התסכול; \"הוא סירב\" דורש דוגמה ספציפית לפני שהופך לאבחנה.",
+      "note_id": "1776891385758"
+    },
+    {
+      "id": "1776891385760",
+      "front_md": "למה \"rescue fantasy\" של רזידנט הורס טיפול?",
+      "back_md": "> \"...there can be a risk if the clinician allies too much with one party over another. Parents may want the clinician to be an authority figure who will directly address their child's behavioral challenges, and the child may wish for the clinician to get his or her parents to leave him or her alone\" [D-20]. > \"Clinicians may have their own fantasies of rescuing a child from 'terrible' parents. Building rapport with one party to the exclusion of the other is generally not useful and will often impair ultimate treatment success\" [D-20]. **הדינמיקה של \"משולש דרמטי\":** ההורה מחפש בעל-ברית סמכותי; הילד מחפש מציל. אם הרזידנט נכנס לאחד מהתפקידים האלה — מאבד את הצד השני, והטיפול קורס. *Hook:* המטופל בקליניקה הוא הדינמיקה המשפחתית כולה, לא הילד בלבד. הפיכה ל\"מציל לבן\" של הילד נגד ההורים מיידית פוסלת כל תוכנית טיפול [D-20].",
+      "note_id": "1776891385760"
+    },
+    {
+      "id": "1776891385761",
+      "front_md": "איך מציגים ממצאים להורים בלי לשבור ברית?",
+      "back_md": "הורים מגיעים בהתגוננות: > \"Parents feel guilty and fear their 'failings as parents' will be exposed\" [D-21]. **גיל גן — framing של mismatch:** > \"Frame statements in a noncritical and nonjudgmental manner... Align with the caregiver and present the feedback in the context of the mismatch between caregiver behaviors and the child's developmental and emotional needs...\" [D-22]. **מתבגרים — \"sandwich of strengths\":** > \"The first part of the presentation should always focus on the strengths of both the adolescent and the parents... The important thing to keep in mind is that the positive attributes must reflect reality\" [D-21]. **הסדר הנכון:** חוזקות אמיתיות → formulation → תכנית משותפת. *Hook:* פידבק טוב לעולם לא מתחיל ברשימת אבחנות. פתיחה בחוזקות משפחתיות אותנטיות → קשיים כ-\"mismatch התפתחותי\" → תכנית פרואקטיבית מעוררת תקווה [D-22].",
+      "note_id": "1776891385761"
+    },
+    {
+      "id": "1776891385762",
+      "front_md": "מה דרישות Committee 1 לראיון הורים?",
+      "back_md": "> \"יוזמן הורה אחד שיכנס עם הילד/המתבגר, הנבחן יציג את עצמו ויתמקד כ-10 עד 20 דקות בלקיחת אינפורמציה מההורה באופן ממוקד\" [StageB-1]. חובה **להגדיר מראש לנוכחים** שזה 20 דק׳ ואז 40 דק׳ עם הילד/מתבגר ללא ההורה [StageB-1] — מפגין framing וגבולות. האתגרים הבחינתיים: > \"קושי של ילד צעיר להיפרד מההורה\" ו-> \"חוסר גבולות של ההורה המשתתף\" [StageB-2]. גמישות מפורשת — הנבחן בוחר את מודל החלוקה (> \"מי מבני המשפחה ישהה בחדר, כמה זמן ובאיזה סדר יכנסו\") [StageB-1]. ציון מעבר 3/5 משני בוחנים [StageB-3]. *Hook:* 10-20 הדקות הראשונות = interview ממוקד, לא \"שיחה על הילד\" — רלוונטיות (CC), ספציפיות (recent examples), ושיקוף גבולות הם מה שמעריכים.",
+      "note_id": "1776891385762"
+    },
+    {
+      "id": "1776891385764",
+      "front_md": "איך קייס Casey (16y NSSI) מדגים קשיי ראיון הורים?",
+      "back_md": "Casey גרה במשפחה שבה האב — אלכוהוליזם + אפיזודות כעס, האם — דיכאון חוזר [C-2]. ההורים חושפים התעללות מינית ע\"י שכן בגיל 10 שלא טופלה, וה-avoidance המשפחתי הוא דפוס מרכזי [C-2]. **הדיסקורדנציה:** ההורים מתארים ילדות \"outgoing\" ו-\"precocious\"; Casey אומרת \"I hate my parents\" [C-2]. **Pitfalls של רזידנט:** (1) להזדהות מלא עם Casey = לפספס את הטרנזקציונליות ואת חוסר-האונים ההורי [C-3]; (2) לא לחקור פסיכופתולוגיה הורית + avoidant coping = לפספס איך גורמים משפחתיים מזינים את ה-NSSI כ-emotion regulation [C-4]. **הטכניקה הנכונה:** ראיונות נפרדים לכל הורה [D-17], מיפוי היסטוריה פסיכיאטרית משפחתית [D-11], elicitation רגיש של טראומה בפרטיות [D-6], ומסגור פידבק כ-mismatch ולא כאישום [D-22]. *Take-home:* קייס Casey הוא \"perfect storm\" של כל 4 הציריים — דיסקורדנציה + פסיכופתולוגיה הורית + טראומה + avoidance — והוא המראה של מה שמחכה לנבחן ב-Committee 1.",
+      "note_id": "1776891385764"
+    }
+  ]
+}

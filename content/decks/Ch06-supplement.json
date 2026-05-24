@@ -1,0 +1,92 @@
+{
+  "id": "Ch06-supplement",
+  "label": "פרק 6 תוספות — הבדיקה הנוירולוגית בילדים",
+  "source": "dulcan-supplement",
+  "cards": [
+    {
+      "id": "C01-Giedd2001-neuroimaging-worth-thousand-words",
+      "front_md": "**Giedd 2001** — \"Is a picture really worth a thousand words?\" — טיעון מרכזי",
+      "back_md": "מאמר עמדה קלאסי (NIMH Child Psychiatry Branch): למרות ש-MRI מספק תמונות אנטומיות מפורטות ללא קרינה, **הקשר בין גודל מוח לתפקוד אינטלקטואלי מורכב** ואינו ניתן לפרשנות ישירה.\n\nהטיעון המרכזי: אינטראקציות מורכבות בין פקטורים אנטומיים, כימיים ואלקטרופיזיולוגיים ברשתות עצביות מבוזרות מונעות פרשנות פשוטה. מסקנה: **דימות מוחי לבדו אינו מספק אבחנה** בהפרעות פסיכיאטריות — ומשלים Dulcan's כי שימוש קליני כזה אינו מוצדק.\n\n*Giedd JN, 2001 · Arch Gen Psychiatry*"
+    },
+    {
+      "id": "C02-Giedd2004-adolescent-brain-MRI",
+      "front_md": "**Giedd 2004** — MRI מבני של מוח ההתבגרות — ממצאים עיקריים",
+      "back_md": "מחקר אורכי NIMH Child Psychiatry Branch — ממצאים בדגימה נורמטיבית:\n(1) **White matter** — גדל בדפוס קו-ישיר יחסית עם הבדלים קלים בשיפוע לפי אונות מוח\n(2) **Gray matter קורטיקלי** — עקומת U הפוכה: frontal gray matter שיא בגיל **11.0 בנות, 12.1 בנים**; temporal gray matter שיא גיל **16.7 בנות, 16.2 בנים**\n(3) **Prefrontal cortex לרוחב-גבי** (dorsolateral prefrontal cortex) — **אחרון להבשיל**, לא מגיע לממדי בוגר עד שנות ה-20 המוקדמות\n\nממצאים אלה מסבירים רגישות גיל ההתבגרות להפרעות בתפקוד ניהולי ושליטה ב-impulses.\n\n*Giedd JN, 2004 · Ann N Y Acad Sci*"
+    },
+    {
+      "id": "C03-Hesdorffer2004-ADHD-seizure-risk",
+      "front_md": "**Hesdorffer et al. 2004** — ADHD כגורם סיכון לפרכוסים",
+      "back_md": "מחקר מקרה-ביקורת מבוסס-אוכלוסייה, איסלנד — ילדים מתחת לגיל 16:\n(1) **עיקרי הממצא**: היסטוריה של ADHD הייתה **2.5 פעמים** שכיחה יותר בקרב ילדים עם אבחנה חדשה של פרכוסים לעומת ביקורות\n(2) **ספציפיות**: הקשר הוגבל ל-ADHD predominantly **inattentive** type (OR=3.7); לא נמצא ב-hyperactive-impulsive type\n(3) **מסקנה**: ADHD קדמה לפרכוסים — מרמז על **גורם מקדים משותף** לשני המצבים, לא רק על הדדיות\n\n**השלכה לפסיכיאטריית ילדים**: מצדיק ערנות ל-epilepsy בחולי ADHD, ובפרט בסוג חוסר-קשב.\n\n*Hesdorffer et al., 2004 · Arch Gen Psychiatry*"
+    },
+    {
+      "id": "C04-Cascio2007-DTI-developing-brain",
+      "front_md": "**Cascio et al. 2007** — DTI ויישום לחקר מוח המתפתח",
+      "back_md": "סקירה ב-JAACAP — 48 מחקרים שבחנו DTI בדגימות פדיאטריות:\n(1) **שינויים עם גיל** — עקביים בין מחקרים: **anisotropy עולה** ו**diffusion כולל יורד** עם הגיל = מעידים על הבשלת white matter\n(2) **קורלציות** — מדדי diffusion באזורי white matter רלוונטיים **מתואמים לממדים התנהגותיים** בילדים בריאים ובדגימות קליניות\n(3) **מסקנה**: DTI הוא כלי חשוב לתמונה מפורטת יותר של white matter מאשר MRI מסורתי לבדו\n\n**מגבלה**: כלי מחקר בעיקר; **שימוש קליני** — בעיקר גידולים, פגיעות מוח (לא לאבחנת הפרעות פסיכיאטריות).\n\n*Cascio CJ, Gerig G, Piven J, 2007 · J Am Acad Child Adolesc Psychiatry*"
+    },
+    {
+      "id": "C05-ENIGMA-psychosis-cortical",
+      "front_md": "**ENIGMA Clinical High Risk for Psychosis** — 2026 — ממצא קורטיקלי",
+      "back_md": "מחקר ENIGMA (Yang et al., 2026, Mol Psychiatry) — חקר chemoarchitecture ודיכוי קורטיקלי בסיכון גבוה לפסיכוזה:\n(1) **ממצא** — ירידה נרחבת בעובי קורטיקלי בסיכון גבוה לפסיכוזה, מוסברת על ידי **מבנה כימי מקומי** (chemoarchitecture) — לא רק שינוי מפושט\n(2) **השלכה** — ENIGMA מצביע על כך שחקר נוירוביולוגי בקבוצות גדולות (מרובות אתרים) נדרש להבנת מנגנוני המוח בפסיכוזה\n\n**לעומת Dulcan**: Dulcan מדגיש שדימות אינו כלי קליני לאבחנת הפרעות פסיכיאטריות ראשוניות; ENIGMA מחזק כי מחקר מרובה-אתרים הוא הנתיב הנכון להתקדמות.\n\n*Yang X et al. (ENIGMA), 2026 · Mol Psychiatry*"
+    },
+    {
+      "id": "C06-multimodal-MRI-ADHD-prediction",
+      "front_md": "**Kang et al. 2026** — MRI רב-מודאלי לחיזוי תוצאות ADHD בבגרות",
+      "back_md": "מחקר פרוספקטיבי עם follow-up של 8.2 שנים (n=104 ילדים עם ADHD):\n(1) **מודל קליני לבדו** — יכולת חיזוי נמוכה (AUC=0.589)\n(2) **rs-fMRI לבדו** — עדיף על structural MRI (AUC=0.778 לעומת 0.611)\n(3) **מודל רב-מודאלי** (sMRI + rs-fMRI + קליני) — ביצועים הטובים ביותר (AUC=0.816)\n(4) **מנבאים המשפיעים ביותר**: ALFF ב-left middle occipital gyrus, נפח right medial orbitofrontal + right supramarginal gyrus, degree centrality ב-right cerebellum\n\n**השלכה**: שילוב נתונים קליניים עם MRI רב-מודאלי משפר ניבוי תוצאות — אך עדיין שלב מחקרי, לא קליני.\n\n*Kang S et al., 2026 · Prog Neuropsychopharmacol Biol Psychiatry*"
+    },
+    {
+      "id": "C07-NICE-NG87-no-routine-imaging",
+      "front_md": "**NICE NG87 (ADHD)** — עמדה על דימות שגרתי",
+      "back_md": "NICE NG87 (הנחיית ADHD, 2018, עדכון 2019) — כפי שצפוי מהנחיות NICE:\n\n**NICE NG87 אינה ממליצה על דימות מוחי שגרתי לאבחנת ADHD.** עמדה זו עולה בקנה אחד עם Dulcan:\n(1) אין ראיות קליניות תומכות לשימוש רוטיני ב-MRI/CT לאבחנת ADHD\n(2) אבחנה מבוססת על הערכה קלינית מקיפה — לא על בדיקות דימות\n\n**מגבלת גישה**: דף ה-Recommendations ב-NICE NG87 מוגש כדף דינמי ולא נגיש לניתוח מלא. ממצא זה מבוסס על עקרון ה-guideline הידוע ועקבי עם Dulcan.\n\n*NICE NG87, 2018/2019 · National Institute for Health and Care Excellence*"
+    },
+    {
+      "id": "C08-AACAP-neuroimaging-policy-context",
+      "front_md": "**AACAP** — עמדה על דימות מוחי בפסיכיאטריית ילדים ובני נוער",
+      "back_md": "AACAP פרסם הצהרות עמדה ופרמטרים מעשיים בנוגע לדימות מוחי. עמדת הנציגות בעקרון:\n(1) **אין תמיכה** בשימוש שגרתי בדימות מוחי לאבחנת הפרעות פסיכיאטריות ראשוניות (ADHD, ASD, הפרעות מצב רוח)\n(2) **דימות מוחי** הוא כלי מחקר יקר ערך לחקר הביולוגיה הנוירופסיכיאטרית — אך לא לשימוש קליני שגרתי\n(3) **שיקולים אתיים** — כולל ממצאים אינצידנטליים, הוצאות כספיות וסטיגמה פוטנציאלית\n\n**מגבלת גישה**: אתר AACAP חסם גישה ישירה לדף ה-Policy Statement. תוכן מבוסס על עמדה נציגה ידועה עקבית עם Dulcan.\n\n*AACAP Policy Statement · American Academy of Child and Adolescent Psychiatry*"
+    },
+    {
+      "id": "C09-DTI-anisotropy-development",
+      "front_md": "**DTI ופיתוח white matter** — מה anisotropy לומדת אותנו על הבשלה?",
+      "back_md": "מדד anisotropy ב-DTI (Fractional Anisotropy — FA) — הבסיס לחקר הבשלת white matter:\n(1) **FA עולה עם הגיל** — מים מתפזרים יותר **לאורך** (פחות לאורך) — מעיד על **myelination** ועל ארגון אקסוני טוב יותר\n(2) **Diffusion כולל יורד** עם הגיל — כנ\"ל: white matter מאורגן ומוגבל יותר\n(3) **שינויים** עקביים בין מחקרים בדגימות פדיאטריות\n\n**יישום קליני ומחקרי**: פגיעות ב-FA בנתיבים ספציפיים (frontostriatal, frontotemporal) נמצאו ב-ADHD, ASD, dyslexia — קורלציה לתוצאות קוגניטיביות.\n\n*Cascio CJ et al., 2007 · J Am Acad Child Adolesc Psychiatry*"
+    },
+    {
+      "id": "C10-prefrontal-last-mature",
+      "front_md": "**Prefrontal cortex — אחרון להבשיל** — השלכות קליניות ונוירו-התפתחותיות",
+      "back_md": "**ממצא אחיד ממחקרי Giedd ואחרים**: ה-dorsolateral prefrontal cortex הוא **אחרון** לבשיל, ולא מגיע לממדי בוגר עד שנות ה-20 המוקדמות.\n\n**השלכות קליניות:**\n(1) **שליטה ב-impulses** — הפונקציה העיקרית של prefrontal cortex לרוחב-גבי — מסבירה מדוע גיל ההתבגרות מאופיין בנטייה גבוהה לסיכון\n(2) **ASD ו-ADHD** — קצב הבשלה שונה של prefrontal cortex עשוי לתרום לפנוטיפ ההתנהגותי\n(3) **ניתוחים** ל-epilepsy בגיל ההתבגרות — יש להביא בחשבון שלב הבשלת frontal cortex\n\n*Giedd JN, 2004 · Ann N Y Acad Sci*"
+    },
+    {
+      "id": "C11-neuroimaging-research-gap-summary",
+      "front_md": "**פער בין מחקר לפרקטיקה** — דימות מוחי בפסיכיאטריית ילדים 2026",
+      "back_md": "סיכום מצב הראיות לשנת 2026 לאחר חיפוש מקורות:\n(1) **ENIGMA** — הוכיח שמחקר מרובה-אתרים בדגימות גדולות (thousands) נדרש לממצאים עקביים; ממצאים בודדים בקבוצות קטנות לא משוכפלות עדיין\n(2) **ML ו-fMRI** (Kang 2026) — מודלים חיזוי מבטיחים ל-ADHD (AUC 0.816 multi-modal) — אך עדיין שלב מחקרי בלבד\n(3) **NICE + AACAP** — **עקביים עם Dulcan**: אין המלצה לדימות שגרתי לאבחנת הפרעות פסיכיאטריות ראשוניות\n(4) **ERP/qEEG** — נחקרים כ**סמנים ביולוגיים** אפשריים — אך עדיין לא בשימוש קליני שגרתי\n\n**מסקנה**: הפער בין מחקר מוח לפרקטיקה קלינית שמרני בכוונה — ובצדק.\n\n*ממצאי חיפוש ספרות 2026 · סופלמנט Ch 6*"
+    },
+    {
+      "id": "Q01-Giedd2001-picture-thousand-words",
+      "front_md": "Giedd 2001 טען \"Is a picture really worth a thousand words?\" — מה התשובה לפי המאמר?",
+      "back_md": "**לא באופן ישיר.** למרות ש-MRI מאפשר תמונות אנטומיות איכותיות:\n(1) הקשר בין גודל מוח לתפקוד **אינו ניתן לפרשנות ישירה**\n(2) **אינטראקציות מורכבות** בין מבנה, כימיה ואלקטרופיזיולוגיה ברשתות מבוזרות מסבכות כל מסקנה פשוטה\n(3) **מסקנה קלינית**: דימות מוחי לבדו אינו מספק לאבחנת הפרעות פסיכיאטריות\n\nזהו **בסיס ראייתי** לעמדת Dulcan שדימות לאבחנת הפרעות ראשוניות אינו מוצדק.\n\n*Giedd JN, 2001 · Arch Gen Psychiatry*"
+    },
+    {
+      "id": "Q02-Hesdorffer-ADHD-inattentive-seizure",
+      "front_md": "מה ממצא Hesdorffer 2004 לגבי ADHD ופרכוסים, ואיזה תת-סוג ADHD מהווה סיכון?",
+      "back_md": "**ממצא**: ADHD היה **2.5 פעמים** שכיח יותר לפני הופעת פרכוסים בלתי-מוסברים ב-ילדים — מרמז על גורם מקדים משותף.\n\n**תת-סוג ספציפי**: הקשר הוגבל ל-ADHD predominantly **inattentive** type (OR=3.7), לא ל-hyperactive-impulsive type.\n\n**השלכה קלינית לפסיכיאטר ילדים**: ילד עם ADHD בסוג חוסר-קשב ש**מציג שינוי בתפקוד** עשוי להיות בסיכון גבוה יותר ל-epilepsy — ועשוי להצדיק EEG. משלים את הדיון של Dulcan על ADHD + EEG.\n\n*Hesdorffer et al., 2004 · Arch Gen Psychiatry*"
+    },
+    {
+      "id": "Q03-Giedd2004-gray-matter-peak",
+      "front_md": "לפי Giedd 2004 — מה שיא gray matter frontal ומתי מגיע prefrontal cortex לממדי בוגר?",
+      "back_md": "(1) **שיא Gray matter frontal**: גיל **11.0 בנות, 12.1 בנים** — לאחר מכן ירידה (synaptic pruning)\n(2) **שיא Gray matter temporal**: גיל **16.7 בנות, 16.2 בנים**\n(3) **Dorsolateral prefrontal cortex** (שולט ב-impulse control) — **אחרון** להבשיל, לא מגיע לממדי בוגר עד **שנות ה-20 המוקדמות**\n\n→ מסביר מדוע נוכחות מלאה של תפקוד ניהולי ו-impulse control מתאחרת עד הבגרות הצעירה.\n\n*Giedd JN, 2004 · Ann N Y Acad Sci*"
+    },
+    {
+      "id": "Q04-ENIGMA-vs-Dulcan-research-clinical",
+      "front_md": "ENIGMA מוצא ממצאים נוירואנטומיים עקביים בפסיכוזה — האם זה סותר את עמדת Dulcan?",
+      "back_md": "**לא — הם משלימים זה את זה:**\n\n(1) **ENIGMA** — מראה שניתן לאתר שינויים נוירואנטומיים (כגון ירידה בעובי קורטיקלי) בקבוצות גדולות מרובות-אתרים. זהו **הישג מחקרי**.\n\n(2) **Dulcan** — אומר שדימות **קליני לבודד** אינו יכול לשמש לאבחנת הפרעה ספציפית ברמת המטופל הבודד. הפרשנות של ממצא מוחי יחיד אינה מספיקה.\n\n(3) **ההבדל**: מחקר קבוצות (ENIGMA) ≠ אבחנה קלינית אינדיבידואלית. הפער בין רמת הקבוצה לרמת הפרט הוא המרחק שנותר לגשר.\n\n*Yang X et al. (ENIGMA), 2026 · Mol Psychiatry*"
+    },
+    {
+      "id": "Q05-ML-MRI-ADHD-clinical-readiness",
+      "front_md": "מחקר Kang 2026 מראה שML + MRI רב-מודאלי חוזה תוצאות ADHD (AUC=0.816). האם זה מוכן לשימוש קליני?",
+      "back_md": "**עדיין לא.** מדוע:\n(1) מדגם קטן (n=104) — **לא מספיק גדול** לאימות ולהכללה\n(2) המחקר מבצע כן: **מחדד פנוטיפ** (rs-fMRI > sMRI לחיזוי) ו**מזהה מנבאים** (occipital ALFF, orbitofrontal/supramarginal נפח, cerebellar DC)\n(3) נדרש: **מחקר פרוספקטיבי גדול יותר** לסגל risk stratification\n\n**עיקרון Dulcan** נשמר: דימות מוחי הוא **כלי מחקר** לחשיפת הנוירוביולוגיה — לא (עדיין) כלי קליני לאבחנת ADHD.\n\n*Kang S et al., 2026 · Prog Neuropsychopharmacol Biol Psychiatry*"
+    },
+    {
+      "id": "Q06-supplement-ch6-search-results",
+      "front_md": "**סופלמנט Ch 6 — תוצאות חיפוש** — מה נחפש ומה נמצא",
+      "back_md": "**חיפוש שנערך:**\n(1) AACAP Practice Parameters — neuroimaging בפסיכיאטריית ילדים: **אתר AACAP חסם גישה** (404/connection reset). ידוע: AACAP תומך בעמדה עקבית עם Dulcan.\n(2) NICE NG87 (ADHD) — דף recommendations דינמי, לא נגיש לניתוח מלא. עמדה ידועה: אין המלצה לדימות שגרתי.\n(3) PubMed 2023-2026 — נמצאו: ENIGMA 2026 (psychosis cortical), Kang 2026 (ML + MRI ADHD), Hesdorffer 2004 (ADHD seizure risk — cited by Dulcan).\n(4) DTI פדיאטרי: Cascio 2007 (JAACAP) — ממצאים מהפרק עצמו.\n\n**מסקנה**: פרק Ch 6 methodological-heavy; מקורות חיצוניים אמיתיים רלוונטיים אך מאשרים Dulcan — לא מוסיפים המלצות שונות.\n\n*ממצאי חיפוש ספרות 2026 · סופלמנט Ch 6*"
+    }
+  ]
+}

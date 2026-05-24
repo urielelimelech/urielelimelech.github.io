@@ -1,0 +1,79 @@
+{
+  "id": "B020-phase-1-retrospective-summary",
+  "label": "B020 · רטרוספקטיבה והכנה לשלב הבא · סיכום",
+  "source": "residency-summary",
+  "cards": [
+    {
+      "id": "1777179387650",
+      "front_md": "למה Phase 1 retrospective הכרחי? Silent errors!",
+      "back_md": "‫**Dulcan verbatim** [D-1]: > \"Many errors in psychiatric care are 'silent' and go unrecognized\". **משמעות:** ה-debrief אחרי mock week (B019) זיהה את ה-loud errors — מה שכשל באופן ברור (DDx פספוס · timing מהראיון · formulation לא integrated). ה-**silent errors** הן: confirmation bias שלא הורגש, over-aligning שהורגש כ-rapport טוב, premature closure שהורגש כ-confidence. **דורש supervision מובנית** (או self-supervision מובנית עם רובריקה). 4 דק' של retrospective מובנה = 100 שעות חיסכון ב-Phase 2 [synthesis]. **Hook:** silent ≠ קל. ה-loud errors הם 20% מהבעיה; ה-silent הן 80%.‬",
+      "note_id": "1777179387650"
+    },
+    {
+      "id": "1777179387651",
+      "front_md": "Phase 1 inventory — מה נבנה ב-17 הבלוקים?",
+      "back_md": "‫**4 שבועות, 17 בלוקים, 5 axes:** (1) **Interview methodology** B001-B003 (child · adolescent · parent); (2) **MSE+observation** B004-B005 (MSE pediatric · developmental observation); (3) **Risk + Formulation** B006-B010 (Risk · dynamic · CBT · family · BPS-D); (4) **Exam infrastructure** B011-B015 (format · report · rolling · mock framework · test anxiety); (5) **Committee rehearsals** B016-B018 + B019 mock week (3-pass · 5-axis · 3-pass · integration). **מצב סיום:** 3 skill-sets מתורגלים, 4 formulation modes, 11 Stage B verbatim quotes, 12 Dulcan core-quotes. **גם:** Phase 4 (theorists) + Phase 5 (legal+non-DSM) lying-in-wait. **Hook:** 17 בלוקים בנו skills, לא ידע. הידע יבוא ב-Phase 2-7.‬",
+      "note_id": "1777179387651"
+    },
+    {
+      "id": "1777179387652",
+      "front_md": "Self-supervision — מה Dulcan דורשת?",
+      "back_md": "‫**verbatim** [D-2]: > \"Expert clinical supervision aims to manage care, develop therapeutic competence, and provide restorative support for clinicians\". **3 דרישות לרטרוספקטיבה איכותית:** (1) **Direct observation** (audio recording של mock); (2) **Structured rubric** (5-axis ועדה 2 · 4-perspectives ועדה 3 · biopsychosocial weave ועדה 1); (3) **Delayed reflection** (לא רגע אחרי — 24-48 שעות אחר-כך, אחרת stress-arousal מטעה). **Hook:** retrospective מיד אחרי mock = retrospective רגשי לא קליני. 24-48 שעות = מטא-קוגניטיבי.‬",
+      "note_id": "1777179387652"
+    },
+    {
+      "id": "1777179387653",
+      "front_md": "8-question retrospective rubric",
+      "back_md": "‫**8 שאלות, ציון 1-5 לכל אחת. <3 = פעולת תיקון:** (1) שזרת 4 perspectives? [D-2] → B010; (2) calibrated DDx ב-base-rates? [D-3] → B017 base-rates drill; (3) זיהית premature closure? [D-6] → B017 Bayesian + B016 school-age; (4) נשארת neutral (לא over-aligned)? [D-8] → B003 parent + B016 toddler; (5) הצגת forensic-legal explicit? [D-6..9 ב-B017] → B017 forensic drill; (6) פורמולציה weave ולא רשימה? [D-1] → B007-B010; (7) זיהית confirmation bias? [D-3 ב-B019] → B019 self-monitoring; (8) treatment plan כולל 5 רכיבים [D-5]? → B017 treatment verbalization. **Hook:** rubric של 8 שאלות = הסבר ל\"מה כשל\" בקטגוריות. אסור להגיד \"כשלתי\" — חייב לציין באיזו שאלה.‬",
+      "note_id": "1777179387653"
+    },
+    {
+      "id": "1777179387654",
+      "front_md": "Knowledge vs Skill vs Anxiety — Triage השגיאות",
+      "back_md": "‫**Dulcan verbatim** [D-3]: > \"Knowledge may be developed through self-study and training, whereas skills benefit from role-play and rehearsal of treatment practices.\" **3 קטגוריות:** **(1) Knowledge gap** — \"לא ידעתי DSM-5-TR criteria של DMDD\" → self-study (Dulcan + AACAP). **(2) Skill gap** — \"ידעתי אבל לא הצלחתי להפעיל בלחץ\" → role-play + rehearsal (drills B016-B018). **(3) Anxiety** — \"ידעתי, ידעתי איך — אבל קפאתי\" → B015 (test anxiety) + supervision רגשית. **כלל הפעלה:** 3 השגיאות הראשונות = הצביעו על קטגוריה אחת. אם 3/3 knowledge → הבעיה ידע. אם 2/3 skill → drills. אם 1+/3 anxiety → סופרוויזה רגשית. **Hook:** triage לפני תיקון. תיקון שגיאות knowledge ב-drills = בזבוז זמן.‬",
+      "note_id": "1777179387654"
+    },
+    {
+      "id": "1777179387655",
+      "front_md": "Phase 2 Setup — 8 קטגוריות מחלות, 100 בלוקים",
+      "back_md": "‫**Phase 2 (B021-B100, 12 שבועות) = 8 קטגוריות:** שבועות 5-6 — **ADHD** B021-B030 (#1 by exam frequency); שבועות 7-8 — **Anxiety** B031-B042 (umbrella → 10 sub-types); שבועות 9-10 — **OCD + related** B043-B048; שבועות 11-12 — **Mood** B049-B058 (depression + bipolar + DMDD); שבועות 13-14 — **ASD + ID** B059-B066; שבועות 15-16 — **Psychosis + Eating** B067-B080. **Buffer:** B081-B100 (20) — weak-spot rework distributed. **Hook:** ADHD ראשון לא כי \"קלה\" — בגלל הספרות הענקית [D-7], זו ההזדמנות לשטוף את skills של Phase 1 על דאטה רחב.‬",
+      "note_id": "1777179387655"
+    },
+    {
+      "id": "1777179387656",
+      "front_md": "למה ADHD ראשונה ב-Phase 2? Dulcan verbatim",
+      "back_md": "‫**ציטוט מכונן** [D-7] verbatim: > \"Since the 1960s, the literature regarding the use of stimulants for ADHD has become encyclopedic\". **משמעות לעדיפות:** ADHD נכנסת ראשונה לא משום שהיא \"הקלה\" — אלא משום שיש לה את הספרות העשירה ביותר בפסיכיאטרית ילדים, ולכן ההזדמנות הראשונה **להפעיל את ה-skills של Phase 1 על דאטה רחב**. אם תפעיל את ה-biopsychosocial weave [D-2 מ-B019] על ADHD, תוכל אחר-כך על anxiety, OCD, mood. **תרגול ראשון על ADHD = שטיפה של ה-skills.** **Hook:** ADHD = הסולם של Phase 2. שאר ההפרעות = יישום השלבים.‬",
+      "note_id": "1777179387656"
+    },
+    {
+      "id": "1777179387657",
+      "front_md": "ADHD epidemiology + 3 presentations — מה Dulcan verbatim?",
+      "back_md": "‫**שכיחות עולמית** [D-4] verbatim: > \"A meta-analysis suggested a worldwide prevalence rate of 7.2%\". **3 presentations** [D-5]: (1) **314.01 (F90.2) Combined** — A1+A2 ב-6 חודשים אחרונים; (2) **314.00 (F90.0) Predominantly inattentive** — A1 בלבד; (3) **314.01 (F90.1) Predominantly hyperactive/impulsive** — A2 בלבד. **DSM-5 vs DSM-5-TR:** Dulcan נשענת על DSM-5 המקורי 2013 [NOT IN DULCAN — DSM-5-TR specific]. **Hook:** \"פרזנטציות\" (presentations) במקום \"תת-סוגים\" (subtypes) = הכרה ש-presentation יכולה להשתנות על פני זמן. ב-Phase 2, B021 יפרט את הקריטריונים verbatim.‬",
+      "note_id": "1777179387657"
+    },
+    {
+      "id": "1777179387658",
+      "front_md": "Anxiety umbrella — neurobiology משותפת — מה Dulcan?",
+      "back_md": "‫**verbatim** [D-6]: > \"Pediatric anxiety disorders are characterized by structural and functional abnormalities in brain regions that regulate emotional processing, fear extinction, appraisal of threat, and mentalization\" + > \"abnormalities within multiple networks, including the salience network... the frontoparietal and ventral attention networks, and the default mode network\". **משמעות מבנית:** שאלת ועדה 2 על \"ילד 8 חרד\" עשויה להיות על SAD, GAD, social anxiety, specific phobia. **הבנת ה-umbrella** (אמיגדלה + pre-frontal + DMN) מאפשרת לדבר neurobiology בלי לדעת כל סוב-טייפ בעומק. Phase 2 בונה umbrella ב-B031, ו-12 בלוקים אחר-כך מפרטים sub-types — מבנה anti-fragmentation. **Hook:** anxiety = umbrella; anxiety sub-types = sub-pages. אם הבוחן שואל DDx anxiety ספציפי — תוכל לדבר על neurobiology בלי לדעת את כל הסוב-טייפס.‬",
+      "note_id": "1777179387658"
+    },
+    {
+      "id": "1777179387659",
+      "front_md": "EBP gaps שמתמחים מפספסים — Dulcan verbatim",
+      "back_md": "‫**Gap-1 — חוסר structured assessment** [D-8] verbatim: > \"Clinicians too often rely exclusively on informal, unstructured interviews, resulting in agreement on formulations at levels only slightly better than chance\". **Gap-2 — confirmation bias בlamcasformulation** [D-9] verbatim: > \"Confirmation bias is also common in how we formulate cases\". **משמעות לPhase 2:** לכל disorder ב-Phase 2 (B021-B100) — חייב להפעיל **structured rating scale** (Conners ל-ADHD, SCARED ל-anxiety, CDI ל-depression) ולא להסתפק ב-impressionsiq בלתי-מובנים. **Hook:** assessment מובנה = אובייקטיבי. impression בלתי מובנה = \"agreement only slightly better than chance\" — Dulcan-spectacle ניחוח קליני. ב-mock — **אם לא הזכרת rating scale, סימן רע**.‬",
+      "note_id": "1777179387659"
+    },
+    {
+      "id": "1777179387660",
+      "front_md": "4 plays של retrospective — מצב פעולה",
+      "back_md": "‫**(1) 3/3 mock pass + 8/8 retrospective ≥3** = מעבר ל-Phase 2 (ADHD B021); drills שבועיים נמשכים. (2) **2/3 pass + 6-7/8 ≥3** = repeat הוועדה הנכשלת + 1-2 שבועות drill נוסף; Phase 2 +1-2 שבועות. (3) **1/3 pass + 4-5/8 ≥3** = חזרה על Phase 1 כולה; Phase 2 +3-4 שבועות. (4) **0/3 pass + ≤3/8 ≥3** = הבעיה גדולה מ-drill; supervision רגשית + mid-treatment deeper review; Phase 2 +6+ שבועות. **Hook:** delay isn't failure — silent errors שלא תוקנו ב-Phase 1 ימשיכו ל-Phase 2 ויחזרו על עצמם. שבוע נוסף ב-Phase 1 = חיסכון של חודשים.‬",
+      "note_id": "1777179387660"
+    },
+    {
+      "id": "1777179387661",
+      "front_md": "למה Phase 4 + Phase 5 lying-in-wait ב-Phase 2?",
+      "back_md": "‫**הסכנה:** שאלה קונצפטואלית של ועדה 3 (Phase 1 B018) תיגע ב-Phase 4 (פסיכותרפיה תיאורטיקנים) — Klein, Winnicott, Mahler. שאלת forensic של ועדה 2 (Phase 1 B017) תיגע ב-Phase 5 (legal Israeli + non-DSM mandatory). **משמעות:** ב-Phase 2 (disorders), חייב **לעצור** ב-2 נקודות — אחרי שבוע 8 (anxiety completed) → להוסיף mini-block ל-Klein/Winnicott; אחרי שבוע 12 (mood completed) → mini-block לחוק טיפול בחולי נפש קטינים. **אסור** להגיע ל-Phase 4-5 רק בשבוע 23 — שאלות קונצפטואליות ופורנזי יבואו במוק שבועות 17-22 (psychopharm). **Hook:** Phase 2-3 הם \"disorders\" הניאיביים; Phase 4-5 הם \"frame around disorders\" — בוא תכניס אותם בהדרגה.‬",
+      "note_id": "1777179387661"
+    }
+  ]
+}

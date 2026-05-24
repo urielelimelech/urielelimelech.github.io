@@ -1,0 +1,181 @@
+{
+  "id": "B021-adhd-intro",
+  "label": "B021 · ADHD — מבוא · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1776868208219",
+      "front_md": "[Def] מה 3 ה-DSM-5-TR presentations של ADHD?",
+      "back_md": "Predominantly Inattentive (A1 בלבד ב-6m אחרונים), Predominantly Hyperactive/Impulsive (A2 בלבד), Combined (שניהם) [D-2, D-3].",
+      "note_id": "1776868208219"
+    },
+    {
+      "id": "1776868208220",
+      "front_md": "[Def] מה ההגדרה המרכזית של ADHD לפי Dulcan?",
+      "back_md": "\"ADHD is a neurodevelopmental disorder in which a child's ability to pay attention and control impulses is significantly less than that of a typically developing child, causes impairment in academic or social functioning, and is not accounted for by some other medical or psychiatric condition\" [D-1].",
+      "note_id": "1776868208220"
+    },
+    {
+      "id": "1776868208222",
+      "front_md": "[Epi] מה השכיחות העולמית של ADHD?",
+      "back_md": "7.2% (Polanczyk 2007 meta-analysis) [D-6], [P-1].",
+      "note_id": "1776868208222"
+    },
+    {
+      "id": "1776868208224",
+      "front_md": "[Epi] מה השכיחות בארה\"ב לפי NSCH 2016?",
+      "back_md": "lifetime 9.4% · current diagnosis 8.4% (גילאי 2-17) [D-6].",
+      "note_id": "1776868208224"
+    },
+    {
+      "id": "1776868208227",
+      "front_md": "[Epi] כמה אחוזים מהמאובחנים בארה\"ב לא מקבלים טיפול כלל?",
+      "back_md": "23% [D-6].",
+      "note_id": "1776868208227"
+    },
+    {
+      "id": "1776868208228",
+      "front_md": "[Epi] מה אחוזי הטיפול במאובחנים בארה\"ב?",
+      "back_md": "62% תרופות · 46.7% טיפול התנהגותי באותה שנה [D-6].",
+      "note_id": "1776868208228"
+    },
+    {
+      "id": "1776868208230",
+      "front_md": "[F] כמה תסמינים דרושים לאבחון ADHD בילד (6/9 או 5/9)?",
+      "back_md": "6 מתוך 9 לילדים (עד 16y) [D-4].",
+      "note_id": "1776868208230"
+    },
+    {
+      "id": "1776868208231",
+      "front_md": "[F] כמה תסמינים דרושים למתבגר ≥17 או מבוגר?",
+      "back_md": "5 מתוך 9 [D-4].",
+      "note_id": "1776868208231"
+    },
+    {
+      "id": "1776868208232",
+      "front_md": "[F] מה Threshold תסמינים של ADHD שחייבים להופיע?",
+      "back_md": "6 חודשים, לא תואמים לרמה ההתפתחותית [D-4].",
+      "note_id": "1776868208232"
+    },
+    {
+      "id": "1776868208233",
+      "front_md": "[F] מה גיל ההתחלה הנדרש ב-DSM-5-TR (B)?",
+      "back_md": "several symptoms לפני גיל 12 (שינוי מ-DSM-IV שדרש 7) [D-3].",
+      "note_id": "1776868208233"
+    },
+    {
+      "id": "1776868208235",
+      "front_md": "[F] כמה settings נדרשים לקריטריון C?",
+      "back_md": "≥2 settings (home, school, work, חברים, אחר) [D-3].",
+      "note_id": "1776868208235"
+    },
+    {
+      "id": "1776868208236",
+      "front_md": "[F] מהי Severity \"Mild\" של ADHD?",
+      "back_md": "\"Few, if any, symptoms in excess of those required... minor impairments\" [D-3].",
+      "note_id": "1776868208236"
+    },
+    {
+      "id": "1776868208237",
+      "front_md": "[F] מה הציטוט של Dulcan על Inconsistency אבחנתית?",
+      "back_md": "\"Lack of any problems in school or symptoms that are not witnessed outside the home are inconsistent with ADHD\" [D-12].",
+      "note_id": "1776868208237"
+    },
+    {
+      "id": "1776868208239",
+      "front_md": "[F-A1] אילו 3 תסמיני inattention עוסקים ב-follow-through / organization?",
+      "back_md": "(d) does not follow through on instructions and fails to finish schoolwork · (e) has difficulty organizing tasks and activities · (f) avoids tasks requiring sustained mental effort [D-4].",
+      "note_id": "1776868208239"
+    },
+    {
+      "id": "1776868208241",
+      "front_md": "[F-A2] מה ה-Note של DSM-5-TR על hyperactivity במתבגרים/מבוגרים?",
+      "back_md": "\"In adolescents or adults, may be limited to feeling restless\" [D-5] — הסעיף המקורי (c) runs about or climbs inappropriately.",
+      "note_id": "1776868208241"
+    },
+    {
+      "id": "1776868208242",
+      "front_md": "[K] מה הקומורבידיות השכיחה ביותר ב-ADHD?",
+      "back_md": "Emotional dysregulation בשכיחות 24-50% [D-7].",
+      "note_id": "1776868208242"
+    },
+    {
+      "id": "1776868208243",
+      "front_md": "[K] מה שיעור ODD/CD בקרב ADHD?",
+      "back_md": "25-33% [D-7].",
+      "note_id": "1776868208243"
+    },
+    {
+      "id": "1776868208244",
+      "front_md": "[K] מה שיעור החפיפה ADHD × ASD?",
+      "back_md": "40-50% לפי Dulcan — גבוה משמעותית מהתפיסה הפרה-DSM-5-TR [D-8].",
+      "note_id": "1776868208244"
+    },
+    {
+      "id": "1776868208245",
+      "front_md": "[K] מה שיעור MDD בקוהורט MTA המקורי?",
+      "back_md": "11% [D-7].",
+      "note_id": "1776868208245"
+    },
+    {
+      "id": "1776868208247",
+      "front_md": "[I] במעקב 33 שנה של ADHD, מה גרם למרבית מקרי המוות?",
+      "back_md": "10 מתוך 15 מקרי מוות נבעו מהתאבדות, רצח או תאונה [D-10].",
+      "note_id": "1776868208247"
+    },
+    {
+      "id": "1776868208248",
+      "front_md": "[I] מה % המדגם שעמדו ב-ADHD קריטריונים מלאים בסיום MTA 8y?",
+      "back_md": "כשליש (1/3) [D-9].",
+      "note_id": "1776868208248"
+    },
+    {
+      "id": "1776868208249",
+      "front_md": "[I] מה ה-effect size לתסמיני ADHD בבגרות מוקדמת במחקר Swanson 2017 (MTA 16y)?",
+      "back_md": "d=1.11 vs norm [P-3].",
+      "note_id": "1776868208249"
+    },
+    {
+      "id": "1776868208250",
+      "front_md": "[I] מה היתרון של טיפול תרופתי רציף לטווח ארוך ב-MTA 16y?",
+      "back_md": "לא נמצא יתרון סופי בהפחתת תסמינים לעומת טיפול לא-רציף; נמצא deficit גדילה של 2.55 ס\"מ (p<.0005) [P-3].",
+      "note_id": "1776868208250"
+    },
+    {
+      "id": "1776868208252",
+      "front_md": "[Gotcha] איזו מילה בקריטריון B השתנתה מ-DSM-IV?",
+      "back_md": "\"Several inattentive or hyperactive-impulsive symptoms were present prior to age **12 years**\" (ב-DSM-IV — age 7) [D-3].",
+      "note_id": "1776868208252"
+    },
+    {
+      "id": "1776868208253",
+      "front_md": "[Gotcha] מה הפער הגילי בשיא עובי הקורטקס בין ADHD לנורמה לפי Shaw 2007?",
+      "back_md": "~3 שנים (10.5y ב-ADHD vs 7.5y נורמה) — הוכחה ל-delay ולא deviance [P-2].",
+      "note_id": "1776868208253"
+    },
+    {
+      "id": "1776868208256",
+      "front_md": "[N2-dyn] מה ה-framing הדינמי המרכזי של ADHD לפי Gabbard?",
+      "back_md": "פגיעה ב-autonomous ego functions [G-1, G-2]; קשיי קשב מולדים → הפרעה ל-holding environment → תגובות הורה בעייתיות → פגיעה בוויסות עצמי [G-3]; הגנות קשיחות לשמירת self-cohesion [G-4].",
+      "note_id": "1776868208256"
+    },
+    {
+      "id": "1776868208257",
+      "front_md": "[N2-cbt] מה ה-core model של ADHD לפי Kendall (CBT)?",
+      "back_md": "Deficiency ב-inhibitory control + self-regulation [K-1]; מעגל חיזוק שלילי — discipline מבקר של הורה/מורה משמר סימפטומטולוגיה (parent-child coercive cycle per Patterson) [K-3]; הטיפול מיישם contingency management + parent/teacher training [K-4].",
+      "note_id": "1776868208257"
+    },
+    {
+      "id": "1776868208258",
+      "front_md": "[P] מה ההוכחה האפידמיולוגית שהפערים ב-ADHD בין יבשות אינם אמיתיים?",
+      "back_md": "Polanczyk 2007 meta-analysis — אחרי בקרה על מתודולוגיה (DSM vs ICD, הגדרות impairment) הפערים נעלמו. ההפרעה אוניברסלית [P-1].",
+      "note_id": "1776868208258"
+    },
+    {
+      "id": "1776868208259",
+      "front_md": "[DDx] מה עמדת Dulcan על הקשר ADHD-MDD?",
+      "back_md": "\"The current clinical consensus is that ADHD and MDD represent separate conditions, each requiring its own treatment\" [D-7].",
+      "note_id": "1776868208259"
+    }
+  ]
+}

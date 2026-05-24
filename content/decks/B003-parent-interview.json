@@ -1,0 +1,151 @@
+{
+  "id": "B003-parent-interview",
+  "label": "B003 · ראיון הורים · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1776891385714",
+      "front_md": "[Protocol] בגיל גן — מי נכנס לפגישה הראשונה (verbatim Dulcan)?",
+      "back_md": "> \"In the first session, all primary caregivers... are asked to be present without the child for a comprehensive history\" [D-2]. השיקול: > \"...there is little risk of damaging the rapport with the preschool child when caregivers are interviewed before the child\" [D-3].",
+      "note_id": "1776891385714"
+    },
+    {
+      "id": "1776891385715",
+      "front_md": "[Protocol] בגיל בי\"ס — האם יש כלל קשיח לסדר פגישות?",
+      "back_md": "לא לסדר, אבל כלל מוחלט על הצורך: > \"Ultimately, however, separate meetings with the child and parent are necessary\" [D-5].",
+      "note_id": "1776891385715"
+    },
+    {
+      "id": "1776891385716",
+      "front_md": "[Protocol] לאילו נושאים חובה ראיון הורה לבד בגיל בי\"ס (verbatim)?",
+      "back_md": "> \"In discussing relations between parents, family history of mental illness, and discipline practices, it is best to interview the parent alone\" [D-6].",
+      "note_id": "1776891385716"
+    },
+    {
+      "id": "1776891385717",
+      "front_md": "[Protocol] חריג ADHD בגיל בי\"ס?",
+      "back_md": "ילדים עד 8 אפשר לראיין יחד עם ההורים, מעל 8 חובה פרטני [D-7].",
+      "note_id": "1776891385717"
+    },
+    {
+      "id": "1776891385718",
+      "front_md": "[Protocol] במתבגר — למה לא להתחיל בהורה לבד (verbatim)?",
+      "back_md": "> \"In most cases, starting the initial assessment with parents and adolescent together can be productive... In order to minimize the perception of the clinician as solely a parental agent, this interview may be short and quickly transition to the adolescent alone\" [D-8]. השארת המתבגר בחדר המתנה = \"agent of the parent\".",
+      "note_id": "1776891385718"
+    },
+    {
+      "id": "1776891385719",
+      "front_md": "[Protocol] מה השיקול של ראיון הורה נפרד במתבגר (verbatim)?",
+      "back_md": "> \"Hearing the recitation of problems in front of a stranger often creates a hostile, antagonistic, and resistive response from the adolescent... many parents will not frankly discuss their concerns about the adolescent in the presence of their child\" [D-9].",
+      "note_id": "1776891385719"
+    },
+    {
+      "id": "1776891385720",
+      "front_md": "[Content] 8 קטגוריות של Table 4-1?",
+      "back_md": "CC · HPI · Psychiatric ROS · Developmental · Educational · Social · Family · Abuse/Risk [D-11].",
+      "note_id": "1776891385720"
+    },
+    {
+      "id": "1776891385721",
+      "front_md": "[Divergent] הציטוט verbatim של Dulcan על מדווחים סותרים?",
+      "back_md": "> \"...often there is little agreement in reporting of events among children, caregivers, and teachers\" [D-5].",
+      "note_id": "1776891385721"
+    },
+    {
+      "id": "1776891385722",
+      "front_md": "[Divergent] הצירי internalizing/externalizing (verbatim)?",
+      "back_md": "> \"Parents tend to report more accurately on externalizing symptoms and behaviors, and adolescents tend to report more accurately on internalizing symptoms\" [D-12].",
+      "note_id": "1776891385722"
+    },
+    {
+      "id": "1776891385728",
+      "front_md": "[Divergent] כשההורים עצמם סותרים — מה לעשות (verbatim)?",
+      "back_md": "לא לקחת צד. > \"When different caregivers have different interpretations and reports of behavior, this may indicate a relational component to the child or adolescent's behavior that is valuable to know\" [D-13].",
+      "note_id": "1776891385728"
+    },
+    {
+      "id": "1776891385729",
+      "front_md": "[Custody] מה התנאי החוקי שחובה לתעד לפני הערכה?",
+      "back_md": "משמורת — > \"Documenting custody or guardianship is an important prerequisite to beginning an assessment\" [D-14]. הורה לא-משמורן יכול להשתתף בהערכה אבל לא לאשר התחלת טיפול (פרט למצב דחוף) [D-14].",
+      "note_id": "1776891385729"
+    },
+    {
+      "id": "1776891385730",
+      "front_md": "[Custody] שתי מלכודות בסכסוכי גירושין עצימים?",
+      "back_md": "(1) **Disparagement** — הכפשת ההורה השני בנוכחות הילד; (2) **Triangulation** — הילד הופך לנשק במאבק נאמנויות [D-16].",
+      "note_id": "1776891385730"
+    },
+    {
+      "id": "1776891385731",
+      "front_md": "[ParentalPathology] ארבעה תנאים הדורשים ראיון הורים **נפרד** לכל אחד?",
+      "back_md": "(1) אלימות במשפחה · (2) מחלת נפש פעילה (דיכאון/חרדה/פסיכוזה) · (3) שימוש בחומרים · (4) מעורבות CPS [D-17].",
+      "note_id": "1776891385731"
+    },
+    {
+      "id": "1776891385733",
+      "front_md": "[ParentalPathology] הציטוט verbatim על השפעת פתולוגיה הורית?",
+      "back_md": "> \"Parental problems such as child abuse or domestic violence and anxiety, depression, or psychotic disorders may have an immense effect on a developing child\" [D-17].",
+      "note_id": "1776891385733"
+    },
+    {
+      "id": "1776891385734",
+      "front_md": "[Abuse] הכלל הזהב לבירור התעללות (verbatim)?",
+      "back_md": "> \"It is critical to ask about possible abuse privately with the child and with the parents. Children may find it more difficult to discuss abuse in the presence of others because of shame, fear of consequences, or guilt\" [D-6].",
+      "note_id": "1776891385734"
+    },
+    {
+      "id": "1776891385735",
+      "front_md": "[Abuse] למה לא להסתפק ב-\"כן/לא\" לגבי התעללות (verbatim)?",
+      "back_md": "> \"It is not adequate to simply ask about physical or sexual abuse. Instead, the clinician needs to explore the breadth and depth of adversity that a child has experienced in order to gauge the risk of subsequent psychopathology...\" [D-18].",
+      "note_id": "1776891385735"
+    },
+    {
+      "id": "1776891385736",
+      "front_md": "[Errors] מה המלכודת בתלונה הורית (\"לא מציית\") — verbatim?",
+      "back_md": "> \"It can be misleading to take at face value a parent's complaint that a child will not listen or follow directions because this could reflect a child's inattention, receptive language problems, or hearing impairment rather than defiance\" [D-19].",
+      "note_id": "1776891385736"
+    },
+    {
+      "id": "1776891385737",
+      "front_md": "[Errors] איך Dulcan ממליץ לברר תלונת הורה (verbatim)?",
+      "back_md": "> \"It is better to ask caregivers to describe a recent example or incident\" [D-19].",
+      "note_id": "1776891385737"
+    },
+    {
+      "id": "1776891385738",
+      "front_md": "[Errors] הציטוט על rescue fantasy (verbatim)?",
+      "back_md": "> \"Clinicians may have their own fantasies of rescuing a child from 'terrible' parents. Building rapport with one party to the exclusion of the other is generally not useful and will often impair ultimate treatment success\" [D-20].",
+      "note_id": "1776891385738"
+    },
+    {
+      "id": "1776891385739",
+      "front_md": "[Feedback] איך למסגר פידבק להורי ילד גן (verbatim)?",
+      "back_md": "> \"Frame statements in a noncritical and nonjudgmental manner... Align with the caregiver and present the feedback in the context of the mismatch between caregiver behaviors and the child's developmental and emotional needs...\" [D-22]. מתבגר = \"sandwich of strengths\" שחייבות \"reflect reality\" [D-21].",
+      "note_id": "1776891385739"
+    },
+    {
+      "id": "1776891385740",
+      "front_md": "[Committee 1] כמה זמן חולק ל-parent interview ב-Committee 1?",
+      "back_md": "10-20 דק׳ \"בלקיחת אינפורמציה מההורה באופן ממוקד\" [StageB-1]. חובה להגדיר מראש לנוכחים את מסגרת הזמן.",
+      "note_id": "1776891385740"
+    },
+    {
+      "id": "1776891385742",
+      "front_md": "[Committee 1] 2 האתגרים ההתנהגותיים של Committee 1 הקשורים להורה (verbatim)?",
+      "back_md": "(1) > \"קושי של ילד צעיר להיפרד מההורה\"; (2) > \"חוסר גבולות של ההורה המשתתף\" [StageB-2].",
+      "note_id": "1776891385742"
+    },
+    {
+      "id": "1776891385744",
+      "front_md": "[Case Casey] 3 הצירים שקייס Casey בודק בראיון הורים?",
+      "back_md": "(1) דיווח דיסקורדנטי (הורים \"outgoing\" vs Casey \"I hate them\") [C-2]; (2) פסיכופתולוגיה הורית (אב אלכוהוליסט + אם דיכאונית) [C-2]; (3) abuse elicitation + avoidant family response (התעללות מינית בגיל 10 לא טופלה) [C-2].",
+      "note_id": "1776891385744"
+    },
+    {
+      "id": "1776891385745",
+      "front_md": "[Case Joey] איזו דינמיקה הורית מציג קייס Joey?",
+      "back_md": "**Co-parent conflict** — אב: \"האם מקלה מדי\", אם: \"בלתי אפשרי להחמיר\" [C-5]. + **self-diagnosis** ע\"י האם באינטרנט (ODD/ADHD/DMDD/Asperger's/bipolar) [C-6]. הנבחן מאמת דאגות בכבוד תוך הדרה של hypotheses אינטרנטיות.",
+      "note_id": "1776891385745"
+    }
+  ]
+}

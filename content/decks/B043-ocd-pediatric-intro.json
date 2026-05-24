@@ -1,0 +1,157 @@
+{
+  "id": "B043-ocd-pediatric-intro",
+  "label": "B043 · OCD בילדים — מבוא · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1776891385843",
+      "front_md": "[D] כמה אחוזים מ-OCD לאורך החיים מתחילים לפני גיל ההתבגרות?",
+      "back_md": "**≥30%**. גיל ממוצע לפריצה פדיאטרית: **9-10 שנים**; רוב מקרי הילדות בין **6.5 ל-12.5 שנים** [D-7].",
+      "note_id": "1776891385843"
+    },
+    {
+      "id": "1776891385845",
+      "front_md": "[E] מה ה-onset pattern של OCD לאורך החיים?",
+      "back_md": "**Bimodal** — פיק ראשון טרום-התבגרות, פיק שני בגרות מוקדמת [D-6].",
+      "note_id": "1776891385845"
+    },
+    {
+      "id": "1776891385846",
+      "front_md": "[E] מה שיעור ה-OCD הפדיאטרי שלא מאובחן לפי סקר בריטניה?",
+      "back_md": "**~90%** אינם מאובחנים ואינם מטופלים — עקב סודיות ההפרעה + SES נמוך. שכיחות נקודתית 0.25% בגילאי 5-15 [D-10].",
+      "note_id": "1776891385846"
+    },
+    {
+      "id": "1776891385847",
+      "front_md": "[F] מה קריטריון B ב-DSM-5-TR ל-OCD?",
+      "back_md": "Time-consuming (**>1 שעה ביום**) או **clinically significant distress or impairment** [D-12].",
+      "note_id": "1776891385847"
+    },
+    {
+      "id": "1776891385848",
+      "front_md": "[F] מה Specifier התובנה (insight) ב-DSM-5-TR?",
+      "back_md": "3 רמות: **Good/fair insight** (יודע שהאמונות כנראה לא נכונות) · **Poor insight** (חושב שכן נכונות) · **Absent insight / delusional** (משוכנע שנכונות) [D-12].",
+      "note_id": "1776891385848"
+    },
+    {
+      "id": "1776891385849",
+      "front_md": "[F] מה ה-note ב-DSM לגבי ילדים צעירים?",
+      "back_md": "> \"Young children may not be able to articulate the aims of these behaviors or mental acts.\" [D-12]",
+      "note_id": "1776891385849"
+    },
+    {
+      "id": "1776891385850",
+      "front_md": "[F2] מה Compulsions השכיחות בילדים?",
+      "back_md": "**Washing · Repeating · Checking · Ordering** [D-16]. Hoarding עד 26% מבני נוער — קשור לטיקים + indecision [D-18].",
+      "note_id": "1776891385850"
+    },
+    {
+      "id": "1776891385851",
+      "front_md": "[F2] איזה תבנית OCD מחקה Separation Anxiety Disorder?",
+      "back_md": "פחד מאירוע קטסטרופלי במשפחה (מוות הורה) → checking + רוטינות → מחקה SAD **ללא היסטוריה קודמת** של חרדת פרידה [D-15].",
+      "note_id": "1776891385851"
+    },
+    {
+      "id": "1776891385852",
+      "front_md": "[G] מה ה-circuit המרכזי של OCD?",
+      "back_md": "**CSTC** — frontal cortico-striatal-thalamic. **מבנים:** OFC · anterior cingulate · caudate · thalamus [D-19, D-21].",
+      "note_id": "1776891385852"
+    },
+    {
+      "id": "1776891385853",
+      "front_md": "[G] מה ה-finding imaging ספציפי בילדי OCD?",
+      "back_md": "**נפח מוגדל של ה-thalamus** בהשוואה לקבוצות ביקורת [D-22].",
+      "note_id": "1776891385853"
+    },
+    {
+      "id": "1776891385854",
+      "front_md": "[G] אילו NTs מעורבים ב-CSTC ב-OCD?",
+      "back_md": "**Glutamate** (אקסיטטורי, מרכזי במודל hyperactivity) · **GABA** (אינהיביטורי) · **דופמין** · **סרוטונין** [D-20].",
+      "note_id": "1776891385854"
+    },
+    {
+      "id": "1776891385855",
+      "front_md": "[H] מה ה-GWAS heritability של OCD + מה מראה מדגם תאומים גדול?",
+      "back_md": "GWAS: **0.25-0.28** [D-26]. במדגם 4,246 זוגות תאומים: גנטיקה 45-58% · **סביבה ייחודית 42-55%** — מסביר חוסר קונקורדנציה מלאה ב-MZ [D-27].",
+      "note_id": "1776891385855"
+    },
+    {
+      "id": "1776891385856",
+      "front_md": "[H] מהי Family Accommodation ומה שכיחותה?",
+      "back_md": "כשהורים משתלבים בטקסים (verbal reassurance, כביסה, פתיחת דלתות) ובכך מחזקים הימנעות. **ב->90% מהמשפחות** [D-32]. **CBT חייב להתמקד בהפחתתה** — לא חד-צדדי, בשיתוף פעולה עם הילד [A-24, D-33].",
+      "note_id": "1776891385856"
+    },
+    {
+      "id": "1776891385857",
+      "front_md": "[H] אילו גורמי סיכון פרינטליים זוהו ל-OCD?",
+      "back_md": "Maternal smoking · breech presentation · C-section · prematurity · LBW · low Apgar scores [D-30].",
+      "note_id": "1776891385857"
+    },
+    {
+      "id": "1776891385858",
+      "front_md": "[I] מה שיעורי ה-response וה-remission במחקר NordLOTS?",
+      "back_md": "עם CBT פרוטוקולי: **90% responders**, **73% בהפוגה קלינית** במעקב **3 שנים** [D-36].",
+      "note_id": "1776891385858"
+    },
+    {
+      "id": "1776891385859",
+      "front_md": "[I] מה persistence rate של OCD פדיאטרי במטא-אנליזה?",
+      "back_md": "**41%** הפרעה מלאה; **60%** הפרעה קלינית או תת-קלינית (מעקב 1-15.6 שנים) [D-35].",
+      "note_id": "1776891385859"
+    },
+    {
+      "id": "1776891385860",
+      "front_md": "[J] איך מבדילים OCD מ-ASD לפי התחושה הסובייקטיבית?",
+      "back_md": "**ASD: ego-syntonic** — ילד **נהנה** מההתנהגויות החזרתיות, סובל רק כשקוטעים. **OCD: ego-dystonic** — טקסים נועדו להפיג חרדה, הילד רוצה להפסיק. רק **5-7% של OCD** עומדים ב-ASD [D-40].",
+      "note_id": "1776891385860"
+    },
+    {
+      "id": "1776891385861",
+      "front_md": "[J] איך מבדילים poor-insight OCD מפסיכוזה?",
+      "back_md": "ב-**OCD insight דינמי** — משתנה עם רמת החרדה. ב-**פסיכוזה** תסמינים חיוביים/שליליים נוספים + תוכן **אטיפי מוזר** (דוגמה: \"ההורים הוחלפו בחייזרים\") [D-41].",
+      "note_id": "1776891385861"
+    },
+    {
+      "id": "1776891385862",
+      "front_md": "[J2] מתי לעשות workup ל-PANDAS וכיצד?",
+      "back_md": "**טריגר:** פריצה אקוטית/סוערת בגיל טרום-התבגרות, או relapse פתאומי דרמטי. **Workup:** soft neurological signs + **ASO + anti-DNase B titers** — עלייה **≥0.2 log** או **≥2× ULN** מחשידה לזיהום טרי [D-44, D-45].",
+      "note_id": "1776891385862"
+    },
+    {
+      "id": "1776891385863",
+      "front_md": "[L/A] מה המדד הקליני הסטנדרטי לחומרת OCD?",
+      "back_md": "**CY-BOCS** (Children's Yale-Brown Obsessive Compulsive Scale) — semi-structured, משמש ל-rating + תיעוד חומרה + מעקב תגובה [A-3].",
+      "note_id": "1776891385863"
+    },
+    {
+      "id": "1776891385864",
+      "front_md": "[M] מה SSRIs ה-FDA-approved פדיאטרית + גיל מינימלי?",
+      "back_md": "**Clomipramine ≥10y** · **Fluvoxamine ≥8y** · **Sertraline ≥6y** [A-15]. Fluoxetine off-label פדיאטרי אבל מקובל קלינית [A-17, A-18].",
+      "note_id": "1776891385864"
+    },
+    {
+      "id": "1776891385865",
+      "front_md": "[M] מה trial duration לפני הכרזה על non-response ל-SSRI?",
+      "back_md": "**10-12 שבועות** במינון מקסימלי נסבל. רבים לא מגיבים ב-6-10 שבועות ראשונים. אם response — להמשיך **12-18 חודשים** לפני taper [A-19, A-20].",
+      "note_id": "1776891385865"
+    },
+    {
+      "id": "1776891385866",
+      "front_md": "[M] איזה SSRI מעדיף NICE כקו-ראשון פדיאטרית + מה החריג?",
+      "back_md": "**Sertraline או fluvoxamine** (licensed). **החריג:** ילד עם דיכאון קומורבידי משמעותי — **fluoxetine should be used** [NICE 1.5.6.4]. התחלה ע\"י child psychiatrist [NICE 1.5.6.1].",
+      "note_id": "1776891385866"
+    },
+    {
+      "id": "1776891385867",
+      "front_md": "[Gotcha] מה האוגמנטציה המוצלחת ביותר ל-Tic-related OCD עמיד?",
+      "back_md": "**Low-dose Neuroleptic** (Haloperidol / Risperidone). יעיל מובהק ב-OCD עם טיקים כרוניים. חלופה: Clonazepam [A-20, A-27].",
+      "note_id": "1776891385867"
+    },
+    {
+      "id": "1776891385868",
+      "front_md": "[Gotcha] מה ה-cardiotoxicity cap של Clomipramine פדיאטרי?",
+      "back_md": "לא לעבור **5 mg/kg/day** או **250 mg/day** — cardiotoxicity risk. מינון מטרה עד 3 mg/kg/day [A-16].",
+      "note_id": "1776891385868"
+    }
+  ]
+}

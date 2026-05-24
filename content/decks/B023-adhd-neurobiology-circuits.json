@@ -1,0 +1,175 @@
+{
+  "id": "B023-adhd-neurobiology-circuits",
+  "label": "B023 · ADHD — נוירוביולוגיה ומעגלים · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1777179387668",
+      "front_md": "[Circuits] 4 הרשתות המעורבות ב-ADHD?",
+      "back_md": "‫(1) Frontoparietal (קשב מכוון-מטרה); (2) Attention networks (dorsal + ventral); (3) Salience (anterior insula + ACC); (4) Default Mode Network (DMN) [D-2]‬",
+      "note_id": "1777179387668"
+    },
+    {
+      "id": "1777179387669",
+      "front_md": "[Circuits] DMN interference — Dulcan verbatim?",
+      "back_md": "‫\"DMN abnormally remains active during cognitive tasks instead of normally inhibiting\" [D-3]‬",
+      "note_id": "1777179387669"
+    },
+    {
+      "id": "1777179387670",
+      "front_md": "[Circuits] 5 תת-קורטיקליים עם reduced GM ב-ADHD?",
+      "back_md": "‫Amygdala · Caudate · Hippocampus · Putamen · Nucleus accumbens [D-4]‬",
+      "note_id": "1777179387670"
+    },
+    {
+      "id": "1777179387671",
+      "front_md": "[NT] 2 דופמינרגיים ב-Dual-Pathway של Sonuga-Barke?",
+      "back_md": "‫(1) Mesocortical (VTA→PFC dorsolateral) → executive function; (2) Mesolimbic (VTA→ventral striatum) → reward + delay sensitivity [P-3]‬",
+      "note_id": "1777179387671"
+    },
+    {
+      "id": "1777179387672",
+      "front_md": "[NT] DUSP6 — מה תפקידו?",
+      "back_md": "‫בכרומוזום 12; מווסת רמות דופמין סינפטיות; קושר genetics ישירות לפרמקולוגיה [D-1]‬",
+      "note_id": "1777179387672"
+    },
+    {
+      "id": "1777179387673",
+      "front_md": "[NT] מנגנון methylphenidate?",
+      "back_md": "‫חוסם DAT (DRD-transporter) + NET (NE-transporter) → ↑ DA + NE סינפטיים ב-PFC + striatum‬",
+      "note_id": "1777179387673"
+    },
+    {
+      "id": "1777179387674",
+      "front_md": "[NT] מנגנון amphetamines (additional)?",
+      "back_md": "‫בנוסף לחסימת DAT/NET, **משחררים DA מ-vesicles סינפטיות** = double action‬",
+      "note_id": "1777179387674"
+    },
+    {
+      "id": "1777179387675",
+      "front_md": "[NT] מנגנון atomoxetine?",
+      "back_md": "‫NRI סלקטיבי — חוסם NET ב-PFC; גורם ל-↑ NE + ↑ DA קיוונט-עקיף ב-PFC (לא בליבת striatum)‬",
+      "note_id": "1777179387675"
+    },
+    {
+      "id": "1777179387676",
+      "front_md": "[NT] מנגנון guanfacine + clonidine?",
+      "back_md": "‫α2 פוסט-סינפטיים ב-PFC dorsolateral → improved working memory + reduced impulsivity‬",
+      "note_id": "1777179387676"
+    },
+    {
+      "id": "1777179387677",
+      "front_md": "[Genetics] Heritability ב-Dulcan vs Biederman-Faraone?",
+      "back_md": "‫Dulcan ~74% [D-1]; Biederman & Faraone 2005 ~76% [P-5]. שניהם מהערכי התורשה הגבוהים בפסיכיאטריה‬",
+      "note_id": "1777179387677"
+    },
+    {
+      "id": "1777179387678",
+      "front_md": "[Genetics] Demontis 2019 — מספר loci מובהקים?",
+      "back_md": "‫12 loci מובהקים ברמת genome-wide significance, מתוך >55,000 נבדקים [P-1]‬",
+      "note_id": "1777179387678"
+    },
+    {
+      "id": "1777179387679",
+      "front_md": "[Genetics] Demontis 2019 — % מהתורשתיות שמוסבר?",
+      "back_md": "‫~22% מהשונות הגנטית מוסבר ע\"י 12 ה-loci. שאר 78% = variants לא-מזוהים + rare + GxE [P-1]‬",
+      "note_id": "1777179387679"
+    },
+    {
+      "id": "1777179387680",
+      "front_md": "[Genetics] 3 candidate genes ספציפיים ב-Dulcan?",
+      "back_md": "‫**FOXP2** (שפה) · **SORCS3** (פלסטיות סינפטית) · **DUSP6** (דופמין סינפטי) [D-1]‬",
+      "note_id": "1777179387680"
+    },
+    {
+      "id": "1777179387681",
+      "front_md": "[Genetics] CNVs מועדים — איזה receptor?",
+      "back_md": "‫mGluR5 — קולטן גלוטמט metabotropic-5; מציע ציר גלוטמטרי לצד הדופמינרגי [D-1]‬",
+      "note_id": "1777179387681"
+    },
+    {
+      "id": "1777179387682",
+      "front_md": "[Genetics] PRS — קשרים שליליים?",
+      "back_md": "‫IQ בילדות + שנות השכלה [D-1]‬",
+      "note_id": "1777179387682"
+    },
+    {
+      "id": "1777179387683",
+      "front_md": "[Genetics] PRS — קשרים חיוביים?",
+      "back_md": "‫השמנת יתר · עישון · נדודי שינה · דיכאון · חרדה · גיל אמהי צעיר [D-1]‬",
+      "note_id": "1777179387683"
+    },
+    {
+      "id": "1777179387684",
+      "front_md": "[Imaging] Shaw 2007 — peak cortical thickness ב-ADHD vs בקורת?",
+      "back_md": "‫10.5y ב-ADHD vs 7.5y בקבוצת בקורת — delay של 3 שנים [P-2]‬",
+      "note_id": "1777179387684"
+    },
+    {
+      "id": "1777179387685",
+      "front_md": "[Imaging] Shaw 2007 — מסקנה תיאורטית?",
+      "back_md": "‫**Maturational delay**, לא **neural deviance**. המוח של ADHD מאחר, לא מקולקל [P-2]‬",
+      "note_id": "1777179387685"
+    },
+    {
+      "id": "1777179387686",
+      "front_md": "[Imaging] איפה הדיליי הבולט ביותר ב-Shaw 2007?",
+      "back_md": "‫**Lateral prefrontal regions** — חיוניים ל-attention + motor planning [P-2]‬",
+      "note_id": "1777179387686"
+    },
+    {
+      "id": "1777179387687",
+      "front_md": "[Imaging] Faraone 2021 — 3 אזורים עם תת-פעילות functional?",
+      "back_md": "‫(1) Right inferior frontal cortex (response inhibition); (2) Supplementary motor area + ACC (conflict monitoring); (3) Basal ganglia (motor + attention) [P-4]‬",
+      "note_id": "1777179387687"
+    },
+    {
+      "id": "1777179387688",
+      "front_md": "[Imaging] האם fMRI יכול לאבחן ADHD?",
+      "back_md": "‫**לא** — Faraone 2021 [P-4]: ההבדלים \"small but reliable\" — רמת group, לא רמת individual. fMRI = research tool, לא diagnostic‬",
+      "note_id": "1777179387688"
+    },
+    {
+      "id": "1777179387689",
+      "front_md": "[Persistence] biomarker פרוגנוסטי?",
+      "back_md": "‫**Persistent ADHD:** decreased pruning + slowed cortical thinning ב-PFC. **Remitted ADHD:** pruning תקין → cortical thickness בבגרות מתנרמל [B022 D-9, D-2]‬",
+      "note_id": "1777179387689"
+    },
+    {
+      "id": "1777179387690",
+      "front_md": "[Pathway] Executive Dysfunction Pathway — circuits?",
+      "back_md": "‫Frontodorsal striatal + mesocortical dopamine; תסמינים: לקויי inhibition + working memory + planning [P-3]‬",
+      "note_id": "1777179387690"
+    },
+    {
+      "id": "1777179387691",
+      "front_md": "[Pathway] Motivational/Reward Pathway — circuits + תסמין מרכזי?",
+      "back_md": "‫Frontoventral striatal reward + mesolimbic dopamine; תסמין מרכזי: **delay aversion** (סלידה מתגמולים מאוחרים) [P-3]‬",
+      "note_id": "1777179387691"
+    },
+    {
+      "id": "1777179387692",
+      "front_md": "[Etiology] שורש biological vs psychogenic — מה Dulcan קובעת?",
+      "back_md": "‫ADHD = **neurodevelopmental, not psychogenic**. שורש ביולוגי + אפנון סביבתי. **שונות רגילה בגידול ילדים אינה גורמת ל-ADHD** [D-1 cross-ref AACAP]‬",
+      "note_id": "1777179387692"
+    },
+    {
+      "id": "1777179387693",
+      "front_md": "[Etiology] גורמי סיכון prenatal/perinatal?",
+      "back_md": "‫VLBW + פגות (dose-response); אלכוהול ברחם; עופרת; אנצפליטיס; פגיעת ראש קשה. **מעשן אימהי** = מתאם נחלש אחרי תקנון = כנראה confounding [B022 D-3, D-4]‬",
+      "note_id": "1777179387693"
+    },
+    {
+      "id": "1777179387694",
+      "front_md": "[Imaging-Cross] Sonuga-Barke 2005 dual-pathway — לאיזו הפרעה הוא יוצר rationale?",
+      "back_md": "‫dual-pathway = rationale ל-**stimulants לא תמיד עובדים**. הילד שלא מגיב לסטימולנטים = ייתכן שהוא במסלול ה-motivational; behavior management + immediate-reward יעילים יותר [P-3]‬",
+      "note_id": "1777179387694"
+    },
+    {
+      "id": "1777179387695",
+      "front_md": "[Pharmacology] גן DUSP6 + מנגנון stimulants — קישור?",
+      "back_md": "‫DUSP6 בכרומוזום 12 = מווסת DA סינפטי; stimulants = ↑ DA סינפטי. גן + תרופה = אותו ציר → ההסבר הגנטי-פרמקולוגי [D-1]‬",
+      "note_id": "1777179387695"
+    }
+  ]
+}

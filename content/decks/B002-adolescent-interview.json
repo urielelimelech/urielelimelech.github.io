@@ -1,0 +1,151 @@
+{
+  "id": "B002-adolescent-interview",
+  "label": "B002 · ראיון מתבגר · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1776891385655",
+      "front_md": "[Protocol] מה 6 שלבי הערכת מתבגר לפי Dulcan Table 5-1?",
+      "back_md": "(1) Preparation · (2) Family engagement (פגישה משולשת קצרה) · (3) Adolescent interview פרטני · (4) Parent interview נפרד · (5) Disorder-specific rating forms · (6) Preliminary feedback + Collateral [D-2, D-4].",
+      "note_id": "1776891385655"
+    },
+    {
+      "id": "1776891385658",
+      "front_md": "[Protocol] למה לא להתחיל בראיון הורים לבד עם מתבגר ממתין בחוץ?",
+      "back_md": "המתבגר תופס את המטפל כ-\"agent of the parent\" ומסרב לשתף פעולה [D-3]. הסדר הנכון: פגישה קצרה משולשת → ראיון מתבגר → ראיון הורים.",
+      "note_id": "1776891385658"
+    },
+    {
+      "id": "1776891385660",
+      "front_md": "[Confidentiality] ציטוט verbatim של Dulcan על סודיות מול בטיחות?",
+      "back_md": "> \"Safety takes precedence over confidentiality\" [D-8]. חריגים מוחלטים: התעללות/הזנחה · סכנה לעצמו · סכנה לאחרים · התנהגות מינית מסוכנת במיוחד · נהיגה מסוכנת.",
+      "note_id": "1776891385660"
+    },
+    {
+      "id": "1776891385661",
+      "front_md": "[Confidentiality] מה אומרים להורים על תוכן ראיון המתבגר?",
+      "back_md": "תמונה כללית **ללא** פרטים ספציפיים של אמירות והתנהגויות שדיווח המתבגר [D-8]. זה נפרד משאלת ה-safety — עדכון סיכון חייב לעבור כן.",
+      "note_id": "1776891385661"
+    },
+    {
+      "id": "1776891385662",
+      "front_md": "[AgeMods] הציטוט verbatim של Dulcan על מתבגרים?",
+      "back_md": "> \"Adolescents are not just younger adults\" [D-1].",
+      "note_id": "1776891385662"
+    },
+    {
+      "id": "1776891385664",
+      "front_md": "[AgeMods] למה מתבגרים בסיכון מוגבר להתנהגות ריסקנטית?",
+      "back_md": "הקורטקס הפרה-פרונטלי (עיכוב תגובה, שליטה בדחפים, החלטות) ממשיך להתפתח אל תוך שנות ה-20 [D-1]. זוהי פגיעות נוירו-התפתחותית, לא מרדנות.",
+      "note_id": "1776891385664"
+    },
+    {
+      "id": "1776891385666",
+      "front_md": "[Observe] מדוע לאסוף מידע ממקורות מרובים במתבגר?",
+      "back_md": "הסכמה חלשה בלבד (modest agreement) בין דיווחי המתבגר להוריו — הורים מדויקים ב-externalizing, מתבגר מדויק ב-internalizing [D-5]. דיווח דיסקורדנטי = הכלל, לא החריג.",
+      "note_id": "1776891385666"
+    },
+    {
+      "id": "1776891385667",
+      "front_md": "[Observe] כמה שעות מסך מבלה מתבגר ממוצע ולמה זה חשוב?",
+      "back_md": "7-9 שעות/יום [D-6]. מתאם לפגיעה בבריאות נפש, שינה, השמנה, ו-cyberbullying/cybersex. חובת סקירה.",
+      "note_id": "1776891385667"
+    },
+    {
+      "id": "1776891385668",
+      "front_md": "[Technique] איך לסקור מיניות/סמים באופן שאינו פולשני?",
+      "back_md": "> \"Asking teens first about their peers... allows subsequent introduction of such topics as sex, drug use, alcohol use, or other risky behavior in a way that feels less intrusive\" [D-7]. לשאול ראשית על החברים (displacement השלכתי) → אז על המתבגר.",
+      "note_id": "1776891385668"
+    },
+    {
+      "id": "1776891385673",
+      "front_md": "[Risk] מהו כלי הסטנדרט להערכת אובדנות במתבגר?",
+      "back_md": "**Columbia-Suicide Severity Rating Scale (C-SSRS)** [D-9]. מבדיל בין ideation, planning, intent, behavior.",
+      "note_id": "1776891385673"
+    },
+    {
+      "id": "1776891385674",
+      "front_md": "[Risk] 3 השאלות המחייבות אחרי ניסיון התאבדות במתבגר?",
+      "back_md": "(1) מדוע נבחרה השיטה? (intent) · (2) עד כמה היא הפיכה? (reversibility) · (3) האם היו אמצעי זהירות נגד גילוי? (planning) [D-10].",
+      "note_id": "1776891385674"
+    },
+    {
+      "id": "1776891385675",
+      "front_md": "[Risk] עיקרון קריטי בהערכת מסוכנות של ניסיון אובדני?",
+      "back_md": "**Medical lethality ≠ intent**. צעירים מעריכים בטעות את הקטלניות של אמצעים — לא להסיק מהאמצעי על הכוונה [D-10].",
+      "note_id": "1776891385675"
+    },
+    {
+      "id": "1776891385677",
+      "front_md": "[Risk] האם \"חוזי התאבדות\" (no-suicide contracts) יעילים?",
+      "back_md": "**לא** — מחקרים מראים חוסר יעילות [D-11]. להחליף ב-**Safety Plan** שיתופי של 4 רכיבים.",
+      "note_id": "1776891385677"
+    },
+    {
+      "id": "1776891385678",
+      "front_md": "[Risk] 4 רכיבי Safety Plan?",
+      "back_md": "(1) הגבלת גישה לאמצעים · (2) זיהוי טריגרים + סימני אזהרה · (3) אסטרטגיות התמודדות עצמאיות · (4) מבוגר אחראי ליצירת קשר במשבר [D-11].",
+      "note_id": "1776891385678"
+    },
+    {
+      "id": "1776891385679",
+      "front_md": "[Errors] מה הטעות הכי שכיחה של מתלמדים (verbatim)?",
+      "back_md": "> \"One of the most common mistakes that inexperienced interviewers make is to prematurely home in on a diagnosis\" [D-12] — סגירה אבחנתית מוקדמת.",
+      "note_id": "1776891385679"
+    },
+    {
+      "id": "1776891385680",
+      "front_md": "[Errors] 4 מלכודות נפוצות בראיון מתבגר?",
+      "back_md": "(1) סגירה אבחנתית מוקדמת [D-12] · (2) התחלה מיידית בתלונה המרכזית [D-12] · (3) מאבק על הסכמה לפני בניית ראפור [D-3] · (4) ראיון הורים קודם (מתבגר ממתין = \"agent of the parent\" [D-3]).",
+      "note_id": "1776891385680"
+    },
+    {
+      "id": "1776891385681",
+      "front_md": "[Engagement] מה 5 שלבי מעגל המעורבות (Figure 5-1)?",
+      "back_md": "Engage → Reflect → Feeling understood → Data collection → Deepened understanding → חוזר חלילה [D-12]. **עיקרון:** איסוף דאטה הוא **תוצאה** של קשר, לא תנאי מקדים.",
+      "note_id": "1776891385681"
+    },
+    {
+      "id": "1776891385682",
+      "front_md": "[V-quote] Dulcan על הקונפליקט רפרטואר-vs-דאטה בראיון פרטני — verbatim?",
+      "back_md": "> \"In the first individual meeting with the adolescent, the interviewer's key conflict is whether to focus on rapport building or data collection. Both need to be accomplished, but excessive focus on one can undermine the other\" [D-12].",
+      "note_id": "1776891385682"
+    },
+    {
+      "id": "1776891385684",
+      "front_md": "[V-quote] Dulcan על מטרת ההורות במתבגר — verbatim?",
+      "back_md": "> \"The goal of parenting adolescents is to allow them to grow in independence and increase their decision-making authority, with appropriate limits established by loving and affirming parents\" [D-1].",
+      "note_id": "1776891385684"
+    },
+    {
+      "id": "1776891385685",
+      "front_md": "[Feedback] מהו הסדר הנכון לפגישת פידבק עם משפחת מתבגר?",
+      "back_md": "מתבגר קודם (לעיבוד ללא לחץ משפחתי) → אז הורים (עם/בלי המתבגר) [D-15]. פתיחה חובה **מחוזקות המשקפות מציאות** → formulation → תכנית טיפול משותפת.",
+      "note_id": "1776891385685"
+    },
+    {
+      "id": "1776891385686",
+      "front_md": "[Committee 1] מה הפורמט של 60 דק׳ הבדיקה החיה למתבגר?",
+      "back_md": "ההורה נכנס עם המתבגר (גם בבדיקת מתבגר) [StageB-1]. המומלץ: 10-20 דק׳ מידע מההורה → 40 דק׳ מתבגר ללא ההורה [StageB-2]. הנבחן קובע את החלוקה (גמישות מפורשת) [StageB-2]. ציון מעבר: 60+ ע\"י 2 בוחנים [StageB-3].",
+      "note_id": "1776891385686"
+    },
+    {
+      "id": "1776891385689",
+      "front_md": "[Committee 1] 2 האתגרים של Committee 1 במיוחד למתבגר (verbatim)?",
+      "back_md": "(1) > \"סירוב של מתבגר לשתף פעולה בבדיקה\" · (2) > \"חוסר גבולות של ההורה המשתתף\" [StageB-2].",
+      "note_id": "1776891385689"
+    },
+    {
+      "id": "1776891385690",
+      "front_md": "[Case Trey] למה ראיון פרטני היה קריטי?",
+      "back_md": "Trey הראה סולן ועוינות עם אמא + חברה בחדר, אבל **התחמם** אחרי שיצאו — נפתח על future goals ומוזיקה [C-5]. בלי interval פרטני — מפספסים את כל התמונה התפקודית.",
+      "note_id": "1776891385690"
+    },
+    {
+      "id": "1776891385691",
+      "front_md": "[Case Casey] איך מבחינים בין NSSI לכוונה אובדנית?",
+      "back_md": "Casey: NSSI פעם ביום (תפקוד של ויסות רגשי) vs passive SI פעמיים בחודש [C-8]. ההבחנה התפקודית קריטית — תכנית בטיחות + ERP/DBT לחתכים ≠ השגחה עצמאית לאובדנות.",
+      "note_id": "1776891385691"
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "decks": [
+    {
+      "id": "Ch01",
+      "label": "פרק 1 — מבוא להערכה פסיכיאטרית של ילדים ומתבגרים",
+      "card_count": 81,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch01-supplement",
+      "label": "פרק 1 תוספות — מבוא להערכה פסיכיאטרית של ילדים ומתבגרים",
+      "card_count": 34,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch02",
+      "label": "פרק 2 — הערכת תינוקות ופעוטות",
+      "card_count": 87,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch02-supplement",
+      "label": "פרק 2 תוספות — הערכת תינוקות ופעוטות",
+      "card_count": 25,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch03",
+      "label": "פרק 3 — הערכת ילדים בגיל הגן",
+      "card_count": 97,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch03-supplement",
+      "label": "פרק 3 תוספות — הערכת ילדים בגיל הגן",
+      "card_count": 29,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch04",
+      "label": "פרק 4 — הערכת ילדים בגיל בית ספר",
+      "card_count": 181,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch04-supplement",
+      "label": "פרק 4 תוספות — הערכת ילדים בגיל בית ספר",
+      "card_count": 63,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch05",
+      "label": "פרק 5 — הערכת מתבגרים",
+      "card_count": 83,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch05-supplement",
+      "label": "פרק 5 תוספות — הערכת מתבגרים",
+      "card_count": 24,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch06",
+      "label": "פרק 6 — הבדיקה הנוירולוגית בילדים",
+      "card_count": 75,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch06-supplement",
+      "label": "פרק 6 תוספות — הבדיקה הנוירולוגית בילדים",
+      "card_count": 17,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch07",
+      "label": "פרק 7",
+      "card_count": 88,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch07-supplement",
+      "label": "פרק 7 תוספות",
+      "card_count": 27,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch08",
+      "label": "פרק 8",
+      "card_count": 194,
+      "kind": "dulcan"
+    },
+    {
+      "id": "Ch08-supplement",
+      "label": "פרק 8 תוספות",
+      "card_count": 41,
+      "kind": "dulcan"
+    },
+    {
+      "id": "RS-criticism",
+      "label": "קבלת ביקורת ומשוב",
+      "card_count": 34,
+      "kind": "residency"
+    },
+    {
+      "id": "RS-interview-child",
+      "label": "ראיון ילד ונוער",
+      "card_count": 35,
+      "kind": "residency"
+    },
+    {
+      "id": "RS-paper-reading",
+      "label": "קריאת מאמרים",
+      "card_count": 35,
+      "kind": "residency"
+    },
+    {
+      "id": "RS-summary-writing",
+      "label": "כתיבה קלינית וסיכומי בדיקה",
+      "card_count": 42,
+      "kind": "residency"
+    },
+    {
+      "id": "RS-summary-writing-psychotherapy",
+      "label": "כתיבה פסיכותרפויטית",
+      "card_count": 17,
+      "kind": "residency"
+    },
+    {
+      "id": "RS-triage-adult",
+      "label": "מיון פסיכיאטרי מבוגרים",
+      "card_count": 32,
+      "kind": "residency"
+    },
+    {
+      "id": "RS-triage-child",
+      "label": "מיון והערכת סיכון בילדים",
+      "card_count": 34,
+      "kind": "residency"
+    },
+    {
+      "id": "RS-workload",
+      "label": "עומס, שחיקה וניהול התמחות",
+      "card_count": 34,
+      "kind": "residency"
+    },
+    {
+      "id": "PT-found-01-ebp-framework",
+      "label": "01 · מסגרת טיפול מבוסס ראיות",
+      "card_count": 32,
+      "kind": "psychotherapy",
+      "tradition": "foundations"
+    },
+    {
+      "id": "PT-found-01-ebp-framework-supplement",
+      "label": "01 · מסגרת טיפול מבוסס ראיות · תוספות",
+      "card_count": 6,
+      "kind": "psychotherapy",
+      "tradition": "foundations"
+    },
+    {
+      "id": "PT-found-02-common-factors",
+      "label": "02 · גורמים משותפים בפסיכותרפיה",
+      "card_count": 6,
+      "kind": "psychotherapy",
+      "tradition": "foundations"
+    },
+    {
+      "id": "PT-cbt-01-coping-cat",
+      "label": "01 · קופינג קאט",
+      "card_count": 10,
+      "kind": "psychotherapy",
+      "tradition": "cbt"
+    },
+    {
+      "id": "PT-cbt-02-cbt-theory-foundations",
+      "label": "02 · יסודות תיאורטיים של CBT",
+      "card_count": 6,
+      "kind": "psychotherapy",
+      "tradition": "cbt"
+    },
+    {
+      "id": "PT-dyn-01-winnicott",
+      "label": "01 · ויניקוט",
+      "card_count": 10,
+      "kind": "psychotherapy",
+      "tradition": "dynamic"
+    },
+    {
+      "id": "PT-dyn-02-freud",
+      "label": "02 · פרויד",
+      "card_count": 8,
+      "kind": "psychotherapy",
+      "tradition": "dynamic"
+    }
+  ],
+  "briefs": [
+    {
+      "id": "ai-weekly-2026-05-08",
+      "date": "2026-05-08",
+      "category": "ai-weekly",
+      "title": "📬 AI Weekly Brief — 2026-05-08"
+    },
+    {
+      "id": "ai-weekly-2026-04-26",
+      "date": "2026-04-26",
+      "category": "ai-weekly",
+      "title": "📬 AI Weekly Brief — 2026-04-26"
+    },
+    {
+      "id": "ai-daily-2026-04-22",
+      "date": "2026-04-22",
+      "category": "ai-daily",
+      "title": "📬 AI Weekly Brief — 2026-04-22"
+    },
+    {
+      "id": "ai-daily-2026-04-21",
+      "date": "2026-04-21",
+      "category": "ai-daily",
+      "title": "📬 AI Weekly Brief — 2026-04-21"
+    },
+    {
+      "id": "ai-daily-2026-04-20",
+      "date": "2026-04-20",
+      "category": "ai-daily",
+      "title": "📬 AI Weekly Brief — 2026-04-20"
+    },
+    {
+      "id": "ai-daily-2026-04-19",
+      "date": "2026-04-19",
+      "category": "ai-daily",
+      "title": "📬 AI Weekly Brief — 2026-04-19"
+    },
+    {
+      "id": "ai-weekly-2026-04-19",
+      "date": "2026-04-19",
+      "category": "ai-weekly",
+      "title": "📬 AI Weekly Brief — 2026-04-19"
+    },
+    {
+      "id": "ai-weekly-2026-04-17",
+      "date": "2026-04-17",
+      "category": "ai-weekly",
+      "title": "📬 AI Weekly Brief — 2026-04-17"
+    },
+    {
+      "id": "ai-weekly-2026-04-16",
+      "date": "2026-04-16",
+      "category": "ai-weekly",
+      "title": "📬 AI Weekly Brief — 2026-04-16"
+    },
+    {
+      "id": "ai-weekly-2026-04-15",
+      "date": "2026-04-15",
+      "category": "ai-weekly",
+      "title": "📬 AI Weekly Brief — 2026-04-15"
+    },
+    {
+      "id": "ai-weekly-2026-04-14",
+      "date": "2026-04-14",
+      "category": "ai-weekly",
+      "title": "📬 AI Weekly Brief — 2026-04-14"
+    }
+  ],
+  "generated_at": "2026-05-24T12:52:07.580Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "B023-adhd-neurobiology-circuits-summary",
+  "label": "B023 · ADHD — נוירוביולוגיה ומעגלים · סיכום",
+  "source": "residency-summary",
+  "cards": [
+    {
+      "id": "1777179387696",
+      "front_md": "Frontoparietal-DMN balance — מה זה ולמה זה חשוב ב-ADHD?",
+      "back_md": "‫**4 רשתות מוח מעורבות ב-ADHD:** (1) **Frontoparietal** — קשב מכוון-מטרה, working memory; (2) **Attention networks** — dorsal (spatial cues) + ventral (salience monitoring); (3) **Salience network** — anterior insula + ACC, מעבר בין רשתות; (4) **Default Mode Network (DMN)** — medial PFC + posterior cingulate, פעיל ב-rest. **הציר המרכזי ב-ADHD:** Frontoparietal-DMN balance שבור [D-2]. ב-rest, DMN פעיל ו-frontoparietal שקט. במשימה — היחסים מתהפכים. **ב-ADHD:** ה-DMN לא מתכבה במשימת קשב = \"DMN interference\" [D-3] verbatim: > \"DMN abnormally remains active during cognitive tasks instead of normally inhibiting\". **משמעות קלינית:** הילד \"חולם בהקיץ\" באמצע משימה — לא מקצב חרדה אלא DMN-firing פנימי. **Hook:** ADHD ≠ \"פחות PFC\". ADHD = \"DMN שלא מסונן\".‬",
+      "note_id": "1777179387696"
+    },
+    {
+      "id": "1777179387697",
+      "front_md": "Dopamine + Norepinephrine — Mesocortical vs Mesolimbic — מה ההבדל הטיפולי?",
+      "back_md": "‫**שתי מערכות דופמינרגיות נפרדות [P-3 Sonuga-Barke dual pathway]:** (1) **Mesocortical** — VTA → PFC dorsolateral; מתפעל executive function (working memory · inhibition · planning). חסר → ליקויי תכנון. (2) **Mesolimbic** — VTA → ventral striatum (NAc); מתפעל reward processing + delay sensitivity. חסר → **delay aversion** (סלידה מתגמולים מאוחרים). **NE ב-locus coeruleus** → arousal + vigilance. **מנגנון Stimulants:** methylphenidate חוסם DAT + NET → ↑ DA + NE סינפטיים. אמפטמינים בנוסף **משחררים DA מ-vesicles**. **Non-stimulants:** atomoxetine = NRI סלקטיבי; guanfacine + clonidine = α2 פוסט-סינפטיים ב-PFC. **גן DUSP6 בכרומוזום 12** מווסת DA סינפטי [D-1] — קושר genetics ישירות לפרמקולוגיה. **Hook:** Phase 3 B026-B027 יבנה על המעגלים האלה.‬",
+      "note_id": "1777179387697"
+    },
+    {
+      "id": "1777179387698",
+      "front_md": "Heritability 74-76% — Dulcan vs Biederman-Faraone",
+      "back_md": "‫**Dulcan** [D-1] verbatim: > heritability ~74%. **Biederman & Faraone 2005 [P-5]** — סקירה מכוננת ב-Lancet שקבעה **76% heritability** מתאומים, אדופציה, מולקולרי. ההבדל מינורי (74-76%) — שניהם מבטאים את אותו מבנה תורשתיות. **השוואה:** schizophrenia ~80%, MDD ~40%, GAD ~30%, alcoholism ~50%. ADHD היא בין המוגדרות התורשתיות הגבוהות בפסיכיאטריה. **משמעות:** קרוב משפחה דרגה ראשונה עם ADHD = סיכון מוגבר משמעותי. **שכיחות בקרב הורי הילד עם ADHD:** ~25-50% — חלקם undiagnosed (Adult ADHD), בייחוד אם הסכימה הפסיכיאטרית בילדותם הייתה limited. **Takeaway קליני:** במהלך ראיון, שאל \"מי במשפחה היה כמוך כילד?\" — לעתים קרובות תגלה parent-ADHD שלא אובחן. **Hook:** התורשתיות גם **מנבאת prognostic** — ילדים עם heritability היסטורית גבוהה (FH+) מראים persistence גבוה יותר.‬",
+      "note_id": "1777179387698"
+    },
+    {
+      "id": "1777179387699",
+      "front_md": "Demontis 2019 GWAS — 12 loci — מה החדש?",
+      "back_md": "‫**Demontis 2019, Nat Genet [P-1]** — מטא-אנליזה GWAS בינלאומית של **>55,000 נבדקים** (20,183 מאובחני ADHD + 35,191 בקורת). **הממצא ההיסטורי:** **12 אתרי סיכון מובהקים ברמת genome-wide significance** — לראשונה במחקר ADHD. **משמעות תיאורטית:** ADHD = polygenic מאוד — אין \"גן ADHD יחיד\" אלא הצטברות של common variants עם OR נמוך (1.05-1.1) לכל אחד. **כיסוי שונות:** ה-12 loci מסבירים ~22% מהתורשתיות הגנטית הכוללת — שאר 78% הם variants לא-מזוהים, rare variants, ו-gene-environment interactions. **Genetic correlation** עם MDD, התנהגויות סיכון בריאותיות, השכלה נמוכה — מקבע את ה-conceptualization של ADHD כ-extreme of continuous heritable population traits. **בסיס לעתיד:** Polygenic Risk Score (PRS) ל-ADHD יכול לשמש לאבחון מוקדם תת-קליני, אך **כיום לא מומלץ קלינית** [P-4 Faraone consensus]. **Hook:** \"12 loci, polygenic, common-variant, 22% heritability variance\".‬",
+      "note_id": "1777179387699"
+    },
+    {
+      "id": "1777179387700",
+      "front_md": "Shaw 2007 cortical maturation — 3-year delay — מה הוא הוכיח?",
+      "back_md": "‫**Shaw 2007, PNAS [P-2]** — מחקר longitudinal MRI של **446 ילדים** שמדד עובי קליפת המוח ב->40,000 נקודות לאורך זמן. **2 השוואות מרכזיות:** (1) **רצף ההבשלה הקורטיקלית** — דומה ב-ADHD ובהתפתחות תקינה (כלומר אין סדר אחר); (2) **גיל peak cortical thickness** — מאוחר משמעותית. **הממצא:** **median age להגיע ל-peak thickness = 10.5y ב-ADHD vs 7.5y בקבוצת בקורת** — **delay של 3 שנים**. **לוקליזציה:** הדיליי הבולט ביותר ב-**lateral prefrontal regions** (חיוני ל-attention + motor planning). **קביעה תיאורטית מכוננת:** ADHD = ***maturational delay***, **לא** ***neural deviance***. כלומר המוח של ילד ADHD איננו \"אחר\" — הוא \"מאחר\". **משמעות פרוגנוסטית:** יש סיכוי שתסמינים יוסכמו עם הזמן (חלק מההפרעה תידבק עם ההבשלה). **משמעות קלינית:** הוסבירו להורים — \"המוח מאחר לא מקולקל\". **Hook:** Shaw 2007 = הציטוט #1 לוועדה 2 על neurobiology של ADHD.‬",
+      "note_id": "1777179387700"
+    },
+    {
+      "id": "1777179387701",
+      "front_md": "Sonuga-Barke 2005 Dual-Pathway Model — שתי מסלולים נפרדים",
+      "back_md": "‫**Sonuga-Barke 2005, Biol Psychiatry [P-3]** ביסס את **Dual-Pathway Model** של ADHD — מעבר ממודל \"חסר יחיד\" לפלורליזם נוירוביולוגי. **שני מסלולים:** (1) **Executive Dysfunction Pathway** — frontodorsal striatal circuits + mesocortical dopamine. תסמינים: לקויי inhibition, working memory, planning. **טיפול:** stimulants (DAT/NET inhibition) + cognitive training. (2) **Motivational/Reward Pathway** — frontoventral striatal reward circuits + mesolimbic dopamine. תסמינים: **delay aversion** (סלידה מתגמולים מאוחרים), הפרעה במוטיבציה, hyperactivity. **טיפול:** behavior management + immediate-reward systems + mood-stabilizing agents (לעתים). **משמעות קלינית:** הילד ADHD שלא מגיב לסטימולנטים = ייתכן שהוא במסלול ה-motivational יותר; טיפול התנהגותי + immediate-reward יעילים יותר. **משמעות תיאורטית:** ADHD ≠ entity הומוגנית — יש sub-types נוירוביולוגיים שמסבירים כשלי טיפול. **Hook:** \"Executive vs Motivational\" — שתי מסלולים נפרדים, שתי טיפולים נפרדים. Phase 3 יפרט.‬",
+      "note_id": "1777179387701"
+    },
+    {
+      "id": "1777179387702",
+      "front_md": "Default Mode Network interference — מה זה?",
+      "back_md": "‫**DMN** (medial PFC + posterior cingulate cortex + hippocampal formation) = הרשת ה-baseline שמתעוררת ב-rest ובמחשבה אינטרוספקטיבית. **תקן:** ב-rest DMN פעיל; במשימת קשב DMN מושתק (frontoparietal עולה). **ב-ADHD:** ה-DMN **לא מתכבה כראוי במשימה** [D-3] verbatim: > \"DMN abnormally remains active during cognitive tasks instead of normally inhibiting\". **המנגנון:** DMN-firing הרציף = **interference** ל-frontoparietal task-positive activity → קשב מקוטע, \"חלום בהקיץ\", שכחה תוך-משימתית. **משמעות קלינית:** הילד שלא מצליח לשמור ריכוז 5 דק' = לא בהכרח חרד; ייתכן ש-DMN שלו מפריע. **משמעות טיפולית:** stimulants מחזקים את ה-frontoparietal-DMN balance — לכן הם עובדים גם לבעיות \"חלום בהקיץ\" inattentive. **משמעות בבחינה:** \"מה ההבדל בין inattention של ADHD ל-inattention של חרדה?\" — **ADHD = DMN interference (פנימי, אקראי); Anxiety = worry intrusion (פנימי, ממוקד-נושא)**. **Hook:** DMN-interference = signature נוירוביולוגי של ADHD.‬",
+      "note_id": "1777179387702"
+    },
+    {
+      "id": "1777179387703",
+      "front_md": "תת-קורטיקלי — אילו מבנים מופיעים עם נפח מופחת?",
+      "back_md": "‫**5 מבנים תת-קורטיקליים עם reduced gray matter volume ב-ADHD** [D-4]: (1) **Amygdala** — רגשי ועיבוד פחד; (2) **Caudate** — motor + cognitive control (חלק מ-frontostriatal loops); (3) **Hippocampus** — memory consolidation; (4) **Putamen** — motor + skill learning; (5) **Nucleus accumbens (NAc)** — reward + motivation. **משמעות תיאורטית:** ה-Caudate וה-NAc הם הציר המרכזי של frontostriatal loops — לב התיאוריה הקלאסית של ADHD. **אמיגדלה+היפוקמפוס** — מסבירים את ה-emotional dysregulation ואת קשיי ה-memory ש-ADHD משמרת. **Putamen** — מסביר motor restlessness. **Persistence biomarker** [B022 D-9]: ADHD מתמיד = pruning שנעצר ב-PFC + cortical thinning שהאט; ADHD שנרגע = pruning תקין → cortical thickness בבגרות מתנרמל. **Hook:** \"5 תת-קורטיקליים\" — caudate + NAc + putamen (frontostriatal loops); amygdala + hippocampus (emotion + memory).‬",
+      "note_id": "1777179387703"
+    },
+    {
+      "id": "1777179387704",
+      "front_md": "Functional MRI — אילו אזורים מראים תת-פעילות?",
+      "back_md": "‫**Faraone 2021 consensus [P-4]** + Dulcan [D-5] מסכימים על **תת-פעילות functional** ב-3 אזורים מרכזיים: (1) **Right inferior frontal cortex (rIFG)** — response inhibition (Go/NoGo, Stop-Signal task). חוזה את הליקוי האימפולסיבי. (2) **Anterior cingulate cortex (ACC)** — conflict monitoring + error detection. חוזה את הקושי \"ללמוד מטעויות\". (3) **Right dorsolateral PFC (DLPFC) + parietal regions** — sustained attention + working memory. חוזה את הקושי לשמור ריכוז + לעבד מידע מורכב. **משמעות consensus statement:** \"small but reliable\" — ההבדלים אמיתיים אך **לא ברמת sensitivity/specificity מספקת לאבחון קליני** [P-4]. fMRI = כלי research, לא diagnostic. **משמעות בבחינה:** \"האם fMRI יכול לאבחן ADHD?\" — תשובה: **לא**, כי ההבדלים ב-group level אך לא ב-individual diagnostic level. fMRI = \"biomarker conceptual, not clinical\". **Hook:** rIFG + ACC + rDLPFC = 3 אזורי תת-פעילות הקלאסיים.‬",
+      "note_id": "1777179387704"
+    },
+    {
+      "id": "1777179387705",
+      "front_md": "Genetics polygenic — Candidate genes + CNVs",
+      "back_md": "‫**Heritability 74-76% [D-1, P-5]** מתאומים. **GWAS Demontis 2019 [P-1]:** 12 loci מובהקים. **Candidate genes שמופיעים specifically ב-Dulcan [D-1]:** (1) **FOXP2** (כרומוזום 7q31) — גן השפה הקלאסי; קישור ל-ADHD לא ברור מנגנונית אך מובהק ב-GWAS; (2) **SORCS3** — חלבון קולטן sorting; חיוני לפלסטיות סינפטית ופיתוח עצבי; (3) **DUSP6** (כרומוזום 12) — מווסת רמות דופמין סינפטיות → קושר genetics ישירות לפרמקולוגיה. **CNVs (Copy Number Variants)** הפוגעים ב-**mGluR5 (קולטן גלוטמט metabotropic-5)** [D-1] — מציע **ציר גלוטמטרי** נוסף לדופמינרגי הקלאסי. **AACAP genome-scan markers** [D-1 cross-ref]: chromosomes 4, 5, 6, 8, 11, 16, 17; וריאנטים ב-DRD4, DRD5, DAT, DBH, SERT, 5HT1B, SNAP-25. **Polygenic Risk Score (PRS)** — קשר שלילי עם IQ + השכלה; חיובי עם השמנה, עישון, נדודי שינה, דיכאון, חרדה. **Takeaway:** ADHD = polygenic, לא oligogenic. אין \"גן ADHD\" — יש \"פרופיל סיכון פוליגני\".‬",
+      "note_id": "1777179387705"
+    },
+    {
+      "id": "1777179387706",
+      "front_md": "Maturational delay vs Neural deviance — מה ההבדל?",
+      "back_md": "‫**שתי תיאוריות מתחרות לטבע ה-ADHD:** (1) **Maturational delay (Shaw 2007 [P-2]):** המוח מאחר ב-3 שנים בהבשלה. הסדר תקין, רק ה-timing מאוחר. ילד ADHD בגיל 10 = מוח של ילד תקין בגיל 7. **חיזוי:** סיכוי לרמיסיה ככל שהמוח מתבגר. (2) **Neural deviance (תיאוריות ישנות):** המוח של ADHD = שונה structurally; pruning לא תקין; חיווט אחר. **חיזוי:** ADHD יישאר ADHD לאורך כל החיים. **הראיה:** Shaw 2007 [P-2] תמך ב-(1) במחקרי MRI אורך — peak cortical thickness מאוחר אך הסדר זהה. **Persistence biomarker** [B022 D-9] תומך ב-mixed model: **ADHD שמגיע לרמיסיה** = pruning תקין שנדבק; **ADHD מתמיד** = pruning שנעצר. כלומר התיאוריה (1) נכונה לחלק וב-(2) נכונה לחלק — תלוי במהלך האישי. **משמעות קלינית:** \"המוח שלך לא מקולקל — הוא מאחר. יש סיכוי שיוסכם, אבל זה דורש סבלנות וטיפול.\" זה מסר therapeutically empowering. **Hook:** \"Delay, not deviance\" — המסר הקלאסי של Shaw לבחינה.‬",
+      "note_id": "1777179387706"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "B014-mock-case-framework-summary",
+  "label": "B014 · מסגרת מקרה מדומה · סיכום",
+  "source": "residency-summary",
+  "cards": [
+    {
+      "id": "1777088402995",
+      "front_md": "מה הפורמט המלא של ועדה 1 (mock)?",
+      "back_md": "‫**ועדה 1 — סך הכל 105 דקות, 3 בוחנים** [StageB-1]. מבנה: 60 דקות בדיקת מטופל (מתוכם \"10 עד 20 דקות\" הורה ממוקד + \"כ-40 דקות ללא ההורה\" — סדר וזמנים גמישים, אך הנבחן חייב להגדיר אותם מראש לכל הנוכחים) → 10 דקות התארגנות (יוצא, מסדר ראשי פרקים) → 10 דקות הצגה חופשית של \"סיכום הממצאים, סטטוס פסיכיאטרי ואבחנה מבדלת\" [StageB-1] → 30 דקות שאלות. כך הנבחן מטופל בגיל 5-18 [StageB-1] ומתבקש לחתום בעצמאות. **במוק:** הקבוצה זקוקה ל-4 משתתפים לפחות (נבחן + הורה-מדמה + ילד-מדמה + 1+ בוחנים), וההורה/ילד צריכים לקבל הוראות challenges מראש (1-2 בלבד — לא 5). **כלל מבני:** 60+10+10+30 הם \"החותמת\" שמבדילה ועדה 1 מ-DDx ברירדדק; כל סטייה מהזמנים האלה מאלצת חזרה ל-Stage B 2024 PDF.‬",
+      "note_id": "1777088402995"
+    },
+    {
+      "id": "1777088402996",
+      "front_md": "מה הציטוט verbatim של Stage B על \"שאלה מתגלגלת\"?",
+      "back_md": "> ‫\"אחת מהשאלות יכולה להופיע בפורמט של 'שאלה מתגלגלת': מקרה קליני עם מעט מידע, שאר המידע יינתן בהתאם להתקדמות המקרה, לפי תסריט הבנוי מראש.\" [StageB-2]‬\n\n‫**הקשר:** זו ההגדרה היחידה הקיימת ב-Stage B 2024 PDF — אין פירוט נוסף של תוכן התסריט [NOT IN STAGE B PDF]. הציטוט נחוץ verbatim כי זו השאלה היחידה שיכולה להופיע בפורמט הזה (לא חובה תמיד), והנבחן צריך להכיר את התופעה. **משמעות מבנית:** \"תסריט בנוי מראש\" אומר שהבוחן לא מאלתר — אין טעם \"להפתיע\" את הבוחן בכיוון שלא צפה. הסקיל הוא הליכה הולכת-וצומצמת לאורך התסריט, לא אלתור.‬",
+      "note_id": "1777088402996"
+    },
+    {
+      "id": "1777088402997",
+      "front_md": "מה הזמן לשאלה מתגלגלת בתוך ועדה 2 (mock)?",
+      "back_md": "‫**ועדה 2 — 75 דקות סה\"כ. שאלה מתגלגלת = 45 דקות. שתי שאלות אחרות = 15 דקות כל אחת** [StageB-3]. זה אומר ש-60% מזמן ועדה 2 הוא מקרה אחד מתגלגל — ועוד 40% חלוקה ל-2 שאלות עצמאיות. **משמעות לתרגול:** mock קצר יותר מ-45 דקות לא מדמה את העייפות הקוגניטיבית האמיתית; mock ארוך יותר מהווה overtraining. **מבנה זמן פנימי במוק 45-דקות מומלץ:** ~5 דקות vignette פתיחה + הבנה ראשונית · ~25 דקות חקירה + DDx · ~10 דקות formulation + תוכנית · ~5 דקות שאלת follow-up מהבוחן. **כלל גג:** אם הקבוצה לא יכולה לתת 45 דקות רצופות, פחות מוק 1 איכותי טוב מ-3 חצי-מוקים.‬",
+      "note_id": "1777088402997"
+    },
+    {
+      "id": "1777088403000",
+      "front_md": "מהם 5 הצירים של mock debrief rubric?",
+      "back_md": "‫**5 צירים, 1-5 נקודות כל אחד** (מסה\"כ מקסימום 25, מינימום-מעבר ~15 = \"3 ע\"י 2 בוחנים\" verbatim Stage B [StageB-3]):‬\n‫**(1) שיטתיות אנמנזה** — מתבסס על 10 סעיפי Dulcan [D-5]; ציון 3 = 7/10 כיסויים, ציון 5 = 10/10 + סדר הגיוני.‬\n‫**(2) broad-to-narrow funnel** [D-6] — פתיחה רחבה (\"מה הביא אותך?\"), צמצום על \"intensity, frequency, duration, time of onset, triggers, ameliorators\".‬\n‫**(3) MSE** [D-2] — מתאר ספציפי לגיל; ציון 3 = רוב הקטגוריות, ציון 5 = מלא + נכון לגיל.‬\n‫**(4) DDx + פורמולציה** [D-2] — ציון 3 = 3+ אבחנות + נימוק קצר; ציון 5 = פורמולציה bio-psycho-social-developmental + 4 perspectives.‬\n‫**(5) תוכנית טיפול** — ציון 3 = התערבות + תרופה ראשונית עם מנה; ציון 5 = stepped-care + monitoring + family.‬\n‫**Takeaway קליני:** לא כל מוק חייב להעריך כל ציר — בחר 2-3 בכל מוק לפי המטרה (intake חדש מדגיש 1+2; follow-up מדגיש 3+4).‬",
+      "note_id": "1777088403000"
+    },
+    {
+      "id": "1777088403001",
+      "front_md": "מהי \"broad-to-narrow funnel\" של Dulcan ואיך לתרגלה?",
+      "back_md": "‫Dulcan מציגה את **טכניקת המשפך** באופן מפורש [D-6]: שלב 1 = שאלות פתוחות (\"What has concerned you regarding Jocelyn? Why are you seeking treatment now?\"). שלב 2 = שאלות מכוונות-יותר על מאפייני הסימפטום:‬\n> ‫\"Broad general questions should be followed by more directed questions. Asking about intensity, frequency, duration, time of onset, triggers, ameliorators, associated symptoms, timing patterns, and responses by others can yield significant information.\" [D-6]‬\n\n‫**אתגר במוק:** רוב המתמחים קופצים ישר ל-DSM checklist (\"יש לך פחד?\", \"האם יש לך מחשבות אובדניות?\") — מפספסים את המידע ההקשרי שמגיע משאלות פתוחות. **תרגיל ייעודי:** הקבוצה רושמת את 3 השאלות הפתוחות הראשונות של הנבחן + סופרת — אם פחות מ-3, סימן שיש בעיית funnel. **Hook מבני:** open → directed = \"WH\"-questions → \"How much / how often / when\".‬",
+      "note_id": "1777088403001"
+    },
+    {
+      "id": "1777088403002",
+      "front_md": "מהן 4 השגיאות הנפוצות בחשיבה הקלינית שיש לצפות במוק?",
+      "back_md": "‫**(1) Premature closure** — Dulcan verbatim:‬\n> ‫\"One of the most common mistakes that inexperienced interviewers make is to prematurely home in on a diagnosis. This often excludes other diagnoses from consideration and results in an incomplete evaluation and inadequate treatment plan.\" [D-7]‬\n\n‫**(2) Ignoring developmental context** — verbatim: > \"children are a 'moving target.'\" [D-2]; הקלינאי חייב להבחין בין \"delayed\" ל-\"altered\" התפתחות [D-4].‬\n‫**(3) Missing medical mimickers** — verbatim: > \"Recognition and correction of medical conditions producing symptoms of psychosis can often result in the remission of psychotic symptoms and address potential life-threatening illness.\" [D-3]; דוגמאות שיוצרות trap מומלץ במוק: hyperthyroidism מתחזה לחרדה, TLE לפסיכוזה, B12 ל-cognitive decline.‬\n‫**(4) Anchoring bias** [NOT IN DULCAN] — המונח לא מוזכר ב-Dulcan, אך הוא ה-default failure mode במוק: chief complaint או opening vignette הופך לעוגן ש\"קונה\" את הנבחן ל-1-2 אבחנות, ומונע revisitation גם כשמידע סותר מגיע. **תרגיל:** במוק 17 (B017), הזרק \"פרסה\" באמצע — אם הנבחן לא משנה כיוון, סמן anchoring.‬",
+      "note_id": "1777088403002"
+    },
+    {
+      "id": "1777088403003",
+      "front_md": "מאיפה לקחת vignettes ל-mock cases?",
+      "back_md": "‫**3 מקורות מותרים, מדורגים מקל לקשה:**‬\n‫**(1) DSM-5-TR Casebook Child** (peds-library src `ad2550df`) — מקרים מוכנים, פסבדונימיזציה נעשתה, DDx מובנה. **השימוש:** mock ראשון של כל קבוצה לימוד.‬\n‫**(2) Dulcan vignettes** [D-1] — קצרים, ממוקדים בנוירולוגיה/פסיכופתולוגיה ספציפית (כמו דוגמת John 8y עם spastic diplegia + jerking + distractibility). **השימוש:** כשרוצים אבחנה לא בקסבוק.‬\n‫**(3) חוויה קלינית פסבדונימיזציה** — תקנה ב-vault: שינוי שם, גיל ±3 שנים, יישוב, פרטים מזהים. ‫**אסור** real names / ID / addresses / phone numbers בקובץ [vault-CLAUDE.md]. הקובץ נשמר ב-wiki/clinical/cases/ עם YAML `type: case`.‬\n‫**Takeaway:** התחל עם DSM Casebook (אפס work), עבור ל-Dulcan כשנגמרו, רק אז העבר לשלך פסבדונימיזציה (יקר זמנית).‬",
+      "note_id": "1777088403003"
+    },
+    {
+      "id": "1777088403005",
+      "front_md": "איך מבנים curveballs בשאלה מתגלגלת?",
+      "back_md": "‫**הבוחן-המדמה מכין מראש 6-10 פיסות \"מידע נוסף\"** מסודרות לפי סדר צפוי של שאלות (anamnestic timeline → family hx → MSE findings → past treatment response → labs → school report). **בנוסף, 2-3 curveballs** — עדכונים שמשנים כיוון: למשל \"ההורה מתקשר ומבקש לעדכן שהילד אובחן עם הפרעת קשב לפני שנתיים אך הופסק טיפול\". **מה curveball טוב עושה:** מאלץ revision של hypothesis (לא מבטל, אך מחייב משקל-מחדש). **מה curveball לא טוב עושה:** הופך מקרה ידוע למקרה אחר (זה לא עוד שאלה — זה החלפה). **כלל מעשי:** curveball צריך להגביר אבחנה אחת קיימת ולהחליש אחרת — לא להמציא אבחנה חדשה. **Hook מבני:** 1 curveball / 15 דקות מוק = 3 curveballs במוק 45-דקות.‬",
+      "note_id": "1777088403005"
+    },
+    {
+      "id": "1777088403006",
+      "front_md": "מה Stage B שותק לגביו ולמה זה חשוב לדעת?",
+      "back_md": "‫**[NOT IN STAGE B PDF] רשימה:** (1) האם הנבחן מקבל תיק רפואי מקדים — לא מוגדר; (2) פירוט תוכן תסריטי שאלות מתגלגלות — לא ניתן; (3) רובריקה פנימית של 5 הנקודות (איך הבוחנים מחלקים בין 1-5) — לא מפורסם; (4) רכיבי \"מקרה טוב\" לתרגול — לא ניתן הנחיות לתכנון. **משמעות:** המוק שלכם הוא **תוצר תכנון** — אין \"פורמט נכון\" שאתם מנסים להכיל. **לכן:** ה-rubric מוק (הצירים שצוינו לעיל) הוא הצעה — לא חובה. גם sourcing הוא הצעה. ניתן וצריך להתאים לקבוצה. **Hook מבני:** מה ש-Stage B לא אומר = שטח תכנון שלכם, לא שטח של חוסר ידיעה.‬",
+      "note_id": "1777088403006"
+    },
+    {
+      "id": "1777088403008",
+      "front_md": "מה Dulcan שותק לגביו ולמה זה חשוב לדעת?",
+      "back_md": "‫**[NOT IN DULCAN] רשימה:** (1) פורמט ייעודי של \"case presentation להוראה\" — אין; הספר נותן outline להערכה (10 סעיפים [D-5]) שמשמש שלד; (2) המונח **anchoring bias** — לא מוזכר; הספר עוסק ב-premature closure ובחקיינים רפואיים, אך לא ב-cognitive biases של רופא; (3) מתודולוגיית debrief פורמלית — אין; האזכור היחיד הוא vignette של supervisor שדפק על הדלת בזמן אמת [D-8]. **משמעות לתרגול:** ה-rubric debrief שמוצע בבלוק הזה הוא **gap-fill** — לא נשען על מקור פנימי בעולם הפסיכיאטריה של הילד. אם תרצו debrief מבוסס-ראיות, רוצים לאחר מכן: Croskerry 2003 (cognitive forcing strategies), Norcini 2007 (workplace-based assessment) — שניהם acquisition TODO.‬",
+      "note_id": "1777088403008"
+    },
+    {
+      "id": "1777088403009",
+      "front_md": "למה supervisor intervention ב-mock היא כלי רב-עוצמה?",
+      "back_md": "‫Dulcan מתעד את הסיטואציה הזו verbatim:‬\n> ‫\"A supervisor, who was observing, knocked on the door. He spoke to the clinician and recommended that she ask the mother to leave the room so that the clinician could speak to Gina alone.\" [D-8]‬\n\n‫זו הדוגמה היחידה ב-Dulcan של אינטרוונציה חיצונית במהלך ראיון. **המשמעות לתרגול:** הבוחן הבכיר ב-mock רשאי \"לקפוא\" (time-out) פעם אחת — אך **רק** כשהנבחן נתקע באמת (לא כעונש על שגיאה, ולא כדי \"ללמד שיעור\"). **מתי כן להשתמש:** הנבחן נכנס ל-loop של אותה שאלה 3 פעמים, או מתכוון להחליט החלטה שתהרוג את ה-mock (לדוגמה \"אני מסיים — אין לי מספיק מידע\"). **מתי לא:** הנבחן עושה שגיאה אבחנתית (תחכה, תרשום, תעלה ב-debrief). **Hook מבני:** time-out = once-per-mock max, ולא מהלך אסטרטגי — מהלך הצלה.‬",
+      "note_id": "1777088403009"
+    }
+  ]
+}

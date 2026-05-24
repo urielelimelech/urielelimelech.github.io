@@ -1,0 +1,73 @@
+{
+  "id": "B021-adhd-intro-summary",
+  "label": "B021 · ADHD — מבוא · סיכום",
+  "source": "residency-summary",
+  "cards": [
+    {
+      "id": "1776868208261",
+      "front_md": "מהי ההגדרה של ADHD ומהן 3 ה-Presentations לפי DSM-5-TR?",
+      "back_md": "ADHD = הפרעה נוירו-התפתחותית שבה יכולת הילד לקשב ולשליטה בדחפים נמוכה משמעותית מהתפתחות תקינה, גורמת ל-impairment תפקודי, ואינה מוסברת ע\"י מצב אחר [D-1]. DSM-5-TR מגדירה 3 presentations לפי דפוס הסימפטומים ב-6 חודשים אחרונים: Predominantly Inattentive (רק A1) [D-3], Predominantly Hyperactive/Impulsive (רק A2) [D-3], ו-Combined (A1+A2 יחד) [D-2].",
+      "note_id": "1776868208261"
+    },
+    {
+      "id": "1776868208262",
+      "front_md": "מהי האפידמיולוגיה של ADHD?",
+      "back_md": "שכיחות עולמית 7.2% ע\"פ מטא-אנליזה (Polanczyk 2007) [D-6], [P-1]. בארה\"ב סקר NSCH 2016 (גילאי 2-17) הראה lifetime 9.4% · current diagnosis 8.4% [D-6]. מתוך המאובחנים: 62% נוטלים תרופות, 46.7% קיבלו טיפול התנהגותי, 23% ללא טיפול [D-6]. יחס מגדר וחלוקה לפי גילאים בסקר — [NOT IN THIS SOURCE].",
+      "note_id": "1776868208262"
+    },
+    {
+      "id": "1776868208263",
+      "front_md": "מהם קריטריון A1 (Inattention) וה-threshold המספרי ב-DSM-5-TR?",
+      "back_md": "Threshold: ≥6 מתוך 9 תסמיני inattention לילדים (עד 16y), או ≥5 מתוך 9 למתבגרים (17+) ומבוגרים [D-4]. 9 הסעיפים (verbatim): fails to give close attention to details · difficulty sustaining attention · does not seem to listen · fails to finish schoolwork · difficulty organizing · avoids tasks requiring sustained mental effort · loses things · distracted by extraneous stimuli · forgetful in daily activities [D-4]. חייבים להופיע בשך 6 חודשים ולא תואמים לרמה ההתפתחותית.",
+      "note_id": "1776868208263"
+    },
+    {
+      "id": "1776868208265",
+      "front_md": "מהם קריטריון A2 (Hyperactivity/Impulsivity) ו-threshold?",
+      "back_md": "אותו threshold מספרי כמו A1 (≥6/9 ילדים · ≥5/9 17+) [D-4]. 9 הסעיפים: fidgets/taps/squirms · leaves seat · runs/climbs inappropriately (מבוגרים — may be limited to restless) · unable to engage quietly · \"on the go\" · talks excessively · blurts answers · difficulty waiting turn · interrupts/intrudes [D-5]. Note חשוב לבחינה: הביטויים משתנים עם גיל (\"may be limited to feeling restless\" במבוגרים).",
+      "note_id": "1776868208265"
+    },
+    {
+      "id": "1776868208266",
+      "front_md": "מהם קריטריונים B-E של ADHD verbatim?",
+      "back_md": "**B:** כמה תסמינים לפני גיל 12; **C:** ≥2 settings (home, school, work, חברים, אחר); **D:** ראיות ברורות ל-interference/reduced quality בתפקוד חברתי/אקדמי/תעסוקתי; **E:** לא מתרחשים בלעדית בקוד סכיזופרניה/פסיכוזה ולא מוסברים טוב יותר ע\"י הפרעה אחרת [D-3]. **הערה:** שינוי מ-DSM-IV — גיל ההתחלה עלה מ-7 ל-12, ולא נדרש impairment לפני 12 (רק חלק מהתסמינים).",
+      "note_id": "1776868208266"
+    },
+    {
+      "id": "1776868208268",
+      "front_md": "מה 5 הקומורבידיות השכיחות ב-ADHD, לפי אחוזי שכיחות?",
+      "back_md": "1. **Emotional dysregulation** 24-50% [D-7]; 2. **ODD/CD** 25-33% [D-7]; 3. **Anxiety** 25-33% [D-7]; 4. **Learning/language** ~25% [D-7]; 5. **MDD** 11% (MTA data) [D-7]. קשר לא סטנדרטי: חפיפה ADHD×ASD מגיעה ל-40-50% לפי Dulcan [D-8] — גבוה מהחשיבה ההיסטורית.",
+      "note_id": "1776868208268"
+    },
+    {
+      "id": "1776868208269",
+      "front_md": "מה המהלך הטבעי של ADHD לפי גילאים?",
+      "back_md": "**Preschool (3-5):** H/I בולטים מאוד, inattention נמוך ועולה בהדרגה (Lewis figure) [L-1]. **School-age (MTA 8y):** כשליש עומדים בקריטריונים מלאים בסיום + התקדמות אקדמית ירודה + יותר מעצרים [D-9]. **Adolescents:** סיכון מוגבר לתכונות אנטי-סוציאליות, שימוש לא חוקי בסמים, כליאה [D-10]. **Adults:** השמנת יתר, יתר לחץ דם, תאונות דרכים, פציעות [D-11]. **Mortality:** במעקב 33 שנה — 10/15 מקרי המוות נבעו מהתאבדות/רצח/תאונה [D-10].",
+      "note_id": "1776868208269"
+    },
+    {
+      "id": "1776868208270",
+      "front_md": "מה ה-red flag לטעות אבחנתית שמצוין ב-Dulcan verbatim?",
+      "back_md": "> \"Lack of any problems in school or symptoms that are not witnessed outside the home are inconsistent with ADHD.\" [D-12]\nקריטריון C ב-DSM-5-TR דורש ≥2 settings. ילד שמגלה תסמינים רק בבית הוא כמעט בוודאות לא ADHD — יש לחפש stressor משפחתי או קומורבידיות אחרת.",
+      "note_id": "1776868208270"
+    },
+    {
+      "id": "1776868208271",
+      "front_md": "מה ההבחנה בין ADHD למצבי DDx עיקריים?",
+      "back_md": "**ODD/CD:** הן קומורבידיות (25-33% [D-7]) והן DDx — בעוד ODD מציג התנגדות יזומה, ADHD מציג impulsivity לא מכוונת. **Anxiety:** קומורבידיות 25-33% [D-7]; inattention בחרדה נובע מ-internal preoccupation (worry) לא מ-inhibitory deficit. **MDD:** *\"clinical consensus: ADHD and MDD are separate conditions requiring separate treatments\"* [D-7]. DDx מלא + medical mimickers (thyroid, sleep apnea, absence seizures) יכוסה ב-B024.",
+      "note_id": "1776868208271"
+    },
+    {
+      "id": "1776868208272",
+      "front_md": "מהי הזווית הטיפולית המקדימה (N2) של ADHD?",
+      "back_md": "**דינמית (Gabbard):** אין formulation קלאסי [NOT IN GABBARD]; ממוסגר כפגיעה ב-autonomous ego functions [G-1, G-2]; קשיי קשב מולדים מפריעים ל-holding environment + מעוררים תגובות הורה בעייתיות [G-3]; ילד מפתח הגנות קשיחות לשמירת self-cohesion [G-4]. **CBT (Kendall):** deficiency ב-inhibitory control + self-regulation [K-1, K-2]; parent-child coercive cycle שבו התנהגות המטפל משמרת את הסימפטומטולוגיה [K-3]; הטיפול בונה על contingency management — תגמול עקבי/מיידי להתנהגות רצויה [K-4].",
+      "note_id": "1776868208272"
+    },
+    {
+      "id": "1776868208273",
+      "front_md": "מה היו הממצאים של 3 ה-landmark papers לבלוק זה?",
+      "back_md": "**Polanczyk 2007 (Am J Psych):** מטא-אנליזה (102 מחקרים, 171,756 נבדקים) — שכיחות עולמית 7.2% · קבעה שההפרעה אוניברסלית · הפערים נובעים ממתודולוגיה לא מגיאוגרפיה [P-1]. **Shaw 2007 (PNAS):** עיכוב של 3 שנים בעיבוי שיא הקורטקס (פיק ב-10.5y ב-ADHD vs 7.5y נורמה), במיוחד prefrontal · קבע ADHD כ-delay ולא deviance [P-2]. **Swanson 2017 (JCPP):** MTA 16y follow-up — תסמינים נמשכים d=1.11, טיפול רציף לא נתן יתרון סופי + גרם להאטת גדילה (2.55 ס\"מ פחות, p<.0005) [P-3].",
+      "note_id": "1776868208273"
+    }
+  ]
+}

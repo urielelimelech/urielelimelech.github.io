@@ -1,0 +1,175 @@
+{
+  "id": "B015-test-anxiety",
+  "label": "B015 · חרדת בחינה ופרוטוקול יום בחינה · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1777088403011",
+      "front_md": "[Anxiety] איפה Dulcan ממקמת \"test anxiety\"?",
+      "back_md": "‫אין אבחנה DSM של test anxiety [NOT IN DULCAN]. מופיעה כממד של (1) GAD — \"worries often revolve around school performance\" [D-1]; (2) Social Anxiety — \"anxiety may be restricted to speaking in front of an audience\" [D-2]‬",
+      "note_id": "1777088403011"
+    },
+    {
+      "id": "1777088403012",
+      "front_md": "[Anxiety] מה הציטוט verbatim של Dulcan על \"anticipate disaster\" + \"catastrophic thinking\"?",
+      "back_md": "‫מופיע ב-GAD: > \"worries often revolve around school performance. Children with GAD experience intense academic pressures... anticipate disaster... catastrophic thinking\" [D-1]‬",
+      "note_id": "1777088403012"
+    },
+    {
+      "id": "1777088403014",
+      "front_md": "[Anxiety] 5 סימפטומים סומטיים של GAD לפי Dulcan?",
+      "back_md": "‫> \"stomachaches, headaches, shortness of breath, chest pain, and choking\" verbatim [D-1]‬",
+      "note_id": "1777088403014"
+    },
+    {
+      "id": "1777088403015",
+      "front_md": "[ADHD] מה ציטוט Dulcan על working memory deficits ב-ADHD?",
+      "back_md": "‫> \"central executive working memory deficits such as updating of working memory, manipulating information in working memory\" [D-4]‬",
+      "note_id": "1777088403015"
+    },
+    {
+      "id": "1777088403016",
+      "front_md": "[ADHD] מה ציטוט Dulcan על impulse control ב-ADHD?",
+      "back_md": "‫> \"blurts out an answer before a question has been completed\" [D-5]‬",
+      "note_id": "1777088403016"
+    },
+    {
+      "id": "1777088403017",
+      "front_md": "[ADHD] מה השכיחות של mood lability ב-ADHD?",
+      "back_md": "‫24%-50% [D-6]; \"severe mood lability\"‬",
+      "note_id": "1777088403017"
+    },
+    {
+      "id": "1777088403019",
+      "front_md": "[Comorbidity] מה השכיחות של חרדה ילדים עם ADHD?",
+      "back_md": "‫25%-33% [D-6]‬",
+      "note_id": "1777088403019"
+    },
+    {
+      "id": "1777088403020",
+      "front_md": "[Comorbidity] הפרדוקס של ADHD + Anxiety — איזו תופעה מעניינת?",
+      "back_md": "‫> \"show lower levels of impulsivity on laboratory measures of attention\" + \"respond more positively to psychosocial interventions compared to children with ADHD without anxiety\" [D-6]‬",
+      "note_id": "1777088403020"
+    },
+    {
+      "id": "1777088403022",
+      "front_md": "[StageB] מה משך הזמן הנטו של 3 הוועדות?",
+      "back_md": "‫255 דקות (105 + 75 + 75) [StageB-1]‬",
+      "note_id": "1777088403022"
+    },
+    {
+      "id": "1777088403023",
+      "front_md": "[StageB] כמה הפסקות מובנות פנימיות?",
+      "back_md": "‫10 דק' התארגנות ב-ועדה 1 + 5 דק' ב-ועדה 3 = 15 דק' total recovery [StageB-1]‬",
+      "note_id": "1777088403023"
+    },
+    {
+      "id": "1777088403024",
+      "front_md": "[StageB] מה verbatim על גמישות זמנים ב-ועדה 1?",
+      "back_md": "‫> \"תתאפשר גמישות לנבחן לבחור את המודל הרצוי בעיניו... כמה זמן ובאיזה סדר יכנסו (סך הכל שעה)\" [StageB-2]‬",
+      "note_id": "1777088403024"
+    },
+    {
+      "id": "1777088403025",
+      "front_md": "[StageB] מה verbatim על שליטת בוחנים בזמן ב-ועדות 2+3?",
+      "back_md": "‫> \"חלוקת הזמן הפנימית גמישה על פי הצורך ובהתאם לשיקול הדעת של הבוחנים\" [StageB-3]‬",
+      "note_id": "1777088403025"
+    },
+    {
+      "id": "1777088403026",
+      "front_md": "[Treatment] קו-ראשון לחרדה לפי Dulcan?",
+      "back_md": "‫CBT [D-7] — verbatim: > \"CBT is considered the first-line psychotherapeutic treatment\"‬",
+      "note_id": "1777088403026"
+    },
+    {
+      "id": "1777088403027",
+      "front_md": "[Treatment] מה Dulcan אומרת על exposure?",
+      "back_md": "‫> \"exposure practice is crucial for clinical response\" + \"violating patient expectations about outcomes\" [D-8]‬",
+      "note_id": "1777088403027"
+    },
+    {
+      "id": "1777088403028",
+      "front_md": "[Treatment] שיטות relaxation ב-Dulcan?",
+      "back_md": "‫> \"progressive muscle relaxation and deep and diaphragmatic breathing\" [D-9]‬",
+      "note_id": "1777088403028"
+    },
+    {
+      "id": "1777088403029",
+      "front_md": "[Breathing] מה הפרוטוקול 4-7-8?",
+      "back_md": "‫4 שנ' שאיפה אפי + 7 שנ' החזקה + 8 שנ' נשיפה אורלית, × 4 מחזורים = ~75 שניות. לעשות בחדר המתנה לפני כל ועדה (×3 ביום) [synthesis from D-9]‬",
+      "note_id": "1777088403029"
+    },
+    {
+      "id": "1777088403030",
+      "front_md": "[Sleep] כמה שעות שינה למתבגרים לפי Dulcan?",
+      "back_md": "‫8-10 שעות [D-10]‬",
+      "note_id": "1777088403030"
+    },
+    {
+      "id": "1777088403032",
+      "front_md": "[Sleep] שני כללי sleep hygiene מ-Dulcan?",
+      "back_md": "‫> \"avoid caffeine before sleep\" + \"regular sleep-wake hours\" [D-10]‬",
+      "note_id": "1777088403032"
+    },
+    {
+      "id": "1777088403033",
+      "front_md": "[Caffeine] מנגנון קפאין-חרדה לפי Dulcan?",
+      "back_md": "‫> \"caffeine displaces adenosine from receptors → potentiates dopamine binding → increase in dopamine-mediated vigilance and anxiety\" [D-11]‬",
+      "note_id": "1777088403033"
+    },
+    {
+      "id": "1777088403034",
+      "front_md": "[Caffeine] המלצת קפאין בוקר הבחינה?",
+      "back_md": "‫≤ 100mg (1 כוס תה ארוך / espresso single). מי שצורך 600mg יומית — צמצום ל-300mg יחל 2-3 ימים לפני [synthesis from D-11]‬",
+      "note_id": "1777088403034"
+    },
+    {
+      "id": "1777088403035",
+      "front_md": "[Stimulant] חצי-חיים של MPH IR?",
+      "back_md": "‫2-4 שעות; חלון אפקטיבי 3-4 שעות. תזמון בחינה 09:00-15:00: מנה ב-08:00 + מנה ב-12:00‬",
+      "note_id": "1777088403035"
+    },
+    {
+      "id": "1777088403036",
+      "front_md": "[Stimulant] חצי-חיים של Concerta (OROS-MPH)?",
+      "back_md": "‫12 שעות (release-ramping) [D-12]; תזמון בחינה: 07:00‬",
+      "note_id": "1777088403036"
+    },
+    {
+      "id": "1777088403037",
+      "front_md": "[Stimulant] חצי-חיים של Vyvanse?",
+      "back_md": "‫10-13 שעות [D-12]; תזמון בחינה: 07:00‬",
+      "note_id": "1777088403037"
+    },
+    {
+      "id": "1777088403038",
+      "front_md": "[Stimulant] כלל הזהב 7-ימים לפני בחינה?",
+      "back_md": "‫אל תשנה תכשיר או מינון. מוכר וצפוי > optimal-but-untested.‬",
+      "note_id": "1777088403038"
+    },
+    {
+      "id": "1777088403039",
+      "front_md": "[StageB-Silence] 4 דברים ש-Stage B PDF שותק עליהם בנוגע לגיל-בחינה?",
+      "back_md": "‫(1) ADHD accommodations (זמן נוסף, חדר שקט); (2) פערי זמן בין ועדות; (3) מותר/אסור להביא (מים, סוכריות, נייר); (4) לוח זמנים יום-מבחן — כולם [NOT IN STAGE B PDF]‬",
+      "note_id": "1777088403039"
+    },
+    {
+      "id": "1777088403040",
+      "front_md": "[Crisis] סימני אזהרה תפקודיים 7 ימים לפני?",
+      "back_md": "‫שינה <5 שעות · פאניק אטאקס יומיים · חוסר יכולת לאכול · הימנעות מהבחינה. מענה: TIPP skills · ייעוץ אישי · שקילת דחייה (לא כישלון = risk management)‬",
+      "note_id": "1777088403040"
+    },
+    {
+      "id": "1777088403041",
+      "front_md": "[Crisis] מה זה TIPP?",
+      "back_md": "‫DBT skills crisis: Temperature (קרח-מים) · Intense exercise (10 דק') · Paced breathing (4-7-8) · Paired muscle relaxation [synthesis from D-9]‬",
+      "note_id": "1777088403041"
+    },
+    {
+      "id": "1777088403042",
+      "front_md": "[Rehearsal] מתי לעשות mock-day rehearsal?",
+      "back_md": "‫7 ימים לפני: mock קומפלט (ועדה 1 + 2) באתר אמיתי + לבוש מלא. 3 ימים לפני: mock קצר ~30 דק'. 24-48 שעות לפני: אסור mocks — מוח צריך לעבד.‬",
+      "note_id": "1777088403042"
+    }
+  ]
+}

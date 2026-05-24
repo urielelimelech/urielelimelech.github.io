@@ -1,0 +1,175 @@
+{
+  "id": "B017-committee-2-drill",
+  "label": "B017 · תרגול ועדה 2 — שאלות קליניות · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1777088403101",
+      "front_md": "[Format] מטרת ועדה 2 verbatim?",
+      "back_md": "‫\"שאלות בנושאים התפתחותיים, קליניים אבחנתיים וטיפוליים\" [StageB-1]‬",
+      "note_id": "1777088403101"
+    },
+    {
+      "id": "1777088403102",
+      "front_md": "[Format] מקור השאלות verbatim?",
+      "back_md": "‫\"השאלות יתבססו על כלל חלק זה בסילבוס\" [StageB-1]‬",
+      "note_id": "1777088403102"
+    },
+    {
+      "id": "1777088403103",
+      "front_md": "[Format] חלוקת זמן מלא + עם רולינג?",
+      "back_md": "‫Default 25 דק' × 3 שאלות. עם שאלה מתגלגלת: 45 דק' רולינג + 15 דק' × 2 [StageB-2]‬",
+      "note_id": "1777088403103"
+    },
+    {
+      "id": "1777088403104",
+      "front_md": "[Format] גמישות בוחנים — מה הציטוט?",
+      "back_md": "‫\"חלוקת הזמן הפנימית גמישה על פי הצורך ובהתאם לשיקול הדעת של הבוחנים (בכפוף לתיעוד של נימוקי הבוחנים)\" [StageB-2]‬",
+      "note_id": "1777088403104"
+    },
+    {
+      "id": "1777088403105",
+      "front_md": "[Format] מספר בוחנים?",
+      "back_md": "‫3 (או 2 אם אין מספר נבחנים מתאים) [StageB-4]‬",
+      "note_id": "1777088403105"
+    },
+    {
+      "id": "1777088403106",
+      "front_md": "[Format] אחידות שאלות — מה הציטוט?",
+      "back_md": "‫\"השאלות שיוצגו בחלק זה הינן שאלות זהות לכל הנבחנים באותו פרק זמן. דהיינו, אין אפשרות של בחירה או החלפת שאלה.\" [StageB-3]‬",
+      "note_id": "1777088403106"
+    },
+    {
+      "id": "1777088403107",
+      "front_md": "[Format] מקור שאלות תרגול verbatim?",
+      "back_md": "‫\"השאלות באתר הר\"י של המתמחים ישמשו לדוגמה בלבד\" [StageB-3]‬",
+      "note_id": "1777088403107"
+    },
+    {
+      "id": "1777088403108",
+      "front_md": "[Bayesian] ציטוט מכונן Dulcan על Bayes?",
+      "back_md": "‫\"The next assessment findings raise or lower the probability of a diagnosis until it is either functionally ruled out or clearly established as a treatment target. The most formal way of combining the information is via Bayes' theorem...\" [D-1]‬",
+      "note_id": "1777088403108"
+    },
+    {
+      "id": "1777088403109",
+      "front_md": "[Bayesian] מתי assessment מתחדש לפי Dulcan?",
+      "back_md": "‫\"Assessment would resume if new risk factors emerged, or if initial treatment response was not good\" [D-2]‬",
+      "note_id": "1777088403109"
+    },
+    {
+      "id": "1777088403110",
+      "front_md": "[Base-rates] ציטוט Dulcan על base rates?",
+      "back_md": "‫\"Knowing the base rates of common disorders... will help clinicians calibrate diagnoses and case formulations.\" [D-3]‬",
+      "note_id": "1777088403110"
+    },
+    {
+      "id": "1777088403111",
+      "front_md": "[Base-rates] איך Dulcan ממליצה להתחיל intake?",
+      "back_md": "‫\"start an intake assessment by addressing the most common problems and then follow up with more specialized rating scales and supplemental testing that focus on the hypotheses that are in the assessment zone\" [D-4]‬",
+      "note_id": "1777088403111"
+    },
+    {
+      "id": "1777088403112",
+      "front_md": "[Treatment] 5 רכיבי חובה לפי Dulcan?",
+      "back_md": "‫(1) psychosocial factors evaluation; (2) targeted symptoms; (3) medical history; (4) evidence-based combined psychosocial+med plan; (5) monitoring plan including symptoms, functioning, adherence, side effects [D-5]‬",
+      "note_id": "1777088403112"
+    },
+    {
+      "id": "1777088403113",
+      "front_md": "[Treatment] מבנה presentation algorithm 4-5 דק'?",
+      "back_md": "‫(1) Workup 30 שנ' (labs/vitals/ECG); (2) Step 1 1 דק' (treatment + dose + duration + monitoring); (3) Step 2 1 דק' (alternative + when 4-6 שבועות); (4) Step 3 1 דק' (augmentation + evidence); (5) Monitoring + Q 30 שנ' [synthesis from D-5]‬",
+      "note_id": "1777088403113"
+    },
+    {
+      "id": "1777088403114",
+      "front_md": "[Forensic] Dual agency forbidden — ציטוט?",
+      "back_md": "‫\"If the same mental health professional provides both clinical care and the forensic expert evaluation and testimony, this constitutes an ethical violation based on conflict of interest and dual agency.\" [D-6]‬",
+      "note_id": "1777088403114"
+    },
+    {
+      "id": "1777088403115",
+      "front_md": "[Forensic] מי צריך לעשות forensic evaluation?",
+      "back_md": "‫\"The forensic evaluation should be performed by a clinician who is trained in forensic assessment; this individual should not be the physician or therapist who is involved in ongoing treatment\" [D-7]‬",
+      "note_id": "1777088403115"
+    },
+    {
+      "id": "1777088403116",
+      "front_md": "[Reporting] mandatory reporting — ציטוט?",
+      "back_md": "‫\"Physicians and mental health clinicians (and others) are mandated by all 50 states to report suspected cases of child physical and sexual abuse... Most important is prompt referral to a child protective services organization\" [D-7]‬",
+      "note_id": "1777088403116"
+    },
+    {
+      "id": "1777088403117",
+      "front_md": "[Reporting] בישראל — מה החוק?",
+      "back_md": "‫§368D של חוק העונשין; חוזר מנכל mk06/2020 (MoH-Violence) — חובת הודעה על נפגעי אלימות ו-קטינים [synthesis from source-rules.md]‬",
+      "note_id": "1777088403117"
+    },
+    {
+      "id": "1777088403118",
+      "front_md": "[Consent] minor consent — ציטוט?",
+      "back_md": "‫\"Minors are generally not deemed competent to give legal consent to psychiatric evaluation or treatment or the release of medical information. The consent of the parent or guardian is required unless statutory exceptions exist or the minor is emancipated\" [D-8]‬",
+      "note_id": "1777088403118"
+    },
+    {
+      "id": "1777088403119",
+      "front_md": "[Witness] 4 קריטריונים לכשרות עדות ילד?",
+      "back_md": "‫\"the capacity to register an event, the ability to accurately recall and recount the event, the ability to distinguish truth from falsehood, and the capacity to communicate on the basis of personal knowledge of the facts\" [D-9]. מנמוניק (mine): R-R-T-C‬",
+      "note_id": "1777088403119"
+    },
+    {
+      "id": "1777088403120",
+      "front_md": "[Drill] 5-topic rotation drill — ימים + סוגים?",
+      "back_md": "‫ראשון Developmental · שני Clinical(presentation) · שלישי Diagnostic differentiation · רביעי Therapeutic algorithm · חמישי Forensic-legal. כל drill = 25 דק' שאלה + 10 דק' debrief‬",
+      "note_id": "1777088403120"
+    },
+    {
+      "id": "1777088403121",
+      "front_md": "[Drill] Bayesian revision drill — מטרה?",
+      "back_md": "‫בוחן זורק 2 פיסות מידע חדש (1 תומך 1 מערער); הנבחן מציין ב-30 שנ' איך כל פיסה משנה הסתברות של ≥2 אבחנות [synthesis from D-1]‬",
+      "note_id": "1777088403121"
+    },
+    {
+      "id": "1777088403122",
+      "front_md": "[DDx] איך מציגים DDx — מבנה 3 דק'?",
+      "back_md": "‫(1) Most likely 1-2 משפטים (אבחנה + 2 תומכים + 1 שמערער); (2) Top alternative 1 משפט (\"אם Y, ישתווה\"); (3) Rule-out essentials 1 משפט (medical mimickers)‬",
+      "note_id": "1777088403122"
+    },
+    {
+      "id": "1777088403123",
+      "front_md": "[Strategy] שאלה לא-מוכרת — 3 כלים?",
+      "back_md": "‫(1) \"תן לי רגע לחשוב\" (15-30 שנ' רשמי); (2) Frame דרך broader category; (3) Acknowledge חוסר ידיעה ספציפית + הצג methodology. אסור לפברק. אסור להישתתק.‬",
+      "note_id": "1777088403123"
+    },
+    {
+      "id": "1777088403124",
+      "front_md": "[Strategy] \"לא יודע\" אסטרטגי — מה הציון הצפוי?",
+      "back_md": "‫\"לא יודע\" + \"אבל הייתי בודק [X]\" = 3-4 נקודות. \"פברוק שגוי\" = 1 נקודה. שתיקה ארוכה = 1-2 נקודות [synthesis from StageB-5 + collective wisdom]‬",
+      "note_id": "1777088403124"
+    },
+    {
+      "id": "1777088403125",
+      "front_md": "[Israeli] חוק טיפול בחולי נפש קטינים — מי מחליט?",
+      "back_md": "‫קטין <15 — ועדה פסיכיאטרית מחוזית. קטין ≥15 — בית משפט [synthesis from B.18 source-rules]‬",
+      "note_id": "1777088403125"
+    },
+    {
+      "id": "1777088403126",
+      "front_md": "[Israeli] confidentiality מקצועית של מטפל בקטין — מה הכלל?",
+      "back_md": "‫סודיות מקצועית גוברת על דרישת הורה לדעת תוכן הראיון; ידיעת הקיום של הראיון מותרת להורה [synthesis from חוק זכויות החולה — לא Dulcan]‬",
+      "note_id": "1777088403126"
+    },
+    {
+      "id": "1777088403127",
+      "front_md": "[Drill-source] איפה למצוא שאלות לדריל?",
+      "back_md": "‫אתר הר\"י (שאלות מתמחים). Stage B מציין explicitly \"דוגמה בלבד\" [StageB-3] — לא לסמוך 1:1‬",
+      "note_id": "1777088403127"
+    },
+    {
+      "id": "1777088403128",
+      "front_md": "[StageB-Silence] מה Stage B שותקת לגביו ב-ועדה 2?",
+      "back_md": "‫(1) מי מ-3 הבוחנים שואל איזו שאלה; (2) שגיאות ספציפיות שמובילות לכישלון — שניהם [NOT IN STAGE B PDF]‬",
+      "note_id": "1777088403128"
+    }
+  ]
+}

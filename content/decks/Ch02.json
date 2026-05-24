@@ -1,0 +1,529 @@
+{
+  "id": "Ch02",
+  "label": "פרק 2 — הערכת תינוקות ופעוטות",
+  "source": "dulcan",
+  "cards": [
+    {
+      "id": "C01-relational-approach-rationale",
+      "front_md": "**גישה יחסית (relational approach) — מדוע זו יחידת ההערכה**",
+      "back_md": "ב-infant and early childhood mental health מוקד ההערכה הוא יחסי caregiving הראשוניים, לא התינוק כיחידה נפרדת. מאפיינים אינדיבידואליים של התינוק — לבדם — מנבאים מעט על התפתחות עתידית; היחסים עם caregiver ראשוני הם המנבא החזק ביותר של outcomes (Shonkoff et al. 2012). caregivers יכולים להיות הורים ביולוגיים, סבים שנכנסים לתפקיד, adoptive parents, או formal/informal foster parents. כי רוב הסיכונים הסביבתיים פועלים על הילד דרך היחסים האלה, intervention ב-parent-child relationship הוא לעתים קרובות הוקטור האפקטיבי ביותר לשינוי.\n\n*Dulcan 3e, Ch 2 · \"Relational Approach to Assessing Infants and Toddlers\"*",
+      "note_id": "1776979005318"
+    },
+    {
+      "id": "C02-early-brain-development",
+      "front_md": "**חלון ההתפתחות המוקדמת — למה זה דחוף**",
+      "back_md": "infancy ו-toddlerhood מתאפיינים בקצב התפתחותי חריג. קצבי synaptogenesis מגיעים עד 1 מיליון סינפסות בשנייה בשנים הראשונות; נפח המוח מגיע ל-80% מגודל מבוגר בגיל 36 חודשים; ואבני דרך גלויות רצות במהירות (Center on the Developing Child 2017; Nelson and Bosquet 2000; Shonkoff et al. 2012). מחקר של העשור האחרון מראה שחוויות prenatal ומוקדמות קשורות להבדלים מדידים ברמת ה-epigenetic, הורמונים, ונפחי אזורי מוח — markers של adversity שקשורים ל-psychopathology ותוצאות בריאות שליליות בהמשך (Drury et al. 2012; Esteves et al. 2020). זה הרציונל ל-early identification ו-prevention-focused subspecialty.\n\n*Dulcan 3e, Ch 2 · \"Relational Approach — Rationale and Implications\"*",
+      "note_id": "1776979005320"
+    },
+    {
+      "id": "C03-secure-attachment-outcomes",
+      "front_md": "**Secure attachment — תוצאות מגנות**",
+      "back_md": "תינוקות שמפתחים secure attachment עם caregiver ראשוני בשנה הראשונה הם: (1) עמידים יותר לסטרס ו-adversity כ-preschoolers; (2) בעלי יחסים חיוביים עם peers; (3) אהובים יותר ע\"י מורים; (4) משיגים יותר בבית ספר; (5) מראים דפוסים מוסדרים יותר של biological stress reactivity (Engel and Gunnar 2020). secure attachments מחייצים stress (Tharner et al. 2012) ומגנים במיוחד בתנאים קיצוניים (Bernard et al. 2019; McGoron et al. 2012). ה-quality של היחסים הוא mediator של סיכונים intrinsic — למשל, יחסי caregiver טובים מנבאים cognitive outcomes בתינוקות preterm (Bergman et al. 2010; Treyvaud et al. 2016).\n\n*Dulcan 3e, Ch 2 · \"Relational Approach — Rationale and Implications\"*",
+      "note_id": "1776979005322"
+    },
+    {
+      "id": "C04-insecure-disorganized-risks",
+      "front_md": "**Insecure ו-disorganized attachment — סיכונים התפתחותיים**",
+      "back_md": "תינוקות עם insecure או disorganized attachment בסיכון ל-trajectory מורכב יותר, כולל: (1) early mental health concerns; (2) בעיות בריאות פיזיות (Bernard et al. 2019; Groh et al. 2017). יחסי caregiver מופרעים פוגעים ב-social/relational development — ילד לומד את העולם החברתי, אופן האינטראקציה עם אחרים, ותחושת competence ו-self-worth דרך יחסים אלה. גם כשסיכון התפתחותי נובע מגורמים חיצוניים ליחסים (עוני, מחלה), התערבות דרך ה-infant-caregiver relationship היא לעיתים ה-buffer האפקטיבי ביותר. לעני אין משמעות לתינוק — אלא דרך ההשפעה על יחסי caregiver (Morris et al. 2017).\n\n*Dulcan 3e, Ch 2 · \"Relational Approach — Rationale and Implications\"*",
+      "note_id": "1776979005324"
+    },
+    {
+      "id": "C05-multiple-attachments",
+      "front_md": "**Multiple attachments — attachment עם caregivers שונים**",
+      "back_md": "תינוק יכול לפתח במקביל attachments שונים באופן איכותי עם caregiving adults שונים. אין עדות שילדים ב-18-24 חודשים הראשונים יכולים לדמיין חוויות שלא חוו ישירות — לכן ה-attachment מתבסס על interactions ישירים של כל דיאדה בנפרד. קלינית: אם התנהגות בעייתית (למשל, opposition) מופיעה באופן עקבי ביחסים חשובים שונים — הסיכוי שהבעיה היא intrinsic לילד עולה. אם היא specific לרלציה אחת — התערבויות ממוקדות באותה רלציה מתאימות יותר. תצפית זו הובילה להכללת relationship-specific disorder of infancy/early childhood ב-DC:0-5 (Zeanah and Lieberman 2016).\n\n*Dulcan 3e, Ch 2 · \"Relational Approach — Rationale and Implications\"*",
+      "note_id": "1776979005326"
+    },
+    {
+      "id": "C06-symptom-sources",
+      "front_md": "**מקורות התסמינים — ילד, הורה, או interaction**",
+      "back_md": "בעיות מובהקות קלינית עשויות להתמקד ב-(1) הילד עצמו; (2) ההורה; או (3) הדפוס הייחודי של אינטראקציה בין השניים. ברוב המקרים כל שלושת הגורמים תורמים במידה מסוימת, והתערבות צריכה להשתמש ב-parent-child relationship כ-primary vehicle לשינוי. comprehensive relationship assessment בוחן שלושה components: (1) תפיסת כל caregiver את הילד (parent's representation); (2) התנהגות interactive של כל caregiver עם הילד; (3) התנהגויות הילד עם כל caregiver. התערבויות ממוקדות-יחסים עשויות לטרגט חלק או את כל ה-components — כל component משפיע על האחרים דרך הלולאה ההתייחסותית.\n\n*Dulcan 3e, Ch 2 · \"Relational Approach — Rationale and Implications\"*",
+      "note_id": "1776979005327"
+    },
+    {
+      "id": "C07-diagnostic-challenges-early-childhood",
+      "front_md": "**אבחון בתינוקות ו-toddlers — קונטרוברסיות ורציונל**",
+      "back_md": "אבחון בתינוקות עדיין מעורר controversy למרות evidence base הולך ומתרחב. בעד אבחון שיטתי: (1) diagnosis הוא determinant primary של treatment planning ברוב הרפואה; (2) nosologies systemaic מקדמות תקשורת בין providers ומשפחות; (3) מקלות על מחקר שיכול לחדד את הקריטריונים; (4) נדרשות לתשלום ברוב מערכות הבריאות. חסרונות של DSM-5 ו-ICD-11: (1) מתמקדים ב-individual בלי mechanism להכניס גורמי relationship; (2) validity של קריטריונים נחקרה ב-preschoolers אבל כמעט לא בתינוקות; (3) predictive value מוגבל בגיל הזה. ברור שתינוקות ו-toddlers עם דפוסים aberrant ו-impairing של emotional/behavioral regulation קיימים — נדרשת גישה אבחנתית שתיתן להם מענה.\n\n*Dulcan 3e, Ch 2 · \"Diagnostic Issues Regarding Disorders of Early Childhood\"*",
+      "note_id": "1776979005329"
+    },
+    {
+      "id": "C08-dc05-overview",
+      "front_md": "**DC:0-5 — מערכת אבחון developmentally specific**",
+      "back_md": "ב-2016 Zero to Three פרסמו את DC:0-5 — מערכת אבחון empirically derived עבור המטופלים הצעירים ביותר (Zero to Three 2016). תכונות מרכזיות: (1) multiaxial system ששומר תשומת לב מפורשת ל-primary caregiving relationship, physical health status, developmental status, ו-caregiving environmental factors; (2) מתמקד explicit בתינוקות ו-toddlers; (3) מספק מידע על רמות ה-evidence התומכות בכל קריטריון; (4) טווחי גיל ספציפיים שבהם ניתן לשקול כל אבחנה; (5) כל אבחנה כוללת קריטריון של impairment — לא מיישמים אבחנה אם הילד או המשפחה מתפקדים היטב. המערכת מזכירה ש-context של הילד הוא חלק מתהליך האבחון והפורמולציה.\n\n*Dulcan 3e, Ch 2 · \"Diagnostic Issues Regarding Disorders of Early Childhood\"*",
+      "note_id": "1776979005330"
+    },
+    {
+      "id": "C09-dc05-example-diagnoses",
+      "front_md": "**Table 2-1 — דוגמאות אבחנות DC:0-5 ו-DSM-5 crosswalk**",
+      "back_md": "דוגמאות developmentally-specific (Zero to Three 2016):  \n(1) **Inhibition to novelty disorder** (<24m) ↔ Other specified anxiety disorder — עיכוב התנהגותי חריף, פחדנות והימנעות/התכנסות בפני אנשים, דברים או מצבים לא מוכרים.  \n(2) **Disorder of dysregulated anger and aggression of early childhood** (<24m) ↔ DMDD — דפוס נרחב של irritability, כעס, התנהגויות תוקפניות ו-disruptive.  \n(3) **Overactivity disorder of toddlerhood** (24-36m) ↔ ADHD, predominantly hyperactive-impulsive — היפראקטיביות ואימפולסיביות קיצוניים בשני contexts או שני יחסים שונים.  \n(4) **Complicated grief disorder of infancy/early childhood** (>9m) ↔ trauma/stressor-related — תסמינים persistent של trauma ו-depression אחרי מוות של attachment figure.  \n(5) **Relationship-specific disorder** (כל גיל) ↔ Parent-child relational problem.\n\n*Dulcan 3e, Ch 2 · \"Table 2-1\"*",
+      "note_id": "1776979005331"
+    },
+    {
+      "id": "C10-dc05-crosswalk-billing",
+      "front_md": "**Crosswalk ל-billing — יישום DC:0-5 ב-US healthcare**",
+      "back_md": "כדי לאפשר יישום של הקריטריונים ה-developmentally specific, DC:0-5 כולל crosswalk לקודי DSM-5 ו-ICD-11. מדינות בארה\"ב שאישרו את השימוש ב-crosswalk מ-DC:0-5 ל-ICD כדי לאפשר תשלום עבור אבחנה התפתחותית מתאימה: Minnesota, Nevada, New Mexico, North Carolina, Oregon, Tennessee, Alabama. חדשנות זו חשובה — במערכות שבהן diagnosis מניע reimbursement, העדר crosswalk חוסם גישה לטיפול בילדים צעירים. המנגנון מתייחס לעובדה שבלי שיוך של DC:0-5 לקוד ICD, קלינאים לא יכולים לחייב על הטיפול שהם נותנים.\n\n*Dulcan 3e, Ch 2 · \"Diagnostic Issues — Crosswalk\"*",
+      "note_id": "1776979005332"
+    },
+    {
+      "id": "C11-assessment-settings",
+      "front_md": "**Assessment settings — מגוון מיקומי הערכה**",
+      "back_md": "הערכות infant/toddler יכולות להתרחש במיקומים רבים, ובכולם collaboration ו-cross-specialty education הם רכיבים חשובים. Settings נפוצים: (1) office-based mental health clinic — cap psychiatrist כ-solo או כחלק מצוות; (2) early intervention programs; (3) pediatric primary care practices; (4) inpatient pediatric units; (5) juvenile court settings; (6) childcare centers; (7) child protective services; (8) homeless shelters (Finelli et al. 2019; Gleason 2018; Zeanah et al. 2009). ב-settings שאינם mental health, ההערכה יכולה להיות comprehensive כדי להנחות טיפול ע\"י המעריך עצמו, או למלא consultation question specific — במקרה הזה ההערכה תומכת ב-consultee שמטפל במטופל.\n\n*Dulcan 3e, Ch 2 · \"Assessment Settings\"*",
+      "note_id": "1776979005334"
+    },
+    {
+      "id": "C12-physical-environment",
+      "front_md": "**Physical environment — מרחב שמקדם אלייאנס**",
+      "back_md": "תשומת לב לסביבה הפיזית מקלה על ה-therapist-parent relationship עוד לפני שהקלינאי פוגש את המשפחה. חדרי המתנה ומשרדים עם: (1) child-size furniture; (2) פעילויות לילדים; (3) ספרים ותמונות culturally inclusive — עוזרים למשפחה להרגיש מוזמנת עוד לפני שההערכה מתחילה. בנוסף, מרחב שתומך ב-breastfeeding עוזר למשפחות של תינוקות יונקים להרגיש בנוח. העיצוב אינו עניין קוסמטי — זה חלק אינטגרלי של early engagement ו-alliance-building עם הורים שעלולים להגיע חששים, סטיגמה, או חווית referral טעונה.\n\n*Dulcan 3e, Ch 2 · \"Physical Environment\"*",
+      "note_id": "1776979005335"
+    },
+    {
+      "id": "C13-self-monitoring",
+      "front_md": "**Self-monitoring — transference ו-countertransference**",
+      "back_md": "לאורך תהליך ההערכה קלינאים חייבים להיות מודעים להשפעת היחסים והחוויות שלהם עצמם. ההיסטוריה האישית של הקלינאי מעצבת את התגובות שלו ליחסי מטופלים ומשפחותיהם. עבודה עם תינוקות ומשפחות היא emotionally evocative באופן מיוחד — מפעילה אסוציאציות של ילדות הקלינאי, יחסי הורה-ילד שלו, ותחושות פגיעוּת או protection. דיון ב-transference ו-countertransference עם colleagues או ב-supervision הוא תמיכה חיונית. ללא מרחב reflexive, הקלינאי עלול להרגיש identification יתר עם ההורה, עם הילד, או לחילופין לחוות distance רגשי כ-defense.\n\n*Dulcan 3e, Ch 2 · \"Self-Monitoring\"*",
+      "note_id": "1776979005336"
+    },
+    {
+      "id": "C14-first-goal-warmth-stigma",
+      "front_md": "**מטרה ראשונה של ההערכה — warmth והכרה בחששות**",
+      "back_md": "כשמשפחה מגיעה, המטרה הראשונה היא ליצור סביבה חמה ומקבלת ולהתחיל הבנה משותפת של מטרות ותהליך ההערכה. סטיגמה של mental health משפיעה על כל המטופלים ב-child psychiatry אבל עשויה להיות חזקה במיוחד ב-early childhood. צעד ראשון: להכיר בחששות דיבוריים או שתוקים — הורים עלולים לחשוש שייראו inadequate או גרוע מכך, שה-referral מעיד על חשש שהתינוק \"irremediably disordered,\" שה-referral יגרור מעורבות CPS או איבוד custody. התייחסות מפורשת לחששות אלה עוזרת לבנות יחסים collaborative. ה-clinician-parent relationship הוא central לתהליך — יחסים טובים מאפשרים שיתוף פתוח של תצפיות ותפיסות, ולפעמים גם מספקים למטפל מודל חדש של יחסים nurturing.\n\n*Dulcan 3e, Ch 2 · \"Goals of Infant and Early Childhood Mental Health Assessments\"*",
+      "note_id": "1776979005337"
+    },
+    {
+      "id": "C15-dc05-five-axes",
+      "front_md": "**5 צירי DC:0-5 — biopsychosocial formulation**",
+      "back_md": "מטרת איסוף המידע היא להניב biopsychosocial formulation באמצעות כל חמשת הצירים של DC:0-5:  \n(1) **Clinical disorders** — הפרעות נפשיות של הילד.  \n(2) **Relational context** — איכות יחסי caregiver הראשוניים.  \n(3) **Physical health context and considerations** — מצב רפואי ושיקולים בריאותיים.  \n(4) **Psychosocial stressors** — גורמי stress של המשפחה והקהילה.  \n(5) **Developmental competence** — רמת תפקוד והשגת developmental milestones.  \n\nההערכה עוזרת לזהות את הגורמים המשפיעים על ההתפתחות הרגשית וה-relational של הילד, ולתכנן interventions timely שמקטינים distress ו-impairment ומשפיעים חיובי על ה-developmental trajectory.\n\n*Dulcan 3e, Ch 2 · \"Goals of IECMH Assessments\"*",
+      "note_id": "1776979005338"
+    },
+    {
+      "id": "C16-comprehensive-assessment-structure",
+      "front_md": "**Comprehensive assessment — מבנה רב-פגישתי**",
+      "back_md": "הערכות infant/toddler דורשות: (1) multiple appointments; (2) multiple informants; (3) multiple modes של assessment — כולל פרוצדורות formal ו-informal, observation ו-history collection (Table 2-2). הכללת התינוק או ה-toddler ברוב הפגישות מאפשרת תצפיות extensive של אינטראקציות parent-child ומפחיתה את הצורך ב-childcare במהלך הפגישות. Table 2-2 מארגן את ה-elements לארבע עמודות: **History** (מכל המקורות), **Child observations**, **Parent-child interactions**, ו-**Structured assessment tools**. הגיוון הזה מחליף את המגבלה של מקור מידע יחיד — כל עמודה תורמת perspective אחר להבנת הילד, המשפחה, ויחסיהם.\n\n*Dulcan 3e, Ch 2 · \"Comprehensive Assessment — Table 2-2\"*",
+      "note_id": "1776979005339"
+    },
+    {
+      "id": "C17-open-ended-strength-based",
+      "front_md": "**שאלות open-ended strength-based — איך להתחיל ראיון**",
+      "back_md": "כמו בכל psychiatric interview, שאלות פתוחות שימושיות. שאלות על האישיות והחוזקות של הילד הן דרך לא-מאיימת להתחיל ראיון. שאלות כאלה: (1) מדגישות את הגישה strength-based ומעבירות מסר שהילד נראה כאדם שלם, לא רק כ-case; (2) מספקות לקלינאי תחושה של יכולת ההורה לתאר גם attributes חיוביים וגם התנהגויות concerning; (3) מפחיתות את אפקט הסטיגמה שמפליא בהתחלה; (4) בונות alliance כי ההורה מרגיש שהילד שלו נראה כיותר מאשר \"בעיה.\" פתיחה עם חוזקות היא עקבית עם prevention-focused, strength-based זהות של infant/early childhood mental health כ-subspecialty.\n\n*Dulcan 3e, Ch 2 · \"Comprehensive Assessment\"*",
+      "note_id": "1776979005340"
+    },
+    {
+      "id": "C18-pqrst-mnemonic",
+      "front_md": "**PQRST — mnemonic ל-presenting problem**",
+      "back_md": "ה-mnemonic PQRST — שמיועד במקור להערכת כאב — מיישם גם ל-presenting problems של ילדים:  \n**P** — Precipitants and palliative factors (מה מחמיר ומה מקל).  \n**Q** — Quality (בדיוק איך זה נראה? — תיאור התנהגותי מדויק).  \n**R** — Relationships in which the behavior pattern presents (באילו יחסים התבנית מופיעה? — הכיוון ל-relationship-specific).  \n**S** — Severity of the presenting concern.  \n**T** — Timing of the behavior patterns (זמן היום, זמן יחסית ל-events אחרים).\n\nהמבנה הזה עוזר להסיק את ה-context הסביבתי, התזמון, וההשפעות הפוטנציאליות — ובמיוחד באם הדפוס universal לכל היחסים של הילד או specific רק לחלקם.\n\n*Dulcan 3e, Ch 2 · \"History of Presenting Problem\"*",
+      "note_id": "1776979005341"
+    },
+    {
+      "id": "C19-caregiver-attribution",
+      "front_md": "**Caregiver attribution of meaning — למה זה חשוב**",
+      "back_md": "תגובות caregiver להתנהגויות הילד יכולות לעזור לילד להסדיר, או להחמיר את הדפוס. תגובות צריכות להיגבות מ-caregivers רבים ככל האפשר. ה-attribution של משמעות להתנהגויות הוא crucial. דוגמה: tantrums של ילד בן 24 חודשים נראים developmentally appropriate לקלינאי — אך הם הופכים focus קליני משמעותי אם ההורה תופס את הילד כתוקפן או מאמין שההתנהגויות מעידות שהילד ילך בדרכו של קרוב משפחה עם psychiatric impairment. ככל שהקלינאי מבין עמוק יותר איך ההורה חווה את הילד הצעיר, ומי הילד \"represents\" להורה — כך הוא יוכל לבנות תכנית טיפול אפקטיבית יותר. ה-parental representation מופיעה בצורה מובנית ב-WMCI.\n\n*Dulcan 3e, Ch 2 · \"History of Presenting Problem\"*",
+      "note_id": "1776979005342"
+    },
+    {
+      "id": "C20-review-of-systems",
+      "front_md": "**Review of Systems — דפוסים רגולטוריים ומצבי-רוח**",
+      "back_md": "ROS חיוני כדי להכניס את ה-chief complaint ל-context. חשוב להבין: (1) דפוסים רגולטוריים — emotional regulation וכן תהליכים ביולוגיים כמו sleep ו-feeding (לעיתים הדפוסים הבולטים ביותר ב-young infants); (2) ב-toddlers בוגרים — mood כללי ודפוסי שינויי מצב-רוח, פחדים, activity level, impulsivity, aggression, social interactions. גורמים ביחסי parent-child שכדאי לחקור: (a) **attachment behaviors מתפתחים** — בקשת נחמה סלקטיבית מהורה בזמני distress או במצבים חדשים; חוויות של מעורבות הדדית וכיף משותף; (b) **ציפיות ותקוות** ההורה מהילד (נחקר בהרחבה ב-Formal Assessment Procedures). לאורך הראיון — הקלינאי מקשיב ל-tone של ה-caregiver, ליכולת לשקול מנקודת מבטו של הילד, ולחוש שהילד בעל חוזקות וגם קשיים.\n\n*Dulcan 3e, Ch 2 · \"Review of Systems\"*",
+      "note_id": "1776979005343"
+    },
+    {
+      "id": "C21-medical-history-preconception",
+      "front_md": "**Medical history — תקופת preconception**",
+      "back_md": "מועיל להתחיל את המדיקל היסטורי עם התקופה שלפני ההריון. תכנון ההריון — כולל הריונות לא-רצויים, קושי להיכנס להריון, ו-pregnancy losses — עלול להשפיע על ציפיות ההורה מהילד. כשאם לא תכננה או רצתה להיכנס להריון, מועיל להבין: (1) למה המשיכה את ההריון; (2) האם תפיסת ההריון השתנתה לאורך הזמן. למשפחות שאימצו, השתמשו ב-reproductive assistive technology, או ב-surrogates — חשוב להבין את ההחלטות האלה. נושאים אלה יכולים להיכנס לחלקים אחרים של ה-history אבל לעיתים קל לשלב אותם לתוך ה-medical history. המידע הזה נותן בסיס להבנת ה-internal representation של ההורה את הילד.\n\n*Dulcan 3e, Ch 2 · \"Medical History — Preconception\"*",
+      "note_id": "1776979005344"
+    },
+    {
+      "id": "C22-pregnancy-perinatal-history",
+      "front_md": "**היסטוריית הריון וסב-לידתית**",
+      "back_md": "במהלך ההריון, גורמים שעשויים להשפיע על גדילת העובר וההתפתחות המאוחרת: (1) illnesses/infections; (2) substance use; (3) exposure to violence; (4) maternal psychopathology (Yehuda et al. 2005). לידה פגה (premature birth) עשויה להיות trauma מוקדמת שמשפיעה על יחסי parent-child ועל ההתפתחות (Muller-Nix and Forcada-Guex 2009; Vanderbilt and Gleason 2010). בנוסף ל-medical events או hospitalizations של הילד, כדאי לשאול על: colic, failure to thrive, elevated serum lead levels, pica, head trauma, או אירועי CNS אחרים שעשויים להיות קשורים להופעה הנוכחית של התינוק או ה-toddler (Zero to Three 2016). כל אחד מהאירועים הללו יכול לשנות dramatically את מסלול ההתפתחות ואת יחסי caregiver.\n\n*Dulcan 3e, Ch 2 · \"Medical History — Pregnancy\"*",
+      "note_id": "1776979005346"
+    },
+    {
+      "id": "C23-developmental-history",
+      "front_md": "**Developmental history — milestones וזיהוי atypical**",
+      "back_md": "Developmental milestones חשובים בכל הערכה infant/early childhood כדי להבין את ה-pattern ההתפתחותי של הילד ביחס לגיל כרונולוגי. כלי עזר שימושיים: (1) CDC — free developmental checklists ו-handouts בכתובת www.cdc.gov/ncbddd/childdevelopment; (2) DC:0-5 כולל טבלה לתמיכה בתהליך ההערכה ההתפתחותית (Zero to Three 2016). קלינאים עם פחות היכרות עם התפתחות טיפוסית צריכים להשתמש ב-low threshold לבקש הערכה פורמלית — developmental status עלול להשפיע מאוד על ההופעה הקלינית. בנוסף למילסטונים טיפוסיים, יש לשים לב לסימני התפתחות atypical — במיוחד דפוסים suggestive ל-ASD ב-social communication וב-repetitive/restrictive behaviors.\n\n*Dulcan 3e, Ch 2 · \"Developmental History\"*",
+      "note_id": "1776979005347"
+    },
+    {
+      "id": "C24-asd-red-flags-infant",
+      "front_md": "**ASD red flags בתינוק — מה לחפש**",
+      "back_md": "כי evidence-based intervention מוקדם ל-ASD critical ל-outcomes חיוביים לאורך זמן, vigilance ל-neurodevelopmental disorder זה מוצדקת. בילדים צעירים מאוד, תצפיות חשובות במיוחד: (1) **reciprocity** דרך eye contact ו-joint attention; (2) **gestural communication** — הצבעה, הושטת חפץ, אמפתיה לסביבה; (3) יכולת להשתתף ב-social interactions; (4) **representational play** age-appropriate. ה-vigilance הזה ממוקדת בשני domains מהקריטריונים של DSM-5 — social communication וכן repetitive/restrictive behaviors. סף נמוך להפניה ל-developmental assessment פורמלי נכון במיוחד כאן, כי המועיל של early diagnosis גדול.\n\n*Dulcan 3e, Ch 2 · \"Developmental History\"*",
+      "note_id": "1776979005348"
+    },
+    {
+      "id": "C25-family-history-genogram",
+      "front_md": "**Family history — גנוגרמה רב-דורית**",
+      "back_md": "Family psychiatric history חשוב במיוחד בהערכת infant/early childhood. מועיל לצייר multiple-generation genogram כדי: (1) להבהיר את היחסים בין בני המשפחה; (2) ללמוד על סביבות caregiving מוקדמות של ההורים עצמם; (3) לזהות השפעות גנטיות פוטנציאליות; (4) לזהות דפוסי יחסים בין בני משפחה. כשהורים או מבוגרים אחרים במשק הבית יש לכ היסטוריה psychiatric, sensitive exploration של תסמינים נוכחיים וההשפעה שלהם על הילד או על סגנון ה-caregiving ההורה הוא valuable. בנוסף, caregivers עלולים לחשוש שההתנהגויות של הילד משקפות תסמינים של מבוגרים עם בעיות mental health משמעותיות במשפחה — ועיבוד sensitive של חשש זה הוא חלק מהראיון.\n\n*Dulcan 3e, Ch 2 · \"Family History\"*",
+      "note_id": "1776979005349"
+    },
+    {
+      "id": "C26-social-history-scope",
+      "front_md": "**Social history — היקף ה-context של הילד**",
+      "back_md": "ה-social history בהערכת infant/early childhood psychiatry כולל תשומת לב ל: (1) household members; (2) extended family; (3) cultural/spiritual influences; (4) community factors — כולל support systems או early adversity. Support systems מגוונים: extended family, קהילה דתית/רוחנית, שכונה תומכת, early childhood education setting (Lieberman et al. 2005). נוסף על כך — תפיסות ההורים של safety בבית ובקהילה, והמידה שההורים מרגישים שהם יכולים לספק את הצרכים הבסיסיים של המשפחה, יכולים להיות השפעות חזקות על ההופעה הקלינית ועל התערבויות מתאימות. חלק מתכניות IECMH כוללות intensive case management כדי לתת מענה ל-basic needs ולהקל על engagement בטיפול.\n\n*Dulcan 3e, Ch 2 · \"Social History\"*",
+      "note_id": "1776979005350"
+    },
+    {
+      "id": "C27-aces-broad-definition",
+      "front_md": "**ACEs — early adversity בהגדרה רחבה**",
+      "back_md": "ההגדרה של early adversity ב-IECMH היא broad. כוללת את ה-events שנמדדו ב-Adverse Childhood Experiences Study: (1) child abuse; (2) neglect; (3) family violence; (4) caregiver incarceration; (5) caregiver psychopathology; (6) parental separation (Felitti et al. 1998). אבל גם: (7) parental history of abuse; (8) institutional care; (9) אסונות קהילתיים natural או man-made; (10) community violence; (11) racism; (12) prenatal exposures to adversity (Bright and Thompson 2018; Drury et al. 2012; Hunter et al. 2011). literature גדלה מראה ש-long-lasting sequelae של חוויות אלה — כנראה דרך epigenetic changes — מנבאים הבדלים ביולוגיים מדידים, בעיות קוגניטיביות, ו-psychiatric disorders עד לגיל ההתבגרות (Tyrka et al. 2013). Family violence (partner + child abuse) חשובה במיוחד — עשויה להיות ongoing ולא נחלקת באופן ספונטני.\n\n*Dulcan 3e, Ch 2 · \"Social History\"*",
+      "note_id": "1776979005351"
+    },
+    {
+      "id": "C28-cultural-humility",
+      "front_md": "**Cultural humility — רכיב critical**",
+      "back_md": "מאחר ש-perspectives על parenting ויחסי parent-child עלולים להיות שונים בין תרבויות, מועיל לחקור את ציפיות המשפחה ביחס ל-parent-child relationship ואת סוגי האינטראקציות שהם תופסים כ-culturally acceptable או optimal. cultural humility הוא ingredient critical בהערכת IECMH. הערכה של ציפיות culturally מהורים מקלה על תהליך therapeutic collaborative. ההבחנה החשובה — humility, לא רק competence: לא \"אני יודע את התרבות שלך\" אלא \"אני פתוח ללמוד ממך איך המשפחה שלך רואה parenting ויחסים.\" זה עקבי עם הגישה ה-strength-based ומקטין את הסיכון להטלת ציפיות מודלים חיצוניים על המשפחה.\n\n*Dulcan 3e, Ch 2 · \"Social History\"*",
+      "note_id": "1776979005352"
+    },
+    {
+      "id": "C29-child-observations",
+      "front_md": "**Observations של ילד — מה להסתכל עליו**",
+      "back_md": "תצפית ספציפית לכל הערכה: feeding של תינוק או free-play period עם toddler. בתצפיות יש לשים לב ל: (1) **appearance** — stigmata של תסמונות גנטיות (fragile X) או prenatal teratogenic exposures (alcohol); (2) **level of activity**; (3) **vocalizations/verbalizations**; (4) **social reciprocity**; (5) **regulatory capacity** — level of arousal, יכולת לארגן מחדש אחרי limit setting או frustration; (6) ב-toddlers — patterns of play ו-aggressive behaviors. הערכה זו נועדה לזהות גם אתיולוגיות ביולוגיות (תסמונות) וגם טמפרמנט וכוחות וחולשות של regulation — בסיס חיוני לפורמולציה.\n\n*Dulcan 3e, Ch 2 · \"Observations\"*",
+      "note_id": "1776979005353"
+    },
+    {
+      "id": "C30-table23-developmental-epochs",
+      "front_md": "**Table 2-3 — 4 epochs התפתחותיים (0-2m, 2-7m, 7-18m, 18-36m)**",
+      "back_md": "(Zeanah et al. 2011; CDC 2021)  \n**Birth-2m:** Social — quiet alert minutes. Emotional — crying peaks ~6w. Communicative — engagement/disengagement cues. Gross — improved tone. Growth — regain birth weight by 2w.  \n**2-7m:** Social — social smile, sustained eye contact. Emotional — joy, fear, surprise. Communicative — responsive cooing. Play — exploratory. Gross — rolling 3-4m, sitting 6-8m. Fine — grasp one hand 6m. Growth — double birth weight 4-6m.  \n**7-18m:** Social — stranger wariness, separation protest, social referencing. Emotional — affective attunement, differentiated affect. Communicative — intentional communication, protowords. Play — parallel (12-24m). Gross — walking 12-15m. Fine — pincer 7-9m, transfer 12m. Growth — triple birth weight 1y.  \n**18-36m:** Social — awareness of group relationships, possessions. Emotional — moral emotions (shame, guilt, pride). Communicative — expressive language blossoms. Play — early representational 24-36m. Gross — running 1.5-2y, jumping 2.5-3y. Fine — hand dominance, 2 blocks at 18m, 8 blocks at 30m, copy circle 36m. Growth — quadruple birth weight 2y.\n\n*Dulcan 3e, Ch 2 · \"Table 2-3\"*",
+      "note_id": "1776979005354"
+    },
+    {
+      "id": "C31-parent-child-interaction-domains",
+      "front_md": "**Domains של parent-child interaction — תצפית אינפורמלית**",
+      "back_md": "Domains שניתן לצפות בהם באופן אינפורמלי: **מצד הילד** — (1) שימוש בהורה ל-assistance; (2) joy sharing; (3) comfort seeking; (4) play. **מצד ההורה** — (1) anticipation של צרכי התינוק; (2) responsiveness ל-cues של הילד; (3) יכולת לבנות interactions שמתאימות להתפתחות הילד; (4) level of engagement; (5) enjoyment כללי מהילד. במהלך dyadic play הקלינאי שם לב ל: mutual engagement, shared attention, reciprocity, ועם ילדים verbal — themes של representational play משותפים. tone של האינטראקציה, נוחות הדיאדה יחדיו, ו-nature של תגובות affective משקפים את ה-quality של היחסים.\n\n*Dulcan 3e, Ch 2 · \"Observations — Parent-Child Interactions\"*",
+      "note_id": "1776979005355"
+    },
+    {
+      "id": "C32-separation-reunion",
+      "front_md": "**Separation-reunion — פרוצדורה קלינית**",
+      "back_md": "כאשר גיל התפתחותי של ילד הוא לפחות 7-9 חודשים, הקלינאי יכול לארגן separation-reunion במהלך הערכה כדי לתת מדד לאיך הדיאדה מתחברת מחדש אחרי הפרדה קצרה. מרגע שהילד מגיע ל-7-9 חודשים בהתפתחות, separation מפעילה את מערכת ה-attachment של הילד, כפי שבא לידי ביטוי ב-stranger wariness ו-separation protest. המידע המעיד ביותר על איכות ה-attachment הוא יכולת הדיאדה לפתור את distress ה-separation יחד במהלך ה-reunion (Zeanah et al. 2000) — האם לילד יש strategy לשימוש בהורה כדי לפתור distress, למשל על ידי seeking proximity להורה. זה הליבה של הערכת attachment בסביבה קלינית.\n\n*Dulcan 3e, Ch 2 · \"Observations — Separation-Reunion\"*",
+      "note_id": "1776979005356"
+    },
+    {
+      "id": "C33-wmci",
+      "front_md": "**WMCI — Working Model of the Child Interview**",
+      "back_md": "WMCI הוא ראיון כ-שעה על הבנת ההורה את הילד שלו ואת היחסים (זמין ב-medicine.tulane.edu/infant-institute). ההורה נשאל על אישיות הילד והיחסים. שני סוגי מידע: (1) **content** — חוויית ההורה את התינוק או toddler; (2) **characteristics of the narrative** — אפקטיבי יותר: affective tone, level of emotional involvement, coherence, balance של תיאורים חיוביים ו-שליליים (Zeanah and Benoit 1995). ניתן לצלם לסקירה נוספת. ב-research formal coding — parental representation מבדיל בין תינוקות clinically referred ו-non-referred (Benoit et al. 1997). הורים עם representations מאוזנות סביר שיש להם ילדים עם secure attachment (Zeanah et al. 1994). WMCI עבר הערכה קפדנית במחקר (Vreeswijk et al. 2012) ושימש extensive קלינית.\n\n*Dulcan 3e, Ch 2 · \"Parent-Child Relationship Assessments\"*",
+      "note_id": "1776979005357"
+    },
+    {
+      "id": "C34-insightfulness-assessment",
+      "front_md": "**Insightfulness Assessment (IA) — תפיסת הורה את פנימיות הילד**",
+      "back_md": "IA מודד את יכולת ההורה לקחת את נקודת המבט של התינוק (Oppenheim and Koren-Karie 2002), שימושי מגיל 6 חודשים עד 18 שנים. **פרוצדורה**: ההורה מרואיין אחרי צפייה בסרטון שלו עצמו באינטראקציה מובנית עם הילד. הראיון מתמקד בהבנת ההורה מה הילד הרגיש במהלך האינטראקציות ואיך ההורה הרגיש בזמן הצפייה. **Coding** מתמקד ב-quality ו-coherence של ה-narrative, מניב 4 קבוצות: (1) positively insightful; (2) one-sided; (3) disengaged; (4) mixed. Validity הודגמה ע\"י קשרים ל-attachment classification, maternal observed sensitivity, ו-theory of mind של הילד 3 שנים אחר כך (Oppenheim and Koren-Karie 2013). Insightfulness משתנה עם dyadic interventions וקשורה לשיפור בתסמיני internalizing ו-externalizing של הילד (Oppenheim et al. 2004).\n\n*Dulcan 3e, Ch 2 · \"Parent-Child Relationship Assessments\"*",
+      "note_id": "1776979005358"
+    },
+    {
+      "id": "C35-circle-of-security",
+      "front_md": "**Circle of Security — Interview ו-core sensitivities**",
+      "back_md": "Circle of Security הוא מודל טיפולי לילדים בגיל 0-5 (Cooper et al. 2009). ה-Circle of Security Interview נבנה ממקורות: (1) Adult Attachment Interview; (2) Parent Development Interview; (3) שאלות על חוויית ההורה ב-Strange Situation. מהראיון הקלינאים יכולים לזהות את ה-defensive strategy הראשית של ההורה — \"core sensitivity\" — באחת מ-3 קטגוריות:  \n(1) **Esteem sensitive** — חשש מערכי-עצמי נפגע.  \n(2) **Safety sensitive** — חשש שהעצמי או הילד בסכנה.  \n(3) **Separation sensitive** — חשש מ-loss של יחסים.  \n\nתהליך זה עוזר לקלינאים להבין מתי הורה עלול להרגיש לא-נוח ביחסים עם הילד ואיזה trigger זוז פעולה defensive שחוסם responsiveness.\n\n*Dulcan 3e, Ch 2 · \"Parent-Child Relationship Assessments\"*",
+      "note_id": "1776979005359"
+    },
+    {
+      "id": "C36-crowell-procedure",
+      "front_md": "**Crowell procedure — פרוצדורת תצפית דיאדית**",
+      "back_md": "Crowell procedure (Crowell and Feldman 1988) — ההורה והילד (בגיל התפתחותי של לפחות 6 חודשים) נצפים בסדרת פעילויות: (1) free play; (2) cleanup; (3) bubbles sequence; (4) ארבע puzzle tasks; (5) separation and reunion. הפרוצדורה מספקת method סטנדרטי להערכת domains רבים של יחסי parent-child: (a) reciprocal emotions; (b) protection and safety; (c) comforting and comfort seeking; (d) teaching and learning; (e) play; (f) discipline ותגובה לגבולות; (g) parental structure ו-self-regulation של הילד. ההערכה מספקת עומק הבנה של אינטראקציות הדיאדה, יכולת לשמחה, ויכולת לנווט מצבים stressful. תהליך ה-separation/reunion נותן מידע valuable על איך הילד משתמש בהורה ל-comfort בזמן מעט-לחץ relationship stressor.\n\n*Dulcan 3e, Ch 2 · \"Parent-Child Relationship Assessments\"*",
+      "note_id": "1776979005360"
+    },
+    {
+      "id": "C37-still-face-paradigm",
+      "front_md": "**Still-face paradigm — הערכה לתינוקות צעירים (3-6 חודשים)**",
+      "back_md": "ל-infants צעירים יותר (גיל 3-6 חודשים), still-face paradigm מספק מידע valuable על dyadic emotional regulation. הפרוצדורה כוללת 3 פאזות:  \n(1) **אינטראקציה נטורליסטית** — הורה וילד מתקשרים כרגיל.  \n(2) **3 דקות still face** — ההורה שומר על non-reactive facial expression, בלי להגיב לתינוק.  \n(3) **3 דקות reengagement** — ההורה חוזר לאינטראקציה כרגיל.  \n\nתגובות ל-still-face קשורות ל-maternal internal representation of the infant (Rosenblum et al. 2002) ומנבאות את ה-attachment classification העתידי. קלינית, still-face paradigm מאפשר לצפות ב-mutual regulatory capacities של תינוק והורה — איך הילד מתמודד עם רוח יחסי זמנית, ואיך ההורה מתמודד עם הצורך לעצור ואז להתחבר מחדש.\n\n*Dulcan 3e, Ch 2 · \"Parent-Child Relationship Assessments\"*",
+      "note_id": "1776979005361"
+    },
+    {
+      "id": "C38-papa",
+      "front_md": "**PAPA — Preschool Age Psychiatric Assessment**",
+      "back_md": "PAPA היה הראיון הראשון ה-comprehensive שנבדק לשימוש בילדים צעירים (Egger and Angold 2006). זהו interviewer-based psychiatric diagnostic interview המתמקד בילדים בגילאי 2-5. **תכונות**: (1) בוחן systematically את ה-impairment הקשור לתסמיני הילד; (2) הראה test-retest reliability דומה לראיונות אבחוניים אחרים; (3) התוצאות מתואמות עם ציוני CBCL (Egger et al. 2006). **מגבלה**: comprehensive — עלול לא להיות מעשי בכל clinical setting. כמו כל כלי יחיד, ראיון systematic מספק מידע שמוסיף לרושם הקליני ומשולב ב-diagnostic formulation, אבל לא מספיק לבדו לאבחנה. כל parent-report הוא מידע על חוויית ההורה ולכן נשקל בתוך הערכה רחבה יותר.\n\n*Dulcan 3e, Ch 2 · \"Diagnostic Interviews\"*",
+      "note_id": "1776979005364"
+    },
+    {
+      "id": "C39-dipa",
+      "front_md": "**DIPA — Diagnostic Infant and Preschool Assessment**",
+      "back_md": "DIPA הוא respondent-based interview של הורים לילדים בגילאי 18-60 חודשים (Scheeringa and Haslett 2010). בנוסף לסקירה systematic של תסמינים, DIPA גם חוקר את המידה שהורים accommodated את הדפוסים ההתנהגותיים של ילדיהם — נקודה ייחודית לאוכלוסייה הזו. **תכונות**: (1) test-retest reliability דומה לזו של PAPA; (2) רוב ה-symptom scales של DIPA מתואמים עם CBCL; (3) הראיון כולל diagnostic algorithms לכל מודול. ההבדל המרכזי מ-PAPA: טווח גיל מתחיל צעיר יותר (18 חודשים לעומת 24), והדגש על parental accommodation שהוא מרכיב קריטי ב-toddler mental health כי הורים משתנים לעיתים קרובות את הסביבה סביב הילד כדי להימנע מ-meltdowns.\n\n*Dulcan 3e, Ch 2 · \"Diagnostic Interviews\"*",
+      "note_id": "1776979005365"
+    },
+    {
+      "id": "C40-caregiver-checklists-general",
+      "front_md": "**Caregiver report checklists — עקרונות כלליים ומגבלות**",
+      "back_md": "Checklists מהורים, childcare providers, או מורים מועילים ל-(1) הערכת רמת בעיות התנהגות; (2) השוואה לאוכלוסיות רחבות (כשיש norm); (3) פיתוח תמונה multidimensional כשיותר ממדווח אחד ממלא — הילד ביותר מ-context או relationship אחד; (4) מעקב אחרי תסמינים או חוזקות לאורך זמן. **מגבלות**: (a) משקפים חוויה סובייקטיבית של המדווח; (b) parent-report מדדי infants (<12 חודשים) מדגים validity נמוך יותר מאשר toddlers; (c) בחירת gold standard להערכה בתינוקות <12 חודשים נשארת אתגר (de Wolff et al. 2013); (d) מדדי infant/early childhood יכולים להיבחן רק בהקשר של parent-child relationship — מדדים שלא מעריכים היבט זה כנראה לא-מספקים.\n\n*Dulcan 3e, Ch 2 · \"Caregiver Report Checklists\"*",
+      "note_id": "1776979005366"
+    },
+    {
+      "id": "C41-asq-se",
+      "front_md": "**ASQ:SE — Ages & Stages Questionnaires: Social-Emotional 2e**",
+      "back_md": "(Squires et al. 2002) **גילאים:** 6-60 חודשים (טפסים שונים ל-6, 18, 24, 30, 36, 48, 60 חודשים). **Domains:** self-regulation, compliance, communication, adaptive functioning, autonomy, affect, interaction with people. **מבנה:** 22-36 items, Likert 3-point. **תקפות:** Sensitivity בניבוי ציון חיובי על CBCL ו-Vineland Social-Emotional Early Childhood Scales או אבחנה ידועה: 71%-85%. Specificity: 90%-98%. לא מתואם עם behaviors תצפיתיים של תינוק; מתואם גבוה עם maternal distress (Salomonsson and Sleed 2010). **מהימנות:** excellent test-retest r=0.91 אחרי 1-3 שבועות. **תכונה מיוחדת:** כלי screening, כולל strength-based items. **זמינות:** רכישה ב-brookespublishing.com.\n\n*Dulcan 3e, Ch 2 · \"Table 2-4 — ASQ:SE\"*",
+      "note_id": "1776979005368"
+    },
+    {
+      "id": "C42-cbcl-1half-5",
+      "front_md": "**CBCL 1½-5 — Child Behavior Checklist לתינוקות ו-preschool**",
+      "back_md": "(Achenbach and Rescorla 2000) **גילאים:** 18-60 חודשים. **Domains:** Internalizing, Externalizing, ו-total problems. **מבנה:** 99 פריטים, Likert 3-point. **תקפות:** ציונים גבוהים יותר בילדים clinically referred מ-non-clinically referred (effect size 0.3); 77% sample של referred vs 26% של non-referred. **מהימנות:** test-retest אחרי שבוע — mean 0.85 parent-report, 0.81 teacher-report. **תכונות מיוחדות:** מערכת scoring ממוחשבת; כולל validated teacher rating form (C-TRF). **זמינות:** רכישה מ-ase.com (ASEBA). CBCL 1½-5 הוא אחד הכלים ה-standardized הנפוצים ביותר בתחום ושימש במחקר רב כ-gold standard להערכת behavior problems ב-early childhood — לא מפליא שהוא ה-reference שמתקפים נגדו מדדים חדשים.\n\n*Dulcan 3e, Ch 2 · \"Table 2-4 — CBCL\"*",
+      "note_id": "1776979005369"
+    },
+    {
+      "id": "C43-ecsa",
+      "front_md": "**ECSA — Early Childhood Screening Assessment**",
+      "back_md": "(Gleason et al. 2010; Fallucco et al. 2017) **גילאים:** 18-60 חודשים. **Domains:** internalizing, externalizing, relationship, parent depression ו-distress. **מבנה:** 40 items (36 child-focused, 4 parent-focused); brief version 22 items (2 parent-focused), Likert 3-point. **תקפות:** Sensitivity 86% בניבוי אבחנת DIPA; specificity 83%; brief version — correlations חזקות עם CBCL ו-moderate עם BITSEA. **מהימנות:** test-retest Spearman's ρ = 0.81. **תכונה מיוחדת:** כולל parent depression ו-distress items — ייחודי! גם נותן opportunity לציין concern על פריטים specific. **זמינות:** הורדה חינם ב-medicine.tulane.edu/institutes/tecc/screening. הייחוד של ECSA הוא החיבור במכשיר יחיד של הערכת הילד והערכת הורה — משקף את עקרון ה-IECMH שהילד נבחן תוך הקשר relational.\n\n*Dulcan 3e, Ch 2 · \"Table 2-4 — ECSA\"*",
+      "note_id": "1776979005370"
+    },
+    {
+      "id": "C44-bitsea",
+      "front_md": "**BITSEA — Brief Infant-Toddler Social and Emotional Assessment**",
+      "back_md": "(Briggs-Gowan and Carter 2002) **גילאים:** 12-36 חודשים. **Domains:** Internalizing, externalizing, dysregulation, ו-competence. **מבנה:** 166 items (42 ב-Brief version), Likert 3-point. **תקפות:** קשר עם CBCL total problem scores r=0.47 (internalizing), r=0.67 (externalizing). קשר עם observer ratings r=0.20-0.31. **מהימנות:** test-retest שבועי mean 0.82-0.90 ל-domains. **תכונה מיוחדת:** כולל ציר strengths/competence — לא רק בעיות. BITSEA screener (נוסח קצר) הוא companion measure זמין. **זמינות:** הורדה חינם ב-trust.org/instruments/emotional-assessment. BITSEA טוב במיוחד לזיהוי competence — tricky לתפוס ב-infant — וגם למעקב ה-dysregulation, הדפוס הקליני העיקרי ב-toddlers עם DMDD-like presentation.\n\n*Dulcan 3e, Ch 2 · \"Table 2-4 — BITSEA\"*",
+      "note_id": "1776979005371"
+    },
+    {
+      "id": "C45-bpsc-ppsc",
+      "front_md": "**BPSC / PPSC — Baby & Preschool Pediatric Symptom Checklist**",
+      "back_md": "(Sheldrick et al. 2012) **גילאים:** BPSC 0-18 חודשים; PPSC 18-60 חודשים. **Domains:** BPSC — irritability, inflexibility, difficulty with routines. PPSC — externalizing, internalizing, attention problems, parenting challenges. **מבנה:** 12 items (BPSC), 18 items (PPSC), Likert 3-point. **תקפות:** BPSC מתואם low-to-moderate עם ASQ:SE, PHQ-2, difficult child של PSI. PPSC מנבא clinical-range CBCL עם sensitivity 0.75-0.89, specificity 0.77. **מהימנות:** test-retest 0.71-0.75. **תכונה מיוחדת:** חלק ממערכת primary care screening רחבה יותר; ease of use. **זמינות:** הורדה חינם מ-Tufts Children's Hospital. BPSC/PPSC עוצבו במיוחד לסביבת primary care — קצרים ונוחים לאינטגרציה בביקור pediatric שגרתי.\n\n*Dulcan 3e, Ch 2 · \"Table 2-4 — BPSC/PPSC\"*",
+      "note_id": "1776979005372"
+    },
+    {
+      "id": "C46-maternal-depression-bias",
+      "front_md": "**Maternal depression — השפעה על דיווחי checklists**",
+      "back_md": "דיכאון אמהי הוא השפעה חזקה על רווחת הילד שעלולה להשפיע על דיווחי ההורה ב-symptom measures. חוקרים וקלינאים משערים ש-maternal depression עלול להשפיע על: (1) איך האם רואה את ילדה — perceptual bias; (2) ההתנהגויות של הילד בתוך היחסים; (3) התפתחות הילד ב-domains רבים; (4) רגישות הורית לילד עם התנהגויות מאתגרות. parental depression הוא אחד מ-parent factors רבים המשפיעים על דיווחים ב-child symptom checklists. מסקנה: checklists נשקלים בתוך ההקשר של הערכה מלאה, ולא כ-measures אובייקטיביים עצמאיים. זה עקבי עם הגישה הבסיסית של הפרק — הילד הצעיר לא ניתן להערכה בלי ה-context של caregiver relationship.\n\n*Dulcan 3e, Ch 2 · \"Caregiver Report Checklists — Maternal Depression\"*",
+      "note_id": "1776979005373"
+    },
+    {
+      "id": "C47-parent-screening-tools",
+      "front_md": "**Parent screening tools — זיהוי distress הורי**",
+      "back_md": "חלק מהבעיות ביחסי infant-parent עשויות להתחיל ב-distress או psychopathology הורית. כלים structured מומלצים לזיהוי דיכאון הורי: (1) **Edinburgh Postnatal Depression Scale** (EPDS; Cox et al. 1987); (2) **Patient Health Questionnaire** — PHQ-2 ו-PHQ-9 (Earls et al. 2019). ל-parenting distress — **Parenting Stress Index — Short Form** (PSI-SF; Haskett et al. 2006). נקודה חשובה: אם maternal depression היא הצורה הנחקרת ביותר של psychopathology הורית בהקשר של infant/early childhood well-being — **maternal conditions comorbid with depression הם המנבא החזק ביותר של outcomes שליליים** (Carter et al. 2001). ספרות מתרחבת על ההשפעות הביולוגיות של pre/ante-natal parental stressors על התפתחות infant מדגישה את החשיבות של זיהוי מוקדם (O'Connor et al. 2014).\n\n*Dulcan 3e, Ch 2 · \"Parent Screening\"*",
+      "note_id": "1776979005374"
+    },
+    {
+      "id": "C48-formulation-summary",
+      "front_md": "**Formulation ו-Summary Points של הפרק**",
+      "back_md": "**Formulation:** רכיבי ההערכה משולבים יחד עם תשומת לב לכל 5 צירי DC:0-5 להנחיית biopsychosocial formulation ו-treatment plan.\n\n**Summary Points:**  \n(1) איכות ה-primary caregiving relationship היא ה-determinant החזק ביותר של התפתחות בגיל הרך.  \n(2) שימוש בגישות developmentally sensitive לאבחון ב-infancy/early childhood מסייע לתקשורת בין providers וליציבות בין מטופלים, ומניב data שמקדם את השדה.  \n(3) אף שהערכה יכולה להתרחש ב-settings מגוונים, יש לעשות כל מאמץ ליצור סביבה פיזית מזמינה.  \n(4) הערכה אינה event יחיד — היא מתרחשת לאורך מפגשים רבים, עם מדווחים רבים, בצורות איסוף מידע רבות.  \n(5) הערכה בגיל הרך כוללת לא רק את רכיבי ההערכה הפסיכיאטרית הרגילה אלא גם parent-child interactions ו-parental perception.  \n(6) structured assessments משלימות את ה-clinical history ואת ה-observation.\n\n*Dulcan 3e, Ch 2 · \"Formulation + Summary Points\"*",
+      "note_id": "1776979005375"
+    },
+    {
+      "id": "Q01-why-relational-unit",
+      "front_md": "למה ה-caregiving relationship — ולא התינוק היחיד — היא יחידת ההערכה העיקרית ב-IECMH?",
+      "back_md": "(1) מאפיינים אינדיבידואליים של תינוק (בבידוד) יש להם predictive value מוגבל לתוצאות עתידיות.  \n(2) יחסי caregiver הראשוניים הם מנבא חזק של outcomes (Shonkoff et al. 2012).  \n(3) סיכונים סביבתיים (עוני, adversity) פועלים על הילד בעיקר דרך היחסים האלה.  \n(4) סיכונים intrinsic (preterm) ממותנים ע\"י איכות היחסים.  \n(5) התערבות דרך ה-relationship היא לעיתים ה-buffer האפקטיבי ביותר — גם כשהגורם לא ביחסים עצמם.\n\n*Dulcan 3e, Ch 2 · \"Relational Approach\"*",
+      "note_id": "1776979005376"
+    },
+    {
+      "id": "Q02-brain-development-stats",
+      "front_md": "איזה נתונים על קצב ההתפתחות המוחית מצדיקים את הדחיפות של IECMH?",
+      "back_md": "(1) synaptogenesis עד 1 מיליון סינפסות בשנייה בשנים הראשונות.  \n(2) brain volume מגיע ל-80% מגודל מבוגר בגיל 36 חודשים.  \n(3) milestones פיזיים ורגשיים רצים במהירות.  \n(4) חוויות pre/natal מוקדמות קשורות להבדלים מדידים ב-epigenetics, הורמונים, ונפחי אזורי מוח — markers של adversity שמנבאים psychopathology מאוחרת יותר (Drury et al. 2012; Esteves et al. 2020; Shonkoff et al. 2012).\n\n*Dulcan 3e, Ch 2 · \"Relational Approach — Rationale\"*",
+      "note_id": "1776979005377"
+    },
+    {
+      "id": "Q03-secure-vs-insecure-outcomes",
+      "front_md": "מה 4 ה-outcomes החיוביים של secure attachment לעומת insecure/disorganized?",
+      "back_md": "**Secure (Engel and Gunnar 2020; Tharner et al. 2012):** (1) עמידות יותר ל-stress/adversity; (2) יחסים חיוביים עם peers; (3) הישגים בבית ספר + אהוב ע\"י מורים; (4) stress reactivity ביולוגית מוסדרת.  \n\n**Insecure/disorganized (Bernard et al. 2019; Groh et al. 2017):** (1) early mental health concerns; (2) בעיות בריאות פיזיות; (3) פגיעה ב-social/relational development; (4) פחות יכולת להסדרה רגשית. secure attachments מגנות במיוחד בתנאים קיצוניים.\n\n*Dulcan 3e, Ch 2 · \"Relational Approach — Rationale\"*",
+      "note_id": "1776979005378"
+    },
+    {
+      "id": "Q04-dsm5-limitations-infants",
+      "front_md": "מה המגבלות של DSM-5 ו-ICD-11 באבחון תינוקות ו-toddlers?",
+      "back_md": "(1) **Focus על ה-individual** — לא מספקים מנגנון להכניס גורמי relationship לתהליך האבחוני.  \n(2) **Validity** של קריטריונים נחקרה ב-preschoolers אבל כמעט לא בתינוקות ו-toddlers.  \n(3) **Predictive value** מוגבל לגיל הצעיר ביותר.  \n(4) **Lack of relationship context** חוסם הבנת ה-embedded nature של התפתחות הגיל הרך.  \n\nלכן DC:0-5 פותח כדי לענות על צרכים אלה עם multiaxial approach שכולל explicit את ה-primary caregiving relationship.\n\n*Dulcan 3e, Ch 2 · \"Diagnostic Issues\"*",
+      "note_id": "1776979005379"
+    },
+    {
+      "id": "Q05-dc05-five-axes",
+      "front_md": "מה 5 הצירים של DC:0-5?",
+      "back_md": "(1) **Clinical disorders** — הפרעות נפשיות של הילד.  \n(2) **Relational context** — איכות יחסי caregiver הראשוניים.  \n(3) **Physical health context and considerations** — מצב רפואי ושיקולים בריאותיים.  \n(4) **Psychosocial stressors** — stressors של המשפחה והקהילה.  \n(5) **Developmental competence** — רמת תפקוד והישג של milestones.  \n\nכל חמשת הצירים משתלבים ל-biopsychosocial formulation ו-treatment plan.\n\n*Dulcan 3e, Ch 2 · \"Goals of IECMH Assessments\"*",
+      "note_id": "1776979005381"
+    },
+    {
+      "id": "Q06-dc05-example-crosswalk",
+      "front_md": "תן 3 אבחנות DC:0-5 וה-DSM-5 crosswalk שלהן.",
+      "back_md": "(1) **Inhibition to novelty disorder** (<24m) ↔ Other specified anxiety disorder. עיכוב התנהגותי קיצוני, פחדנות והימנעות.  \n(2) **Disorder of dysregulated anger and aggression** (<24m) ↔ DMDD. דפוס נרחב של irritability, כעס, תוקפנות.  \n(3) **Overactivity disorder of toddlerhood** (24-36m) ↔ ADHD hyperactive-impulsive. היפראקטיביות ואימפולסיביות ב-2 contexts או 2 יחסים.  \n\n(Table 2-1; Zero to Three 2016)\n\n*Dulcan 3e, Ch 2 · \"Table 2-1\"*",
+      "note_id": "1776979005382"
+    },
+    {
+      "id": "Q07-crosswalk-why-matters",
+      "front_md": "למה ה-crosswalk מ-DC:0-5 ל-DSM-5/ICD-11 חשוב במערכת הבריאות האמריקאית?",
+      "back_md": "(1) במערכות שבהן diagnosis מניע reimbursement, העדר crosswalk חוסם גישה לטיפול בילדים צעירים.  \n(2) בלי שיוך לקוד ICD, קלינאים לא יכולים לחייב על הטיפול שהם נותנים.  \n(3) Crosswalk מאפשר יישום של קריטריונים developmentally appropriate תוך שמירה על billing.  \n(4) מדינות שאישרו את ה-crosswalk ל-ICD: Minnesota, Nevada, New Mexico, North Carolina, Oregon, Tennessee, Alabama.  \n(5) מבטיח גישה לטיפול לילדים צעירים במערכות מבוססות-diagnosis.\n\n*Dulcan 3e, Ch 2 · \"Diagnostic Issues — Crosswalk\"*",
+      "note_id": "1776979005383"
+    },
+    {
+      "id": "Q08-physical-environment",
+      "front_md": "למה ה-physical environment חשוב בהערכת IECMH?",
+      "back_md": "מקל על ה-therapist-parent alliance עוד לפני שהקלינאי פוגש את המשפחה:  \n(1) **child-size furniture** — מעביר מסר שהמרחב של הילד הוא חשוב.  \n(2) **פעילויות לילדים** — מאפשרות להורה להיות נוכח בראיון.  \n(3) **ספרים/תמונות culturally inclusive** — מעבירים messages של קבלה.  \n(4) **breastfeeding-friendly space** — תומך במשפחות של תינוקות יונקים.  \n\nהסביבה היא חלק אינטגרלי של early engagement ו-alliance-building, לא עניין קוסמטי.\n\n*Dulcan 3e, Ch 2 · \"Physical Environment\"*",
+      "note_id": "1776979005384"
+    },
+    {
+      "id": "Q09-parental-fears-referral",
+      "front_md": "אילו 3-4 חששות נפוצים מביאים הורים להערכת IECMH, ומה הגישה הטיפולית?",
+      "back_md": "**חששות:**  \n(1) \"ייראו אותי כ-inadequate parent.\"  \n(2) \"התינוק שלי irremediably disordered.\"  \n(3) \"ה-referral יגרור מעורבות CPS או custody loss.\"  \n(4) סטיגמה כללית של mental health — חזקה במיוחד ב-early childhood.  \n\n**גישה:** (a) acknowledgement מפורש של חששות מדוברים ושל אלה שאינם מדוברים; (b) יצירת alliance collaborative מההתחלה; (c) הכרה שהסטיגמה חוסמת גישה לטיפול ואיתור פעיל של חששות הוא חלק מה-first goal של ההערכה.\n\n*Dulcan 3e, Ch 2 · \"Goals of IECMH Assessments\"*",
+      "note_id": "1776979005385"
+    },
+    {
+      "id": "Q10-pqrst-breakdown",
+      "front_md": "מה המשמעות של כל אות ב-PQRST כשהוא מיושם ל-presenting problem של תינוק?",
+      "back_md": "(1) **P** — Precipitants and palliative factors (מה מחמיר, מה מקל).  \n(2) **Q** — Quality (בדיוק איך ההתנהגות נראית?).  \n(3) **R** — Relationships in which the behavior pattern presents (באילו יחסים הדפוס מופיע — כיוון ל-relationship-specific).  \n(4) **S** — Severity.  \n(5) **T** — Timing (זמן היום, זמן יחסית ל-events אחרים).  \n\nה-R במיוחד ייחודי ל-IECMH — יושם כדי לזהות אם ההתנהגות universal או relationship-specific.\n\n*Dulcan 3e, Ch 2 · \"History of Presenting Problem\"*",
+      "note_id": "1776979005386"
+    },
+    {
+      "id": "Q11-attribution-of-meaning",
+      "front_md": "למה ה-attribution של משמעות ע\"י ההורה הוא \"crucial\" בהערכת infant?",
+      "back_md": "כי אותה התנהגות (למשל tantrum בגיל 24m) יכולה להיות: (1) developmentally appropriate לקלינאי, אבל (2) לכאורה \"aggressor\" או \"mirror\" של קרוב משפחה עם psychiatric impairment מבחינת ההורה.  \n\nההבדל במשמעות משנה: (a) את ה-attunement של ההורה; (b) את התגובות שלו; (c) את מה שההורה מאפשר או מגביל; (d) את ה-trajectory של היחסים. ככל שהקלינאי מבין איך ההורה חווה את הילד ומי הילד \"represents\" להורה — תכנית הטיפול תהיה ממוקדת יותר.\n\n*Dulcan 3e, Ch 2 · \"History of Presenting Problem\"*",
+      "note_id": "1776979005387"
+    },
+    {
+      "id": "Q12-ros-in-infant",
+      "front_md": "מה ייחודי ב-review of systems בתינוק לעומת בילד בוגר?",
+      "back_md": "(1) **Regulatory patterns** הם הבולטים ביותר ב-young infants — emotional regulation ותהליכים ביולוגיים (sleep, feeding).  \n(2) **Mood patterns** הופכים רלוונטיים יותר ב-toddlers בוגרים — שינויי מצב-רוח, פחדים, activity level, impulsivity, aggression, social interactions.  \n(3) **Attachment behaviors** — האם הילד selectively מחפש נחמה מההורה בזמני distress או במצבים חדשים?  \n(4) **Parent expectations** — התיקות והחלומות של ההורה מהילד הם חלק מה-ROS.\n\n*Dulcan 3e, Ch 2 · \"Review of Systems\"*",
+      "note_id": "1776979005388"
+    },
+    {
+      "id": "Q13-preconception-history",
+      "front_md": "מה מועיל לחקור בהיסטוריית preconception?",
+      "back_md": "(1) **תכנון ההריון** — הריון מתוכנן, לא-מתוכנן, או לא-רצוי.  \n(2) **קושי להיכנס להריון** (infertility workups, IVF) — משפיע על ציפיות ההורה.  \n(3) **Pregnancy losses** (miscarriages, stillbirths) — עשויים לעצב את ה-internal representation של הילד.  \n(4) אם ההריון לא תוכנן — **למה** האם המשיכה אותו והאם תפיסתה השתנתה?  \n(5) **אימוץ או reproductive assistive technology / surrogate** — ההחלטות והכוונות של ההורים.  \n\nהמידע נותן בסיס ל-internal representation של ההורה את הילד.\n\n*Dulcan 3e, Ch 2 · \"Medical History — Preconception\"*",
+      "note_id": "1776979005389"
+    },
+    {
+      "id": "Q14-pregnancy-factors",
+      "front_md": "אילו גורמים במהלך ההריון ואחריה עשויים להשפיע על ההופעה של התינוק?",
+      "back_md": "(1) **במהלך ההריון:** illnesses/infections, substance use, exposure to violence, maternal psychopathology (Yehuda et al. 2005).  \n(2) **לידה פגה** — trauma מוקדמת המשפיעה על יחסי parent-child וההתפתחות (Muller-Nix and Forcada-Guex 2009).  \n(3) **אחרי לידה:** medical events, hospitalizations, colic, failure to thrive, elevated serum lead levels, pica, head trauma, או CNS events אחרים (Zero to Three 2016).  \n(4) כל אחד עלול לשנות dramatically את מסלול ההתפתחות ואת יחסי caregiver.\n\n*Dulcan 3e, Ch 2 · \"Medical History — Pregnancy\"*",
+      "note_id": "1776979005390"
+    },
+    {
+      "id": "Q15-asd-red-flags",
+      "front_md": "אילו red flags ב-very young child מעלים חשד ל-ASD?",
+      "back_md": "(1) פגיעה ב-**reciprocity** דרך **eye contact** ו-**joint attention**.  \n(2) חוסר ב-**gestural communication** (הצבעה, הושטת חפץ).  \n(3) יכולת מוגבלת להשתתף ב-**social interactions**.  \n(4) העדר **representational play** age-appropriate.  \n\nכיוון שאלו חלק מהקריטריונים של DSM-5 ל-ASD (social communication + repetitive/restrictive behaviors), ו-early intervention היא critical לתוצאות חיוביות — יש להשתמש ב-low threshold להפניה ל-developmental assessment פורמלי.\n\n*Dulcan 3e, Ch 2 · \"Developmental History\"*",
+      "note_id": "1776979005391"
+    },
+    {
+      "id": "Q16-genogram-purpose",
+      "front_md": "למה multigenerational genogram חשוב במיוחד ב-IECMH?",
+      "back_md": "(1) **מבהיר יחסים** בין בני המשפחה — מי גר עם מי, מי המ-caregivers הראשיים בפועל.  \n(2) **לומד על caregiving environments מוקדמים** של ההורים עצמם — מקור חשוב להבנת ה-internal working models שלהם.  \n(3) **מזהה השפעות גנטיות** פוטנציאליות (היסטוריה של ASD, mood disorders).  \n(4) **דפוסי יחסים** רב-דוריים מופיעים — לפעמים repeating themes שהם significant לפורמולציה.  \n(5) מאפשר **sensitive exploration** של חששות שהילד \"ידחף\" כמו קרוב משפחה עם psychiatric impairment.\n\n*Dulcan 3e, Ch 2 · \"Family History\"*",
+      "note_id": "1776979005392"
+    },
+    {
+      "id": "Q17-aces-felitti",
+      "front_md": "אילו 6 ACEs נמדדו במחקר Felitti המקורי, ומה ההגדרה הרחבה ב-IECMH?",
+      "back_md": "**ACEs Study (Felitti et al. 1998):** (1) child abuse; (2) neglect; (3) family violence; (4) caregiver incarceration; (5) caregiver psychopathology; (6) parental separation.  \n\n**הרחבה ב-IECMH:** (7) parental history of abuse; (8) institutional care; (9) אסונות natural/man-made; (10) community violence; (11) racism; (12) prenatal exposures to adversity.  \n\nה-sequelae הביולוגיים — ככל הנראה דרך epigenetics — מנבאים הבדלים מדידים, בעיות קוגניטיביות, ו-psychiatric disorders עד גיל ההתבגרות (Tyrka et al. 2013).\n\n*Dulcan 3e, Ch 2 · \"Social History\"*",
+      "note_id": "1776979005393"
+    },
+    {
+      "id": "Q18-cultural-humility",
+      "front_md": "למה cultural humility — ולא רק cultural competence — קריטית בהערכת IECMH?",
+      "back_md": "(1) Perspectives על parenting ויחסי parent-child עלולים להיות שונים מאוד בין תרבויות.  \n(2) Humility = \"אני פתוח ללמוד ממך\" — לא \"אני יודע את התרבות שלך.\"  \n(3) הערכה collaborative של ציפיות culturally של ההורים על parent-child relationship מקלה על תהליך therapeutic.  \n(4) מקטין הטלת מודלים חיצוניים על המשפחה.  \n(5) עקבי עם הגישה strength-based.  \n(6) ללא humility, הקלינאי עלול לפסול דפוסים מקובלים תרבותית כ-pathological.\n\n*Dulcan 3e, Ch 2 · \"Social History\"*",
+      "note_id": "1776979005395"
+    },
+    {
+      "id": "Q19-table23-7to18m",
+      "front_md": "מה ה-milestones ב-Table 2-3 בתחומי social, communicative, וגרוס מוטור בגיל 7-18 חודשים?",
+      "back_md": "(Table 2-3 — Zeanah et al. 2011; CDC 2021)  \n\n(1) **Social** — stranger wariness; separation protest from attachment figures; **social referencing**.  \n(2) **Communicative** — intentional communication; **protowords** ומילים מעטות.  \n(3) **Gross motor** — walking 12-15 חודשים.  \n(4) **Fine motor** — pincer grasp 7-9 חודשים; transfer of objects 12 חודשים.  \n(5) **Growth** — tripling birth weight ב-1 שנה.  \n(6) **Play** — parallel play (12-24 חודשים).\n\n*Dulcan 3e, Ch 2 · \"Table 2-3\"*",
+      "note_id": "1776979005396"
+    },
+    {
+      "id": "Q20-table23-18to36m",
+      "front_md": "מה milestones חשובים ב-Table 2-3 בגיל 18-36 חודשים?",
+      "back_md": "(1) **Social** — awareness של relationships בקבוצה; דגש רב יותר על possessions אישיים.  \n(2) **Emotional** — moral emotions: **shame, guilt, pride** — נקודת מפנה התפתחותית.  \n(3) **Communicative** — expressive language **blossoms**.  \n(4) **Play** — early **representational play** (24-36 חודשים).  \n(5) **Gross motor** — running (1.5-2y); jumping (2.5-3y).  \n(6) **Fine motor** — hand dominance; 2 blocks ב-18m, 8 blocks ב-30m, scribble ספונטני, copy circle ב-36m.  \n(7) **Growth** — quadrupling birth weight ב-2 שנים.\n\n*Dulcan 3e, Ch 2 · \"Table 2-3\"*",
+      "note_id": "1776979005397"
+    },
+    {
+      "id": "Q21-parent-child-domains",
+      "front_md": "אילו 4-5 domains של parent-child interaction אפשר לצפות בהם באופן informal במהלך הערכה?",
+      "back_md": "**מצד הילד:** (1) שימוש בהורה ל-assistance; (2) joy sharing; (3) comfort seeking; (4) play.  \n\n**מצד ההורה:** (5) anticipation של צרכי התינוק; (6) responsiveness ל-cues; (7) יכולת לבנות interactions שמתאימות התפתחותית; (8) level of engagement; (9) enjoyment כללי מהילד.  \n\n**במהלך dyadic play:** mutual engagement, shared attention, reciprocity, themes משותפים של representational play. ה-tone וה-comfort של הדיאדה משקפים את ה-quality.\n\n*Dulcan 3e, Ch 2 · \"Observations — Parent-Child Interactions\"*",
+      "note_id": "1776979005398"
+    },
+    {
+      "id": "Q22-separation-reunion-clinical",
+      "front_md": "איך לבצע separation-reunion בהערכה קלינית, ומה הגיל המינימלי?",
+      "back_md": "**גיל מינימלי:** 7-9 חודשים developmentally — מהגיל הזה separation מפעילה את מערכת ה-attachment, כפי שמתבטא ב-stranger wariness ו-separation protest.  \n\n**ביצוע:** ההורה עוזב את החדר לכמה דקות, ואז חוזר.  \n\n**מה לחפש:** המידע ה-most informative הוא איך הדיאדה פותרת את ה-distress של ה-separation **יחד במהלך ה-reunion** (Zeanah et al. 2000). שאלות מרכזיות: האם לילד יש strategy לשימוש בהורה לפתרון distress (למשל proximity seeking)? האם ההורה זמין רגשית ב-reunion?\n\n*Dulcan 3e, Ch 2 · \"Observations — Separation-Reunion\"*",
+      "note_id": "1776979005399"
+    },
+    {
+      "id": "Q23-wmci-what-measures",
+      "front_md": "מה מודד WMCI ומה הקלינאי לומד ממנו?",
+      "back_md": "WMCI (כשעה) מתמקד בהבנת ההורה את הילד שלו ואת היחסים. שני מקורות מידע:  \n\n(1) **Content** — חוויית ההורה את התינוק/toddler.  \n(2) **Characteristics of the narrative** (לעיתים informative יותר):  \n   - affective tone  \n   - level of emotional involvement  \n   - coherence  \n   - balance בין תיאורים חיוביים/שליליים.  \n\n(Zeanah and Benoit 1995). הורים עם representations מאוזנות סביר שילדיהם יראו secure attachment (Zeanah et al. 1994). ב-research formal coding מבדיל בין ילדים clinically referred ולא-referred.\n\n*Dulcan 3e, Ch 2 · \"WMCI\"*",
+      "note_id": "1776979005400"
+    },
+    {
+      "id": "Q24-insightfulness-4-groups",
+      "front_md": "מה 4 קבוצות ה-classification של Insightfulness Assessment ומה ה-validity שלהן?",
+      "back_md": "(Oppenheim and Koren-Karie 2002)  \n\n**4 קבוצות:**  \n(1) Positively insightful  \n(2) One-sided  \n(3) Disengaged  \n(4) Mixed  \n\n**Validity:** קשרים ל-(a) attachment classification של הילד; (b) maternal observed sensitivity; (c) **theory of mind** של הילד 3 שנים אחר-כך (Oppenheim and Koren-Karie 2013).  \n\n**רגישות לטיפול:** insightfulness משתנה עם dyadic interventions, וקשורה לשיפור ב-internalizing/externalizing symptoms של הילד (Oppenheim et al. 2004).\n\n*Dulcan 3e, Ch 2 · \"Insightfulness Assessment\"*",
+      "note_id": "1776979005401"
+    },
+    {
+      "id": "Q25-circle-security-sensitivities",
+      "front_md": "מה 3 ה-core sensitivities ב-Circle of Security?",
+      "back_md": "(Cooper et al. 2009)  \n\n(1) **Esteem sensitive** — חשש מערך-עצמי נפגע ביחסים.  \n(2) **Safety sensitive** — חשש שהעצמי או הילד בסכנה.  \n(3) **Separation sensitive** — חשש מ-loss של יחסים.  \n\nה-Circle of Security Interview מוכרת ממקורות: Adult Attachment Interview, Parent Development Interview, ושאלות על חוויית ההורה ב-Strange Situation. זיהוי ה-sensitivity הראשית עוזר להבין מתי הורה מרגיש לא-נוח עם הילד ומתי תופעלת defense שחוסמת responsiveness.\n\n*Dulcan 3e, Ch 2 · \"Circle of Security\"*",
+      "note_id": "1776979005402"
+    },
+    {
+      "id": "Q26-crowell-components",
+      "front_md": "מה כוללת פרוצדורת Crowell ומה ה-domains שהיא מעריכה?",
+      "back_md": "**גיל מינימלי:** 6 חודשים developmentally.  \n\n**רצף הפעילויות:** (1) free play; (2) cleanup; (3) bubbles sequence; (4) ארבע puzzle tasks; (5) separation and reunion.  \n\n**Domains שמוערכים:**  \n(a) reciprocal emotions  \n(b) protection and safety  \n(c) comforting and comfort seeking  \n(d) teaching and learning  \n(e) play  \n(f) discipline ותגובה לגבולות  \n(g) parental structure ו-self-regulation של הילד  \n\n(Crowell and Feldman 1988). הפרוצדורה נותנת עומק על אינטראקציות הדיאדה, יכולת לשמחה, ויכולת לנווט מצבים stressful.\n\n*Dulcan 3e, Ch 2 · \"Crowell Procedure\"*",
+      "note_id": "1776979005403"
+    },
+    {
+      "id": "Q27-still-face-three-phases",
+      "front_md": "מה 3 הפאזות של still-face paradigm, ומה הוא חושף קלינית?",
+      "back_md": "**גיל יעד:** 3-6 חודשים.  \n\n**3 פאזות:**  \n(1) אינטראקציה נטורליסטית — הורה וילד מתקשרים כרגיל.  \n(2) **3 דקות still face** — ההורה שומר על non-reactive expression.  \n(3) **3 דקות reengagement** — חזרה לאינטראקציה.  \n\n**מה זה חושף:** mutual regulatory capacities של תינוק והורה — איך הילד מתמודד עם ניתוק רגשי קצר, ואיך ההורה מתמודד עם re-engagement. תגובות קשורות ל-maternal internal representation (Rosenblum et al. 2002) ומנבאות attachment classification עתידי.\n\n*Dulcan 3e, Ch 2 · \"Still-Face Paradigm\"*",
+      "note_id": "1776979005404"
+    },
+    {
+      "id": "Q28-papa-vs-dipa",
+      "front_md": "מה ההבדלים בין PAPA ל-DIPA?",
+      "back_md": "**PAPA** (Egger and Angold 2006):  \n- Interviewer-based  \n- גילאים **2-5 שנים**  \n- דגש על impairment הקשור לתסמינים  \n- היה הראשון ה-comprehensive לגיל זה  \n\n**DIPA** (Scheeringa and Haslett 2010):  \n- **Respondent-based** (parent report)  \n- גילאים **18-60 חודשים** (מתחיל צעיר יותר!)  \n- דגש ייחודי על **parental accommodation** של הדפוסים — כמה הורים משנים את הסביבה להיכנע לתסמינים  \n- כולל **diagnostic algorithms** לכל module  \n\nשניהם מתואמים עם CBCL ויש להם test-retest reliability דומה.\n\n*Dulcan 3e, Ch 2 · \"Diagnostic Interviews\"*",
+      "note_id": "1776979005405"
+    },
+    {
+      "id": "Q29-ecsa-unique",
+      "front_md": "מה ייחודי ב-ECSA לעומת checklists אחרים של early childhood?",
+      "back_md": "(Gleason et al. 2010; Fallucco et al. 2017)  \n\n(1) **Parent depression ו-distress items** — הוא ה-checklist היחיד ברשימה שמכיל פריטים להערכת ההורה עצמו, נוסף על הילד.  \n(2) מבנה: 36 child-focused + 4 parent-focused = 40 items.  \n(3) Sensitivity 86% לאבחנת DIPA, specificity 83%.  \n(4) כולל opportunity לציין concern על פריטים specific.  \n(5) **חינם** — הורדה מ-medicine.tulane.edu/institutes/tecc/screening.  \n\nזה עקבי עם העיקרון של IECMH — הילד לא ניתן להערכה בלי ה-context של caregiver.\n\n*Dulcan 3e, Ch 2 · \"ECSA\"*",
+      "note_id": "1776979005406"
+    },
+    {
+      "id": "Q30-asq-cbcl-bitsea-age-ranges",
+      "front_md": "מהם טווחי הגיל של ASQ:SE, CBCL 1½-5, BITSEA, ו-BPSC/PPSC?",
+      "back_md": "(1) **ASQ:SE** — 6-60 חודשים (טפסים שונים ל-6, 18, 24, 30, 36, 48, 60 חודשים).  \n(2) **CBCL 1½-5** — 18-60 חודשים.  \n(3) **BITSEA** — 12-36 חודשים.  \n(4) **BPSC** — 0-18 חודשים (Baby).  \n(5) **PPSC** — 18-60 חודשים (Preschool).  \n\nASQ:SE הוא הרחב ביותר — מתחיל מ-6 חודשים ומגיע ל-5 שנים. BPSC הוא היחיד שמכסה infants מגיל 0.\n\n*Dulcan 3e, Ch 2 · \"Table 2-4\"*",
+      "note_id": "1776979005407"
+    },
+    {
+      "id": "Q31-bitsea-domains",
+      "front_md": "אילו 4 domains מעריך BITSEA, ומה טווח הגיל?",
+      "back_md": "(Briggs-Gowan and Carter 2002)  \n\n**גיל:** 12-36 חודשים.  \n\n**4 Domains:**  \n(1) Internalizing  \n(2) Externalizing  \n(3) **Dysregulation** — הדפוס המרכזי ב-toddler DMDD-like presentations.  \n(4) **Competence** — כוחות, לא רק בעיות.  \n\n(166 items, או 42 בגרסה Brief). ה-BITSEA טוב במיוחד ל-dysregulation ו-competence (tricky לתפוס ב-infant). קשרים עם CBCL: r=0.47 internalizing, r=0.67 externalizing. Test-retest שבועי 0.82-0.90. חינם מ-trust.org.\n\n*Dulcan 3e, Ch 2 · \"BITSEA\"*",
+      "note_id": "1776979005408"
+    },
+    {
+      "id": "Q32-checklist-limitations",
+      "front_md": "אילו 4 מגבלות יש ל-caregiver report checklists ב-IECMH?",
+      "back_md": "(1) **סובייקטיביות המדווח** — משקפים את החוויה של ה-caregiver, לא אובייקטיבי.  \n(2) **Validity נמוך יותר לתינוקות <12 חודשים** לעומת toddlers — קשה להיברר.  \n(3) **Gold standard לתינוקות <12 חודשים נותר אתגר** (de Wolff et al. 2013).  \n(4) **Maternal depression bias** — אם מדוכאת תדווח בצורה מוטה; לא מתואם בהכרח עם observed infant behaviors.  \n(5) **חסר relationship context** — מדדים שלא מעריכים יחסים הם inadequate ל-IECMH (ECSA הוא יוצא דופן).\n\n*Dulcan 3e, Ch 2 · \"Caregiver Report Checklists\"*",
+      "note_id": "1776979005409"
+    },
+    {
+      "id": "Q33-parent-screening-instruments",
+      "front_md": "אילו 3 כלי screening מומלצים לזיהוי distress הורי, ומה הם מעריכים?",
+      "back_md": "(1) **Edinburgh Postnatal Depression Scale (EPDS)** (Cox et al. 1987) — screening לדיכאון postnatal.  \n(2) **Patient Health Questionnaires — PHQ-2 ו-PHQ-9** (Earls et al. 2019) — screening לדיכאון כללי של מבוגרים.  \n(3) **Parenting Stress Index — Short Form (PSI-SF)** (Haskett et al. 2006) — parenting-specific distress.  \n\nנקודה קריטית: maternal depression היא הצורה הנחקרת ביותר, אבל **maternal conditions comorbid עם דיכאון הן המנבא החזק ביותר** של outcomes שליליים של early childhood (Carter et al. 2001).\n\n*Dulcan 3e, Ch 2 · \"Parent Screening\"*",
+      "note_id": "1776979005410"
+    },
+    {
+      "id": "Q34-maternal-depression-key-finding",
+      "front_md": "מה ה-key finding על maternal depression ועל comorbidity ב-IECMH?",
+      "back_md": "(Carter et al. 2001)  \n\nאף ש-**maternal depression** היא הצורה הנחקרת ביותר של psychopathology הורית בהקשר של infant well-being, **maternal conditions comorbid עם depression הן המנבא החזק ביותר של outcomes שליליים בילדות הרכה**. משמעות:  \n\n(1) screening לדיכאון בלבד לא מספיק — צריך גם לחפש comorbidity.  \n(2) תשומת לב ל-anxiety, PTSD, substance use במקביל לדיכאון.  \n(3) ספרות מתרחבת מראה ש-pre/antenatal exposures להורים stressed משפיעים biologically על התפתחות infant (O'Connor et al. 2014).\n\n*Dulcan 3e, Ch 2 · \"Parent Screening\"*",
+      "note_id": "1776979005411"
+    },
+    {
+      "id": "Q35-table22-key-elements",
+      "front_md": "מה 4 העמודות של Table 2-2 — key elements של ה-infant-toddler assessment?",
+      "back_md": "(1) **History (מכל המקורות)** — presenting problem, review of systems, medical, developmental, family, social.  \n(2) **Child observations** — dysmorphic features, size for age, regulatory capacity, behavior עם הורה ו-examiner, activity level, play patterns, vocalizations, milestones.  \n(3) **Parent-child interactions** — tone, pacing, mutual engagement/reciprocity, conflict, parent responsiveness, separation/reunion (אם ≥9m), child use of parent for help.  \n(4) **Structured assessment tools** — parent perception interviews (WMCI), structured parent-child interactions (Crowell), behavior/emotion checklists, structured psychiatric interviews, competence measures.\n\n*Dulcan 3e, Ch 2 · \"Table 2-2\"*",
+      "note_id": "1776979005412"
+    },
+    {
+      "id": "Q36-multiple-appointments-why",
+      "front_md": "למה הערכת infant/toddler דורשת multiple appointments, וכיצד נכון להכליל את התינוק בהן?",
+      "back_md": "(1) **Multiple modes** — formal + informal, observation + history. אף רכיב יחיד לא מספיק.  \n(2) **Multiple informants** — parent(s), caregivers, teachers, childcare providers.  \n(3) **Stability over time** — דפוסים משתנים לפי context, day, mood.  \n(4) **הכללת הילד** — ברוב הפגישות, כדי לאפשר תצפיות extensive של אינטראקציות parent-child, ולצמצם צורך ב-childcare במהלך ההערכה.  \n(5) הצהרה ב-Summary Points: \"הערכה אינה event יחיד.\"\n\n*Dulcan 3e, Ch 2 · \"Comprehensive Assessment\"*",
+      "note_id": "1776979005413"
+    },
+    {
+      "id": "Q37-non-mh-settings",
+      "front_md": "באילו settings שאינם mental health clinics יכולה להתרחש הערכת IECMH, ומה ה-implication?",
+      "back_md": "(Finelli et al. 2019; Gleason 2018; Zeanah et al. 2009)  \n\n**Non-MH settings:**  \n(1) Early intervention programs  \n(2) Pediatric primary care practices  \n(3) Inpatient pediatric units  \n(4) Juvenile court settings  \n(5) Childcare centers  \n(6) Child protective services  \n(7) Homeless shelters  \n\n**Implication:** ב-settings אלה, ההערכה יכולה להיות comprehensive (כדי להנחות טיפול ע\"י המעריך) או ממוקדת ב-consultation question (תמיכה ב-consultee שמטפל). בכל המקומות — collaboration + cross-specialty education חיוניים.\n\n*Dulcan 3e, Ch 2 · \"Assessment Settings\"*",
+      "note_id": "1776979005414"
+    },
+    {
+      "id": "Q38-summary-points",
+      "front_md": "מה 6 ה-Summary Points של הפרק?",
+      "back_md": "(1) איכות ה-primary caregiving relationship היא ה-determinant החזק ביותר של התפתחות בגיל הרך.  \n(2) שימוש בגישות developmentally sensitive לאבחון ב-infancy/early childhood מסייע לתקשורת ולמחקר.  \n(3) סביבה פיזית מזמינה חשובה בכל setting של הערכה.  \n(4) הערכה אינה event יחיד — מפגשים רבים, מדווחים רבים, מודים רבים של איסוף מידע.  \n(5) הערכה ב-early childhood כוללת parent-child interactions ו-parental perception, מעבר לרכיבי ה-psychiatric assessment הרגילה.  \n(6) Structured assessments משלימות (לא מחליפות) את ה-clinical history ואת ה-observation.\n\n*Dulcan 3e, Ch 2 · \"Summary Points\"*",
+      "note_id": "1776979005416"
+    },
+    {
+      "id": "Q39-relationship-specific",
+      "front_md": "מה המשמעות של \"relationship-specific\" symptoms ולמה זה חשוב קלינית?",
+      "back_md": "תינוק יכול לפתח attachments שונים באיכות עם caregiving adults שונים. התנהגות בעייתית יכולה להיות specific ליחסים ספציפיים או universal לכל היחסים. קלינית:  \n\n(1) ככל שההתנהגות עקבית ביחסים רבים — הסיכוי ל-intrinsic problem גדל.  \n(2) אם היא specific רק ליחסים אחד — התערבות צריכה להיות ממוקדת באותה רלציה.  \n(3) DC:0-5 כולל **relationship-specific disorder of infancy/early childhood** כקטגוריה formal (Zeanah and Lieberman 2016).  \n(4) assessment צריך לבחון עם כל caregiver בנפרד.\n\n*Dulcan 3e, Ch 2 · \"Relational Approach\"*",
+      "note_id": "1776979005417"
+    }
+  ]
+}

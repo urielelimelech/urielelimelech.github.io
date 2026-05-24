@@ -1,0 +1,157 @@
+{
+  "id": "B001-clinical-interview-child",
+  "label": "B001 · ראיון ילד · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1776868208137",
+      "front_md": "[Protocol] מה 6 שלבי הראיון הקליני של Dulcan לפי הסדר?",
+      "back_md": "1. הכנה מוקדמת · 2. פתיחה · 3. ראיון הורים · 4. ראיון/התבוננות בילד · 5. אינטגרציה + formulation · 6. פידבק + תוכנית + תיעוד [D-2 עד D-17].",
+      "note_id": "1776868208137"
+    },
+    {
+      "id": "1776868208142",
+      "front_md": "[Protocol] מה לבקש מהורים לפני הפגישה?",
+      "back_md": "דוחות פסיכיאטריים/רפואיים קודמים, ליידע על מהלך הבדיקה + ציפיות, להזכיר להביא צעצועים/אוכל/מבוגר נוסף לפיקוח [D-2, D-3].",
+      "note_id": "1776868208142"
+    },
+    {
+      "id": "1776868208144",
+      "front_md": "[Protocol] איך להציג עצמך לילד בפתיחה?",
+      "back_md": "כ-**\"הרופא שמדבר\"** + להבהיר ש**לא יהיו זריקות** [D-5]. להתחיל בנושאים נייטרליים, אז לשאול מה ההורים סיפרו לו על מטרת הביקור.",
+      "note_id": "1776868208144"
+    },
+    {
+      "id": "1776868208146",
+      "front_md": "[Protocol] איך מדברים על סודיות בראיון ילד? (הן מה שכן, הן מה שלא)",
+      "back_md": "**לדון בסודיות + גבולותיה** — כולל **חובת דיווח** במקרים של risk/abuse. הילד צריך לדעת מה ישאר פרטי ומה לא, בגיל מתאים [D-6].",
+      "note_id": "1776868208146"
+    },
+    {
+      "id": "1776868208148",
+      "front_md": "[Protocol] Preschool — עם או בלי הילד בראיון הורים ראשוני? + ציטוט verbatim",
+      "back_md": "**בלי הילד.** Dulcan verbatim:\n> \"For preschool children, the initial comprehensive history should be obtained with parents *without* the child present, as it is more expedient and carries little risk of damaging rapport with a young child.\" [D-7]\n(~50 דק׳).",
+      "note_id": "1776868208148"
+    },
+    {
+      "id": "1776868208150",
+      "front_md": "[Protocol] School-age — מתי לראיין הורה לבד ועל אילו נושאים?",
+      "back_md": "*\"it is best to interview the parent alone\"* לדיון ב-**יחסי זוגיות, היסטוריה פסיכיאטרית משפחתית, ומשמעת** [D-8].",
+      "note_id": "1776868208150"
+    },
+    {
+      "id": "1776868208152",
+      "front_md": "[Protocol] 8 תכנים שחייבים להעלות בראיון הורים?",
+      "back_md": "CC · HPI · psychiatric ROS · היסטוריה פסיכיאטרית/רפואית · תרופות · התפתחות · חינוך/חברתי · abuse/risk [D-9].",
+      "note_id": "1776868208152"
+    },
+    {
+      "id": "1776868208153",
+      "front_md": "[Observe] כמה תחומי MSE מוגדרים בראיון ילד + מה התחום שהכי מאתגר אצל ילדים קטנים?",
+      "back_md": "**9 תחומים** [D-18-21]. הכי מאתגר = **Insight** — \"age-appropriate\" — בילדים צעירים מוגבל מאוד [D-21].",
+      "note_id": "1776868208153"
+    },
+    {
+      "id": "1776868208155",
+      "front_md": "[Observe] איך מעריכים thought process אצל ילד שעדיין לא מדבר שוטף?",
+      "back_md": "**דרך משחק ושפה (via play/speech)** — לא ראיון מילולי פורמלי. לצפות ב-זרימה, perseveration, disorganization, וגבול פנטזיה-מציאות בסיפור/משחק [D-18, D-20].",
+      "note_id": "1776868208155"
+    },
+    {
+      "id": "1776868208157",
+      "front_md": "[AgeMods-infant] Still-face paradigm — מה המטרה ומאיזה גיל?",
+      "back_md": "**3-6 חודשים**. ההורה מפסיק לתת תגובה (פנים \"עומדות\") — מתבוננים ב-**mutual regulatory capacities** של הדיאדה [D-23].",
+      "note_id": "1776868208157"
+    },
+    {
+      "id": "1776868208158",
+      "front_md": "[AgeMods-infant] Separation-reunion paradigm — מה המטרה ומאיזה גיל?",
+      "back_md": "**מגיל 7-9 חודשים** (התפתחותי). הערכת **attachment system** — יכולת הדיאדה לפתור distress אחרי פרידה + איחוד [D-22].",
+      "note_id": "1776868208158"
+    },
+    {
+      "id": "1776868208160",
+      "front_md": "[AgeMods-preschool] BPI מול MSSB — ההבדל + המשותף?",
+      "back_md": "**משותף:** שניהם עוקפים את המגבלה שילדי גן לא מדברים ישירות על רגשות (displacement).\n**BPI:** שתי **בובות** עם אמירות רגשיות מנוגדות, הילד בוחר.\n**MSSB:** **פתיחות סיפוריות רגשיות** שהילד משלים [D-25].",
+      "note_id": "1776868208160"
+    },
+    {
+      "id": "1776868208164",
+      "front_md": "[AgeMods-school] איזה סוג שאלות להימנע אצל ילדי 6-11 ולמה + מה להעדיף?",
+      "back_md": "**להימנע מ-\"למה\" (why)** — דורש חשיבה אנליטית מעבר ליכולת רוב ילדי בי\"ס. **להעדיף what / where / how** [D-12].",
+      "note_id": "1776868208164"
+    },
+    {
+      "id": "1776868208166",
+      "front_md": "[AgeMods-school] מה \"time anchors\" ולמה הם חשובים?",
+      "back_md": "ילדי 6-11 **historians גרועים של זמן**. לעגן onset/duration ב-anchors מוכרים (חופש קיץ, חגים): *\"Were you feeling sad back when it was still summer vacation?\"* [D-12].",
+      "note_id": "1776868208166"
+    },
+    {
+      "id": "1776868208167",
+      "front_md": "[Committee1] פירוט 105 הדקות של Committee 1?",
+      "back_md": "60 בדיקת מטופל חי + 5 הכנה + 10 הצגה + 30 שאלות בוחנים = **105 דק׳** [StageB-1, StageB-3].",
+      "note_id": "1776868208167"
+    },
+    {
+      "id": "1776868208169",
+      "front_md": "[Committee1] 3 האתגרים ההתנהגותיים שהבחינה מציבה verbatim?",
+      "back_md": "(1) *\"קושי של ילד צעיר להיפרד מההורה\"*; (2) *\"סירוב של מתבגר לשתף פעולה בבדיקה\"*; (3) *\"חוסר גבולות של ההורה המשתתף\"* [StageB-4].",
+      "note_id": "1776868208169"
+    },
+    {
+      "id": "1776868208170",
+      "front_md": "[Committee1] ציון מעבר + השלכה על כל הבחינה?",
+      "back_md": "**5/8 מ-2 בוחנים**. **כישלון ב-Committee 1 = כישלון בכל הבחינה** [StageB-2, StageB-5].",
+      "note_id": "1776868208170"
+    },
+    {
+      "id": "1776868208172",
+      "front_md": "[Integration] 3 מודלי formulation לפי Dulcan?",
+      "back_md": "**DSM-5** · **biopsychosocial** · **\"perspectives of psychiatry\"** [D-13]. כל אחד נותן זווית שונה — לרוב משלבים.",
+      "note_id": "1776868208172"
+    },
+    {
+      "id": "1776868208173",
+      "front_md": "[Feedback] מאיפה מתחילים בפידבק למשפחה + איזו עמדה כלפי המטפל העיקרי?",
+      "back_md": "**להתחיל מנקודות החוזק** של הילד והמשפחה [D-14]. **להתייצב לצד המטפל העיקרי** — להציע חלופות הקשורות למטרותיו המקוריות [D-16].",
+      "note_id": "1776868208173"
+    },
+    {
+      "id": "1776868208174",
+      "front_md": "[Errors] מה 4 הטעויות \"commonly missed\" של Dulcan?",
+      "back_md": "(1) שוכחים שהבוחן **משקף** לילד/משפחה מי הוא [D-26]; (2) בניית **rapport חד-צדדי** [D-27]; (3) תלונת הורה ב-**face value** [D-28]; (4) **delirium מתחזה ל-psychiatric** [D-29].",
+      "note_id": "1776868208174"
+    },
+    {
+      "id": "1776868208176",
+      "front_md": "[Errors] איך delirium מתחזה ל-psychiatric? (2 דוגמאות verbatim)",
+      "back_md": "*\"irritability and aggression of delirium as **oppositional behavior**\"*; *\"disturbances of thinking and perception as **psychosis**\"* [D-29].",
+      "note_id": "1776868208176"
+    },
+    {
+      "id": "1776868208178",
+      "front_md": "[V-quote] Dulcan על \"moving target\" — הציטוט verbatim?",
+      "back_md": "> \"Children are a 'moving target.' They are changing and evolving as they age, achieving milestones in cognitive, physical, social, and emotional domains, making it challenging to establish a 'baseline' even in typically developing children.\" [D-1]",
+      "note_id": "1776868208178"
+    },
+    {
+      "id": "1776868208179",
+      "front_md": "[V-quote] Dulcan על suicide inquiry (מיתוס) — הציטוט verbatim?",
+      "back_md": "> \"Inquiry regarding suicidal thinking and behavior does not cause a child to adopt this thinking and behavior. Far more harm is possible if this line of questioning is excluded.\" [D-31]",
+      "note_id": "1776868208179"
+    },
+    {
+      "id": "1776868208181",
+      "front_md": "[V-quote] Dulcan על dyadic dependency של preschool — הציטוט verbatim?",
+      "back_md": "> \"The preschool child does not function as a psychologically autonomous individual and remains inextricably tied to the primary caregiver for adaptive and emotional functioning.\" [D-30]",
+      "note_id": "1776868208181"
+    },
+    {
+      "id": "1776868208182",
+      "front_md": "[Case] Susan (7y) — למה כפיית פרידה בתחילת ראיון תהרוס את ההערכה?",
+      "back_md": "תהרוס rapport. הדרך הנכונה: **ניווט הדרגתי משותף→אישי**, הבטחת **child-alone + parent-alone** בסוף. בלי זה — miss של risk assessment מדויק (איומים לקפוץ מרכב) + miss של דפוסי parental accommodation [C-2].",
+      "note_id": "1776868208182"
+    }
+  ]
+}

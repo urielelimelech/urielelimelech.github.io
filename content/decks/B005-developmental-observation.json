@@ -1,0 +1,151 @@
+{
+  "id": "B005-developmental-observation",
+  "label": "B005 · תצפית התפתחותית בבדיקה · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1776891385807",
+      "front_md": "[Play] 2 השלבים של תצפית משחק פדיאטרית?",
+      "back_md": "(1) **Free-play דיאדי** — הורה אחד, הפחתת חרדה, בודק = participant-observer שלא מוביל [D-2]. (2) **Semi-structured play** — מטלות מעוררות סטרס מתון (חטיף משותף, קוביות תחת זמן) — פתרון בעיות + ויסות רגשי תחת תסכול [D-3].",
+      "note_id": "1776891385807"
+    },
+    {
+      "id": "1776891385808",
+      "front_md": "[Play-complexity] 4 השלבים של התפתחות משחק סימבולית?",
+      "back_md": "Sensorimotor (0-12 חו׳) → Functional (12-24 חו׳) → Symbolic (24-36 חו׳) → Complex symbolic (3y+) [D-4, D-5].",
+      "note_id": "1776891385808"
+    },
+    {
+      "id": "1776891385809",
+      "front_md": "[Play] מה \"Flow of play\" בוחן?",
+      "back_md": "ארגון המשחק, perseveration, רצף — מבטא את **תהליך החשיבה** דרך ניתוח תמות משחק סימבולי [D-6].",
+      "note_id": "1776891385809"
+    },
+    {
+      "id": "1776891385810",
+      "front_md": "[Drawing] 4 התפקודים של ציור מונחה?",
+      "back_md": "ציות להוראות · הבנה/שמיעה · מוטוריקה עדינה · ארגון מרחב הדף [D-7].",
+      "note_id": "1776891385810"
+    },
+    {
+      "id": "1776891385811",
+      "front_md": "[Drawing] ציור חופשי מה חושף?",
+      "back_md": "חלון **סמי-השלכתי** לתמות פנימיות (חרדה, תוקפנות) שאינן מתבטאות מילולית [D-8].",
+      "note_id": "1776891385811"
+    },
+    {
+      "id": "1776891385812",
+      "front_md": "[Paradigm-infant] Still-face — מה המתודה והגיל?",
+      "back_md": "ההורה שומר על פנים חתומות ל-**3 דק׳** (גיל 0-12 חו׳). תגובת התינוק חושפת **ויסות דיאדי + self-soothing** [D-9].",
+      "note_id": "1776891385812"
+    },
+    {
+      "id": "1776891385813",
+      "front_md": "[Paradigm-toddler] Separation-reunion — מה הנתון הקריטי?",
+      "back_md": "מפעילה מערכת ההיקשרות. המידע הקריטי = **יכולת הדיאדה לווסת מצוקה באיחוד**, לא עצם המצוקה [D-10]. גיל 7-9 חו׳+.",
+      "note_id": "1776891385813"
+    },
+    {
+      "id": "1776891385814",
+      "front_md": "[Paradigm-preschool] BPI vs MacArthur — מה ההבדל?",
+      "back_md": "**BPI** = שתי בובות עם הצהרות רגשיות סותרות, הילד בוחר. **MacArthur** = פתיחות סיפוריות שהילד משלים. שניהם עוקפי-הגנות דרך displacement [D-11].",
+      "note_id": "1776891385814"
+    },
+    {
+      "id": "1776891385816",
+      "front_md": "[Milestones-motor] מתי tandem gait (עקב-בצד-אגודל)?",
+      "back_md": "**גיל 6** [D-14]. ריצה 2y, עמידה על רגל אחת 3y, קפיצה על רגל אחת 4y.",
+      "note_id": "1776891385816"
+    },
+    {
+      "id": "1776891385817",
+      "front_md": "[Milestones-social] 4 אבני דרך חברתיות-רגשיות מוקדמות?",
+      "back_md": "Social smile (6-8 שבועות) · Joint attention (8-12 חו׳) · Social referencing (9-12 חו׳) · Stranger anxiety (6-8 חו׳) [D-10, D-15].",
+      "note_id": "1776891385817"
+    },
+    {
+      "id": "1776891385818",
+      "front_md": "[Parent-child] השאלה verbatim של Dulcan על הדדיות?",
+      "back_md": "> \"Is there a pattern of responding to rather than at the child?\" [D-17].",
+      "note_id": "1776891385818"
+    },
+    {
+      "id": "1776891385819",
+      "front_md": "[Parent-child] 4 משתני parent-child interaction לקידוד?",
+      "back_md": "Attunement · Responsiveness · Reciprocity · Secure Base [D-16].",
+      "note_id": "1776891385819"
+    },
+    {
+      "id": "1776891385820",
+      "front_md": "[ASD] 4 סימני ASD בתצפית פדיאטרית?",
+      "back_md": "(1) Absent joint attention; (2) Flat play (palm חפצים); (3) Stereotypies (רפטיטיביות חסרות מטרה); (4) Rigid narrow interests [D-18].",
+      "note_id": "1776891385820"
+    },
+    {
+      "id": "1776891385821",
+      "front_md": "[Dev-deviance] ההבדל Delayed vs Altered?",
+      "back_md": "**Delayed** = proportional lag (בן 3 נראה כמו בן 1.5) = עיכוב התפתחותי. **Altered** = qualitative deviance (סטייה מהנורמה בכל גיל) = ASD-typical [D-19].",
+      "note_id": "1776891385821"
+    },
+    {
+      "id": "1776891385822",
+      "front_md": "[Formulation] מה 3 הצירים של biopsychosocial שהתצפית תומכת?",
+      "back_md": "Bio (motor/neuro milestones) · Psycho (temperament/EF נצפה) · Social (parent-child quality) [D-20].",
+      "note_id": "1776891385822"
+    },
+    {
+      "id": "1776891385823",
+      "front_md": "[DC:0-5] אילו צירים דורשים תצפית?",
+      "back_md": "**Axis 2 (relational context)** + **Axis 5 (developmental functioning)** — שניהם דרך תצפית, לא שאלון [D-21].",
+      "note_id": "1776891385823"
+    },
+    {
+      "id": "1776891385824",
+      "front_md": "[DSM] איך DSM-5 מותאם לגיל הרך?",
+      "back_md": "קריטריונים דורשים **\"תרגום\"** לרמות ההתפתחותיות — היפראקטיביות וחרדה מתבטאות אחרת במשחק מאשר בדיווח ורבלי [D-22].",
+      "note_id": "1776891385824"
+    },
+    {
+      "id": "1776891385825",
+      "front_md": "[Culture] המשחק של משפחות קולקטיביסטיות נראה איך בעיניים מערביות?",
+      "back_md": "**Caregiver-driven play, restrained** — עשוי להתפרש בטעות כדיכאון או הורות חודרנית. למעשה — נורמטיבי תרבותית [D-23].",
+      "note_id": "1776891385825"
+    },
+    {
+      "id": "1776891385826",
+      "front_md": "[Pitfall] הציטוט verbatim על הדיאדה?",
+      "back_md": "> \"The caregiver-child dyad is the most meaningful unit of observation and assessment\" [D-1].",
+      "note_id": "1776891385826"
+    },
+    {
+      "id": "1776891385827",
+      "front_md": "[Pitfall-play] למה להימנע מ\"why\" במשחק עם ילד קטן?",
+      "back_md": "דורש חשיבה אנליטית סיבתית שמעבר ליכולת; השתמש ב-**descriptive commenting** — \"אני תוהה למה התינוק בוכה\" [D-6, D-25].",
+      "note_id": "1776891385827"
+    },
+    {
+      "id": "1776891385828",
+      "front_md": "[Pitfall-organic] \"הוא סרבן\" של הורה יכול להיות מה לא-התנהגותי?",
+      "back_md": "**לקות שפתית, חירשות קלה, או קשיי קשב** שמונעים הבנת ההוראה — חובה תצפית עצמאית [D-26].",
+      "note_id": "1776891385828"
+    },
+    {
+      "id": "1776891385829",
+      "front_md": "[Committee 1] מה StageB אומר על תצפית התפתחותית ספציפית?",
+      "back_md": "**[NOT IN STAGE B PDF]** — ההוראות כלליות (\"מופעים שונים של הנבדקים\") [StageB-2]. הנבחן אחראי להדגים תצפית מערכתית.",
+      "note_id": "1776891385829"
+    },
+    {
+      "id": "1776891385830",
+      "front_md": "[Case Tonya] הסימן המרכזי ב-DSED בתצפית של Tonya?",
+      "back_md": "**Proximity-seeking disordered** — פנתה למבוגרים לא-מוכרים לניחום במקום לאם האומנה [C-2]. תיעוד איכותי: \"נגעה במשקפיים, חיבקה רגליים\", לא \"poor boundaries\" כללי [C-2].",
+      "note_id": "1776891385830"
+    },
+    {
+      "id": "1776891385831",
+      "front_md": "[Case Jacob] איזה paradigm גילה את הטמפרמנט החרדתי של Jacob 4.5y?",
+      "back_md": "**Structured-play + separation-reunion:** ביקש reassurance חוזר למרות חמימות האם [C-5]; shift לחרדתי-עצוב בפרידה, relief נראה לעין באיחוד [C-6] — פרטים שלא ניתנים ברבלית בגיל 4.",
+      "note_id": "1776891385831"
+    }
+  ]
+}

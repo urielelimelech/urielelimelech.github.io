@@ -1,0 +1,73 @@
+{
+  "id": "B017-committee-2-drill-summary",
+  "label": "B017 · תרגול ועדה 2 — שאלות קליניות · סיכום",
+  "source": "residency-summary",
+  "cards": [
+    {
+      "id": "1777088403129",
+      "front_md": "מטרת ועדה 2 verbatim וכל הלוגיסטיקה?",
+      "back_md": "‫**מטרה verbatim** [StageB-1]: > \"שאלות בנושאים התפתחותיים, קליניים אבחנתיים וטיפוליים\" + \"השאלות יתבססו על כלל חלק זה בסילבוס\". **מבנה:** 3 שאלות, 75 דק' total. Default = 25 דק' × 3. עם שאלה מתגלגלת = 45 דק' רולינג + 15 דק' × 2 [StageB-2]. **גמישות:** > \"חלוקת הזמן הפנימית גמישה על פי הצורך ובהתאם לשיקול הדעת של הבוחנים (בכפוף לתיעוד של נימוקי הבוחנים)\" [StageB-2]. **מספר בוחנים:** 3 (או 2 אם אין מספר נבחנים מתאים) [StageB-4]. **אחידות verbatim** [StageB-3]: > \"השאלות שיוצגו בחלק זה הינן שאלות זהות לכל הנבחנים באותו פרק זמן. דהיינו, אין אפשרות של בחירה או החלפת שאלה.\" **מקור שאלות תרגול** [StageB-3]: > \"השאלות באתר הר\"י של המתמחים ישמשו לדוגמה בלבד\". **Stage B שותקת:** מי מ-3 הבוחנים שואל איזו שאלה; שגיאות ספציפיות לכישלון — שניהם [NOT IN STAGE B PDF]. **Hook:** Committee 2 = standardized exam (אותן שאלות לכל הנבחנים), בשונה מ-Committee 1 שתלוי במטופל הספציפי שמגיע.‬",
+      "note_id": "1777088403129"
+    },
+    {
+      "id": "1777088403130",
+      "front_md": "מה ה-5 סוגי שאלות לפי הסילבוס + Stage B?",
+      "back_md": "‫מתוך verbatim \"התפתחותיים, קליניים אבחנתיים וטיפוליים\" [StageB-1] עולה חלוקה ל-3 בסיסיים, ובהרחבה הסקיל-לחומר 5 סוגים: **(1) התפתחותי** — מילסטונים, סטיות, השוואה בין שלבים. **(2) קליני (presentation)** — תיאור מקרה → מה הסיכויים. **(3) אבחנתי (differentiation)** — איך להבדיל בין X ל-Y. **(4) טיפולי** — algorithm, dose, monitoring. **(5) forensic-legal** — דיווח, capacity, dual agency, witness competency. **משמעות לתרגול:** 5 drills/שבוע, 1 לכל סוג = כיסוי מלא של מה ש-Stage B verbatim מאפשרת. **מקור הרחבה:** Stage B שותקת על forensic-legal כסוג נפרד [NOT IN STAGE B PDF], אך הסילבוס + non-DSM mandatory topics דורשים זאת.‬",
+      "note_id": "1777088403130"
+    },
+    {
+      "id": "1777088403131",
+      "front_md": "Bayesian hypothesis revision — לב הסקיל לוועדה 2",
+      "back_md": "‫**ציטוט מכונן Dulcan** [D-1] verbatim: > \"The next assessment findings raise or lower the probability of a diagnosis until it is either functionally ruled out or clearly established as a treatment target. The most formal way of combining the information is via Bayes' theorem, using tools such as a probability nomogram... to integrate base rates and clinical impressions with the diagnostic likelihood ratios\". **משמעות לתרגול:** בוחן זורק \"מידע חדש\" באמצע שאלה — אסור להתעקש על האבחנה הראשונית. השפה הנכונה: \"מידע X מעלה DDx-A מ-30% ל-55%; מוריד DDx-B מ-40% ל-15%\". **מתי אבחנה נשללת/חוזרת** [D-2] verbatim: > \"Assessment would resume if new risk factors emerged, or if initial treatment response was not good\". **Drill ייעודי:** בוחן זורק 2 פיסות מידע חדש (1 תומך, 1 מערער). מטרה: הנבחן מציין ב-30 שניות איך כל פיסה משנה את ההסתברות של ≥2 אבחנות. **Hook:** rolling case (B013) הוא הקצנה של Bayesian — אותה לוגיקה, רק מורחבת.‬",
+      "note_id": "1777088403131"
+    },
+    {
+      "id": "1777088403132",
+      "front_md": "DDx ranking by base rates — איך מציגים אבחנה מבדלת בעל-פה",
+      "back_md": "‫**Dulcan שותקת על PRESENTATION בעל-פה** [NOT IN DULCAN explicit]. מספקת את העיקרון — **base rates calibration** [D-3] verbatim: > \"Knowing the base rates of common disorders... will help clinicians calibrate diagnoses and case formulations.\" [D-4] verbatim: > \"It is possible to start an intake assessment by addressing the most common problems and then follow up with more specialized rating scales and supplemental testing that focus on the hypotheses that are in the assessment zone\". **משמעות לוועדה:** DDx של ילד 8 עם בעיות קשב — אל תתחיל מ-juvenile bipolar (~<1%). **כלל הזהב:** התחל מהשכיח (ADHD ~5-7%, anxiety ~3-5%, LD ~5-10%, sleep ~5-15%) → הוסף ייחודי לפי clinical picture. **מבנה presentation 3-דק':** (1) Most likely (1-2 משפטים: אבחנה + 2 features תומכים + 1 שמערער); (2) Top alternative (1 משפט: \"אם הוסף Y, זה ישתווה\"); (3) Rule-out essentials (1 משפט: \"חייב לשלול medical mimicker\"). **Hook:** הצגה מ-common-to-rare מציגה calibration קלינית — מ-rare-to-common מציגה חוסר חוויה.‬",
+      "note_id": "1777088403132"
+    },
+    {
+      "id": "1777088403133",
+      "front_md": "5-element treatment algorithm verbalization — מה Dulcan דורשת בפעולה?",
+      "back_md": "‫**הציטוט המרכזי** [D-5] verbatim: > \"The principles of competent medication treatment include a comprehensive evaluation of psychosocial factors, the symptoms to be addressed pharmacologically, a medical history, a clear plan for psychosocial and medication treatment based on the best evidence, and a plan for how to monitor outcomes, including specifically targeted symptoms and deficits in functioning as well as adherence and side effects\". **5 רכיבי חובה:** (1) psychosocial factors evaluation; (2) targeted symptoms; (3) medical history; (4) evidence-based combined plan; (5) monitoring plan. **מבנה presentation 4-5 דק':** (1) **Workup** 30 שנ' — labs, vitals, ECG; (2) **Step 1** 1 דק' — psychotherapy/med + dose + duration + monitoring; (3) **Step 2** 1 דק' — alternative + when to switch (4-6 שבועות); (4) **Step 3** 1 דק' — augmentation + evidence; (5) **Monitoring + Q** 30 שנ' — track, refer-up, red flags. **טיפ practical:** תמיד הזכר Israeli MoH status (approved/off-label/not-used) — שאלה על מינון = הזדמנות להציג ידע לוקלי.‬",
+      "note_id": "1777088403133"
+    },
+    {
+      "id": "1777088403134",
+      "front_md": "Forensic/legal — Dual agency, מה Dulcan אומרת verbatim?",
+      "back_md": "‫**Dual agency forbidden** [D-6] verbatim: > \"If the same mental health professional provides both clinical care and the forensic expert evaluation and testimony, this constitutes an ethical violation based on conflict of interest and dual agency. The forensic evaluation... has a different set of professional and ethical duties and responsibilities from those of the treating clinician.\" [D-7] verbatim: > \"The forensic evaluation should be performed by a clinician who is trained in forensic assessment; this individual should not be the physician or therapist who is involved in ongoing treatment\". **משמעות לוועדה:** אם הבוחן מציע שאלה \"מטופל שלך עומד למשפט — תוכל לחוות דעה?\" — תשובה הקלאסית: \"לא; אני מטפל. אני יכול לספק רישומי טיפול אם בית המשפט דורש, אבל forensic eval חייב להיעשות ע\"י קלינאי שאינו מעורב בטיפול.\" **Hook:** Dual agency = ethical violation — לא טכנית-כשרון, אלא role conflict.‬",
+      "note_id": "1777088403134"
+    },
+    {
+      "id": "1777088403135",
+      "front_md": "Mandatory reporting — מה Dulcan אומרת verbatim?",
+      "back_md": "‫**[D-7]** verbatim: > \"Physicians and mental health clinicians (and others) are mandated by all 50 states to report suspected cases of child physical and sexual abuse... Most important is prompt referral to a child protective services organization to ensure appropriate collection and validation of forensic information\". **בישראל**: §368D של חוק העונשין מטיל חובת דיווח דומה (synthesis לא verbatim Dulcan; מקור MoH-Violence mk06/2020 ב-source-rules). **משמעות לוועדה:** אם הבוחן מציע \"מטופל בן 12 רומז להתעללות פיזית — מה אתה עושה?\" — תשובה: (1) דיווח רשויות הגנת ילד מיידי; (2) מסירת המידע לפורנזי-מומחה (לא אני); (3) המשך טיפול קליני (לא חוקר); (4) עוצמה לחובת הסודיות תהיה כפופה לחובת הדיווח. **Hook:** חובת הדיווח **גוברת** על סודיות — זה ה-default בכל דמוקרטיה רפואית.‬",
+      "note_id": "1777088403135"
+    },
+    {
+      "id": "1777088403136",
+      "front_md": "Minor consent + capacity — מה Dulcan אומרת?",
+      "back_md": "‫**[D-8]** verbatim: > \"Minors are generally not deemed competent to give legal consent to psychiatric evaluation or treatment or the release of medical information. The consent of the parent or guardian is required unless statutory exceptions exist or the minor is emancipated\". **משמעות לוועדה:** קטין לא יכול לתת הסכמה מדעת לטיפול פסיכיאטרי. ההסכמה דורשת הורה/אפוטרופוס. **חריגים סטטוטוריים** (synthesis): (1) emancipated minor; (2) emergency life-saving treatment; (3) some jurisdictions: contraception, STI treatment, substance abuse without parental consent. **בישראל** (synthesis לא Dulcan): (1) חוק טיפול בחולי נפש קטינים — ועדה פסיכיאטרית מחוזית לקטין <15; בית משפט ל-≥15. (2) חוק זכויות החולה: סודיות מקצועית גוברת על דרישת הורה לדעת תוכן הראיון, אך ידיעת הקיום מותרת.‬",
+      "note_id": "1777088403136"
+    },
+    {
+      "id": "1777088403137",
+      "front_md": "Child witness — 4 קריטריונים verbatim של Dulcan?",
+      "back_md": "‫**[D-9]** verbatim: > \"A child's competency to act as a witness refers to his or her ability to testify in court in a reliable and meaningful manner. In general, competence is determined by four criteria: the capacity to register an event, the ability to accurately recall and recount the event, the ability to distinguish truth from falsehood, and the capacity to communicate on the basis of personal knowledge of the facts\". **המנמוניק (mine):** **R-R-T-C** = Register · Recall · Truth-vs-falsehood · Communicate. **משמעות לוועדה:** שאלה classic — \"ילד בן 4 ראה תקיפה. האם יכול להעיד?\" תשובה: עוברים על 4 הקריטריונים: (1) יכולת לקלוט אירוע — בגיל 4 כן (autobiographical memory מתחיל ~3); (2) recall מדויק — חלקי, רגישות לסוגיסטיביות; (3) Truth-vs-falsehood — בגיל 4 לפעמים מבולבל; (4) communication — תלוי-שפה, לפעמים דורש developmental assessment. **תשובה אקדמית:** ילד 4 פוטנציאלית כשיר אך דורש evaluation מובנה ע\"י forensic assessor.‬",
+      "note_id": "1777088403137"
+    },
+    {
+      "id": "1777088403138",
+      "front_md": "5-topic rotation drill — מבנה שבועי",
+      "back_md": "‫**5 drills/שבוע, 1 לכל יום, 1 לכל סוג שאלה. כל drill = 25 דק' \"שאלה\" + 10 דק' debrief.** לא נצרך full 75-min mock — drill קצר ממוקד. **(1) ראשון — Developmental:** מילסטונים, סטיות, comparative stages. **(2) שני — Clinical (presentation):** תיאור מקרה → DDx ranked by base rates [D-3, D-4]. **(3) שלישי — Diagnostic differentiation:** איך להבדיל X מ-Y, Bayesian revision [D-1, D-2]. **(4) רביעי — Therapeutic algorithm:** stepped-care 5-element verbalization [D-5]. **(5) חמישי — Forensic/legal:** dual agency · reporting · consent · witness [D-6..9]. **מקור שאלות:** אתר הר\"י (Stage B מציין explicitly \"דוגמה בלבד\" [StageB-3]).‬",
+      "note_id": "1777088403138"
+    },
+    {
+      "id": "1777088403139",
+      "front_md": "\"אין אפשרות של בחירה או החלפת שאלה\" — אסטרטגיה איך מתמודדים עם שאלה לא-מוכרת?",
+      "back_md": "‫**מציאות verbatim** [StageB-3]: > \"השאלות שיוצגו בחלק זה הינן שאלות זהות לכל הנבחנים באותו פרק זמן. דהיינו, אין אפשרות של בחירה או החלפת שאלה.\" **משמעות:** הנבחן יקבל שאלה מ-block לא-מוכר, ואסור לבקש החלפה. **Strategy:** (1) **15-30 שניות חשיבה רשמית** — \"תן לי רגע לחשוב על זה\" (לא בושה — הבוחנים מצפים לזה); (2) **Frame את השאלה במונחים שאתה כן מכיר** — \"אני אגש לזה דרך ה-broader category של [X]\" — אם השאלה על מחלה נדירה, גש דרך הקטגוריה הכללית; (3) **Acknowledge חוסר ידיעה ספציפית, אך הצג methodology** — \"אני לא זוכר את ה-prevalence המדויקת אבל ה-approach לאבחנה היה...\". **Hook קליני:** אסור לפברק. אסור להישתתק. שתי השניות שביניהם הן את ה-3-נקודה. **Takeaway:** \"אני לא יודע\" + \"אבל הייתי בודק [X]\" = לפעמים 4 נקודות; \"פברוק שגוי\" = 1 נקודה.‬",
+      "note_id": "1777088403139"
+    }
+  ]
+}

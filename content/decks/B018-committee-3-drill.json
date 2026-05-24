@@ -1,0 +1,175 @@
+{
+  "id": "B018-committee-3-drill",
+  "label": "B018 · תרגול ועדה 3 — פסיכותרפיה · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1777179387521",
+      "front_md": "[Format] מטרת ועדה 3 verbatim?",
+      "back_md": "‫\"פסיכותרפיה: הצגת 2 דוחות טיפולים (שהוגשו קודם לבוחנים) ושאלה קונצפטואלית בתחום הפסיכותרפיה.\" [StageB-1]‬",
+      "note_id": "1777179387521"
+    },
+    {
+      "id": "1777179387523",
+      "front_md": "[Format] חלוקת הזמן הפנימית של 75 דק'?",
+      "back_md": "‫25/25/20 (5 דק' התארגנות לשאלה הקונצפטואלית) [StageB-2]‬",
+      "note_id": "1777179387523"
+    },
+    {
+      "id": "1777179387524",
+      "front_md": "[Format] מספר בוחנים?",
+      "back_md": "‫3 בוחנים (או 2 אם אין מספר נבחנים מתאים) [StageB-4]‬",
+      "note_id": "1777179387524"
+    },
+    {
+      "id": "1777179387525",
+      "front_md": "[Format] ציון מעבר verbatim?",
+      "back_md": "‫\"ציון של 3 נקודות (מתוך 5) ומעלה ע\"י שני בוחנים לפחות\" [StageB-5]‬",
+      "note_id": "1777179387525"
+    },
+    {
+      "id": "1777179387526",
+      "front_md": "[Reports] סוגי 2 הדוחות verbatim?",
+      "back_md": "‫\"1. מקרה טיפולי-פרטני ארוך טווח בגישה פסיכודינמית. 2. מקרה טיפולי-פרטני או קבוצתי בגישה שונה (גישה טיפולית מוכרת בהתאם לסילבוס).\" [StageB-6]‬",
+      "note_id": "1777179387526"
+    },
+    {
+      "id": "1777179387528",
+      "front_md": "[Reports] גילאי המטופלים verbatim?",
+      "back_md": "‫\"מקרה אחד יהיה של טיפול בילד (שהחל טיפול לפני גיל 12), והשני מקרה של טיפול במתבגר (שהחל טיפול בין הגילאים 12 עד 18 שנים)\" [StageB-6]‬",
+      "note_id": "1777179387528"
+    },
+    {
+      "id": "1777179387529",
+      "front_md": "[Reports] חידוש סתיו 2024?",
+      "back_md": "‫אפשרות להציג טיפול קבוצתי כמקרה שני; גילאי הקבוצה שונים מהפרטני (אם פרטני=ילד, קבוצה=נוער/הורים) [StageB-7]‬",
+      "note_id": "1777179387529"
+    },
+    {
+      "id": "1777179387530",
+      "front_md": "[Reports] מגבלות עיצוב — מה Stage B דורשת verbatim?",
+      "back_md": "‫\"5 עמודים + 1 עמוד של תיאור וינייטה + ספרות. לא ניתן לחרוג ממגבלת עמודים זו. רווח של 1.5 בין השורות, (FONT לא פחות מ- 12). כל דו\"ח יש להגיש בקובץ נפרד. שם כל קובץ יכלול את שם משפחתו של הנבחן.\" [StageB-8]‬",
+      "note_id": "1777179387530"
+    },
+    {
+      "id": "1777179387531",
+      "front_md": "[Reports] חלוקת 5 עמ' התוכן?",
+      "back_md": "‫½ עמ' פרטים+התפתחות+מהלך+רקע · 1 עמ' אבחנה+פורמולציה+מטרה · 2.5 עמ' מהלך טיפול · 1 עמ' דיון עם ספרות [StageB-8]‬",
+      "note_id": "1777179387531"
+    },
+    {
+      "id": "1777179387532",
+      "front_md": "[Reports] עמוד 1 verbatim — מה צריך לכלול?",
+      "back_md": "‫\"אבחנה (DSM-5 או ICD-11 עם DD לא + מפורט + פורמולציה דינמית (נרטיב + מוקד הקונפליקט ומנגנוני הגנה / התמודדות / סימפטומים, מטרת הטיפול בהתאם לפורמולציה)\" [StageB-8]‬",
+      "note_id": "1777179387532"
+    },
+    {
+      "id": "1777179387534",
+      "front_md": "[Reports] וויניאטה verbatim — מה הדרישה?",
+      "back_md": "‫\"ויניאטה מתוך שעה טיפולית (בתיאור שעה טיפולית הכוונה לקבל תמונה של מהלך שעה, התערבויות ו/או דיאלוגים אופייניים לשעה טיפולית. אין צורך בתמליל מלא של כל השעה)\" [StageB-9]‬",
+      "note_id": "1777179387534"
+    },
+    {
+      "id": "1777179387535",
+      "front_md": "[Conceptual] שאלה קונצפטואלית — verbatim של Stage B?",
+      "back_md": "‫\"שאלה קונצפטואלית אחידה בנושא פסיכותרפיה. סביב נושא השאלה יתבקש הנבחן להעלות דוגמאות מטיפולים שביצע במסגרת ההתמחות, לדוגמא: תפקיד ההורים בגישות השונות, Transference ב- CBT\" [StageB-3]‬",
+      "note_id": "1777179387535"
+    },
+    {
+      "id": "1777179387536",
+      "front_md": "[Conceptual] על מה מתבססת השאלה הקונצפטואלית?",
+      "back_md": "‫\"השאלה הקונצפטואלית תתבסס על הניסיון של הנבחן בטיפולים השונים שביצע במהלך ההתמחות. על הנבחנים להיות מוכנים לאפשרות של שאלות קונצפטואליות סביב כל הטיפולים הפסיכותרפויטיים, שבוצעו במהלך ההתמחות.\" [StageB-3]‬",
+      "note_id": "1777179387536"
+    },
+    {
+      "id": "1777179387537",
+      "front_md": "[Formulation] עקרון Dulcan ל-formulation? perspective approach",
+      "back_md": "‫\"The use of the perspective approach also allows for all aspects of the child and family to be included in the formulation and avoids single-model etiologies such as when one perspective, such as a reductionistic biological or psychodynamic formulation and treatment plan, is favored\" [D-1]‬",
+      "note_id": "1777179387537"
+    },
+    {
+      "id": "1777179387538",
+      "front_md": "[Formulation] דינמית — מה הרכיבים שחסרים ב-Dulcan?",
+      "back_md": "‫קונפליקט · הגנות · disruption התפתחותי [NOT IN DULCAN]. לכך פנה ל-B007 + Gabbard Ch 1-5 + McWilliams 2e‬",
+      "note_id": "1777179387538"
+    },
+    {
+      "id": "1777179387539",
+      "front_md": "[Treatment] רציונל להתערבות — Dulcan verbatim?",
+      "back_md": "‫\"behavioral therapy may be needed for maladaptive behaviors (behavior), and therapy that focuses on reframing the narrative of life circumstances may be required to empower the child to address those symptoms best understood to have arisen as a part of their life narrative (life story)\" [D-9]‬",
+      "note_id": "1777179387539"
+    },
+    {
+      "id": "1777179387540",
+      "front_md": "[T/CT] Transference & countertransference — Dulcan verbatim?",
+      "back_md": "‫\"Discussing transference and countertransference with colleagues or in supervision settings can be a valuable support to clinicians in this emotionally evocative work\" [D-2]‬",
+      "note_id": "1777179387540"
+    },
+    {
+      "id": "1777179387541",
+      "front_md": "[T/CT] Transference ב-CBT — תשובה אקדמית?",
+      "back_md": "‫enactment של schema (Beck 1990) — המטופל מפרש את המטפל בהתאם לסכמות מוקדמות. Intervention = cognitive restructuring of the schema (לא פירוש). [synthesis from Beck 1990, NOT IN DULCAN explicit]‬",
+      "note_id": "1777179387541"
+    },
+    {
+      "id": "1777179387542",
+      "front_md": "[Family] משפחה כמערכת — Dulcan verbatim?",
+      "back_md": "‫\"The family is viewed as a transactional system evolving over the life course and across the generations\" [D-4]‬",
+      "note_id": "1777179387542"
+    },
+    {
+      "id": "1777179387543",
+      "front_md": "[Family] Minuchin structure — Dulcan verbatim?",
+      "back_md": "‫\"Family structure refers to the important relationships and boundaries within families and the transactional patterns that exist within these relationships (Minuchin 1974)\" [D-5]‬",
+      "note_id": "1777179387543"
+    },
+    {
+      "id": "1777179387544",
+      "front_md": "[Family] כלי מיפוי — Dulcan verbatim?",
+      "back_md": "‫\"The genogram and timeline are essential tools for mapping the family system, noting relationship information and tracking system patterns to guide intervention planning\" [D-6]‬",
+      "note_id": "1777179387544"
+    },
+    {
+      "id": "1777179387546",
+      "front_md": "[Family] resilience-oriented assessment — Dulcan verbatim?",
+      "back_md": "‫\"In a resilience-oriented assessment... the clinician searches for positive influences and potential resources alongside problematic patterns\" [D-7]‬",
+      "note_id": "1777179387546"
+    },
+    {
+      "id": "1777179387547",
+      "front_md": "[CBT] ניתוח פונקציונלי — Dulcan verbatim?",
+      "back_md": "‫\"the antecedent, behavior, and consequence sequence for a behavior is identified in a functional behavioral analysis, and a step (or steps) in the sequence is modified to transform the behavior\" [D-3]‬",
+      "note_id": "1777179387547"
+    },
+    {
+      "id": "1777179387548",
+      "front_md": "[Treatment Planning] 5 רכיבי טיפול לפי Dulcan?",
+      "back_md": "‫(1) psychosocial factors evaluation; (2) targeted symptoms; (3) medical history; (4) evidence-based combined plan; (5) monitoring plan including symptoms, functioning, adherence, side effects [D-8]‬",
+      "note_id": "1777179387548"
+    },
+    {
+      "id": "1777179387550",
+      "front_md": "[Drill] 3-pass drill cycle שבועי — ימים?",
+      "back_md": "‫שני: דוח דינמי 25 דק' [D-1, D-9]; רביעי: דוח מודאליות שנייה 25 דק' [D-3, D-4..7]; שישי: שאלה קונצפטואלית 20 דק' [D-8 + cross-refs B007-B010]‬",
+      "note_id": "1777179387550"
+    },
+    {
+      "id": "1777179387556",
+      "front_md": "[Conceptual] 6 דוגמאות לשאלות קונצפטואליות?",
+      "back_md": "‫(1) תפקיד ההורים בגישות שונות [StageB-3]; (2) Transference ב-CBT [StageB-3]; (3) Termination בילדים vs מתבגרים; (4) מטרות הטיפול בכל גישה; (5) תפקיד הסופרוויזיה; (6) Boundaries בטיפול בילדים [synthesis]‬",
+      "note_id": "1777179387556"
+    },
+    {
+      "id": "1777179387558",
+      "front_md": "[Strategy] איך משתנה הפורמולציה בין דוח דינמי לדוח CBT/family/group?",
+      "back_md": "‫**דינמי:** נרטיב + מוקד קונפליקט + מנגנוני הגנה + מטרה [StageB-8]. **CBT:** ABC chain + cognitive model + schemas + automatic thoughts [D-3]. **Family:** circular causality + structural + genogram + timeline [D-4..7]. **Group:** group dynamics + role distribution + cohesion + scapegoating. **DBT-A:** behavioral chain + dialectical poles + skills targeted‬",
+      "note_id": "1777179387558"
+    },
+    {
+      "id": "1777179387559",
+      "front_md": "[StageB-Silence] מה Stage B שותקת לגביו ב-ועדה 3?",
+      "back_md": "‫(1) מספר השאלות הספציפי בכל 25-דק' לדוח; (2) אופן ההצגה (קריאה? סיכום? הרצאה?) — שניהם [NOT IN STAGE B PDF]‬",
+      "note_id": "1777179387559"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "PT-found-02-common-factors",
+  "label": "02 · גורמים משותפים בפסיכותרפיה",
+  "source": "psychotherapy",
+  "tradition": "foundations",
+  "cards": [
+    {
+      "id": "1777193985598",
+      "front_md": "**Common factors — מה הם**",
+      "back_md": "**Common factors** הם המנגנונים שמשותפים לכל סוגי הפסיכותרפיה היעילים, ואחראים לחלק ניכר משינוי המטופל — מעבר לטכניקה הספציפית. הרעיון תופס מ-Rosenzweig 1936 (\"Dodo bird verdict\" — \"all have won and all must have prizes\"). ה-meta-analyses של Smith & Glass 1977 ושל Wampold לאורך השנים תומכים: ההבדלים בין EBPs שונים נוטים להיות **קטנים** (d~0.2), בעוד ה-effect שעובר על כולם הוא **גדול** (d~0.85 vs. waitlist). Wampold & Imel 2015 (*The Great Psychotherapy Debate*) קוראים לזה ה-\"contextual model\" — psychotherapy עובדת דרך factors משותפים, לא דרך טכניקה ספציפית.\n\n*Wampold & Imel 2015 · The Great Psychotherapy Debate*",
+      "note_id": "1777193985598"
+    },
+    {
+      "id": "1777193985599",
+      "front_md": "**4-5 ה-common factors המרכזיים**",
+      "back_md": "(1) **Therapeutic alliance** — Bordin 1979 — bond + agreement on goals + agreement on tasks. Effect size r~0.28 (Horvath 2011 meta-analysis), עקבי על פני מודלים. (2) **Expectancy** — אמונת המטופל ש-treatment יעזור (placebo-like). Frank 1961 *Persuasion and Healing*. (3) **Empathy** — היכולת להבין את חוויית המטופל. Effect size r~0.31 (Elliott 2018). (4) **Therapist allegiance** — ביטחון המטפל בגישתו (אפקט מטפל > אפקט טכניקה). (5) **Cultural adaptation** — fit עם המטופל. בילדים יש גורם נוסף: **alliance עם ההורה** — equally important. השלכה קלינית: גם אם בחרת EBP נכון, ללא ה-common factors הוא לא יעבוד.\n\n*Wampold & Imel 2015 · Norcross 2018*",
+      "note_id": "1777193985599"
+    },
+    {
+      "id": "1777193985601",
+      "front_md": "**Dodo bird verdict — והוויכוח העכשווי**",
+      "back_md": "ה-**Dodo bird verdict** (Rosenzweig 1936, מ-Alice in Wonderland — \"all have won and all must have prizes\") הוא הטענה ש-**כל שיטות הפסיכותרפיה יעילות באותה מידה**. תומכי ה-common factors model (Wampold) מצדדים. **המתנגדים** (Chambless, Crits-Christoph, Beck): טוענים שלהפרעות ספציפיות יש specific treatments — exposure ל-OCD, ERP ל-OCD, family-based ל-AN. ה-evidence תומך באמת ב-**שתי האמיתות**: (1) רוב הטיפולים עוברים את ה-bar של \"יעיל יותר מ-no treatment\"; (2) להפרעות ספציפיות יש treatments עם yields נוספים מעל ה-common factors. Israel/Stage B context: בחירת modality חייבת לכלול שני שיקולים — fit ל-disorder + fit ל-alliance.\n\n*Wampold & Imel 2015 · Beidas/Kendall · Rosenzweig 1936*",
+      "note_id": "1777193985601"
+    },
+    {
+      "id": "1777193985602",
+      "front_md": "**Shirk — change processes בילדים**",
+      "back_md": "Shirk, Jungbluth & Karver (Kendall Ch 16, 2011) זיהו change processes ספציפיים לפסיכותרפיה ילדים: (1) **emotional engagement** — מעורבות רגשית בטיפול, שונה ממבוגרים בכך שילדים מתחבאים מאחורי משחק/הימנעות; (2) **alliance עם הורה ועם ילד שניהם** — *dual alliance*; (3) **interpersonal learning** — הילד מתנסה ביחסים חדשים בקליניקה; (4) **mastery experiences** — תחושת הצלחה (FEAR plan, exposure successes); (5) **insight + understanding** ברמה הקוגניטיבית-התפתחותית של הילד. ב-meta-analysis של Karver et al. 2018: **alliance with parent** הוא predictor חזק של outcome אצל ילדים — לעיתים יותר מ-alliance עם הילד. השלכה: לעיתים השקעה ב-alliance עם ההורה היא ה-leverage הקליני.\n\n*Shirk, Jungbluth & Karver · Kendall 4e Ch 16 · Karver 2018*",
+      "note_id": "1777193985602"
+    },
+    {
+      "id": "1777193985604",
+      "front_md": "איך לשלב common factors בפועל בפסיכותרפיה ילדים — 5 צעדים מעשיים?",
+      "back_md": "(1) **למדוד alliance** מוקדם — שאלון WAI-S ב-session 3-4. אם נמוך — לעבד את זה ישירות (\"איך אנחנו עובדים יחד?\"); (2) **לבנות expectancy** דרך psychoeducation בתחילת הטיפול — להסביר את ה-rationale, לציין גודל אפקט. ילדים מאמינים יותר כשהם מבינים; (3) **dual alliance** — להשקיע ב-alliance עם ההורה במקביל, לא רק עם הילד. שיחות הורים מובנות אחת לחודש; (4) **rupture-and-repair** — לשים לב לסימני break (ילד מסרב לדבר, הורה מתלונן) ולתקן ישירות, לא להתעלם; (5) **Therapist self-disclosure במידה** — בילדים זה מעמיק alliance, אבל זהיר. שילוב EBP-ספציפי + common factors הוא ה-evidence-based practice המלא.\n\n*Norcross 2018 · Karver 2018 · clinical synthesis*",
+      "note_id": "1777193985604"
+    },
+    {
+      "id": "1777193985605",
+      "front_md": "מה הוויכוח בין צד ה-EBP-ספציפי לבין צד ה-common factors, ולמה הוא חשוב לוועדה 3?",
+      "back_md": "**צד EBP-ספציפי** (Beck, Chambless, Kendall): טכניקות ספציפיות יעילות יותר עבור הפרעות ספציפיות — exposure for OCD, ERP for OCD, FBT for AN, TF-CBT for trauma. ה-evidence: trials של specific protocols מראים effects חזקים. **צד common factors** (Wampold, Frank, Norcross): רוב המשתנות מוסברת על-ידי alliance, expectancy, empathy — לא על-ידי טכניקה. ההבדלים בין EBPs שונים קטנים. **הסינתזה** (Goodheart/Kazdin/Sternberg 2006): שניהם נכונים — common factors הם prerequisite, technique הוא ה-tweak מעל. בוועדה 3: אם שואלים \"למה בחרת CBT ל-OCD ולא דינמי?\", התשובה כוללת **שני** רבדים — exposure-with-response-prevention הוא ה-active ingredient ספציפי, וה-alliance + expectancy ב-CBT structured מתאימים לילד הזה.\n\n*Wampold/Imel 2015 · Chambless/Hollon 1998 · Goodheart 2006*",
+      "note_id": "1777193985605"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "Ch03-supplement",
+  "label": "פרק 3 תוספות — הערכת ילדים בגיל הגן",
+  "source": "dulcan-supplement",
+  "cards": [
+    {
+      "id": "C01-aacap-pp-infants-toddlers",
+      "front_md": "**AACAP Practice Parameter for Psychiatric Assessment of Infants and Toddlers (1997)**",
+      "back_md": "ה-AACAP Practice Parameter לביצוע הערכה פסיכיאטרית של תינוקות ופעוטות (Thomas et al. 1997, JAACAP 36(10 suppl):21S–36S) הוא הסמך-העל המרכזי עליו מסתמך פרק 3 של Dulcan עבור הגיל 0–36 חודשים. הפרמטר מנחה: (1) הערכה דיאדית — תצפית caregiver-child יחד; (2) **מספר מפגשים** בסביבות טבעיות (מרפאה + בית); (3) שימוש באנמנזה של הריון, לידה, ותקופה סב-לידתית; (4) בדיקת מצב נפשי התפתחותית של התינוק — ויסות מצב ערות, ויסות חישתי, דפוסי תנועה, ביטוי רגשי, ומעורבות חברתית; (5) שימוש באבני-דרך התפתחותיות כעוגנים. **הפרמטר עדיין canonical למרות גילו** — לא בוצע עדכון רשמי, וההמלצות עדיין מוטמעות ברוב המודלים הקליניים.\n\n*AACAP Practice Parameter · Thomas et al. 1997 · JAACAP*",
+      "note_id": "1777008861989"
+    },
+    {
+      "id": "C02-aacap-pp-children-adolescents",
+      "front_md": "**AACAP Practice Parameter on Psychiatric Assessment of Children and Adolescents (King 1997, updated 2020)**",
+      "back_md": "ה-AACAP Practice Parameter על הערכה פסיכיאטרית של ילדים ו-adolescents (King RA, **JAACAP 1997**, עודכן 2020 על ידי Bukstein et al.) קובע מסגרת שתואמת לפרק 3 של Dulcan עבור הצומת בין גיל גן לגיל בית-ספר: (1) **מוסרי-מידע מרובים** — ילד, הורה, בית-ספר, אחרים; (2) **סביבות מרובות** — בית, בית-ספר, מרפאה; (3) **פרספקטיבה התפתחותית** — התאמת השיטה לגיל; (4) **פורמולציה ביו-פסיכו-סוציאלית**; (5) הערכת **סיכון** (suicide, abuse, substance, violence). העדכון של 2020 מוסיף דגש על שימוש בסולמות דירוג מתוקנים, על הערכה רוטינית של חשיפה ל-trauma, ועל הכרה בפגיעה בתפקוד בעקבות אפליה והדרה. הפרמטר מתייחס לגיל גן בעיקר דרך הפניה ל-Thomas 1997.\n\n*AACAP Practice Parameter · King 1997, updated Bukstein et al. 2020 · JAACAP*",
+      "note_id": "1777008861990"
+    },
+    {
+      "id": "C03-aacap-preschool-pharm",
+      "front_md": "**AACAP Preschool Psychopharmacology Working Group (Gleason et al. 2007)**",
+      "back_md": "קבוצת העבודה לפסיכופרמקולוגיה בגיל גן של AACAP (Gleason MM, Egger HL, Emslie GJ, et al., **JAACAP 46(12):1532–1572, 2007**) פרסמה אלגוריתמים \"פסיכוסוציאלי-ראשון\" לטיפול בהפרעות פסיכיאטריות בגיל הגן. **עקרונות מרכזיים**: (1) **התערבות פסיכוסוציאלית היא קו-ראשון** עבור כל ההפרעות הראשוניות בגיל גן — Parent-Child Interaction Therapy (PCIT), Parent Management Training (PMT), CBT לגיל הצעיר; (2) **תרופות נשקלות רק כשהפסיכוסוציאלי נכשל** או כשיש חומרה ניכרת; (3) **stimulants** לגיל גן עם ADHD — מתועדים, אך עם זהירות (PATS trial — methylphenidate **יעיל** אך עם שיעורי תופעות לוואי גבוהים מגיל בית-ספר); (4) **SSRIs לגיל גן** — ראיות מינימליות, בדרך-כלל לא מומלץ. הפרמטר חיוני להבנת המעבר מהערכה (Ch 3) לטיפול.\n\n*AACAP Preschool Psychopharmacology · Gleason et al. 2007 · JAACAP 46(12):1532–1572*",
+      "note_id": "1777008861991"
+    },
+    {
+      "id": "C04-dc05-zero-to-three",
+      "front_md": "**DC:0-5 — Diagnostic Classification of Mental Health and Developmental Disorders of Infancy and Early Childhood (ZERO TO THREE 2016)**",
+      "back_md": "ה-**DC:0-5** (ZERO TO THREE, 2016, בעריכת Charles Zeanah, Alicia Lieberman, ועוד) הוא **מערכת אבחנתית חלופית ל-DSM-5** המיועדת לגילאים 0–5 שנים. בנוי כ-**5 צירים**: (I) הפרעות קליניות, (II) הקשר יחסי, (III) מצבים גופניים, (IV) גורמי לחץ פסיכוסוציאליים, (V) תפקוד התפתחותי. **חידושים מרכזיים מעבר ל-DSM-5**: (1) **Relationship Specific Disorder of Infancy/Early Childhood** — מאבחן הפרעה בהקשר יחסי ספציפי (לא בילד \"הסטטי\"); (2) **הפרעות עיבוד חישתי** — תגובתיות-יתר ותגובתיות-חסר; (3) **קריטריונים מותאמי-גיל** לדיכאון, חרדה, PTSD; (4) **הפרעות שינה והאכלה** — מובנות ומפורטות יותר מאשר ב-DSM. נמצא בשימוש בעיקר ב-Infant Mental Health programs ובמסגרות צוות רב-מקצועי לגיל הצעיר. **DSM-5 פיגר בכיסוי הגיל הצעיר**, ו-DC:0-5 ממלא את החסר.\n\n*DC:0-5 · Zeanah & Lieberman et al. eds. · ZERO TO THREE 2016*",
+      "note_id": "1777008861992"
+    },
+    {
+      "id": "C05-belden-2008-tantrums",
+      "front_md": "**Belden 2008 — Tantrum behaviors associated with clinical problems**",
+      "back_md": "Belden AC, Thomson NR, **Luby JL** — **J Pediatr 152(1):117–122, 2008** (PMID 18154912). מחקר מכונן המהווה את הבסיס האמפירי לסף הקליני שמובא בפרק 3. השוו 270 ילדים בני 3–6 (חלק בריאים, חלק עם MDD/ADHD/ODD). **מאפייני הבחנה בין נורמטיבי לפתולוגי**: (1) **תדירות** — יותר מ-X התקפים בשבוע; (2) **התנהגויות עוצמה**: תוקפנות כלפי חפצים (שבירה), תוקפנות כלפי אחרים (הכאה); (3) **משך** > 20 דקות; (4) **חוסר יכולת להרגע** אחרי ההתקף; (5) **הופעה עם לא-הורים** (לא רק עם הורים); (6) **פגיעה בתפקוד** במספר הקשרים. תוקף נמצא הן עבור דיכאון והן עבור הפרעות התנהגות.\n\n*Belden, Thomson, Luby 2008 · J Pediatr 152(1):117–122 · PMID 18154912*",
+      "note_id": "1777008861993"
+    },
+    {
+      "id": "C06-luby-2014-preschool-depression",
+      "front_md": "**Luby 2014 — Preschool-onset depression trajectories**",
+      "back_md": "Luby JL, Gaffrey MS, Tillman R, et al. — **Am J Psychiatry 171(7):768–776, 2014** (PMID 24700355). מחקר אורכי של ~300 ילדים שאובחנו בגיל 3–5, מעקב לגיל בית-ספר ולתחילת גיל ההתבגרות. **ממצאים מרכזיים**: (1) **דיכאון בגיל גן** הוא **גורם סיכון מובהק ועצמאי** למחזור עתידי של MDD מלא — גם אחרי שליטה ב-trauma, אנמנזה משפחתית, ותחלואה נלווית; (2) **מסלול יציב** — ילדים שאובחנו עם דיכאון בגיל גן הראו עליות וחזרות לאורך 6–12 שנים, לא הפוגה ספונטנית; (3) **ההתאמה ההתפתחותית של DSM** עבדה — קריטריוני דיכאון בגיל גן שונו לתסמינים המתאימים לגיל. **השלכה**: זיהוי מוקדם של דיכאון בילדי גן מצדיק התערבות, לא המתנה.\n\n*Luby et al. 2014 · Am J Psychiatry 171(7):768–776 · PMID 24700355*",
+      "note_id": "1777008861994"
+    },
+    {
+      "id": "C07-luby-2019-suicidal-ideation",
+      "front_md": "**Luby 2019 — Suicidal ideation and NSSI in early childhood**",
+      "back_md": "Luby JL, Whalen D, Tillman R, et al. — **J Am Acad Child Adolesc Psychiatry 58(1):117–127, 2019** (PMID 30577927). אחד המחקרים הראשונים שמתעד **באופן שיטתי מחשבות אובדניות, התנהגויות אובדניות, ו-NSSI** בילדי גן (3–7 שנים). **ממצאים מרכזיים**: (1) מחשבות אובדניות שכיחות יותר ממה שחשבו — ~10–15% מהמדגם הקליני; (2) **PTSD ו-MDD הם המנבאים החזקים ביותר**; (3) הילדים עם מחשבות אובדניות הראו **תפיסה מתקדמת יותר של מוות** מבני-גיל (Hennefield et al. 2019, מחקר נלווה); (4) NSSI שונה מאובדנות — קורה גם בילדים ללא דיכאון. **השלכה קלינית**: לא להימנע מלשאול ילדי גן על מחשבות אובדניות בגלל הנחה שגיל מגן — לשאול אקטיבית במצבי MDD/PTSD/trauma.\n\n*Luby et al. 2019 · JAACAP 58(1):117–127 · PMID 30577927*",
+      "note_id": "1777008861995"
+    },
+    {
+      "id": "C08-wakschlag-dbdos-validation",
+      "front_md": "**Wakschlag 2008 — DB-DOS validation**",
+      "back_md": "Wakschlag LS, Briggs-Gowan MJ, Hill C, et al. — **JAACAP 47(6):632–641, 2008** (PMID 18434925). מחקר אימות של ה-DB-DOS — כלי תצפיתי ספציפי להערכת התנהגות הפרעתית בגיל גן. **מאפיינים**: (1) **מודולים מובנים** מציגים מצבים שעשויים לעורר התנהגות הפרעתית — משימות תסכול, משימות דרישה, משחק חופשי; (2) **שני תת-סוגים**: **temper loss / dysregulated** ו-**oppositional / defiant**; (3) **תצפיתי, לא דיווחי** — מתגבר על הטיות בדיווח הורי. **ממצאי תיקוף**: הכלי מבדל בין ODD בגיל גן לביקורות עם רגישות טובה; מתאמים עם מדדי דיווח הורי אך מספק מידע ייחודי שלא מובא בדיווח. הכלי בעיקר במחקר אך עם פוטנציאל קליני.\n\n*Wakschlag et al. 2008 · JAACAP 47(6):632–641 · PMID 18434925*",
+      "note_id": "1777008861996"
+    },
+    {
+      "id": "C09-dougherty-irritability",
+      "front_md": "**Dougherty 2013 + 2015 — Preschool irritability**",
+      "back_md": "שני מחקרים מ-Dougherty et al. — שניהם מ-מעקב אורכי של ~600 ילדים בני 3 בנקודת הבסיס, מעקב ל-6 ו-9. (1) **Dougherty 2013** — JAACAP 52(12):1304–1313 (PMID 24290463) — **רגיזות** בגיל גן (3) מנבאת **MDD, GAD, ODD** בגיל 6, גם אחרי שליטה בפסיכופתולוגיה בנקודת הבסיס; (2) **Dougherty 2015** — J Child Psychol Psychiatry 56(9):999–1007 (PMID 26259142) — האפקטים נמשכים לגיל 9 ומתרחבים לפגיעה בתפקוד ושימוש בשירותים. **השלכה**: **רגיזות** היא **סמן סיכון טרנסאבחנתי** בגיל גן — לא תסמין ספציפי להפרעה, אלא דגל אדום כללי. סינון לרגיזות בנקודת הבסיס הוא חלק חשוב מההערכה.\n\n*Dougherty et al. 2013 (JAACAP) + 2015 (JCPP)*",
+      "note_id": "1777008861997"
+    },
+    {
+      "id": "C10-shaw-2020-asd-surveillance",
+      "front_md": "**Shaw 2020 — CDC ASD surveillance בגיל 4**",
+      "back_md": "Shaw KA, Maenner MJ, Baio J, et al. — **MMWR Surveill Summ 69(3):1–11, 2020** (PMID 32214075). מחקר מעקב אוכלוסייתי של CDC — רשת ניטור נכויות התפתחותיות וaאוטיזם, 6 אתרים, ארה\"ב 2016. **ממצאים מרכזיים**: (1) **שכיחות ASD בגיל 4 = 15.6 ל-1,000 (1 ב-64)** — עליה מ-14.1 ל-1,000 ב-2014; (2) **גיל אבחון ראשון: חציון 36 חודשים** — האבחון מתרחש מאוחר משכן זיהוי מוקדם אפשרי בגיל 18–24 חודשים; (3) **פערים** — בנים > בנות 4:1; ילדים שחורים והיספנים מאובחנים מאוחר יותר מילדים לבנים; (4) **מוגבלות שכלית נלווית** ב-~50% מילדי ASD בגיל 4. **השלכה לפרק 3**: מעקב בגיל גן הוא חיוני; AAP ממליץ על סינון אוניברסלי ב-18 ו-24 חודשים (M-CHAT).\n\n*Shaw et al. 2020 · MMWR Surveill Summ 69(3):1–11 · PMID 32214075*",
+      "note_id": "1777008861998"
+    },
+    {
+      "id": "C11-frick-2013-developmental-psychopathology",
+      "front_md": "**Frick 2013 — Developmental psychopathology framework**",
+      "back_md": "Frick PJ — **J Child Psychol Psychiatry 54(4):532–548, 2013** (גם הפנייה לרעיון ב-Dulcan Ch 3). המסגרת של פסיכופתולוגיה התפתחותית מספקת את התשתית התיאורטית להבחנה **delayed vs altered** של פרק 3. **עקרונות מרכזיים**: (1) **equifinality** — מסלולים שונים מובילים לאותה תוצאה; (2) **multifinality** — אותו גורם סיכון מוביל לתוצאות שונות; (3) **מפלי התפתחות** — הפרעות מוקדמות יוצרות תנאים שמחזקים את עצמם דרך תקופות התפתחותיות שונות; (4) הבחנה בין **המשכיות הומוטיפית** (אותה הפרעה נמשכת) ל-**המשכיות הטרוטיפית** (הפרעה אחת מובילה לאחרת — למשל ODD בגיל גן → דיכאון בגיל ההתבגרות). **השלכה לפרק 3**: הקלינאי לא יכול להניח שהמסלול ייראה אותו הדבר על פני זמן — נדרשת הערכה מחדש תקופתית.\n\n*Frick 2013 · JCPP · גם framework של Sroufe & Rutter המרחיב*",
+      "note_id": "1777008861999"
+    },
+    {
+      "id": "C12-pcit-evidence",
+      "front_md": "**PCIT — Parent-Child Interaction Therapy (Eyberg) — evidence-based intervention**",
+      "back_md": "**Parent-Child Interaction Therapy** (PCIT, Eyberg & Funderburk 1995, עם מדריך מובנה) הוא **טיפול קו-ראשון מבוסס-ראיות** לגיל הגן עבור הפרעות התנהגות הפרעתית, מבוסס על פרדיגמת ההערכה שמתוארת בפרק 3. **שני שלבים**: (1) **CDI (Child-Directed Interaction)** — ההורה מתאמן ב-PRIDE skills (Praise, Reflection, Imitation, Description, Enjoyment) לחיזוק התנהגויות חיוביות; (2) **PDI (Parent-Directed Interaction)** — ההורה מתאמן בנתינת הוראות יעילות ובשימוש ב-time-out. **תיקוף חזק**: מספר ניסויים מבוקרים-אקראיים הראו גדלי-אפקט בינוניים-גדולים על ECBI (Eyberg Child Behavior Inventory), עם הכללה לאחים שלא טופלו ושמירה על התוצאות עד 6 שנים. PCIT מבוסס על **bug-in-the-ear coaching** של ההורה תוך כדי משחק עם הילד — התאמה מושלמת לפרדיגמת התצפית הדיאדית מ-Ch 3.\n\n*Eyberg & Funderburk · UC Davis PCIT Center · multiple RCTs*",
+      "note_id": "1777008862000"
+    },
+    {
+      "id": "C13-pcit-ed-luby",
+      "front_md": "**PCIT-ED — Parent-Child Interaction Therapy Emotion Development (Luby)**",
+      "back_md": "ה-**PCIT-ED** (Luby, Lenze, Tillman 2012) הוא **התאמה של PCIT לדיכאון בגיל גן** — ההתערבות המבוססת-ראיות הראשונה ל-preschool-onset MDD. מוסיף **מודול שלישי**: **Emotion Development (ED)** — ההורה מאומן לזהות, לקלוט ולווסת רגשות של הילד דרך emotion coaching. **RCT 2018** (Luby et al., Am J Psychiatry 175(11):1102-1110) — preschoolers עם MDD שקיבלו PCIT-ED הראו **הפוגה ב-69%** מול 31% בקבוצת waitlist; effect sizes גבוהים על חומרת הדיכאון ופגיעה בתפקוד, עם שמירה על ההשפעה ב-12 שבועות. **השלכה**: לדיכאון בגיל גן — שאובחן עם הכלים של פרק 3 — קיים טיפול מבוסס-ראיות, לא רק \"להמתין\". זה סוגר את המעגל מהערכה להתערבות.\n\n*Luby et al. 2018 · Am J Psychiatry 175(11):1102-1110 · PMID 30126304*",
+      "note_id": "1777008862001"
+    },
+    {
+      "id": "C14-egger-papa-development",
+      "front_md": "**Egger 2006 — PAPA test-retest reliability**",
+      "back_md": "Egger HL, Erkanli A, Keeler G, et al. — \"Test-retest reliability of the Preschool Age Psychiatric Assessment (PAPA)\" — **JAACAP 45(5):538–549, 2006** (PMID 16601400). מחקר psychometric שמייסד את ה-PAPA כסטנדרט המחקרי לאבחון פסיכיאטרי בגיל גן. **שיטה**: 307 הורים של ילדים בני 2–5 בשני אתרים, 2 ראיונות במרווח של 1–4 שבועות. **ממצאים מרכזיים**: (1) **ICCs ברוב האבחנות בטווח 0.56–0.92** — מהימן לשימוש קליני; (2) **ADHD, ODD, separation anxiety, MDD** — כולן עם מהימנות טובה; (3) **selective mutism, specific phobia** — מהימנות נמוכה יותר; (4) הראיון נמשך כ-2 שעות — מגביל אך לא מפריע לתיקוף. ה-PAPA מהווה את **הסטנדרט הייחוסי** שכלפיו מתוקפים כל כלי ההערכה האחרים לגיל הגן. שימושי כשנדרשת הערכה מעמיקה לקבלת החלטה אבחנתית כבדה.\n\n*Egger et al. 2006 · JAACAP 45(5):538–549 · PMID 16601400*",
+      "note_id": "1777008862002"
+    },
+    {
+      "id": "C15-bufferd-2012-continuity",
+      "front_md": "**Bufferd 2012 — Psychiatric disorders in preschoolers: continuity from ages 3 to 6**",
+      "back_md": "Bufferd SJ, Dougherty LR, Carlson GA, et al. — **Am J Psychiatry 169(11):1157–1164, 2012** (PMID 23128922). מחקר אורכי של ~600 ילדים שאובחנו בגיל 3 ב-PAPA, מעקב בגיל 6. **ממצאים מרכזיים**: (1) **שיעורי המשכיות גבוהים** — 50% מילדים עם MDD בגיל 3 עדיין קליניים בגיל 6; דומה ל-anxiety, ODD, ADHD; (2) **המשכיות הומוטיפית** (אותה הפרעה) שכיחה יותר ל-ADHD ול-anxiety; (3) **המשכיות הטרוטיפית** — דיכאון בגיל גן מנבא anxiety בגיל 6, ODD בגיל גן מנבא ADHD ו-MDD; (4) **תחלואה נלווית בנקודת הבסיס מנבאת תחלואה נלווית מאוחרת**. **השלכה לפרק 3**: אבחנה בגיל 3 אינה \"שלב שיעבור\" — היא מנבאת מסלול פסיכיאטרי לגיל בית-ספר. מצדיקה התערבות מוקדמת.\n\n*Bufferd et al. 2012 · Am J Psychiatry 169(11):1157–1164 · PMID 23128922*",
+      "note_id": "1777008862003"
+    },
+    {
+      "id": "C16-lahey-adhd-3year-stability",
+      "front_md": "**Lahey 2004 — Three-year predictive validity of preschool ADHD**",
+      "back_md": "Lahey BB, Pelham WE, Loney J, et al. — \"Three-year predictive validity of DSM-IV attention deficit hyperactivity disorder in children diagnosed at 4–6 years of age\" — **Am J Psychiatry 161(11):2014–2020, 2004** (PMID 15514401). אחד המחקרים החזקים שמבססים את **תקפות ה-ADHD בגיל גן**. **מתודולוגיה**: 255 ילדים בני 4–6 שאובחנו עם ADHD ב-baseline, follow-up שנתי במשך 3 שנים, השוואה לקבוצת ביקורת קלינית ולדגימה קהילתית. **ממצאים מרכזיים**: (1) **שיעור המשכיות = 81%** ב-follow-up בן 3 שנים — האבחנה אינה ארטיפקט התפתחותי; (2) **פגיעה תפקודית משמעותית** במספר הקשרים — בית, מוכנות לבית-ספר, יחסי בני-גיל, תאונות; (3) **התת-סוג הקשובי (inattentive) זוהה גם בגיל גן** ויציב; (4) הילדים עם ADHD בגיל גן **שונים נוירוקוגניטיבית** מהביקורות — לא רק \"ילדים פעילים יותר\". **השלכה**: ADHD בגיל 4–6 הוא אבחנה תקפה — לא מוקדם מדי, לא \"להמתין ולראות\".\n\n*Lahey et al. 2004 · Am J Psychiatry 161(11):2014–2020 · PMID 15514401*",
+      "note_id": "1777008862004"
+    },
+    {
+      "id": "C17-pats-trial-stimulants-preschool",
+      "front_md": "**PATS — Preschool ADHD Treatment Study (Greenhill 2006)**",
+      "back_md": "Greenhill L, Kollins S, Abikoff H, et al. — **JAACAP 45(11):1284–1293, 2006** (PMID 17075353). ה-**PATS** הוא ה-RCT הגדול היחיד של stimulants בגיל גן (3–5.5 שנים), 165 ילדים, במבנה רב-שלבי: PMT lead-in בן 10 שבועות → titration → crossover מבוקר-פלצבו 5 שבועות → תחזוקה 10 חודשים. **ממצאים מרכזיים**: (1) **methylphenidate יעיל** — הפחתת ADHD-RS scores; (2) **effect size 0.4–0.8 — נמוך יותר מילדים מבוגרים יותר**; (3) **תופעות לוואי שכיחות יותר מבני 6+** — דיכוי תיאבון, הפרעות שינה, ירידה במשקל (~3 lbs/year), התפרצויות רגשיות; (4) **30% מהמשפחות פרשו** בגלל תופעות לוואי; (5) **PMT lead-in הצליח ב-~12%** — מצדיק גישה פסיכוסוציאלית-ראשונה לפי AACAP. **השלכה**: stimulants בגיל גן עובדים אך דורשים זהירות מוגברת.\n\n*Greenhill et al. 2006 PATS · JAACAP 45(11):1284–1293 · PMID 17075353*",
+      "note_id": "1777008862005"
+    },
+    {
+      "id": "C18-aap-screen-time-recommendations",
+      "front_md": "**AAP screen time recommendations (2016 update)**",
+      "back_md": "ה-**American Academy of Pediatrics policy statement on Media Use in School-Aged Children and Adolescents** (Council on Communications and Media, **Pediatrics 138(5):e20162592, 2016**) קובע: (1) **גיל <18 חודשים** — להימנע משימוש במסך מלבד video chat; (2) **18–24 חודשים** — אם משתמשים, לבחור תכנים איכותיים ולצפות יחד עם הילד; (3) **2–5 שנים** — להגביל ל-**1 שעה ביום** של תכנים איכותיים; צפייה משותפת נדרשת כדי לעזור לילד להבין; (4) **>6 שנים** — מגבלות עקביות על שימוש במדיה, להבטיח שלא מתחרה בשינה ופעילות גופנית. ההפנייה ב-Dulcan Ch 3 להמלצות AAP מתייחסת לסט המלצות זה. **השלכה להערכה**: שאלה על זמן מסך כוללת לא רק כמות, אלא גם **צפייה משותפת** ו-**איזון עם פעילויות אחרות** (שינה, משחק חופשי, ספרים). זמן מסך מרובה בגיל 4 מנבא הבנה רגשית נמוכה יותר בגיל 6 (Skalicka 2019).\n\n*AAP Council on Communications and Media · Pediatrics 138(5):e20162592, 2016*",
+      "note_id": "1777008862006"
+    },
+    {
+      "id": "C19-aap-bright-futures",
+      "front_md": "**AAP Bright Futures — surveillance של התפתחות בילדות מוקדמת**",
+      "back_md": "**Bright Futures** (Hagan, Shaw, Duncan, eds., 4th ed., AAP 2017) — ההנחיות של AAP לטיפול מונע ילדי, כולל בילדות מוקדמת. **המלצות מרכזיות לגיל 0–5**: (1) **מעקב התפתחותי בכל ביקור בריאות שגרתי** + **סינון התפתחותי מובנה בגיל 9, 18, 30 חודשים** (Ages and Stages Questionnaire, ASQ-3 או מקבילה); (2) **סינון ספציפי ל-ASD בגיל 18 ו-24 חודשים** (M-CHAT-R/F); (3) **סינון לדיכאון אמהי** בביקורי postpartum; (4) **הערכה פסיכוסוציאלית** של המשפחה, כולל ACEs ו-toxic stress; (5) **הכוונה מקדימה** על שינה, האכלה, משמעת, זמן מסך. **השלכה**: הקלינאי הפסיכיאטרי לא צריך להמציא את כל ההערכה — חלק גדול אמור להיות מתועד מ-pediatrician בעקבות Bright Futures. ביקור עם המידע הזה מקצר את ההערכה המומחית.\n\n*Hagan, Shaw, Duncan eds. · Bright Futures 4th ed. · AAP 2017*",
+      "note_id": "1777008862007"
+    },
+    {
+      "id": "C20-nice-attachment-ng26",
+      "front_md": "**NICE NG26 — Children's Attachment (2015) — relevance לפרק 3**",
+      "back_md": "**NICE NG26 — Children's Attachment** (NICE, נובמבר 2015) — הנחיות לזיהוי ותמיכה בקשיי התקשרות בילדים שאומצו, בטיפול חוץ-ביתי, או בסיכון לכניסה לטיפול. ה-NG26 מספק את **המסגרת המוסדרת ביותר** לזיהוי קשיי התקשרות בגיל preschool — נושא שמכוסה בפרק 3 דרך Table 3-3. **המלצות מרכזיות**: (1) **הערכה תצפיתית מובנית** של התקשרות במהלך מספר מפגשים, כולל separation-reunion; (2) **שימוש בכלים מתוקפים** — Strange Situation Procedure, Attachment Story Completion Task, או Manchester Child Attachment Story Task; (3) **הערכת רגישות המטפל** — לא רק התנהגות הילד; (4) **התערבות mentalization-based** או **video-feedback** (כמו VIPP-SD) לשיפור הורות רגישה; (5) **לא לאבחן RAD/DSED בלי אנמנזה של טיפול פתולוגי**. ה-NG26 מתאים את הפרדיגמה של פרק 3 להקשר הבריטי-מערכתי.\n\n*NICE NG26 · Children's Attachment · November 2015*",
+      "note_id": "1777008862008"
+    },
+    {
+      "id": "Q01-belden-2008-cutoff-tantrum",
+      "front_md": "לפי Belden 2008, מהי משך התקף הזעם שמעלה חשד ל-pathology?",
+      "back_md": "**משך > 20 דקות** הוא אחד מ-4 המארקרים שמבדילים בין נורמטיבי לפתולוגי. בנוסף: (1) **תדירות** גבוהה; (2) **תוקפנות כלפי חפצים** (שבירה) או **כלפי אחרים** (הכאה); (3) **חוסר יכולת להרגע** אחרי ההתקף; (4) **הופעה עם לא-הורים**; (5) **פגיעה בתפקוד במספר הקשרים**. נוסחה מעשית: התקף קצר (<20 דק׳), נדיר, בלי תוקפנות, בהקשר אחד = ככל הנראה נורמטיבי. כל מארקר שנוסף — מעלה את ההסתברות לפתולוגיה.\n\n*Belden, Thomson, Luby 2008 · J Pediatr 152(1):117–122*",
+      "note_id": "1777008862009"
+    },
+    {
+      "id": "Q02-pats-effect-size-vs-mta",
+      "front_md": "איך ה-effect size של methylphenidate ב-PATS משווה ל-MTA, ומה זה אומר על preschool stimulants?",
+      "back_md": "**MTA (school-age, 7–9 שנים)** — methylphenidate effect size על תסמיני ADHD ~0.8–1.0. **PATS (preschool, 3–5.5 שנים)** — effect size **0.4–0.8**, נמוך יותר משמעותית. בנוסף: **תופעות לוואי רבות יותר** בגיל גן (דיכוי תיאבון, שינה, ירידה במשקל ~3 lbs/year, emotional outbursts), ו-**30% מהמשפחות פרשו** בגלל תופעות לוואי. **השלכה**: stimulants בגיל גן עובדים — אך עם **מינון נמוך יותר, מעקב צמוד יותר, תופעות לוואי שכיחות יותר**. AACAP ממליץ ש-**התערבות פסיכוסוציאלית היא קו-ראשון** (PCIT, PMT) לפני שקילה תרופתית.\n\n*Greenhill 2006 PATS · MTA Cooperative Group 1999 · AACAP Gleason 2007*",
+      "note_id": "1777008862010"
+    },
+    {
+      "id": "Q03-pcit-ed-remission-rate",
+      "front_md": "מה שיעור ה-remission של דיכאון בגיל גן עם PCIT-ED לפי Luby 2018 RCT?",
+      "back_md": "**שיעור הפוגה ב-PCIT-ED = 69%** מול **31% בקבוצת המתנה** (Luby et al. 2018, Am J Psychiatry 175(11):1102-1110). מתודולוגיה: 229 preschoolers (3–6 שנים) עם MDD, הוקצו אקראית ל-PCIT-ED או waitlist בן 18 שבועות. **תוצאות נוספות**: effect sizes גבוהים על חומרת הדיכאון, פגיעה תפקודית, ווויסות רגשי; שמירה על ההשפעה ב-12 שבועות. ה-PCIT-ED הוא **טיפול קו-ראשון מבוסס-ראיות לדיכאון בגיל גן** — סוגר את המעגל מהערכה (Ch 3) להתערבות. השלכה: לאחר שאובחן MDD בגיל גן עם הכלים מ-Ch 3 — קיים טיפול מוכח, לא \"להמתין לבית-ספר\".\n\n*Luby et al. 2018 · Am J Psychiatry 175(11):1102-1110 · PMID 30126304*",
+      "note_id": "1777008862011"
+    },
+    {
+      "id": "Q04-dc05-vs-dsm5",
+      "front_md": "מה החידושים של DC:0-5 (2016) מעבר ל-DSM-5 בכיסוי הגיל הצעיר?",
+      "back_md": "(1) **Relationship Specific Disorder of Infancy/Early Childhood** — מאבחן הפרעה בהקשר יחסי ספציפי, לא בילד \"הסטטי\" — תוצאה ישירה של עקרון הדיאדה מ-Ch 3.\n(2) **הפרעות עיבוד חישתי** — תגובתיות-יתר ותגובתיות-חסר — תחום שלא מכוסה ב-DSM-5.\n(3) **קריטריונים מותאמי-גיל** לדיכאון, חרדה, PTSD — מתאמים את הסף לביטויים המתאימים לגיל.\n(4) **הפרעות שינה והאכלה** — מובנות ומפורטות יותר מ-DSM-5.\n(5) **פורמט רב-צירי (5 צירים)** — קליני + יחסי + גופני + פסיכוסוציאלי + התפתחותי.\n\nDC:0-5 משלים מקומות שבהם DSM-5 פיגר בכיסוי הגיל הצעיר. בשימוש בעיקר ב-Infant Mental Health programs.\n\n*ZERO TO THREE 2016 · Zeanah & Lieberman et al. eds.*",
+      "note_id": "1777008862012"
+    },
+    {
+      "id": "Q05-aap-screen-2-5",
+      "front_md": "מה ההמלצות של AAP על screen time עבור בני 2–5 שנים?",
+      "back_md": "לפי ה-AAP policy statement (Pediatrics 138(5):e20162592, 2016): **בני 2–5 — להגביל ל-1 שעה ביום של תכנים איכותיים**, **צפייה משותפת נדרשת** כדי לעזור לילד להבין. בנוסף: (1) **<18 חודשים** — להימנע מהמסך מלבד video chat; (2) **18–24 חודשים** — תכנים איכותיים + צפייה משותפת אם בכלל; (3) **>6 שנים** — מגבלות עקביות, לא להתחרות בשינה ופעילות גופנית. מחקר Skalicka 2019 הראה שזמן מסך מרובה בגיל 4 מנבא פגיעה בהבנה רגשית בגיל 6. שאלת זמן המסך בהערכה צריכה לכסות לא רק כמות אלא גם צפייה משותפת, סוגי תוכן, והאם המסך משמש כמרגיע רגשי.\n\n*AAP Council on Communications and Media · Pediatrics 138(5):e20162592, 2016*",
+      "note_id": "1777008862013"
+    },
+    {
+      "id": "Q06-bright-futures-screening-ages",
+      "front_md": "מתי AAP Bright Futures ממליץ structured developmental screening בילדות מוקדמת?",
+      "back_md": "(1) **סינון התפתחותי כללי** ב-3 נקודות: **9, 18, 30 חודשים** (Ages and Stages Questionnaire ASQ-3 או מקבילה);\n(2) **סינון ספציפי ל-ASD** ב-**18 ו-24 חודשים** (M-CHAT-R/F);\n(3) **מעקב התפתחותי בכל ביקור בריאות שגרתי** (לא רק בנקודות הסינון);\n(4) **סינון לדיכאון אמהי** בביקורי postpartum;\n(5) **הערכה פסיכוסוציאלית** של המשפחה כולל ACEs ו-toxic stress;\n(6) **הכוונה מקדימה** על שינה, האכלה, משמעת, זמן מסך.\n\nהקלינאי הפסיכיאטרי לא ממציא את כל ההערכה — חלק גדול אמור להיות מתועד מ-pediatrician לפי Bright Futures. ביקור עם מידע מ-pediatrician מקצר את ההערכה.\n\n*Hagan, Shaw, Duncan eds. · Bright Futures 4th ed. · AAP 2017*",
+      "note_id": "1777008862014"
+    },
+    {
+      "id": "Q07-shaw-asd-prevalence-disparities",
+      "front_md": "לפי Shaw 2020 CDC surveillance — מה ה-prevalence של ASD בגיל 4, ואילו disparities?",
+      "back_md": "**שכיחות ASD בגיל 4 = 15.6 ל-1,000 (1 ב-64)** במחזור 2016 — עליה מ-14.1 ל-1,000 ב-2014. **פערים מרכזיים**: (1) **בנים > בנות 4:1**; (2) **ילדים שחורים והיספנים מאובחנים מאוחר יותר מילדים לבנים** — אי-שוויון משמעותי בנגישות לאבחון מוקדם; (3) **גיל חציון לאבחון ראשון = 36 חודשים** — מאוחר משכן זיהוי מוקדם אפשרי בגיל 18–24 חודשים; (4) **מוגבלות שכלית נלווית ב-~50%** מילדי ASD בגיל 4. **השלכה לפרק 3**: מעקב בגיל preschool הוא חיוני; AAP ממליץ על סינון אוניברסלי ב-18 ו-24 חודשים (M-CHAT-R/F); הקלינאי הפסיכיאטרי צריך להיות עירני להחמצות אבחנה במיעוטים אתניים.\n\n*Shaw et al. 2020 · MMWR Surveill Summ 69(3):1–11 · PMID 32214075*",
+      "note_id": "1777008862015"
+    },
+    {
+      "id": "Q08-equifinality-vs-multifinality",
+      "front_md": "בפריימוורק developmental psychopathology — מה ההבדל בין equifinality ל-multifinality, ואיך זה רלוונטי להערכה בגיל גן?",
+      "back_md": "**Equifinality** — מסלולים שונים מובילים לאותה תוצאה (למשל, depression בגיל מבוגר יכול להגיע מ-trauma, מ-genetics, או מ-cumulative stressors).\n\n**Multifinality** — אותו גורם סיכון מוביל לתוצאות שונות (למשל, ACE אחת יכולה להוביל לדיכאון, ל-CD, ל-PTSD, או לחוסן — תלוי במשתנים מתווכים).\n\n**רלוונטיות לגיל גן**: (1) **לא להניח** שמסלול התפתחותי יחזור על עצמו; (2) **הערכה מחדש תקופתית** הכרחית — אבחנות יכולות להשתנות (Bunte 2014); (3) **heterotypic continuity** — preschool ODD מנבא adolescent depression, לא רק adolescent ODD (Bufferd 2012). המסגרת תומכת בעמדה של ענווה אבחנתית לאורך זמן.\n\n*Frick 2013 + Sroufe & Rutter framework*",
+      "note_id": "1777008862016"
+    },
+    {
+      "id": "Q09-pcit-cdi-pdi",
+      "front_md": "תאר את שני שלבי ה-PCIT — CDI ו-PDI — ואת הרלוונטיות שלהם לגישת ההערכה הדיאדית של פרק 3.",
+      "back_md": "**Phase 1 — CDI (Child-Directed Interaction)**: ההורה מתאמן ב-**PRIDE skills**: **P**raise (שבח ספציפי ומסומן), **R**eflection (לחזור על דיבור הילד), **I**mitation (לחקות את המשחק), **D**escription (תיאור התנהגות הילד), **E**njoyment (הבעת הנאה). מטרה: לחזק התנהגויות חיוביות, לבנות אינטראקציה דיאדית בטוחה.\n\n**Phase 2 — PDI (Parent-Directed Interaction)**: ההורה מתאמן ב-**הוראות יעילות** (ישירות, ספציפיות, מותאמות לגיל) ובשימוש ב-**time-out** מתוקנן. מטרה: לבסס ציות בלי קונפליקט.\n\n**רלוונטיות**: PCIT עובד דרך **bug-in-the-ear coaching של ההורה תוך כדי משחק עם הילד** — המשך ישיר של פרדיגמת התצפית הדיאדית מ-Ch 3. ההערכה היא הטיפול הראשוני.\n\n*Eyberg & Funderburk · UC Davis PCIT Center · multiple RCTs*",
+      "note_id": "1777008862017"
+    }
+  ]
+}

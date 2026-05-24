@@ -1,0 +1,73 @@
+{
+  "id": "B019-phase-1-mock-summary",
+  "label": "B019 · שבוע סימולציה — Phase 1 · סיכום",
+  "source": "residency-summary",
+  "cards": [
+    {
+      "id": "1777179387609",
+      "front_md": "למה Phase 1 mock week חשוב? לוח 3 ימים?",
+      "back_md": "‫**מטרת mock week:** Phase 1 (B001-B017) בנה 3 skill-sets — ועדה 1 (live + presentation + intervention), ועדה 2 (oral Q&A 5-axis), ועדה 3 (psychotherapy reports + conceptual Q). חזרה על drills בודדים **לא חושפת שגיאות אינטגרציה** — וזו השגיאה ה-#1 שמכשילה מתמחים [D-6, D-7]. **לוח השבוע (synthesis):** שני = ועדה 1 mock 105 דק' (30 ראיון live + 30 הצגה + 45 שאלות); רביעי = ועדה 2 mock 75 דק' (3×25); שישי = ועדה 3 mock 75 דק' (25/25/20 מ-2 דוחות). שלישי+חמישי = הפסקה ועיבוד — mock יומי = burnout. **Stage B שותקת על לוח זמני יומי** [NOT IN STAGE B PDF] — הסדר verbatim הוא רק תחת \"מבנה כללי\" [StageB-1]: ראיון/מקרה/דיון → שאלות → פסיכותרפיה. **Hook:** mock מבחן ה-integration. drills מבחנים את ה-skills.‬",
+      "note_id": "1777179387609"
+    },
+    {
+      "id": "1777179387610",
+      "front_md": "Biopsychosocial Weave — מה Dulcan דורשת מהקלינאי?",
+      "back_md": "‫**ציטוט מכונן** [D-1] verbatim: > \"The adept clinician will gather information and weave it together to create a biopsychosocial formulation that can then inform treatment.\" **משמעות לוועדה 1:** ראיון 30 דק' אינו \"אוסף נתונים\" אלא **שזירה בזמן אמת**. בעוד שאלה על תסמינים (clinical), האזנה ל-development (psychosocial), MSE (biological/behavioral), קליטת family-dynamics (sociologic) — הכל יחד. **משמעות לוועדה 2:** שאלת DDx דורשת weave מיידי. דוגמה: \"ילד 8 עם איחור התפתחותי + סערות זעם\" — לא 3 רשימות נפרדות (developmental · ADHD · DMDD) אלא weaving + תסמונת גנטית אם רלוונטי. **משמעות לוועדה 3:** עמוד הפורמולציה (1 עמ') חייב להיות weave — לא 4 פיסקאות נפרדות. **Hook:** \"weave\" — לא רשימה. ה-quality measure של formulation.‬",
+      "note_id": "1777179387610"
+    },
+    {
+      "id": "1777179387612",
+      "front_md": "4 הפרספקטיבות של Dulcan — הסכמה הקלינית הקלאסית",
+      "back_md": "‫**ציטוט מכונן** [D-2] verbatim: > \"These four perspectives can bring together often competing models of meaning and attribution in psychiatry into a more holistic formulation.\" **4 הפרספקטיבות:** (1) **Disease** — ביולוגי-גנטי-מולקולרי (DSM-5-TR); (2) **Dimension** — variation על ספקטרום (temperament, IQ); (3) **Behavior** — הפיכה (reversible) דרך learning/conditioning; (4) **Life Story** — נרטיבי-משמעותי-ביוגרפי. **משמעות מבנית:** ה-4 הפרספקטיבות = הדרך לבדוק שלא נפלת ב-premature closure. אחרי כל ראיון/הצגה: \"האם נתתי ייצוג לכל ה-4? אם רק 1-2, מה אני מפספס?\". **Hook:** Disease → Dimension → Behavior → Life Story = D-D-B-L. תזכור את זה לפני כל formulation.‬",
+      "note_id": "1777179387612"
+    },
+    {
+      "id": "1777179387613",
+      "front_md": "Calibration — base rates — מה Dulcan דורשת?",
+      "back_md": "‫**ציטוט מכונן** [D-3] verbatim: > \"Knowing the base rates of common disorders... will help clinicians calibrate diagnoses and case formulations.\" **משמעות לוועדה 1:** מטופל מקליניקה גרירית = base rates שונות ממיון או ממחלקה סגורה. calibration שגויה = DDx שגוי. **משמעות לוועדה 2:** \"ילד 7 עם בעיות קשב\" — base rate ADHD ~5-7%, juvenile bipolar <1%. **הצגה מ-rare-to-common = חוסר calibration ניכר.** **משמעות לוועדה 3:** פורמולציה דינמית — האם ה-trauma שאני מציג base-rate-typical (גירושין ~30%) או יוצא דופן? **Hook:** common-to-rare = calibration; rare-to-common = חוסר חוויה. הכלל קליני זהב.‬",
+      "note_id": "1777179387613"
+    },
+    {
+      "id": "1777179387614",
+      "front_md": "4 השגיאות הנפוצות לפי Dulcan — מה הם?",
+      "back_md": "‫**(1) Premature closure** [D-6] verbatim: > \"One of the most common mistakes that inexperienced interviewers make is to prematurely home in on a diagnosis. This often excludes other diagnoses from consideration and results in an incomplete evaluation and inadequate treatment plan.\" **(2) Errors of omission/commission** [D-7] verbatim: > \"Errors of commission assign invalid diagnoses... Errors of omission lead to failure to intervene early and effectively, as well as increasing the chances of misattributing the sources of the problem to some other diagnosis or mechanism.\" **(3) Over-aligning with one party** [D-8] verbatim: > \"Building rapport with one party to the exclusion of the other is generally not useful and will often impair ultimate treatment success.\" **(4) Confirmation bias** [D-10] verbatim: > \"Humans are influenced by frequent emotions, inherent biases resulting from 'shortcuts' that simplify the complex... Confirmation bias is also common in how we formulate cases.\" **Hook:** lateral check אחרי כל פיסת מידע — \"האם נתון זה גם תומך ב-DDx X?\" לא רק \"האם זה תומך באבחנה הראשונית שלי?\".‬",
+      "note_id": "1777179387614"
+    },
+    {
+      "id": "1777179387615",
+      "front_md": "Supervision + Lifelong Learning — שני pillars",
+      "back_md": "‫**Supervision** [D-4] verbatim: > \"Discussing transference and countertransference with colleagues or in supervision settings can be a valuable support to clinicians in this emotionally evocative work.\" **Lifelong Learning** [D-5] verbatim: > \"Continuing education and active communication with networks of professional peers help clinicians enhance their expertise and bring it to patient encounters.\" **משמעות ל-mock week:** ה-debriefing (10-15 דק' אחרי כל mock) הוא **micro-supervision**. אם אין מנחה — סופרוויזה עצמית עם **3 שאלות**: (1) איפה אבדתי calibration? (2) איפה הזדהיתי-יתר עם צד אחד? (3) איזו שגיאה חוזרת על עצמי? **Hook:** supervision ל-T/CT, lifelong learning ל-EBP — שני pillars לקריירה.‬",
+      "note_id": "1777179387615"
+    },
+    {
+      "id": "1777179387616",
+      "front_md": "Self-Monitoring + Heuristics — מה Dulcan דורשת ב-Metacognition?",
+      "back_md": "‫**Self-monitoring** [D-9] verbatim: > \"Throughout the assessment process, clinicians must be aware of the influence of their own relationships and experiences. Clinicians' own histories shape their responses to the relationships of patients and their families.\" **Heuristics + biases** [D-10] verbatim: > \"Humans are influenced by frequent emotions, inherent biases resulting from 'shortcuts' that simplify the complex... Confirmation bias is also common in how we formulate cases.\" **משמעות:** ב-mock week, רשום בכל debrief (1) הרגש שעלה אצלי (2) האם זה דמה לאיזה מטופל קודם? (3) האם הרגש הוביל אותי להתעלם מ-DDx? **Hook:** silent errors = שגיאות שלא הרגשת. metacognition = איתורן.‬",
+      "note_id": "1777179387616"
+    },
+    {
+      "id": "1777179387617",
+      "front_md": "Pass/Fail criteria עצמיים — מה ה-rubric של mock?",
+      "back_md": "‫**Stage B verbatim** [StageB-2]: > \"ציון מעבר בבחינה – מעבר של שלושת הועדות.\" > \"ציון מעבר בועדה – ציון של 3 נקודות (מתוך 5) ומעלה ע\"י שני בוחנים לפחות\" > \"מצטיין – כאשר סך הציון מתוך שלושת הועדות והבוחנים הינו 4.5 מתוך (5)\" > \"כישלון – באי מעבר ועדה אחת ויותר משלוש הועדות.\" **Self-grading rubric (synthesis):** ועדה 1 = biopsychosocial weave + 4 perspectives + rapport + DDx ranked + plan with red flags. ועדה 2 = 5-axis coverage + Bayesian revision audible + base-rates calibrated + forensic explicit. ועדה 3 = report בפורמט + 5-element treatment-planning + perspective approach + conceptual Q with examples. **Hook:** עבר = 3/5+ בכל ועדה. כישלון מוק = 1+ ועדה <3/5 → לחזור על B016/B017/B018.‬",
+      "note_id": "1777179387617"
+    },
+    {
+      "id": "1777179387618",
+      "front_md": "Action items אחרי mock — מה עושים?",
+      "back_md": "‫**מטריצה (synthesis):** **3/3 עברו (3+/5 בכל)** = מעבר ל-Phase 2 (ADHD B021+). **2/3 עברו** = חזרה על הוועדה הנכשלת (1-2 שבועות drill נוסף). **1/3 עבר** = חזרה על Phase 1 כולה — דיוק weak-spots ב-B016/B017/B018. **0/3 עברו** = retrospective עמוקה (B020) — האם הבעיה ידע, סקיל, או anxiety? **משמעות:** ה-mock אינו \"פעם אחת ולעולם\" — הוא **gating mechanism** ל-Phase 2. אסור לעבור ל-ADHD חדש אם ה-foundations של Phase 1 לא מוצקות. **Hook:** B019 mock = ה-checkpoint. B020 retrospective = ה-decision.‬",
+      "note_id": "1777179387618"
+    },
+    {
+      "id": "1777179387619",
+      "front_md": "למה Stage B שותקת על לוח זמני יומי?",
+      "back_md": "‫**[NOT IN STAGE B PDF]** — Stage B מציין רק את הסדר הסמנטי של 3 הוועדות [StageB-1]: > \"1. ריאיון/הצגת מקרה/דיון ותכנית התערבות. 2. שאלות בנושאים התפתחותיים, קליניים אבחנתיים וטיפוליים. 3. פסיכותרפיה.\" האם 3 ביום אחד? בימים נפרדים? באיזה שעה? איפה? — **שתיקה מוחלטת ב-PDF**. **משמעות לתרגול:** מנהל הבחינה (האיגוד הפסיכיאטרי הישראלי) קובע את הלו\"ז המעשי, לא ה-PDF. **Acquisition TODO:** לבקש מ-עמיתים שעברו את לוח הזמנים האמיתי ביום הבחינה. **Hook:** mock יכול לדמות 3 ועדות ב-3 ימים נפרדים (גישה רגועה) — או 3 ועדות ביום אחד (גישת high-stakes). **המלצה (synthesis):** התחל 3-ימי. אחרי הצלחה, נסה 1-יום (סטרס מציאותי).‬",
+      "note_id": "1777179387619"
+    },
+    {
+      "id": "1777179387620",
+      "front_md": "Cross-references מ-B019 ל-3 הדרילים של Phase 1",
+      "back_md": "‫**B016 — תרגול ועדה 1 (3-pass drill):** ראשון toddler · רביעי school-age · שישי adolescent — 3 sessions/שבוע, כל אחת ~30 דק' simulation + 15 דק' debrief. **B017 — תרגול ועדה 2 (5-axis drill):** ראשון Developmental · שני Clinical · שלישי Diagnostic · רביעי Therapeutic · חמישי Forensic-legal — 5 sessions/שבוע, כל אחת 25 דק' שאלה + 10 דק' debrief. **B018 — תרגול ועדה 3 (3-pass drill):** שני Dynamic report · רביעי Second-modality · שישי Conceptual Q — 3 sessions/שבוע. **משמעות B019:** ה-mock week הוא **לא** המשך drills — הוא **בדיקה אחת** של אם ה-skills שורדים אינטגרציה. אחרי B019: לחזור על drills שבועיים שגרתיים, או לעבור ל-Phase 2. **Hook:** drills שבועיים = repetition. mock = test of integration.‬",
+      "note_id": "1777179387620"
+    }
+  ]
+}

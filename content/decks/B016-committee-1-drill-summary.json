@@ -1,0 +1,73 @@
+{
+  "id": "B016-committee-1-drill-summary",
+  "label": "B016 · תרגול ועדה 1 — בדיקת מטופל · סיכום",
+  "source": "residency-summary",
+  "cards": [
+    {
+      "id": "1777088403090",
+      "front_md": "מה ועדה 1 verbatim בודקת (Stage B)?",
+      "back_md": "‫**מטרה verbatim:** > \"ריאיון/הצגת מקרה/דיון ותכנית התערבות\" [StageB-1]. **מתכונת:** > \"בדיקת מיון\" [StageB-2]. **3 challenges מובנים מהמסמך verbatim:** > \"קושי של ילד צעיר להיפרד מההורה, סירוב של מתבגר לשתף פעולה בבדיקה, חוסר גבולות של ההורה המשתתף וכו'.\" [StageB-3]. **ציון מעבר** [StageB-4]: > \"ציון של 3 נקודות (מתוך 5) ומעלה ע\"י שני בוחנים לפחות\". **ציון מצטיין** [StageB-4]: 4.5/5 מצטבר. **כישלון** [StageB-4]: ועדה אחת או יותר. **Output מהנבחן** [StageB-5]: > \"תערך הצגה חופשית של סיכום הממצאים, סטטוס פסיכיאטרי ואבחנה מבדלת\" + תכנית התערבות. **Stage B שותקת על:** פירוט 5 הנקודות, סוגי שאלות, האם נדרשת פורמולציה — כולם [NOT IN STAGE B PDF]. **Takeaway קליני:** ועדה 1 = הצגה חופשית עם 4 רכיבים (סיכום · MSE · DDx · תוכנית), לא פורמולציה כתובה כמו ועדה 3.‬",
+      "note_id": "1777088403090"
+    },
+    {
+      "id": "1777088403091",
+      "front_md": "מה ה-3-pass drill cycle לתרגול שבועי של ועדה 1?",
+      "back_md": "‫**3 mocks/שבוע, 1 לכל גיל = ייעוד ל-3 ה-challenges של Stage B** [StageB-3]: **(1) ראשון — preschool 4-6y** עם separation challenge (60+10+10+30 מלא). **(2) שלישי — school-age 8-11y** עם intrusive parent. **(3) חמישי — adolescent 14-17y** עם refusal. **משבוע לשבוע** מחליפים אבחנות (שבוע 1: ADHD/ODD/Anxiety → שבוע 2: Mood/ASD/Eating → שבוע 3: PTSD/SUD/Psychosis-prodromal). **למה 3-pass:** משאיר מקום ל-recovery (4 ימים בין mocks) + מכסה את כל הגילאים שהבחינה מציעה (5-18 [B014]). **Hook מבני:** 3 ימים × 3 גילאים × 9 שבועות חזרה = 27 mocks לפני הבחינה — דרישה מינימלית להגעה ל-exposure floor של B015.‬",
+      "note_id": "1777088403091"
+    },
+    {
+      "id": "1777088403092",
+      "front_md": "Preschool patient — איך לראיין לפי Dulcan?",
+      "back_md": "‫**עקרון מפתח** [D-1] verbatim: > \"Whenever possible, the mental status examination of a preschool child should be conducted with the child and caregiver together rather than with the child individually.\" **משמעות:** אסור לדחוף פרידה. ב-preschool זו תכונה לא באג. **שלבי ראיון:** (1) התחלה משולבת [D-2]; (2) שימוש בצעצועים [D-3] verbatim: > \"Use of toys can help young children relax, engage, and talk. These children may often do better when engaged in an activity and talking rather than sitting across from an adult and answering questions\"; (3) תצפית משחק דיאדית — הקלינאי כ-participant-observer; (4) brief-separation attempt — אם נצמד, **אל תכפה** [D-1] verbatim: > \"If the preschooler is highly resistant to the separation... the attempt to separate the dyad can be abandoned (as important aspects of the dyadic relationship will have been illuminated).\" **Takeaway:** ניסיון פרידה כושל = מידע אבחנתי על attachment, לא נכשל בראיון.‬",
+      "note_id": "1777088403092"
+    },
+    {
+      "id": "1777088403093",
+      "front_md": "School-age patient — איך לראיין לפי Dulcan?",
+      "back_md": "‫**1. פתיחה משולבת** [D-2] verbatim: > \"start with both the child and parents in the office together to allow the clinician to become acquainted with all parties, to set the stage, and to observe their interactions with each other\". **2. הצגה כ-\"talking doctor\"** + נושאים ניטרליים. **3. מעבר לראיון הילד** [D-2] verbatim: > \"The interviewer can then ask the child what his or her parents told him or her about why they were coming to see a doctor today\" — מונע \"putting the child on the spot\" + מגן על הילד אם ההורה לא הסביר. **4. ניהול הורה פולשני** [D-4] verbatim: > \"it is the clinician's role to halt discussion of topics if inappropriate content is being shared in the presence of the child. This helps promote a comfortable evaluation process and models appropriate conduct for the parents.\" **5. זמן פרטני עם הילד** (15-20 דק' בסוף) — לחברים/מחשבות/סוד/חלומות.‬",
+      "note_id": "1777088403093"
+    },
+    {
+      "id": "1777088403094",
+      "front_md": "Adolescent patient — 4 אסטרטגיות Dulcan כשמסרב",
+      "back_md": "‫**(1) Ice breaking** [D-5] verbatim: > \"The primary focus at the start of the interview is to begin to understand the adolescent's interests, strengths, and point of view. This approach can break the ice for collecting data later in the interview.\" מתחילים ב-\"מה אתה אוהב?\", לא ב-\"מה הסיבה שאתם פה?\".‬\n‫**(2) הוצאת ההורה** [D-6] verbatim: > \"ask the mother to leave the room so that the clinician could speak to Gina alone. He further recommended that she focus not on the task of assenting to the evaluation but on establishing rapport with the teenager...\" — שינוי מטרה: מ-\"חתימה רשמית\" ל-\"שיחה אישית\", ההסכמה תבוא אחרי הברית.‬\n‫**(3) Motivational Interviewing** [D-7]: > \"motivational interviewing focuses on the individual's interests, concerns, and goals, facilitating greater cooperation and collaboration.\" — שאלות פתוחות + reflective listening + summarizing.‬\n‫**(4) Active inclusion כשההורה דובר** [D-2]: > \"make intermittent eye contact with the adolescent, frequently bringing the adolescent back into the conversation and asking what he or she thinks about what the parent just said.\"‬",
+      "note_id": "1777088403094"
+    },
+    {
+      "id": "1777088403095",
+      "front_md": "מבנה זמן 60 דקות — איך לחלק ראיון school-age?",
+      "back_md": "‫**0-3 דק':** הצגה + שיחה ניטרלית — rapport seed [D-2]. **3-7 דק':** > \"מה ההורה אמר לך?\" + chief complaint דרך הילד — מונע \"on the spot\" [D-2]. **7-15 דק':** ההורה מספק HPI + הילד עם active inclusion [D-2]. **15 דק':** פרידה רשמית — \"אני הולך לדבר עם [שם] לבד עכשיו, חזור בעוד 40 דק'\". **15-50 דק':** ראיון פרטי עם הילד — anamnesis + MSE [D-8] + topics ההורה לא יוכל (חברים/מחשבות/סוד/חלומות). **50-58 דק':** חזרת ההורה — תיאום + שאלות הוריות + closure. **58-60 דק':** פרידה חיובית.‬\n‫**שינויים:** preschool — הילד עם ההורה רוב הזמן + brief-separation בלבד בדק' 30-35 [D-1]. **Adolescent מסרב** — הוצאת הורה בדק' 5-7 [D-6]. **כלל זהב:** טיימר חיצוני (אנלוגי על השולחן), לא חכמת-זמן — כי ADHD [B015].‬",
+      "note_id": "1777088403095"
+    },
+    {
+      "id": "1777088403096",
+      "front_md": "מה מבנה ה-presentation 10-דקות אחרי הראיון?",
+      "back_md": "‫**Stage B דורשת verbatim** [StageB-5]: סיכום ממצאים · סטטוס פסיכיאטרי · אבחנה מבדלת · תכנית התערבות. **חלוקת 10 הדקות (3-3-3-1):** **(1) 3 דק' סיכום ממצאים:** chief complaint → presenting picture (4-6 משפטים) → past+family+developmental+social hx רלוונטי. **(2) 3 דק' MSE** [D-8] לפי Dulcan: appearance · behavior · speech · mood/affect · thought (process+content) · cognition · insight/judgment. **(3) 3 דק' DDx:** 3-5 אבחנות עיקריות, ranked + 1-משפט נימוק לכל. **(4) 1 דק' תכנית התערבות:** workup נוסף + intervention יום-1 (psychotherapy/medication/family) + monitoring.‬\n‫**אסור:** לקרוא מהפתק (Stage B דורשת \"הצגה חופשית\" verbatim [StageB-5]). **מותר:** להחזיק את הפתק בידך כ-anchor — לא כחלון לקרוא ממנו.‬",
+      "note_id": "1777088403096"
+    },
+    {
+      "id": "1777088403097",
+      "front_md": "מה הציון verbatim של Stage B (מעבר/מצטיין/כישלון)?",
+      "back_md": "‫**ציון מעבר** [StageB-4] verbatim: > \"ציון של 3 נקודות (מתוך 5) ומעלה ע\"י שני בוחנים לפחות\". **ציון מצטיין** [StageB-4] verbatim: > \"כאשר סך הציון מתוך שלושת הועדות והבוחנים הינו 4.5 מתוך (5)\". **כישלון** [StageB-4] verbatim: > \"באי מעבר ועדה אחת ויותר משלוש הועדות\". **משמעות:** דרכים אסטרטגיות — (1) מעבר 3 הוועדות = יעד מינימלי; (2) ציון 4-5 בועדה אחת לא מפצה על 2 בוועדה אחרת — חייב 3+ בכל הוועדות. **Hook מבני:** Stage B = pass-each-committee, לא average; חוסר במינום בועדה אחת = כישלון מלא. **Takeaway:** השקיעו בועדה החלשה ביותר שלכם, לא בחזקה ביותר — שולי הסיכון נמצאים בחלשה.‬",
+      "note_id": "1777088403097"
+    },
+    {
+      "id": "1777088403098",
+      "front_md": "מה Stage B שותקת לגביו ב-Q&A 30 דקות?",
+      "back_md": "‫**[NOT IN STAGE B PDF]:** סוגי השאלות, נושאיהן, אורכן, קצב חזור-שאלה. **Synthesis מ-collective wisdom (לא מבוסס מסמך — דורש validation):** ~30% שאלות אבחנתיות (rule-out, support for) · ~25% טיפול (first-line, dose, duration, monitoring) · ~20% developmental/lifespan · ~15% forensic/legal · ~10% wild-card (קייסים/חוקרים נדירים). **הכנה practical:** 3 mocks debrief = 90 דק' שאלות → רושמים אילו 5 שאלות חזרו. אילו 5 = הסיכון. **Takeaway קליני:** Q&A דורשת לא רק \"ידע\" אלא **calibration** — מי שודאי על אבחנה ולא יכול להגיב לרכישת מידע סותר נכשל. **Hook:** rolling-question logic [B013] חלה גם על Q&A — answer + open door + \"אם זה היה אחרת...\".‬",
+      "note_id": "1777088403098"
+    },
+    {
+      "id": "1777088403099",
+      "front_md": "Preschool brief-separation — מה לעשות אם הילד נצמד?",
+      "back_md": "‫Dulcan verbatim [D-1]: > \"If the preschooler is highly resistant to the separation and/or expresses an intense emotional response, the attempt to separate the dyad can be abandoned (as important aspects of the dyadic relationship will have been illuminated).\" **3 רמות התגובה הילד:** (1) פרידה קלה אחרי הסבר → secure attachment; (2) מצוקה קצרה אחר כך התרגלות → anxious-secure (החלף תיוג ל-organized); (3) מצוקה קיצונית או הימנעות מוחלטת → anxious-insecure / disorganized — **אל תכפה**, חזור להורה. **משמעות אבחנתית:** ניסיון הפרידה הוא diagnostic test, לא רק לוגיסטיקה. גם הכישלון מספק עיקר המידע. **Hook קליני:** בpresentation אחרי, ציין \"ניסינו brief-separation בדק' X, התגובה הייתה Y → השלכות על attachment style + relevant DDx (RAD vs SAD vs typical anxious-anxious)\".‬",
+      "note_id": "1777088403099"
+    },
+    {
+      "id": "1777088403100",
+      "front_md": "Motivational Interviewing למתבגר — מה Dulcan ממליצה?",
+      "back_md": "‫**[D-7]** verbatim: > \"motivational interviewing focuses on the individual's interests, concerns, and goals, facilitating greater cooperation and collaboration.\" **4 רכיבי MI** (synthesis מ-MI manual, לא verbatim Dulcan): (1) **שאלות פתוחות** — \"ספר לי על...\", לא \"האם...\"; (2) **affirmations** — \"זו דרך מתחשבת לחשוב על זה\"; (3) **reflective listening** — חזרה על מה שנאמר עם רגש מובלע; (4) **summarizing** — \"אז מה ששמעתי הוא...\". **למה זה עובד למתבגר מסרב:** מבטל את החצים-מטה של \"חקירה\" + הופך את הראיון לדיון של עזרה הדדית. **תרגיל ייעודי במוק:** הגדירו לבוחן-המדמה לבחון את הנבחן ספציפית על \"כמה שאלות פתוחות שאלת ב-15 דק' הראשונות עם המתבגר?\" — מטרה: ≥6.‬",
+      "note_id": "1777088403100"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "id": "B009-family-formulation",
+  "label": "B009 · פורמולציה משפחתית · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1776915923823",
+      "front_md": "[IP] מה \"Identified Patient\"?",
+      "back_md": "החבר במשפחה שמציג את הסימפטום, אבל הסימפטום הוא למעשה **פונקציה של המערכת** שמשמרת Homeostasis. הוא Container/נשא עבור חלקים מפוצלים ובלתי-מקובלים של בני משפחה אחרים [G-2].",
+      "note_id": "1776915923823"
+    },
+    {
+      "id": "1776915923824",
+      "front_md": "[Palo-Alto] verbatim — מה הייתה התפנית של שנות ה-50-60?",
+      "back_md": "> \"Individual psychopathology and personal history both became secondary to the family as a whole, which was viewed as a system with a life of its own\" [G-1].",
+      "note_id": "1776915923824"
+    },
+    {
+      "id": "1776915923825",
+      "front_md": "[Dulcan-verbatim] Dulcan verbatim — מה המשפחה?",
+      "back_md": "> \"The family is viewed as a transactional system evolving over the life course and across the generations\" [D-1].",
+      "note_id": "1776915923825"
+    },
+    {
+      "id": "1776915923826",
+      "front_md": "[Enmeshment] Minuchin verbatim על Enmeshment באנורקסיה?",
+      "back_md": "> \"Each family member is overinvolved in the life of every other family member to the extent that no one feels a sense of separate identity apart from the family matrix\" [G-5].",
+      "note_id": "1776915923826"
+    },
+    {
+      "id": "1776915923827",
+      "front_md": "[Circular] מה \"Circular causality\"?",
+      "back_md": "Bateson — סיבתיות מעגלית (לא לינארית) שבה התנהגות כל חבר מעוצבת ומעצבת את האחרים. **[NOT IN GABBARD]** בשם המפורש, אבל המושג מוחזק דרך \"קולוסיביות משותפת\" [G-1] [G-2].",
+      "note_id": "1776915923827"
+    },
+    {
+      "id": "1776915923828",
+      "front_md": "[Bowen-cognitive] verbatim — מה המטרה של Bowenian formulation?",
+      "back_md": "> \"current patterns in family relationships are repetitions of patterns from past generations\" [G-9]. **קוגניטיבי ביסודו** — לא מעודד ביטוי רגשי, לא מפרש Transference [G-10].",
+      "note_id": "1776915923828"
+    },
+    {
+      "id": "1776915923829",
+      "front_md": "[Scapegoating] מה הפונקציה של Scapegoating?",
+      "back_md": "המשפחה שומרת Homeostasis על ידי ריכוז **Bad objects** והאלימים ב-Identified Patient דרך **Projective identification** [G-12] [G-13].",
+      "note_id": "1776915923829"
+    },
+    {
+      "id": "1776915923830",
+      "front_md": "[Parentification] מה Parentified child ובאילו דינמיקות נפוץ?",
+      "back_md": "היפוך תפקידים — הילד מספק צרכים של ההורה. נפוץ בדינמיקת **גילוי עריות** — אמהות parentified מוזנחות משחזרות, מצפות מהבת לספק צרכים רגשיים+מיניים של האב, האם מעלימה עין [G-14].",
+      "note_id": "1776915923830"
+    },
+    {
+      "id": "1776915923831",
+      "front_md": "[EE-3] 3 רכיבי Expressed Emotion?",
+      "back_md": "**Criticism + Hostility + Emotional Over-Involvement (EOI)** [D-13].",
+      "note_id": "1776915923831"
+    },
+    {
+      "id": "1776915923832",
+      "front_md": "[EE-predict] ב-אילו הפרעות EE גבוה מנבא Relapse?",
+      "back_md": "סכיזופרניה + הפרעות מצב רוח [D-14].",
+      "note_id": "1776915923832"
+    },
+    {
+      "id": "1776915923833",
+      "front_md": "[EE-culture-1] לפי Dulcan — באילו משפחות EE גבוה לא מנבא Relapse?",
+      "back_md": "במשפחות אפרו-אמריקאיות מסוימות [D-16].",
+      "note_id": "1776915923833"
+    },
+    {
+      "id": "1776915923834",
+      "front_md": "[EE-curvilinear] קשר עקמומי במקסיקנים-אמריקאים?",
+      "back_md": "רמה **בינונית** של EOI + חום משפחתי גבוה → **תוצאה טיפולית טובה יותר** — לא קשר לינארי [D-16].",
+      "note_id": "1776915923834"
+    },
+    {
+      "id": "1776915923835",
+      "front_md": "[Genogram-verbatim] Dulcan verbatim על גנוגרמה + timeline?",
+      "back_md": "> \"The genogram and timeline are essential tools for mapping the family system, noting relationship information and tracking system patterns to guide intervention planning\" [D-8].",
+      "note_id": "1776915923835"
+    },
+    {
+      "id": "1776915923836",
+      "front_md": "[Genogram-gens] כמה דורות גנוגרמה איכותית ממפה?",
+      "back_md": "**3+ דורות** [D-9].",
+      "note_id": "1776915923836"
+    },
+    {
+      "id": "1776915923837",
+      "front_md": "[Timeline-example] דוגמה לחפיפה זמנים בציור זמן?",
+      "back_md": "ירידה בהישגים אקדמיים של הילד מסבירה בחפיפה לאובדן מקום עבודה של האב [D-10].",
+      "note_id": "1776915923837"
+    },
+    {
+      "id": "1776915923838",
+      "front_md": "[FBT-AN] למה FBT קו ראשון באנורקסיה מתבגרים?",
+      "back_md": "**אגנוסטי לסיבה** + **מסמיך הורים** להתערב אקטיבית. Lock 2010: superior ב-follow-up ארוך-טווח [D-17] [P-1].",
+      "note_id": "1776915923838"
+    },
+    {
+      "id": "1776915923839",
+      "front_md": "[MST] מה MST ובאיזו הפרעה?",
+      "back_md": "**Multisystemic Therapy** לטיפול ב-Conduct disorder/Aggression. תופסת התנהגות אנטי-סוציאלית כתוצר של **מערכות מרובות** (עמיתים/בית ספר/שכונה/משפחה) [D-18].",
+      "note_id": "1776915923839"
+    },
+    {
+      "id": "1776915923840",
+      "front_md": "[ABFT] מה Attachment-Based Family Therapy ובאיזה מצב עדיף?",
+      "back_md": "ABFT עדיף על ניהול קליני תמיכתי רגיל בדיכאון מתבגרים, בייחוד **בנוער אובדני** [D-19].",
+      "note_id": "1776915923840"
+    },
+    {
+      "id": "1776915923841",
+      "front_md": "[Family-Accommodation] מה \"Family Accommodation\" + איזה מחקר ביסס?",
+      "back_md": "התאמת המשפחה לסימפטומי OCD (למשל: הימנעות ממצבים שמעוררים טקסים). Piacentini 2011 [P-3] — **הפחתה ב-Accommodation קדמה לשיפור הקליני**.",
+      "note_id": "1776915923841"
+    },
+    {
+      "id": "1776915923842",
+      "front_md": "[Single-psychic-entity] verbatim — מטרת שילוב דינמי-משפחתי?",
+      "back_md": "> \"reinternalize the conflicts that have been externalized through projective identification\" [G-20].",
+      "note_id": "1776915923842"
+    },
+    {
+      "id": "1776915923843",
+      "front_md": "[Gabbard-pitfall-1] verbatim — הכשל הראשון של Gabbard בטיפול משפחתי?",
+      "back_md": "> \"therapists should avoid imposing their own theoretical constructs on the family\" [G-23].",
+      "note_id": "1776915923843"
+    },
+    {
+      "id": "1776915923844",
+      "front_md": "[BPD-myth] האמפירית של Gabbard — מה הטעות על משפחות BPD?",
+      "back_md": "הנחה שגויה שהן \"Over-involved\". **נתונים אמפיריים:** **Neglect** היא דינמיקה נפוצה ומזיקה יותר [G-24].",
+      "note_id": "1776915923844"
+    },
+    {
+      "id": "1776915923845",
+      "front_md": "[Pry-apart] למה \"Pry apart\" של מטופל ממשפחה מעורבת נכשל?",
+      "back_md": "המשפחה \"Circles the wagons\" ומגבירה רגרסיה. ההתערבות נחווית כמתקפה [G-26].",
+      "note_id": "1776915923845"
+    },
+    {
+      "id": "1776915923846",
+      "front_md": "[Normal-family-verbatim] Dulcan verbatim — הטיית \"משפחה נורמלית\"?",
+      "back_md": "> \"Outdated preconceptions of the 'normal family' can compound a sense of deficiency and failure for families in transition that do not conform to a traditional family model\" [D-21].",
+      "note_id": "1776915923846"
+    },
+    {
+      "id": "1776915923847",
+      "front_md": "[Current-household] Dulcan verbatim — למה לא להתמקד רק במשק הבית הנוכחי?",
+      "back_md": "> \"Focusing on only the current household can restrict clinical understanding\" [D-22] — מתעלם ממעברים קודמים ושינויים עתידיים.",
+      "note_id": "1776915923847"
+    },
+    {
+      "id": "1776915923848",
+      "front_md": "[Schizophrenogenic] מה הכשל ההיסטורי?",
+      "back_md": "האשמה ישירה של משפחות בגרמי מחלות ביולוגיות (Schizophrenogenic mother, Refrigerator mother באוטיזם) — פגע באמון + שיקום [D-24].",
+      "note_id": "1776915923848"
+    },
+    {
+      "id": "1776915923849",
+      "front_md": "[Lock-2010] הממצא המרכזי של Lock 2010?",
+      "back_md": "FBT ≠ פרטני בסיום ההתערבות, אבל **FBT superior בהפוגה מלאה במעקב ארוך-טווח** בילדי אנורקסיה [P-1].",
+      "note_id": "1776915923849"
+    }
+  ]
+}

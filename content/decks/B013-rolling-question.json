@@ -1,0 +1,169 @@
+{
+  "id": "B013-rolling-question",
+  "label": "B013 · אסטרטגיית שאלה מתגלגלת · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1777001881746",
+      "front_md": "[Rolling-def] verbatim — הגדרת \"שאלה מתגלגלת\"?",
+      "back_md": "> \"אחת מהשאלות יכולה להופיע בפורמט של 'שאלה מתגלגלת': מקרה קליני עם מעט מידע, שאר המידע יינתן בהתאם להתקדמות המקרה, לפי תסריט הבנוי מראש.\" [StageB-1]",
+      "note_id": "1777001881746"
+    },
+    {
+      "id": "1777001881748",
+      "front_md": "[Time-split-A] חלוקת הזמן כשיש שאלה מתגלגלת?",
+      "back_md": "**45 דק'** לרולינג + **15+15 דק'** לשאלות 2-3 [StageB-2].",
+      "note_id": "1777001881748"
+    },
+    {
+      "id": "1777001881749",
+      "front_md": "[Time-split-B] חלוקת הזמן ללא שאלה מתגלגלת?",
+      "back_md": "**25+25+25 דק'** לכל שאלה [StageB-2].",
+      "note_id": "1777001881749"
+    },
+    {
+      "id": "1777001881751",
+      "front_md": "[3-components] 3 רכיבי השאלה המתגלגלת?",
+      "back_md": "(1) נקודת התחלה מצומצמת (\"מעט מידע\") + (2) שחרור הדרגתי + (3) תסריט מובנה מראש [StageB-1].",
+      "note_id": "1777001881751"
+    },
+    {
+      "id": "1777001881753",
+      "front_md": "[Name-Hyp-Plan] 3 שלבי הפתיחה (10 דק' ראשונות)?",
+      "back_md": "**Name** (חזור על מה ששמעת) + **Hypothesize** (4-6 אבחנות סבירות) + **Plan** (אמור בקול רם איך תאסוף מידע).",
+      "note_id": "1777001881753"
+    },
+    {
+      "id": "1777001881754",
+      "front_md": "[4-moves] 4 המהלכים בכל קבלת מידע חדש?",
+      "back_md": "(1) **Acknowledge**; (2) **Integrate** (מחזק vs מערער); (3) **Revise** (עדכן DDx בקול רם); (4) **Next targeted question**.",
+      "note_id": "1777001881754"
+    },
+    {
+      "id": "1777001881758",
+      "front_md": "[Dulcan-funnel] verbatim — טכניקת ה-funnel של Dulcan?",
+      "back_md": "> \"Broad general questions should be followed by more directed questions. Asking about intensity, frequency, duration, time of onset, triggers, ameliorators, associated symptoms, timing patterns, and responses by others can yield significant information.\" [D-3]",
+      "note_id": "1777001881758"
+    },
+    {
+      "id": "1777001881761",
+      "front_md": "[Dulcan-premature] verbatim — הטעות הקלאסית של Dulcan?",
+      "back_md": "> \"One of the most common mistakes that inexperienced interviewers make is to prematurely home in on a diagnosis.\" [D-1]",
+      "note_id": "1777001881761"
+    },
+    {
+      "id": "1777001881763",
+      "front_md": "[Premature-example] דוגמה של premature closure ברולינג?",
+      "back_md": "ילד 8 עם \"ריכוז ירוד + עצבנות\" → \"ADHD\" תוך 30 שניות → המידע שמתגלגל: \"איבד סבתו לאחרונה\" → הנבחן **ממשיך** ב-ADHD במקום adjustment/depression/grief.",
+      "note_id": "1777001881763"
+    },
+    {
+      "id": "1777001881764",
+      "front_md": "[Anti-premature] 3 סימנים של מתמחה שמנהל DDx פתוח?",
+      "back_md": "(1) **\"Let me revise\"** בקול רם; (2) **הצהרה פרובוקטיבית** (\"אני חושש שהצמדתי מהר מדי ל-X\"); (3) **שמירת 2-3 אלטרנטיבות** לאחר \"אבחנה מרכזית\".",
+      "note_id": "1777001881764"
+    },
+    {
+      "id": "1777001881765",
+      "front_md": "[Thinking-aloud] 3 רכיבי ניסוח שאלה ב-thinking aloud?",
+      "back_md": "(1) **\"השאלה הבאה שלי היא X...\"**; (2) **\"...כי אני רוצה לבדוק האם Y...\"**; (3) **\"...שיבדיל בין A ל-B.\"**",
+      "note_id": "1777001881765"
+    },
+    {
+      "id": "1777001881766",
+      "front_md": "[Uncertainty-protocol] 4 שלבי ניהול אי-ודאות?",
+      "back_md": "(1) **הצהרת אי-ודאות** בקול רם; (2) **בקשת מידע** ממוקדת; (3) **קבלת המידע + עדכון**; (4) **בחירה מבוססת**.",
+      "note_id": "1777001881766"
+    },
+    {
+      "id": "1777001881767",
+      "front_md": "[Dulcan-ER] Dulcan על זמן-מוגבל ב-ER?",
+      "back_md": "המטפל חייב להיות **\"much more directive\"** — לעבור על היסטוריה עמוקה + להתמקד ב-acute safety + acute psychiatric + rapid disposition [D-5].",
+      "note_id": "1777001881767"
+    },
+    {
+      "id": "1777001881768",
+      "front_md": "[Dulcan-why-no] למה אסור \"למה\"-questioning ילדים?",
+      "back_md": "Dulcan ממליץ להימנע מ-\"why\" עם ילדים — דורש חשיבה אנליטית מורכבת. במקום — **\"what/where/how\"** [D-6].",
+      "note_id": "1777001881768"
+    },
+    {
+      "id": "1777001881769",
+      "front_md": "[DDx-initial] כמה אבחנות ב-DDx הראשוני? איך מארגנים?",
+      "back_md": "**4-6 אבחנות** ב-3 רמות: (1) הסבירה ביותר; (2) 2-3 סבירות באותה קטגוריה; (3) 1-2 שחייבות להישלל (medical mimickers/rare but dangerous).",
+      "note_id": "1777001881769"
+    },
+    {
+      "id": "1777001881770",
+      "front_md": "[5-case-types] 5 סוגי מקרים שיכולים לבוא ב-rolling?",
+      "back_md": "(1) התפתחותי; (2) אבחנתי קלאסי; (3) חירום פסיכיאטרי; (4) אתיקה/משפטי; (5) פורנזי.",
+      "note_id": "1777001881770"
+    },
+    {
+      "id": "1777001881771",
+      "front_md": "[Case-strategy-emergency] אסטרטגיה למקרה חירום?",
+      "back_md": "**Acute safety first** (suicide/harm/abuse) + **dispositon** — DDx שני, safety ראשון.",
+      "note_id": "1777001881771"
+    },
+    {
+      "id": "1777001881772",
+      "front_md": "[Case-strategy-ethics] אסטרטגיה למקרה אתי/משפטי?",
+      "back_md": "**חוק + אתיקה + clinical** בשורה אחת, לא אחד במקום השני.",
+      "note_id": "1777001881772"
+    },
+    {
+      "id": "1777001881773",
+      "front_md": "[Case-strategy-forensic] אסטרטגיה למקרה פורנזי?",
+      "back_md": "**Boundaries** (clinical vs forensic role) + זהירות עם עדות + מודעות להגבלות התפקיד.",
+      "note_id": "1777001881773"
+    },
+    {
+      "id": "1777001881774",
+      "front_md": "[Pitfall-passivity] מה \"פסיבייות\" ברולינג?",
+      "back_md": "הנבחן מחכה למידע במקום לכוון את האיסוף → חוסר פעילות של 5 דקות ראשונות = אובדן 10% מהזמן.",
+      "note_id": "1777001881774"
+    },
+    {
+      "id": "1777001881775",
+      "front_md": "[Pitfall-silence] למה \"שתיקה\" = כישלון?",
+      "back_md": "חושב בראש לא בקול רם → הבוחנים לא רואים תהליך → לא יכולים להעריך אם Genius או מהמר.",
+      "note_id": "1777001881775"
+    },
+    {
+      "id": "1777001881777",
+      "front_md": "[Pitfall-gish] מה \"Gish gallop\" ברולינג?",
+      "back_md": "מילוי זמן ב-40 אבחנות מבדלות בלי ניקוד — הבוחנים לא רואים clinical reasoning, הם רואים רק **data dump**.",
+      "note_id": "1777001881777"
+    },
+    {
+      "id": "1777001881778",
+      "front_md": "[Pitfall-rx-early] למה \"קפיצה לתרופה מוקדמת\" = טעות?",
+      "back_md": "הנבחן קופץ ל-\"פלואוקסטין 10mg\" לפני שהאבחנה מוצקה → מראה חיפזון + חוסר הבנת ה-DDx.",
+      "note_id": "1777001881778"
+    },
+    {
+      "id": "1777001881779",
+      "front_md": "[Mock-training] מהו אימון 1 של הפרוטוקול?",
+      "back_md": "**5 קייסים סימולטיביים** (1 התפתחותי + 1 אבחנתי + 1 חירום + 1 אתי + 1 פורנזי) ברשמקול, 45 דק' כל אחד, אח\"כ האזנה ותיקון **דפוסי תגובה**.",
+      "note_id": "1777001881779"
+    },
+    {
+      "id": "1777001881780",
+      "front_md": "[ADHD-training] למה מתמחי ADHD נכשלים ברולינג?",
+      "back_md": "2 נטיות: (1) \"פריחת אבחנות\" — 15 DDx בלי ניקוד; (2) \"קריסת ריכוז\" — 5 שאלות פזורות בלי עקביות. תיקון: **structured template** (Name → Hypothesize → Plan → Gather → Revise → Synthesize).",
+      "note_id": "1777001881780"
+    },
+    {
+      "id": "1777001881781",
+      "front_md": "[Dulcan-weave] verbatim — המטרה הסופית של clinical reasoning?",
+      "back_md": "> \"The adept clinician will gather information and weave it together to create a biopsychosocial formulation that can then inform treatment.\" [D-7]",
+      "note_id": "1777001881781"
+    },
+    {
+      "id": "1777001881784",
+      "front_md": "[CAP-silent] למה CAP לא מכיל מאמרים על clinical reasoning?",
+      "back_md": "CAP ממוקד במחקר קליני של הפרעות, לא ב-cognitive psychology של קלינאים. **[NO LANDMARK PAPERS IN CAP FOR clinical reasoning methodology]** — acquisition TODO non-critical: Croskerry 2003, Elstein 1978, Norman & Eva 2010, Kahneman 2011.",
+      "note_id": "1777001881784"
+    }
+  ]
+}

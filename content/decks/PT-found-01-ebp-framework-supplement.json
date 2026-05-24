@@ -1,0 +1,44 @@
+{
+  "id": "PT-found-01-ebp-framework-supplement",
+  "label": "01 · מסגרת טיפול מבוסס ראיות · תוספות",
+  "source": "psychotherapy-supplement",
+  "tradition": "foundations",
+  "cards": [
+    {
+      "id": "1777192774659",
+      "front_md": "**NICE (UK) — National Institute for Health and Care Excellence**",
+      "back_md": "NICE היא הסוכנות הבריטית הממשלתית שמייצרת **clinical guidelines** מבוססות-ראיות עבור NHS. תהליך: (1) systematic review של הספרות; (2) Guideline Development Group מולטי-disciplinary; (3) GRADE assessment של איכות הראיות; (4) המלצות מודרגות (offer/consider/do not offer); (5) public consultation ו-revision. NICE guidelines רלוונטיות לילדים: **NG87 ADHD, CG155 psychosis CYP, CG31 OCD, NG134 depression CYP, NG225 self-harm, NG116 PTSD, CG170 autism management**. ה-guidelines נחשבים standard מחייב ב-NHS ומשפיעים גם על ישראל ועל ה-AACAP.\n\n*NICE · www.nice.org.uk*",
+      "note_id": "1777192774659"
+    },
+    {
+      "id": "1777192774660",
+      "front_md": "**SAMHSA NREPP — מאגר EBPs אמריקאי**",
+      "back_md": "SAMHSA (Substance Abuse and Mental Health Services Administration, ארה\"ב) ניהל את ה-NREPP (National Registry of Evidence-Based Programs and Practices) — מאגר של התערבויות מוכרות. NREPP הוערך ב-quality of research + readiness for dissemination. ה-MHSA ועדה החליטה ב-2018 להפסיק את NREPP בצורתו המקורית; הוחלף ב-Evidence-Based Resource Center של SAMHSA. נכון לעת הכרך (2017), זה היה המאגר המוביל בארה\"ב. השלכה: לא לסמוך עיוורת על \"מופיע ב-NREPP\" — לבדוק את ה-research החדש ביותר.\n\n*SAMHSA Evidence-Based Resource Center · samhsa.gov*",
+      "note_id": "1777192774660"
+    },
+    {
+      "id": "1777192774662",
+      "front_md": "**Cochrane Collaboration — gold standard ל-systematic reviews**",
+      "back_md": "Cochrane הוא ארגון בינלאומי ללא-מטרות-רווח (נוסד 1993, ע\"ש Archie Cochrane) שמייצר **systematic reviews** מ-RCTs. כל review הוא רב-שלבי: PRISMA-compliant search, dual-reviewer screening, risk-of-bias assessment (ROB-2 tool), GRADE evidence quality. ה-Cochrane Reviews הם **gold standard** — אם יש Cochrane על ADHD, חרדה, או OCD בילדים, זה הנקודת התייחסות הראשונה. דוגמאות רלוונטיות לפרק: Cochrane reviews על CBT for child anxiety (high-certainty), על methylphenidate ל-ADHD (moderate-certainty), על parent training להפרעות התנהגות. הגישה: cochranelibrary.com — חופשי ברוב המדינות.\n\n*Cochrane Collaboration · cochrane.org*",
+      "note_id": "1777192774662"
+    },
+    {
+      "id": "1777192774663",
+      "front_md": "**Wampold & Imel 2015 — The Great Psychotherapy Debate**",
+      "back_md": "Wampold & Imel 2015 (Routledge) — ספר השפעתי על **common factors** vs specific techniques. הטענה: רוב ההבדלים בתוצאות בין מודלי טיפול **לא** נובעים מהטכניקה הספציפית, אלא מ-common factors — therapeutic alliance, expectations, empathy, allegiance של המטפל. Effect sizes של אלוקציה אקראית בין EBPs שונים נוטים להיות קטנים (d ~0.2). השלכה: גם ב-EBPs, האלמנט האנושי-יחסי דומיננטי. Weisz/Kazdin מצטטים זאת בנקודה ההיסטורית — להזכיר שמעבר ל-techniques ספציפיים, יש מימד common שעובר עליהם. ה-Weisz et al. מטא-אנליזה הגדולה (in press in chapter) מאשרת חלק מזה לילדים.\n\n*Wampold & Imel 2015 · The Great Psychotherapy Debate · Routledge*",
+      "note_id": "1777192774663"
+    },
+    {
+      "id": "1777192774664",
+      "front_md": "מה ההבדלים העיקריים בין SAMHSA NREPP ל-NICE Guidelines?",
+      "back_md": "(1) **מקור** — SAMHSA אמריקאי (federal agency), NICE בריטי (NHS); (2) **פורמט** — NREPP היה repository של תוכניות ספציפיות (Coping Cat, PCIT וכו'); NICE מספק **guidelines** מובנים-לפי-הפרעה (NG87 ADHD, CG31 OCD); (3) **methodology** — NICE משתמש ב-GRADE explicit; NREPP השתמש ב-quality of research scoring פנימי; (4) **חיוב** — NICE guidelines מחייבים ל-NHS ב-UK; NREPP היה משאב אינפורמטיבי ולא מחייב; (5) **עדכון** — NICE מעדכן באופן שיטתי כל 5-7 שנים; NREPP פסק ב-2018. בישראל: רוב הקופות מתבססות על NICE + AACAP.\n\n*Comparative · NICE + SAMHSA*",
+      "note_id": "1777192774664"
+    },
+    {
+      "id": "1777192774665",
+      "front_md": "איך לבחור EBP בקליניקה ישראלית — שלבים מעשיים?",
+      "back_md": "(1) **לבדוק NICE guideline** של ההפרעה (NG87 ADHD, NG134 depression, CG31 OCD); (2) **AACAP Practice Parameter** המקבילה — מתעדכן באופן עצמאי, לפעמים יותר; (3) **משרד הבריאות חוזר** רלוונטי (MR15 ADHD 2021, MK1-2-45 תאו\"ם); (4) ל-EBP ספציפי לבדוק ב-**Cochrane Library** את ה-systematic review; (5) להעריך **transportability** — האם פרוטוקול ארה\"ב/UK מתאים לתרבות ישראלית, יש manuals מתורגמים; (6) להתאים evidence-based **practice** — לשלב patient values, expertise, EBP. השאלה לוועדה 3: למה בחרת *זה* ה-EBP ולא אחר.\n\n*Israeli context*",
+      "note_id": "1777192774665"
+    }
+  ]
+}

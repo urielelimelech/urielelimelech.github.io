@@ -1,0 +1,217 @@
+{
+  "id": "RS-paper-reading",
+  "label": "קריאת מאמרים",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1777176093880",
+      "front_md": "מהי מסגרת **PICO** לניסוח שאלה קלינית?",
+      "back_md": "מסגרת PICO היא הכלי המרכזי של Evidence-Based Medicine לפירוק שאלה קלינית למרכיביה הניתנים לחיפוש: P = {{c1::Population/Patient}} (אוכלוסייה — מי החולה, גיל, מין, מצב רקע), I = {{c2::Intervention}} (התערבות — תרופה, פסיכותרפיה, בדיקה אבחנתית), C = {{c3::Comparator}} (מקבילה — placebo, treatment as usual, השוואה פעילה), O = {{c4::Outcome}} (תוצאה רלוונטית קלינית — תפקוד, איכות חיים, תמותה ולא רק סקלת סימפטומים). הרחבות שימושיות: PICOT (Time horizon) ו-PICOS (Study design). שימוש קפדני ב-PICO מצמצם הטיית חיפוש, ממקד את ה-search strategy ב-PubMed ומגדיר מראש את ה-primary outcome — אמצעי הגנה מפני outcome switching.\n\n*[Sackett, Straus EBM 5e; Guyatt JAMA Users' Guides 2014]*",
+      "note_id": "1777176093880"
+    },
+    {
+      "id": "1777176093881",
+      "front_md": "השלם את **היררכיית הראיות** מהחזק לחלש",
+      "back_md": "מהחזק לחלש: {{c1::סקירה שיטתית/מטא-אנליזה}} > {{c2::RCT}} > {{c3::cohort}} > {{c4::case-control}} > cross-sectional > case series > expert opinion. הסקירה השיטתית עומדת בראש כי היא מסכמת את כלל ה-RCTs באופן מובנה (PRISMA 2020) עם הערכת RoB 2 ו-GRADE. RCT מספק את ההגנה הטובה ביותר מ-confounding בזכות randomization. cohort עוקב על פני זמן ומאפשר חישוב incidence ו-RR. case-control יעיל למחלות נדירות אך חשוף ל-recall bias ומספק רק OR. cross-sectional נותן prevalence בלבד. חשוב: ההיררכיה אינה אבסולוטית — RCT קטן ופגום עשוי להיות נחות ממחקר עוקבה גדול ואיכותי, ו-GRADE יכול להוריד RCT ל-low certainty.\n\n*[JAMA Users' Guides; Cochrane Handbook v6.4]*",
+      "note_id": "1777176093881"
+    },
+    {
+      "id": "1777176093882",
+      "front_md": "מדדי השפעה: **NNT, ARR, RRR** והקשר ביניהם",
+      "back_md": "NNT = 1 / {{c1::ARR}}. RRR = ARR / {{c2::baseline risk (CER)}}. ARR (Absolute Risk Reduction) הוא המדד {{c3::המוחלט}} — הפרש שיעורי האירועים בין הזרועות. RRR (Relative Risk Reduction) הוא המדד {{c4::היחסי}} ויכול להטעות באופן דרמטי: RRR של 50% יכול להיות ARR של 40% (משמעותי) או ARR של 1% (זניח). דוגמה פסיכיאטרית: אם הישנות דיכאון יורדת מ-2% ל-1%, RRR=50% מרשים אך ARR=1% ו-NNT=100. Sackett המליץ תמיד לדרוש את ה-ARR וה-NNT לצד ה-RRR, ולזכור ש-NNT תקף רק עבור baseline risk הספציפי של המחקר ואינו ניתן להעברה לאוכלוסייה עם סיכון בסיסי שונה.\n\n*[Sackett, Straus EBM 5e; Altman BMJ Statistics Notes]*",
+      "note_id": "1777176093882"
+    },
+    {
+      "id": "1777176093885",
+      "front_md": "**Type I error, Type II error, Power** — הגדרות וערכי ברירת מחדל",
+      "back_md": "Type I error = {{c1::α}} = false {{c2::positive}} — דחיית null hypothesis אמיתית (זיהוי השפעה שאינה קיימת). ברירת מחדל {{c3::0.05}}. Type II error = {{c4::β}} = false negative — אי-דחיית null hypothesis שגויה (החמצת השפעה אמיתית). ברירת מחדל 0.20. Power = {{c5::1−β}} = 0.80 — ההסתברות לזהות השפעה אמיתית כשהיא קיימת. מחקר underpowered (N קטן מדי) הוא מקור עיקרי לתוצאות שליליות מטעות; Altman & Bland: \"absence of evidence is not evidence of absence\". בפסיכיאטריה רוב מחקרי non-inferiority וטיפולים תוספתיים underpowered, ולכן תוצאה לא-מובהקת אינה שוללת אפקט. בדוק תמיד את ה-sample-size calculation במתודות.\n\n*[StatPearls; Altman & Bland BMJ 1995;311:485]*",
+      "note_id": "1777176093885"
+    },
+    {
+      "id": "1777176093886",
+      "front_md": "**Schulz 1995** — כמה מנפחת היעדר הסתרת הקצאה את גודל ההשפעה?",
+      "back_md": "Schulz, Chalmers, Hayes & Altman במחקר אמפירי קלאסי (JAMA 1995) הראו ש-allocation concealment בלתי-מספק מנפח OR ב-~{{c1::41%}}; היעדר double-blinding ב-~{{c2::17%}}. המסקנה האופרטיבית: שני המאפיינים האלה הם המנבאים החזקים ביותר של inflated effect size ב-RCT, ולכן הם הציר המרכזי של Cochrane RoB 2. allocation concealment מסתיר את רצף ההקצאה מהמגייס עד לרגע ההכללה — שיטות מקובלות: SNOSE (sealed opaque sequentially-numbered envelopes), central pharmacy, web-based / IVRS. allocation concealment שונה מ-blinding שמתייחס למה שקורה אחרי ההקצאה. בקריאת RCT — חפש את שני הפריטים בנפרד ב-Methods.\n\n*[Schulz KF et al. JAMA 1995;273(5):408]*",
+      "note_id": "1777176093886"
+    },
+    {
+      "id": "1777176093887",
+      "front_md": "חמשת התחומים של **Cochrane RoB 2**",
+      "back_md": "חמשת התחומים של Cochrane RoB 2 להערכת RCT: 1) {{c1::randomization process}} (כולל allocation concealment ואיזון baseline); 2) {{c2::deviations from intended intervention}} (חריגות מההתערבות שנקבעה — כולל חוסר blinding והשפעתו); 3) {{c3::missing outcome data}} (נתונים חסרים — סף בעייתי >5-10%, קריטי ב->20%); 4) {{c4::measurement of the outcome}} (assessor blinding, אובייקטיביות הסקלה); 5) {{c5::selection of the reported result}} (outcome switching, p-hacking, השוואה לפרוטוקול הרשום ב-ClinicalTrials.gov). דירוג בכל תחום: low / some concerns / high. כלי זה החליף את RoB 1 הוותיק ב-2019 והוא הסטנדרט של Cochrane וגם של GRADE לציר risk of bias.\n\n*[Sterne JAC et al. BMJ 2019;366:l4898]*",
+      "note_id": "1777176093887"
+    },
+    {
+      "id": "1777176093888",
+      "front_md": "חמשת התחומים של **GRADE** להורדת ודאות הראיות",
+      "back_md": "GRADE (Grading of Recommendations, Assessment, Development and Evaluation) מדרג ודאות ראיות ב-4 רמות: high / moderate / low / very low. RCT מתחיל ב-high, מחקר תצפיתי ב-low. חמישה תחומים להורדת ודאות: {{c1::risk of bias}} (איכות מתודולוגית של המחקרים), {{c2::inconsistency}} (heterogeneity בין מחקרים — I² גבוה), {{c3::indirectness}} (PICO של המחקרים שונה מהשאלה — אוכלוסייה, השוואה או outcome אחר), {{c4::imprecision}} (CI רחב, מעט אירועים, OIS לא מתקיים), {{c5::publication bias}} (funnel asymmetry, מבחן Egger). שלושה תחומים יכולים להעלות במחקר תצפיתי: large effect, dose-response, ו-plausible confounders שפועלים נגד ההשפעה הנצפית. GRADE הוא הסטנדרט של WHO, NICE ו-Cochrane.\n\n*[Guyatt GH et al. J Clin Epidemiol 2008–2024]*",
+      "note_id": "1777176093888"
+    },
+    {
+      "id": "1777176093890",
+      "front_md": "**ITT vs Per-Protocol** — הגדרות ומה מגן על מה",
+      "back_md": "ITT analysis = ניתוח לפי {{c1::ההקצאה האקראית המקורית}} (ללא קשר לציות, נשירה או חציית קבוצות). PP analysis = רק {{c2::משתתפים שדבקו בפרוטוקול}}. ITT שומר על {{c3::תוקף הרנדומיזציה}} — איזון ה-confounders שהושג בהגרלה — ולכן הוא הניתוח התקף ל-superiority trial; PP חשוף ל-{{c4::selection bias}} כי הנושרים מוצאים באופן לא-אקראי. כלל אצבע של Guyatt: אם ITT לא-מובהק אבל PP מובהק — לרוב התוצאה האמיתית לא-מובהקת. בניסוי non-inferiority הכלל הפוך — ITT שמרני יותר לטובת השוואה, ולכן נדרשים גם ITT וגם PP. בקריאת CONSORT flowchart יש לבדוק שכל המרונדמים נכללו בניתוח ה-ITT.\n\n*[Cochrane Handbook ch.8; Guyatt JAMA Users' Guides]*",
+      "note_id": "1777176093890"
+    },
+    {
+      "id": "1777176093891",
+      "front_md": "רכיבי ה-**CONSORT 2010** statement",
+      "back_md": "CONSORT (Consolidated Standards of Reporting Trials) הוא הסטנדרט לדיווח על RCT. הגרסה משנת 2010 כוללת: {{c1::25}}-item checklist + {{c2::flow diagram}} עבור RCTs דו-זרועיים מקבילים. ה-flowchart מתעד 4 שלבים: enrollment, allocation, follow-up, analysis — ומאפשר לקורא לראות כמה רנדומלו, כמה קיבלו את ההתערבות, כמה נשרו וכמה נכללו בניתוח ה-ITT. dropout >20% נחשב לאיום על internal validity. CONSORT עודכן ב-CONSORT {{c3::2025}} (Hopewell, Moher et al., Lancet/BMJ) שהוסיף דרישות סביב trial registration, data sharing, harms reporting ו-AI extensions. הרחבות: CONSORT-NPT (non-pharmacological), CONSORT-AI, CONSORT-EHEALTH. EQUATOR Network מארח את כל ההצהרות.\n\n*[Schulz, Altman, Moher BMJ 2010;340:c332; CONSORT 2025]*",
+      "note_id": "1777176093891"
+    },
+    {
+      "id": "1777176093892",
+      "front_md": "**PRISMA 2020** — מבנה ההצהרה לסקירה שיטתית",
+      "back_md": "PRISMA 2020 (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) = {{c1::27}}-item checklist + flow diagram ב-{{c2::4 שלבים}} לסקירות שיטתיות ומטא-אנליזות. ארבעת השלבים ב-flowchart: identification (records identified from databases/registers), screening (records screened, excluded with reasons), eligibility (full-text assessed, reasons for exclusion) ו-included (studies included in synthesis). הגרסה החדשה החליפה את PRISMA 2009 והוסיפה דרישות שקיפות סביב registration (PROSPERO), data sharing, automation tools ו-living reviews. ההצהרה פותחה ע\"י Page MJ, McKenzie JE ושותפים ופורסמה ב-BMJ 2021. הרחבות חשובות: PRISMA-P (protocol), PRISMA-ScR (scoping reviews), PRISMA-DTA (diagnostic test accuracy), PRISMA-NMA (network meta-analysis).\n\n*[Page MJ et al. BMJ 2021;372:n71]*",
+      "note_id": "1777176093892"
+    },
+    {
+      "id": "1777176093893",
+      "front_md": "**STROBE** ו-**STARD** — סטנדרטי דיווח",
+      "back_md": "STROBE (Strengthening the Reporting of Observational Studies in Epidemiology) = {{c1::22}} פריטים ל-{{c2::cohort, case-control, cross-sectional}}. ההצהרה (von Elm 2007, Lancet) מכסה את כל החלקים — title/abstract, introduction, methods, results, discussion — עם דגש על דיווח שקוף של selection bias, confounders שהותאמו, ו-missing data. STARD (Standards for Reporting Diagnostic Accuracy Studies) = {{c3::30}} פריטים ל-{{c4::diagnostic accuracy}} (Bossuyt 2015, BMJ). STARD דורש דיווח של reference standard, spectrum bias, sample selection ו-2x2 table מלא לחישוב sensitivity, specificity ו-likelihood ratios. הרחבות מודרניות: STROBE-MR ל-Mendelian randomization, STARD-AI 2025 לבדיקות מבוססות AI. EQUATOR Network מאגד את שתי ההצהרות.\n\n*[von Elm E et al. Lancet 2007;370:1453; Bossuyt PM et al. BMJ 2015;351:h5527]*",
+      "note_id": "1777176093893"
+    },
+    {
+      "id": "1777176093894",
+      "front_md": "שש הדומיינים של **AGREE II** להערכת קווים מנחים",
+      "back_md": "AGREE II (Appraisal of Guidelines for Research and Evaluation) הוא הכלי הסטנדרטי להערכת קווים מנחים קליניים. שש דומיינים: 1) {{c1::Scope and Purpose}} (מטרה, שאלות, אוכלוסיית יעד); 2) {{c2::Stakeholder Involvement}} (הרכב הוועדה, נציגות חולים); 3) {{c3::Rigour of Development}} (שיטת חיפוש שיטתית, דירוג ראיות ב-GRADE, peer review); 4) {{c4::Clarity of Presentation}} (המלצות חד-משמעיות, אופציות מובחנות); 5) {{c5::Applicability}} (חסמי יישום, עלויות, מדדי ביקורת); 6) {{c6::Editorial Independence}} (מימון, ניהול ניגודי עניינים). 23 פריטים מדורגים בסולם 7-נקודות. בפסיכיאטריה: NICE ו-APA Practice Guidelines מקבלים ציונים גבוהים; קווים מנחים ממומנים תעשייתית או של חברות עם COI לא מנוהל מקבלים ציונים נמוכים בדומיין 6.\n\n*[Brouwers MC et al. CMAJ 2010;182:E839]*",
+      "note_id": "1777176093894"
+    },
+    {
+      "id": "1777176093895",
+      "front_md": "חמשת **סוגי ההטיה** המרכזיים במחקר קליני",
+      "back_md": "חמשת סוגי ההטיה המרכזיים: {{c1::selection}} (הקצאה לא-אקראית, אובדן אוכלוסייה ייצוגית; מתוקן ע\"י randomization ו-allocation concealment), {{c2::information/measurement}} (recall bias, interviewer bias, observer bias; מתוקן ע\"י blinding ו-objective outcomes), {{c3::confounding}} (משתנה זר המשפיע על חשיפה ועל תוצאה; מתוקן ע\"י randomization, restriction, matching, multivariable adjustment, propensity score), {{c4::attrition}} (נשירה לא-אקראית מטה את התוצאות; קריטי במחקרי דיכאון/סכיזופרניה עם dropout >20-30%), {{c5::publication}} (מחקרים חיוביים מתפרסמים יותר; נבדק ב-funnel plot, Egger test; preregistration מצמצם). ב-Cochrane RoB 2 חמשת התחומים מקבילים אך מאוגדים שונה — randomization process מכסה selection ו-confounding, deviations מכסה measurement ב-RCT.\n\n*[Cochrane Handbook v6.4 ch.7-8; Sackett 1979]*",
+      "note_id": "1777176093895"
+    },
+    {
+      "id": "1777176093896",
+      "front_md": "**מדדי השפעה** — מתי OR, RR, HR",
+      "back_md": "באירוע נדיר (<10%) — {{c1::OR ≈ RR}} ולכן ניתן לפרש OR מ-case-control כמייצג סיכון יחסי. ב-survival analysis (זמן עד אירוע, censoring) — {{c2::HR}} שמבטא סיכון רגעי (instantaneous hazard) תחת הנחת proportional hazards. ב-case-control — {{c3::OR}} בלבד, כי אי-אפשר לחשב incidence (הדגימה לפי תוצאה). ב-RCT/cohort עם follow-up מלא — RR הוא הברור והאינטואיטיבי ביותר. כשהאירוע נפוץ (>10-15%), OR מנפח את גודל ההשפעה לעומת RR — שגיאה נפוצה במחקרי relapse פסיכיאטריים שבהם relapse rate 30-50%. בפרשנות: OR=2 באירוע של 50% פירושו RR=~1.33, לא 2. תמיד שאל איזה מדד מדווח ומה ה-baseline rate.\n\n*[Davies BMJ 1998; Cochrane Handbook ch.6]*",
+      "note_id": "1777176093896"
+    },
+    {
+      "id": "1777176093899",
+      "front_md": "**Confidence Interval 95%** — הגדרה ופרשנות",
+      "back_md": "Confidence Interval 95% = {{c1::טווח שב-95% מדגימות חוזרות יכיל את הפרמטר האמיתי}}. זוהי תכונה של השיטה (long-run frequency), לא של המרווח הספציפי שחושב — שגיאת פרשנות נפוצה היא לומר \"יש 95% הסתברות שהאמת בתוך המרווח\". ב-RR/OR/HR אם ה-CI חוצה {{c2::1}} — לא מובהק (כלומר אין נטייה ברורה לטובה או לרעה); בהפרש ממוצעים אם חוצה 0 — לא מובהק. ה-CI מספק מידע על {{c3::דיוק}} (precision) שלא ניתן מ-p-value: HR=0.7 (95%CI 0.4-1.2) משמעו שגם נזק (HR=1.2) תואם את הנתונים. רוחב ה-CI מצטמצם עם הגדלת N. Altman & Bland המליצו תמיד לדווח גודל אפקט עם CI במקום p-value בלבד.\n\n*[Altman & Bland BMJ Statistics Notes; ICMJE]*",
+      "note_id": "1777176093899"
+    },
+    {
+      "id": "1777176093901",
+      "front_md": "\"**Absence of evidence is not evidence of absence**\" — מקור ומשמעות",
+      "back_md": "\"Absence of evidence is not evidence of absence\" — Altman & Bland {{c1::BMJ 1995;311:485}}. תוצאה לא-מובהקת (p>0.05, CI חוצה את ה-null) איננה מוכיחה שאין הבדל בין הזרועות; ייתכן שהמחקר {{c2::underpowered}} כדי לזהות הבדל אמיתי. הדרך הנכונה לפרש תוצאה לא-מובהקת היא להסתכל על ה-CI: אם הוא צר וסביב 1, ניתן לפסול אפקט קליני משמעותי; אם הוא רחב (למשל RR 0.5-1.8), הנתונים תואמים גם תועלת משמעותית וגם נזק משמעותי. שגיאה זו נפוצה בפרשנות של non-inferiority trials, של subgroup analyses ושל מחקרי תופעות לוואי נדירות שבהם ה-power נמוך מטבעם. הכלל המעשי: דחיית null הוא לא = הוכחת equivalence.\n\n*[Altman DG & Bland JM. BMJ 1995;311:485]*",
+      "note_id": "1777176093901"
+    },
+    {
+      "id": "1777176093904",
+      "front_md": "**Ioannidis 2005** — מתי ממצא מחקרי פחות סביר להיות אמיתי?",
+      "back_md": "Ioannidis במאמר \"Why Most Published Research Findings Are False\" (PLoS Med 2005) הציג שש מסקנות-משנה (corollaries). מחקר פחות נכון כש: {{c1::קטן}} (N נמוך → power נמוך → PPV של ממצא נמוך), גודל האפקט {{c2::קטן}} (קשה יותר להבחין מ-noise), יותר היפותזות נבדקות ועם פחות pre-specification, יותר {{c3::flexibility}} בעיצוב, בהגדרות ובאנליזה (degrees of freedom — מוסיפים \"garden of forking paths\" של Gelman), יש {{c4::conflicts of interest}} ודעות קדומות פיננסיות או אקדמיות, והשדה \"חם\" עם תחרות בין צוותים. המאמר הצית את משבר ה-reproducibility והוביל ל-preregistration, registered reports, ו-open data. בפסיכיאטריה: subgroup analyses, change of primary outcome, ו-pharma sponsorship הם דגלים אדומים מובהקים.\n\n*[Ioannidis JPA. PLoS Med 2005;2(8):e124]*",
+      "note_id": "1777176093904"
+    },
+    {
+      "id": "1777176093905",
+      "front_md": "**רמות בלינדינג** — single, double, triple",
+      "back_md": "בלינדינג — single-blind: {{c1::משתתף בלבד}} אינו יודע באיזו זרוע הוא; double-blind: משתתף + {{c2::מטפל/מעריך}} (התקן הקלאסי); triple-blind: כולל {{c3::הסטטיסטיקאי}} (אנליזה תחת קודי קבוצה ולא תוויות). בלינדינג מגן מפני performance bias (טיפול נלווה דיפרנציאלי), detection bias (assessor bias) ו-reporting bias. בפסיכותרפיה blinding של מטפל ומשתתף כמעט בלתי-אפשרי, ולכן Cochrane RoB 2 שואל ספציפית האם חוסר ה-blinding השפיע על ה-outcome — אם ה-outcome אובייקטיבי (אשפוז, תמותה) ההשפעה מינימלית; אם סובייקטיבי (HAM-D self-report) ההשפעה משמעותית. הפתרון החלקי: assessor blinded — מעריך עיוור עם תיעוד וידיאו. דווח את מי שיועד עיוור ועד כמה הצליחה ההסוואה (blinding integrity check).\n\n*[Karanicolas BMJ 2010; Schulz Lancet 2002]*",
+      "note_id": "1777176093905"
+    },
+    {
+      "id": "1777176093906",
+      "front_md": "**Allocation concealment ≠ Blinding** — מה מסתיר כל אחד?",
+      "back_md": "Allocation concealment ≠ blinding. Concealment מסתיר את {{c1::רצף ההקצאה מהמגייס}} עד לרגע ההכללה — מטרתו למנוע מהחוקר המגייס \"לבחור\" את החולה הבא לפי ניחוש איזו זרוע הבאה (selection bias ב-baseline). שיטות: SNOSE, central pharmacy, IVRS/web-based. blinding מסתיר את {{c2::הקצאה מהמשתתף/המטפל}} לאחר שכבר הוקצה — מטרתו למנוע performance bias ו-detection bias במהלך המעקב. דוגמה ממחישה: ניתן לעשות trial בלתי-בליינד עם concealment מצוין (פתיחת מעטפה במרכז קריאה אחרי החתמה), ולחילופין trial בליינד אך עם concealment גרוע (רשימה גלויה למגייס מראש). Schulz 1995 הראה ש-concealment בלתי-מספק מנפח OR ב-~41% — יותר מהשפעת blinding (~17%). בקריאת RCT: בדוק את שני הפרמטרים בנפרד.\n\n*[Schulz KF & Grimes DA. Lancet 2002;359:614]*",
+      "note_id": "1777176093906"
+    },
+    {
+      "id": "1777176093907",
+      "front_md": "**Surrogate outcomes** בפסיכיאטריה — סיכון פרשני",
+      "back_md": "Surrogate outcome = תוצאת תחליף שאינה תוצאה קלינית קשה (hard endpoint כמו תמותה, אשפוז, אובדנות, תפקוד). דוגמאות בפסיכיאטריה: {{c1::HAM-D, MADRS, PANSS}} — סקלות סימפטומים שהן תחליפים. סיכון מרכזי: שיפור בסקלה לא מתורגם ל-{{c2::שיפור תפקודי / איכות חיים / תמותה}}. שיפור 3 נקודות ב-HAM-D מובהק סטטיסטית במחקר גדול אך מתחת ל-MCID (Minimal Clinically Important Difference) של ~7 נקודות (Leucht 2013). Prasad & Cifu (Ending Medical Reversal, 2015) הציעו שלוש שאלות: האם התחליף נמצא במסלול הסיבתי? האם שינוי בו תואם שינוי בתוצאה הקשה במחקרים קודמים? האם התערבויות שונות שמשפיעות עליו מובילות לאותה השפעה על ה-hard endpoint? ב-FDA accelerated approval surrogates רבים מאוחר יותר נכשלו במבחן confirmatory.\n\n*[Prasad VK & Cifu AS. JHU Press 2015; Leucht S Br J Psychiatry 2013;202:194]*",
+      "note_id": "1777176093907"
+    },
+    {
+      "id": "1777176093908",
+      "front_md": "**מטא-אנליזה** — heterogeneity ו-publication bias",
+      "back_md": "במטא-אנליזה: heterogeneity (שונות בין-מחקרית מעבר למקריות) נמדדת ב-{{c1::I²}}; >{{c2::50%}} = משמעותי; >75% = ניכר. כש-I² גבוה — random-effects model (משקלל הנחת התפלגות אפקטים), ולעיתים כדאי להימנע מאיגוד מספרי ולהציג את המחקרים בנפרד. גם Cochran Q (test) ו-tau² (variance) משמשים. Publication bias נבדק ב-{{c3::funnel plot}} (scatter של effect size מול precision/SE — אסימטריה = חוסר מחקרים קטנים שליליים) ובמבחן {{c4::Egger}} (regression test לאסימטריה כמותית). מבחני א-סימטריה חלשים כש <10 מחקרים. כלים נוספים: trim-and-fill, PET-PEESE, selection models. רישום מוקדם ב-PROSPERO ו-ClinicalTrials.gov מצמצם publication bias מקור.\n\n*[Higgins JPT. Cochrane Handbook v6.4 ch.10; Egger M et al. BMJ 1997;315:629]*",
+      "note_id": "1777176093908"
+    },
+    {
+      "id": "1777176093912",
+      "front_md": "בעיית **השוואות מרובות** — חישוב ותיקונים",
+      "back_md": "בעיית ההשוואות המרובות (multiple comparisons / multiplicity): עם 20 בדיקות ו-α=0.05, ההסתברות ל-≥1 false positive ≈ {{c1::64%}} (מחושב כ-1−(1−0.05)²⁰ ≈ 0.642). זוהי בעיה מרכזית במחקרי subgroup analyses, multi-outcome RCT, GWAS ו-fMRI. תיקונים: {{c2::Bonferroni (α/n)}} שמרני אך פשוט (α חדש = 0.05/20 = 0.0025); Holm step-down (פחות שמרני, שולט ב-FWER); ו-{{c3::FDR}} (Benjamini-Hochberg, שולט בשיעור ה-false discoveries מתוך הדחיות). Gelman מכנה את הבעיה הרחבה \"garden of forking paths\" — גם בלי בדיקות מפורשות, חופש אנליטי (data-dependent decisions) מנפח את שיעור ה-false positives. הגנה: pre-specified primary outcome ב-protocol וניתוחי subgroup רק כ-hypothesis-generating.\n\n*[Altman DG; Gelman A & Loken E 2014]*",
+      "note_id": "1777176093912"
+    },
+    {
+      "id": "1777176093913",
+      "front_md": "מה ההבדל בין **efficacy** ל-**effectiveness**?",
+      "back_md": "Efficacy = הטיפול עובד בתנאים אידיאליים (explanatory trial, קריטריוני הכללה צרים, מטופלים נבחרים, ציות מקסימלי, ניתוח Per-Protocol). Effectiveness = הטיפול עובד בעולם האמיתי (pragmatic trial, אוכלוסייה רחבה, comorbidities, ניתוח ITT). פסיכותרפיה ב-RCT אקדמי מציגה לרוב פערי efficacy גדולים מ-effectiveness בקליניקה.\n\n*[Sackett, EBM 5e; Schwartz & Lellouch 1967]*",
+      "note_id": "1777176093913"
+    },
+    {
+      "id": "1777176093914",
+      "front_md": "**ארבע שאלות** לסקירת abstract של RCT ב-90 שניות",
+      "back_md": "(1) האם הרנדומיזציה והקצאתה (allocation concealment) מתוארות? (2) מהו ה-primary outcome וגודל האפקט (ARR/NNT, RR/HR עם CI — לא רק p-value)? (3) מי מימן את המחקר וכמה dropout היה (איום על internal validity מעל 20%)? (4) האם הניתוח ITT או רק PP? אם abstract מסתיר אחד מהארבעה — דגל אדום.\n\n*[Greenhalgh, How to Read a Paper ch.3-5]*",
+      "note_id": "1777176093914"
+    },
+    {
+      "id": "1777176093915",
+      "front_md": "מתי **OR ≠ RR** ולמה זה משנה?",
+      "back_md": "כשהאירוע נפוץ (>10-15%), OR מנפח את גודל ההשפעה לעומת RR. דוגמה: באירוע של 50%, OR=2 מתורגם ל-RR=~1.33. בפסיכיאטריה — מחקרי relapse ו-response עם שיעורי אירועים גבוהים — אין להציג OR כתחליף ל-RR. ב-case-control אין ברירה אלא OR (אי-אפשר לחשב incidence).\n\n*[Davies HTO et al. BMJ 1998;316:989; Editage]*",
+      "note_id": "1777176093915"
+    },
+    {
+      "id": "1777176093916",
+      "front_md": "מה ההבדל בין **non-inferiority** ל-**equivalence trial**?",
+      "back_md": "Equivalence: A=B במרווח ±δ סימטרי דו-צדדי (למשל biosimilars). Non-inferiority: A לא גרוע מ-B ביותר מ-δ — מבחן חד-צדדי בלבד; מותר ש-A יהיה טוב יותר. Superiority: A>B בלבד. בחירת ה-margin δ היא נקודת התורפה — margin רחב מדי מאפשר \"אישור\" טיפול בעצם נחות.\n\n*[FDA Non-Inferiority Guidance 2016; ICH E9]*",
+      "note_id": "1777176093916"
+    },
+    {
+      "id": "1777176093918",
+      "front_md": "מה זה **p-hacking** ואיך מזהים?",
+      "back_md": "מניפולציה אנליטית להגעה ל-p<0.05: outcome switching, multiple testing ללא תיקון, subgroup analyses post-hoc, אנליזות עם/בלי outliers, transformations מרובות, hypothesis generated from data. סימני אזהרה: primary outcome שונה בין הפרוטוקול הרשום (ClinicalTrials.gov) למאמר; הרבה p≈0.04-0.049; הרבה subgroups חיוביים; \"post-hoc analysis revealed\".\n\n*[Ioannidis 2005; Gelman & Loken 2014]*",
+      "note_id": "1777176093918"
+    },
+    {
+      "id": "1777176093919",
+      "front_md": "מהי בעיית ה-**surrogate outcome** בפסיכיאטריה?",
+      "back_md": "סקלות סימפטומים (HAM-D, MADRS, PANSS) הן תחליפים — לא תוצאה קלינית קשה. שיפור 3 נקודות ב-HAM-D מובהק סטטיסטית במחקר גדול אך מתחת ל-MCID (~7 נקודות; Leucht 2013). שאל איפה תפקוד, איכות חיים, תעסוקה, אובדנות, אשפוזים. שיפור בסקלה לא תמיד מתורגם לתועלת קלינית.\n\n*[Prasad & Cifu 2015; Leucht S Br J Psychiatry 2013;202:194]*",
+      "note_id": "1777176093919"
+    },
+    {
+      "id": "1777176093920",
+      "front_md": "מהו **allocation concealment** ולמה הוא חיוני?",
+      "back_md": "הסתרת רצף ההקצאה מהמגייס עד לרגע ההכללה. ללא concealment המגייס יכול לחזות לאיזו קבוצה ילך המשתתף הבא ולהטות selection (להעדיף חולה קל ל-active arm). Schulz 1995 מצא ניפוח OR של ~41% ב-trials בלי concealment מספק. שיטות תקפות: SNOSE, central pharmacy, IVRS / web-based randomization.\n\n*[Schulz KF et al. JAMA 1995;273:408]*",
+      "note_id": "1777176093920"
+    },
+    {
+      "id": "1777176093921",
+      "front_md": "איך מזהים **conflict of interest** במאמר?",
+      "back_md": "חברה מסחרית מימנה (industry-funded — פי 4-5 תוצאות חיוביות); מחברים יועצים בתשלום או בעלי מניות; פרסום ב-supplement ממומן; primary outcome נמדד ע\"י החברה; ניתוח סטטיסטי בידי החברה ללא independent verification; ghost-writing; היעדר data sharing. בפסיכיאטריה ~60% מ-RCTs ממומנים בתעשייה.\n\n*[Lexchin BMJ 2003; Perlis Am J Psychiatry 2005]*",
+      "note_id": "1777176093921"
+    },
+    {
+      "id": "1777176093922",
+      "front_md": "מה זה **funnel plot** ומה הוא מגלה?",
+      "back_md": "Scatter של גודל אפקט (ציר X) מול דיוק או 1/SE (ציר Y, מחקרים גדולים למעלה). בהיעדר publication bias הצורה משולש סימטרי. אסימטריה (חוסר מחקרים קטנים שליליים בפינה הימנית-תחתונה) = חשד ל-publication bias או small-study effects. מבחן Egger מכמת. מוגבל כש <10 מחקרים — חוסר power.\n\n*[Egger M et al. BMJ 1997;315:629]*",
+      "note_id": "1777176093922"
+    },
+    {
+      "id": "1777176093923",
+      "front_md": "מתי לקרוא **Methods לפני Results**?",
+      "back_md": "תמיד. אם השיטה רעועה — no allocation concealment, no blinding, dropout >40%, primary outcome שונה מהרישום ב-ClinicalTrials.gov, sample size ללא power calculation — התוצאה לא רלוונטית גם אם נראית מרשימה. Greenhalgh: \"אם השיטה לא תקפה, ה-results הם רעש\". בדוק PICO, design, randomization, blinding, outcomes, statistics — ורק אז Results.\n\n*[Greenhalgh, How to Read a Paper ch.3]*",
+      "note_id": "1777176093923"
+    },
+    {
+      "id": "1777176093924",
+      "front_md": "מה משמעות **dose-response** במחקר תצפיתי?",
+      "back_md": "קשר מנה-תגובה: ככל שהחשיפה רבה יותר, האפקט גדול יותר. זהו אחד מ-9 קריטריוני Bradford Hill לסיבתיות (1965), ואחד משלושת התחומים של GRADE להעלאת ודאות הראיות במחקר תצפיתי (יחד עם large effect ו-plausible confounders שפועלים נגד ההשפעה). מחזק טיעון סיבתי כנגד confounding בלבד.\n\n*[Hill AB. Proc R Soc Med 1965; GRADE Working Group]*",
+      "note_id": "1777176093924"
+    },
+    {
+      "id": "1777176093925",
+      "front_md": "איך לפרש **CI 95% של HR=0.85 (CI 0.62–1.18)**?",
+      "back_md": "נקודת ההערכה — יתרון של 15% (HR<1), אך ה-CI חוצה 1 — לא מובהק סטטיסטית, וה-true effect יכול להיות גם נזק (HR עד 1.18 = +18% סיכון) וגם תועלת משמעותית (HR=0.62 = −38%). אין להסיק יעילות. Altman & Bland: לא לפרש absence of evidence כ-evidence of absence; לציין רוחב CI כחוסר דיוק.\n\n*[Altman & Bland BMJ Statistics Notes]*",
+      "note_id": "1777176093925"
+    },
+    {
+      "id": "1777176093926",
+      "front_md": "**שלוש השאלות** של Guyatt/Sackett לכל מאמר?",
+      "back_md": "(1) האם התוצאות תקפות? — internal validity: randomization, allocation concealment, blinding, ITT, follow-up מלא, baseline comparable. (2) מהן התוצאות? — effect size (ARR, NNT, RR/HR) עם precision (CI). (3) האם הן ישימות לחולה שלי? — external validity: דמיון PICO, biological plausibility, ratio של תועלת לנזק, ערכי המטופל.\n\n*[Guyatt G. JAMA Users' Guides 2014]*",
+      "note_id": "1777176093926"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "PT-dyn-02-freud",
+  "label": "02 · פרויד",
+  "source": "psychotherapy",
+  "tradition": "dynamic",
+  "cards": [
+    {
+      "id": "1777193986378",
+      "front_md": "**Sigmund Freud — מקים פסיכואנליזה**",
+      "back_md": "**Sigmund Freud** (1856-1939) — נוירולוג אוסטרי שייסד פסיכואנליזה. עד 1885 עסק בנוירולוגיה (אפיזיה, mapping מוח). ב-1885 ב-Paris אצל Charcot — חשוף ל-hysteria + hypnosis. שותפות עם Breuer (*Studies on Hysteria* 1895) חשפה את ה-\"talking cure\". פיתח את התיאוריה במשך 50 שנה. תרומות מרכזיות: (1) **unconscious** + **dynamic interplay** של רגשות + מחשבות מודחקים; (2) **structural model** (id-ego-superego); (3) **topographic model** (conscious-preconscious-unconscious); (4) **drives** (libido, aggression); (5) **psychosexual stages** (oral-anal-phallic-latency-genital); (6) **defense mechanisms**; (7) **transference + dream interpretation**. הוקעת תוקפו: לא היה קליני-ילדים פעיל (בתו Anna כן). אבל ה-framework שלו הוא הבסיס לכל הדינמי שיבא — Klein, Mahler, Winnicott, Kohut, Kernberg כולם בנו עליו.\n\n*Gabbard 5e, Ch 2 · Mitchell & Black \"Freud and Beyond\"*",
+      "note_id": "1777193986378"
+    },
+    {
+      "id": "1777193986381",
+      "front_md": "**Topographic model — Cs / Pcs / Ucs**",
+      "back_md": "ה-**topographic model** (Freud 1900, *Interpretation of Dreams*) מחלק את הנפש ל-3 רמות: (1) **Conscious (Cs)** — מה שאתה מודע אליו ברגע זה; קטן יחסית, רוב הזמן ריק. (2) **Preconscious (Pcs)** — חומר נגיש (זיכרונות, ידע) שלא במוקד תשומת-לב, אך ניתן להעלות בקלות (\"מה השם של המורה שלך בכיתה ב'?\"). (3) **Unconscious (Ucs)** — חומר **מודחק** — לא נגיש בלי עבודה אנליטית; כולל wishes, fears, conflicts. הגישה ל-Ucs דרך: dreams (royal road), free association, parapraxes (Freudian slips), symptoms. **חשוב**: המודל הטופוגרפי הוחלף ב-1923 ע\"י structural model (id-ego-superego), אבל ה-concepts של Pcs ו-Ucs עדיין שימושיים. בקליניקה: כשמטופל אומר \"אני לא יודע למה כעסתי\" — זה Ucs; כשעולה זיכרון בטיפול — Pcs ל-Cs.\n\n*Freud 1900/1915 · Gabbard 5e Ch 2*",
+      "note_id": "1777193986381"
+    },
+    {
+      "id": "1777193986384",
+      "front_md": "**Structural model — id, ego, superego**",
+      "back_md": "Freud 1923 (*The Ego and the Id*) החליף את ה-topographic ב-**structural model**: (1) **Id** — דחפים primitive, pleasure principle, חסר זמן + לוגיקה, מודרך ע\"י satisfaction מיידי; (2) **Ego** — reality principle, מתווך בין id, superego, ומציאות; אחראי על defense mechanisms, executive functioning; (3) **Superego** — ה-conscience המופנם, ערכים + אידיאלים מההורים + תרבות. **conflict** אינטר-פסיכי הוא בין שלושת המבנים — Id רוצה X, Superego אוסר, Ego צריך לתווך + להגן (defenses). **דוגמה לילד**: ילד בן 7 רוצה לגנוב חטיף (id) → הקול הפנימי \"זה אסור\" (superego) → ego בוחר לבקש מאמא (פיתרון מציאותי). פתולוגיה: id דומיננטי = impulsivity (CD); superego נוקשה = OCD/depression; ego חלש = BPD-like. בקליניקה דינמית: formulation בשפה structural — איפה ה-conflict, איזה defenses ה-ego משתמש.\n\n*Freud 1923 · Gabbard 5e Ch 2*",
+      "note_id": "1777193986384"
+    },
+    {
+      "id": "1777193986388",
+      "front_md": "**Psychosexual stages — 5 שלבי התפתחות**",
+      "back_md": "Freud (*Three Essays on Sexuality* 1905) הציג 5 שלבי התפתחות לפי ה-erogenous zone הדומיננטי: (1) **Oral** (0-1) — פה; trust, dependency. fixation = depression, addiction; (2) **Anal** (1-3) — שליטה sphincter; control, autonomy. fixation = OCPD, retentiveness; (3) **Phallic** (3-6) — איברי מין; **Oedipal complex** (זכרים) / **Electra** (נקבות) — תחרות עם הורה אותו-מין, אהבה להורה הפוך-מין; פתרון דרך identification עם הורה-זהה. fixation = NPD, conversion; (4) **Latency** (6-12) — דחפים sexual לטנטיים; פיתוח peer relationships, מיומנויות; (5) **Genital** (12+) — בגרות sexual. **חשוב**: ה-stages קריטיים ל-Stage B כידע היסטורי, אך **רוב הקליניקאים העכשוויים לא משתמשים בהם operationally** — הוחלפו ע\"י attachment + developmental psychopathology. עדיין: ה-Oedipal triangulation הוא concept עם ערך גם היום (Bowen, family systems).\n\n*Freud 1905 · Gabbard 5e Ch 2*",
+      "note_id": "1777193986388"
+    },
+    {
+      "id": "1777193986393",
+      "front_md": "**Defense mechanisms — מה מצא Freud, מה הרחיבה אנא**",
+      "back_md": "**Defense mechanisms** הם פעולות ה-ego להגן על self מ-anxiety + conflict בלתי-נסבל. **Freud (Sigmund)** זיהה כמה — בעיקר **repression** (ה-defense האם), projection, sublimation. **Anna Freud** (1936, *Ego and Mechanisms of Defense*) הרחיבה ל-catalog שלם של 10+ defenses, ויצרה את ה-developmental hierarchy: **primitive** (splitting, projection, denial — תינוק/BPD), **immature** (acting out, passive-aggressive — מתבגר/CD), **neurotic** (repression, intellectualization, reaction formation, isolation — מבוגר תפקודי), **mature** (sublimation, humor, altruism, suppression — adaptive). בילדים: defenses תלויות גיל — ילד צעיר יעשה projection (\"הדובי כעוס\"), מתבגר יעשה rationalization. **DSM-5 Defensive Functioning Scale** (axis VII בעבר, נספח עכשיו) מקטלגת. בקליניקה — להעריך defenses זה חלק חיוני מ-formulation דינמי.\n\n*Freud 1894/1915 · A. Freud 1936 · Vaillant · Gabbard Ch 2*",
+      "note_id": "1777193986393"
+    },
+    {
+      "id": "1777193986394",
+      "front_md": "מה רלוונטי מ-Freud היום, ומה הוחלף — לפסיכיאטר ילדים בישראל בשלב ב'?",
+      "back_md": "**רלוונטי**: (1) **unconscious + defense mechanisms** — בסיס לכל formulation דינמי; AACAP ו-DSM-5 משתמשים ב-Defensive Functioning Scale; (2) **transference + countertransference** — concepts קליניים יום-יומיים; (3) **structural model (id-ego-superego)** — שפה formulation שימושית; (4) **insight כמטרה טיפולית** — חלק מ-MBT, dynamic therapy, עדיין רלוונטי; (5) **importance of childhood** — ה-DNA של pediatric mental health. **הוחלף**: (1) **drive theory** — ויתרו עליה, attachment + relational replaced; (2) **psychosexual stages** — אינן operationally בשימוש; (3) **female-specific theories** (penis envy וכו') — נדחו ככה כפסולות empirically + פוליטית; (4) **trauma denial** (1897 transition מ-seduction theory) — חזר עם ACEs/Bessel van der Kolk. **לוועדה 3**: הזכר את Freud כיסוד של framework, פתח גם לעדכונים — Bowlby, Winnicott, Fonagy בנו עליו.\n\n*Mitchell & Black · Gabbard 5e Ch 2 · synthesis*",
+      "note_id": "1777193986394"
+    },
+    {
+      "id": "1777193986395",
+      "front_md": "מה הרלוונטיות הקלינית של ה-Oedipal complex בעבודה עם ילדים היום?",
+      "back_md": "ה-**Oedipal complex** (Freud, גיל 3-6) מתאר משולש פסיכי — הילד אוהב הורה הפוך-מין, מתחרה עם הורה זהה-מין, פותר דרך identification עם הורה-זהה. **מה שעדיין רלוונטי**: (1) **triadic relationships** — היכולת של הילד להחזיק שלוש מערכות יחסים (אם, אב, עצמו) במחשבה אחת היא אבן-דרך התפתחותית; חוסר יכולת = pathology; (2) **rivalry + identification** — concepts עכשוויים בעבודת family therapy + parent-child issues; (3) **gender identity formation** — חלקית רלוונטי; (4) **prohibition of incest** = superego formation. **מה שלא**: הקריאה הליטרלית של penis envy, castration anxiety, אינה evidence-based. **בקליניקה ישראלית**: parent-child triangulation בגירושין, alliances + splitting במשפחה — אלה תוצרים Oedipal-derived שניתן לזהות בלי להתחייב לתאוריה המלאה. בוועדה 3: לדעת את ה-concept, לא לבסס formulation עליו לבד.\n\n*Freud 1905/1923 · clinical synthesis · Mitchell & Black*",
+      "note_id": "1777193986395"
+    },
+    {
+      "id": "1777193986396",
+      "front_md": "איך עשויה ועדה 3 לשאול על Freud, ואיך לענות — תשובות-טיפש-לדוגמה?",
+      "back_md": "**שאלות אפשריות**: (1) \"מה ה-structural model?\" — id-ego-superego, conflict בין-מבני, defenses של ego. (2) \"מה ההבדל בין topographic ל-structural?\" — topographic = רמות של מודעות (Cs/Pcs/Ucs); structural = מבנים פונקציונליים (id/ego/superego). היה replacement ב-1923. (3) \"איזה defense mechanisms יש?\" — primitive (splitting, projection), immature (acting out), neurotic (repression, intellectualization), mature (sublimation, humor) — Vaillant hierarchy. (4) \"מה הביקורת על Freud?\" — drive theory מיושנת, psychosexual stages לא empirical, female sexuality dated, lack of evidence base. **הגישה לתשובה**: (a) הצגה תמציתית של ה-concept; (b) **השלכה קלינית** קצרה (\"ב-formulation דינמי של ילד עם CD, אפשר לתאר superego חלש + impulses לא מנותלים על-ידי ego\"); (c) **modern updates** — Fonagy mentalization, Bowlby attachment בנו על Freud.\n\n*Stage B exam preparation synthesis*",
+      "note_id": "1777193986396"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "B015-test-anxiety-summary",
+  "label": "B015 · חרדת בחינה ופרוטוקול יום בחינה · סיכום",
+  "source": "residency-summary",
+  "cards": [
+    {
+      "id": "1777088403045",
+      "front_md": "איך Dulcan ממקמת \"חרדת בחינות\"?",
+      "back_md": "‫**אין אבחנה DSM של \"test anxiety\"** [NOT IN DULCAN]. הוא מופיע כממד של 2 אבחנות קיימות: (1) **GAD** — > \"worries often revolve around school performance. Children with GAD experience intense academic pressures\" [D-1]; (2) **Social Anxiety Disorder** — performance subtype, > \"anxiety may be restricted to speaking in front of an audience\" + \"fear negative evaluation\" [D-2]. **מרכיב קוגניטיבי** [D-1]: catastrophic thinking, \"anticipate disaster\". **מרכיב סומטי** [D-1]: stomachaches, headaches, shortness of breath, chest pain, choking — אוסף שלם של autonomic dysregulation. **Takeaway קליני:** מתמחה שיחווה לפני ועדה אחד או יותר מהסומטיים — לא \"נרגש\" ולא \"חלש\"; זה GAD/SAD ממד performance, התערבות = CBT-exposure (סעיף 5).‬",
+      "note_id": "1777088403045"
+    },
+    {
+      "id": "1777088403046",
+      "front_md": "4 ה-executive deficits של ADHD שגרועים תחת לחץ Stage B",
+      "back_md": "‫**(1) Working memory:** > \"central executive working memory deficits such as updating of working memory, manipulating information in working memory\" [D-4]. ב-rolling case [StageB-4] עובד ישיר על ה-deficit הזה — 6-10 פיסות מידע + 2-3 curveballs דורשות עדכון hypothesis תוך כדי.‬\n‫**(2) Sustained attention:** > \"difficulty sustaining attention in tasks\" [D-5]. 255 דק' נטו [StageB-1] = sustained attention drain. הפסקות פנימיות מובנות = 15 דק' total בלבד [StageB-1].‬\n‫**(3) Impulse control:** > \"blurts out an answer before a question has been completed\" [D-5]. בוחן מתחיל שאלה — נטייה לקפוץ לתשובה. ב-rolling case (B013) — חמור במיוחד.‬\n‫**(4) Emotion regulation:** \"24%-50% with severe mood lability\" [D-6]. curveball או feedback שלילי = frustration spike של 5+ דקות. **Hook מבני:** WM · Attention · Impulse · Emotion = ה-4 צירים של ADHD; בכל אחד יש ביטוי ספציפי בוועדה.‬",
+      "note_id": "1777088403046"
+    },
+    {
+      "id": "1777088403047",
+      "front_md": "Comorbidity ADHD + Anxiety — מספרים ופרדוקס",
+      "back_md": "‫**שכיחות:** 25%-33% מילדי ADHD [D-6] — זה רוב המתמחים שלנו ביציבות (רבים מאיתנו מאובחנים בסביבות 30%). **הפרדוקס המעניין:** ADHD + Anxiety דווקא **משפר** מדדים מסוימים — > \"Children with ADHD + anxiety show lower levels of impulsivity on laboratory measures of attention\" + \"respond more positively to psychosocial interventions compared to children with ADHD without anxiety\" [D-6]. **משמעות לפרופיל הסטודנט:** מתמחה עם שני הצדדים אינו במצב גרוע יותר אוטומטית; הוא **אחר**: פחות impulsive, יותר רספונסיבי ל-CBT-style preparation. **Takeaway:** השקעה ב-CBT exposure (mock cases חוזרים) היא super-effective לפרופיל ADHD+Anxiety — לא vesting לזה הזמן הוא marginal value.‬",
+      "note_id": "1777088403047"
+    },
+    {
+      "id": "1777088403049",
+      "front_md": "מה Stage B דורש קוגניטיבית — 4 ה-loads הספציפיים",
+      "back_md": "‫**(1) גמישות ניהול זמן ב-ועדה 1** verbatim: > \"תתאפשר גמישות לנבחן לבחור את המודל הרצוי בעיניו... כמה זמן ובאיזה סדר יכנסו (סך הכל שעה)\" [StageB-2] — דורש self-clock פנימי. עבור ADHD: צריך **טיימר חיצוני** (שעון אנלוגי או digital בשולחן), חכמת-זמן לא תספיק.‬\n‫**(2) חוסר שליטה על זמן ב-ועדות 2+3** verbatim: > \"חלוקת הזמן הפנימית גמישה על פי הצורך ובהתאם לשיקול הדעת של הבוחנים\" [StageB-3] — לא ניתן לשלוט. תרגול = acceptance.‬\n‫**(3) Working memory load ב-rolling case** [StageB-4] — הפורמט מטרגט ישיר את ה-deficit מס' 1 [D-4]. תרגול = exposure ב-mock × 8-12.‬\n‫**(4) Distractor management ב-ועדה 1** verbatim: > \"קושי של ילד צעיר להיפרד מההורה, סירוב של מתבגר לשתף פעולה, חוסר גבולות של ההורה\" [StageB-5] — environment לא סטרילי. **Takeaway:** ADHD-ע מתמחה צריך לתרגל specifically ראיון תוך-טירוף-של-ילד.‬",
+      "note_id": "1777088403049"
+    },
+    {
+      "id": "1777088403050",
+      "front_md": "CBT + exposure + breathing — מה לעשות מ-30 ימים לפני הבחינה?",
+      "back_md": "‫**CBT הוא הקו-הראשון** [D-7] verbatim. **Exposure הוא הרכיב הקריטי** [D-8] verbatim: > \"exposure practice is crucial for clinical response\" — באמצעות \"violating patient expectations about outcomes\". **Translation לבחינה:** 8-12 mock cases (לא 1-2 ארוכים) — exposure הדרגתית של \"להיכשל בקטן\" עד שכישלון לא קטסטרופלי.‬\n‫**Breathing protocol ל-somatic:** Dulcan מאזכרת > \"progressive muscle relaxation and deep and diaphragmatic breathing\" [D-9]. פרוטוקול קונקרטי: **4-7-8** (4 שניות שאיפה אפי + 7 שניות החזקה + 8 שניות נשיפה אורלית) × 4 מחזורים = ~75 שניות. **מתי לעשות:** בחדר המתנה לפני כל ועדה (×3 ביום הבחינה). **Cognitive restructuring:** \"אם אכשל = אסון\" → \"אם אכשל = שיפור הבא\".‬\n‫**Hook מבני:** Exposure × 12 + Breathing × 3 + Cognitive reframe — ה-3 רגליים של פרוטוקול CBT-style הכנה.‬",
+      "note_id": "1777088403050"
+    },
+    {
+      "id": "1777088403051",
+      "front_md": "שינה — מה Dulcan דורשת ואיך לתרגם לבחינה?",
+      "back_md": "‫**מתבגרים = 8-10 שעות שינה לתפקוד מיטבי** [D-10] verbatim. למתמחה (מבוגר צעיר): המטא-מינימום הוא 7-8 שעות, אך ל-cognitive performance עליון 8-9. **Sleep hygiene** [D-10] verbatim: > \"avoid caffeine before sleep\" + \"regular sleep-wake hours\". **תוכנית 7-ימים לפני הבחינה:** (1) קפאין רק עד 14:00; (2) שעת שינה קבועה (22:30 או 23:00 — לא משנה, העיקר עקבי); (3) השכמה קבועה גם בסופ\"ש; (4) אסור powernaps אחרי 16:00; (5) חדר חושך מלא, טמפרטורה 18-20°C. **Takeaway קליני:** הבדיקה האמיתית של היגיינה — האם בלילה לפני הבחינה אתה ישן 8 שעות בלי מאמץ. אם כן = 7 ימים העבודה הצליחה. אם לא = יום שאחרי שייך ל-CBT שלך, לא פתרון מהיר.‬",
+      "note_id": "1777088403051"
+    },
+    {
+      "id": "1777088403052",
+      "front_md": "קפאין ביום בחינה — חרב פיפיות",
+      "back_md": "‫Dulcan מסבירה את המנגנון: > \"caffeine displaces adenosine from receptors → potentiates dopamine binding → increase in dopamine-mediated vigilance and anxiety\" [D-11]. **משמעות:** זו דופמינרגית — לכן מסוכנת בקומבינציה עם סטימולנט. מתמחה ADHD על methylphenidate + 400mg קפאין ביום הבחינה = רעידות ידיים + tachycardia + הקצנת autonomic somatic מהחרדה. **המלצה כמותית:** בוקר הבחינה ≤ 100mg קפאין (1 כוס תה ארוך, או 1 espresso single). אסור משקאות אנרגיה. **אסטרטגיה:** מי שצורך 600mg ביום בקביעות — צמצום ל-300mg יחל 2-3 ימים לפני (אחרת withdrawal headache ביום הבחינה). **Takeaway קליני:** קפאין הוא לא \"ידיד הקוגניציה\" — הוא double-edged sword שצריך calibration אישי.‬",
+      "note_id": "1777088403052"
+    },
+    {
+      "id": "1777088403053",
+      "front_md": "Stimulant timing — איך לתזמן לחלון 09:00-15:00?",
+      "back_md": "‫Dulcan שותקת ספציפית על stimulant timing exam-day [NOT IN DULCAN — מפנה לפרק 34 חסר]. **Synthesis מ-pharm general:**‬\n‫**Methylphenidate IR** (חצי-חיים 2-4 שעות): מנה 1 ב-08:00 + מנה 2 ב-12:00 — חלון 09:00-15:00 מכוסה.‬\n‫**Methylphenidate OROS / Concerta** (12 שעות release-ramping [D-12]): 07:00 בבוקר → מקסימום ב-12:00, עדיין אפקטיבי ב-15:00.‬\n‫**Lisdexamfetamine / Vyvanse** (10-13 שעות [D-12]): 07:00 → כיסוי מלא של היום.‬\n‫**MAS-XR / Adderall XR** (8-10 שעות): 07:00-07:30.‬\n‫**Atomoxetine:** continuous 24h — אל תשנה את המנה היומית.‬\n‫**כלל מפתח:** **אל תשנה תכשיר או מינון בשבוע שלפני הבחינה.** מוכר וצפוי > optimal-but-untested. **Stage B שותקת על ADHD accommodations** [NOT IN STAGE B PDF] — בקשת זמן נוסף/חדר שקט = פנייה מראש לאיגוד הפסיכיאטרי, דורש מסמכים אקטואליים.‬",
+      "note_id": "1777088403053"
+    },
+    {
+      "id": "1777088403055",
+      "front_md": "פרוטוקול 24 שעות לפני הבחינה — מה לעשות / לא לעשות",
+      "back_md": "‫**18:00-21:00 ערב לפני:** ארוחת ערב רגילה (לא ניסוי חדש), ביקור באתר הבחינה אם אפשר (mental rehearsal של הגעה), הסתכלות קלה ב-mind-map של ה-Stage B (לא חזרה — רק עיבוד רגוע). **21:00-22:30:** הפסקה דיגיטלית — לא טלפון, לא מייל. שיחת טלפון רגועה עם בן משפחה / חבר. **22:30:** breathing protocol 4-7-8 ×4 מחזורים. **22:45-23:00:** שינה. **בוקר הבחינה — 06:30-07:00:** השכמה (חזרה לעקביות שתרגלת 7 ימים), 100mg קפאין, ארוחת בוקר עם פחמימה מורכבת + חלבון, סטימולנט במועד התקני (סעיף 7), exposure breathing 4-7-8, יציאה לוועדה. **אחרי כל ועדה (15 דק' חלון):** breathing protocol + 200ml מים + sugar low (לא בר שוקולד — אגוז + פרי). **Takeaway:** הפרוטוקול הוא רוטינה משעמת — זה הפיצ'ר, לא הבאג.‬",
+      "note_id": "1777088403055"
+    },
+    {
+      "id": "1777088403056",
+      "front_md": "מה לעשות אם חרדה הופכת לבעיה תפקודית 7 ימים לפני?",
+      "back_md": "‫**סימני אזהרה תפקודיים** (לפי DSM כללי): שינה < 5 שעות, פאניק אטאקס יומיים, חוסר יכולת לאכול, מחשבות נמנעות מהבחינה. **מענה במדרגות:**‬\n‫**(1) Self-CBT** (DBT skills): TIPP — Temperature (חצי דקה ידיים בקרח-מים), Intense exercise (10 דקות ספרינטים), Paced breathing (4-7-8), Paired muscle relaxation [D-9].‬\n‫**(2) פסיכולוג / פסיכיאטר אישי** — כן, גם בשבוע שלפני. ייעוץ זריז + טיפוס בנזודיאזפין PRN לפניק (lorazepam 1mg PRN — לא ביום-בחינה עצמו, רק לילה לפני אם אובדן שינה).‬\n‫**(3) שקול דחיית בחינה** — לא בשמחה, אך אם הסימנים קשים אמיתי, התדרדרות קוגניטיבית-ממש לקראת הבחינה תהפוך 7 ימים תכנון לכישלון. **Takeaway:** דחייה היא לא כישלון — זה risk management. רוב הקנדידטים שעוברים את הבחינה עושים זאת בנסיון השני או השלישי.‬",
+      "note_id": "1777088403056"
+    },
+    {
+      "id": "1777088403057",
+      "front_md": "האם להגיע ב-mock-day rehearsal לפני הבחינה?",
+      "back_md": "‫**כן** — אסטרטגיה מומלצת. 7 ימים לפני: רחס על mock case קומפלט (1 ועדה 1 + 1 ועדה 2) באתר אמיתי אם אפשר (הוראת לב, אוניברסיטה רפואית), תוך לבוש מלא (לא טי-שירט). **למה:** Dulcan מציינת ש-exposure פועל דרך > \"violating patient expectations about outcomes\" [D-8]. אם מעולם לא לבשת חליפה ועניבה מתחת ללחץ של mock — הציפייה השלילית \"אני אקרוס בחליפה\" לא נחקרה. ה-mock-day תוקף את הציפייה הזו ושוטף אותה. **3 ימים לפני:** mock אחד קצר (~30 דק'), משוב מהיר. **24-48 שעות לפני:** אסור mocks — מוח צריך לעבד ולעודד. **Takeaway:** rehearsal ביום אמיתי = exposure intervention, לא \"עוד תרגול\".‬",
+      "note_id": "1777088403057"
+    }
+  ]
+}

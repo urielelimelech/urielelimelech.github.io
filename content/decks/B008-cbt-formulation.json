@@ -1,0 +1,169 @@
+{
+  "id": "B008-cbt-formulation",
+  "label": "B008 · פורמולציה CBT · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1776915923785",
+      "front_md": "[ABC] 3 המרכיבים של ABC model?",
+      "back_md": "**A** = Activating experience (טריגר); **B** = Belief (מחשבות/דימויים/self-verbalizations); **C** = Consequences (תגובות + רגשות + התנהגות) [K-8] [K-9] [K-10].",
+      "note_id": "1776915923785"
+    },
+    {
+      "id": "1776915923786",
+      "front_md": "[ABC-origin] מאיזו גישה נגזר ABC?",
+      "back_md": "Rational-Emotive (Ellis) [K-7].",
+      "note_id": "1776915923786"
+    },
+    {
+      "id": "1776915923787",
+      "front_md": "[Coercive] מה ההורים צריכים לשנות ב-BPT כדי לשבור Coercive cycle?",
+      "back_md": "Antecedents (פקודות ברורות + חוקים) + Consequences (פרסים + timeouts) [D-8] [D-9].",
+      "note_id": "1776915923787"
+    },
+    {
+      "id": "1776915923788",
+      "front_md": "[Distortion-vs-Deficit] ההבדל הקריטי — איזה ילד לאיזו התערבות?",
+      "back_md": "**חרד/דיכאוני** = Cognitive distortions (עיבוד פעיל מוטה) → **Cognitive restructuring** [K-14]. **אימפולסיבי/ADHD** = Cognitive deficiencies (אין תהליך חשיבה) → **Stop, plan, think (Skill acquisition)** [K-15].",
+      "note_id": "1776915923788"
+    },
+    {
+      "id": "1776915923789",
+      "front_md": "[Core-beliefs-depression] 3 core beliefs טיפוסיים בדיכאון פדיאטרי?",
+      "back_md": "Worthless · Helpless · Unlovable [K-16].",
+      "note_id": "1776915923789"
+    },
+    {
+      "id": "1776915923790",
+      "front_md": "[Downward-arrow] איך מזהים core belief?",
+      "back_md": "**Downward arrow** — שאלה על המשמעות של המחשבה האוטומטית עד שמגיעים ל-core [K-17].",
+      "note_id": "1776915923790"
+    },
+    {
+      "id": "1776915923791",
+      "front_md": "[Avoidance-maintenance] verbatim — למה Avoidance משמרת חרדה?",
+      "back_md": "לפי Mowrer's two-stage model — הימנעות מונעת מהילד להיחשף לגירוי + **לא ללמוד שהאיום לא ממשי** → החרדה משתמרת [K-24].",
+      "note_id": "1776915923791"
+    },
+    {
+      "id": "1776915923792",
+      "front_md": "[Target-anxiety] התנהגות מטרה בחרדה + החלפה?",
+      "back_md": "Avoidance + Safety behaviors → **Approach behavior** + חשיפה הדרגתית [K-18].",
+      "note_id": "1776915923792"
+    },
+    {
+      "id": "1776915923793",
+      "front_md": "[Target-OCD] התנהגות מטרה ב-OCD?",
+      "back_md": "Compulsions (טקסים פיזיים + מחשבתיים) → **ERP (Exposure + Response Prevention)** [K-19].",
+      "note_id": "1776915923793"
+    },
+    {
+      "id": "1776915923794",
+      "front_md": "[Target-depression] התנהגות מטרה בדיכאון?",
+      "back_md": "Withdrawal/הסתגרות → **Behavioral Activation** — שילוב בפעילויות חברתיות/מהנות [K-20].",
+      "note_id": "1776915923794"
+    },
+    {
+      "id": "1776915923795",
+      "front_md": "[DBT-hierarchy] 3 רמות היררכיה ב-DBT מתבגרים?",
+      "back_md": "(1) אובדנות + פגיעה עצמית; (2) Therapy-interfering behaviors; (3) איכות חיים [K-21].",
+      "note_id": "1776915923795"
+    },
+    {
+      "id": "1776915923796",
+      "front_md": "[Coping-Cat] acronym + homework?",
+      "back_md": "**FEAR** acronym + **STIC (Show That I Can)** homework [K-26].",
+      "note_id": "1776915923796"
+    },
+    {
+      "id": "1776915923797",
+      "front_md": "[STIC-verbatim] Kendall verbatim על practice vs game?",
+      "back_md": "> \"Insession activities are practice; life outside a session is the game\" [K-27].",
+      "note_id": "1776915923797"
+    },
+    {
+      "id": "1776915923798",
+      "front_md": "[TF-CBT] 8 מרכיבי PRACTICE?",
+      "back_md": "Psychoeducation + Relaxation + Affective modulation + Cognitive processing + Trauma narrative + In-vivo exposure + Conjoint parent-child sessions + Enhancing safety/future development [K-28].",
+      "note_id": "1776915923798"
+    },
+    {
+      "id": "1776915923799",
+      "front_md": "[Modular] מה MATCH-ADTC?",
+      "back_md": "**Modular Approach to Therapy for Children — Anxiety/Depression/Trauma/Conduct** — פרוטוקול מודולרי שמאפשר בחירת מודולים לפי מכשול בזמן אמת [K-29] [K-41].",
+      "note_id": "1776915923799"
+    },
+    {
+      "id": "1776915923800",
+      "front_md": "[Peds-cogn-verbatim] Kendall verbatim על דרישה קוגניטיבית של CBT?",
+      "back_md": "> \"The techniques of CBT rely on complex symbolic processes that typically require a high level of cognitive development\" [K-30].",
+      "note_id": "1776915923800"
+    },
+    {
+      "id": "1776915923801",
+      "front_md": "[Dev-uniformity] מה \"Developmental uniformity myth\"?",
+      "back_md": "הנחה שגויה שילדים בגילאים שונים חושבים/מעבדים מידע באותו אופן → החלת כלים מופשטים על ילד קונקרטי [K-44].",
+      "note_id": "1776915923801"
+    },
+    {
+      "id": "1776915923802",
+      "front_md": "[Dev-adaptation] איך מתאימים CBT לילד 7-11y vs 12-18y?",
+      "back_md": "**7-11 (Concrete):** תרגילים מוחשיים + קומיקסים + Muck Monster + משחקי תפקידים [K-31] [K-32]. **12-18 (Formal):** חשיבה מופשטת + restructuring מורכב + עימות עם core beliefs [K-33] [K-34].",
+      "note_id": "1776915923802"
+    },
+    {
+      "id": "1776915923803",
+      "front_md": "[Parent-3] 3 קונפיגורציות של הורים ב-CBT?",
+      "back_md": "Consultants + Collaborators + Co-clients [K-35].",
+      "note_id": "1776915923803"
+    },
+    {
+      "id": "1776915923804",
+      "front_md": "[Accommodation] מה \"Accommodation\" של הורים בחרדת ילד?",
+      "back_md": "התאמת התנהלות המשפחה להימנעויות הילד — ההורה \"פותר\" כדי למנוע מצוקה → מבטל פוטנציאל הכללה [K-36].",
+      "note_id": "1776915923804"
+    },
+    {
+      "id": "1776915923805",
+      "front_md": "[Hostile-attribution] Dulcan — עיוות קוגניטיבי מרכזי באגרסיביים?",
+      "back_md": "**Hostile attribution biases** — פירוש רמזים חברתיים ניטרליים כאיום ממוקד [D-12].",
+      "note_id": "1776915923805"
+    },
+    {
+      "id": "1776915923806",
+      "front_md": "[ED-protocol-choice] מתי FBT ומתי CBT בהפרעות אכילה מתבגרים?",
+      "back_md": "**FBT ראשון** (Family-Based Treatment — Maudsley). **CBT כחלופה** נתמכת-ראיות רק אם FBT לא זמין/לא מתאים [D-16].",
+      "note_id": "1776915923806"
+    },
+    {
+      "id": "1776915923807",
+      "front_md": "[POTS] הממצא המרכזי של POTS 2004?",
+      "back_md": "CBT + sertraline → **53.6% remission** ב-OCD פדיאטרי, לעומת CBT לבד 39.3%. מבסס **ERP** כ-gold standard [P-3].",
+      "note_id": "1776915923807"
+    },
+    {
+      "id": "1776915923808",
+      "front_md": "[CAMS] הממצא המרכזי של Walkup 2008 (CAMS)?",
+      "back_md": "CBT + sertraline → **80.7% response** בחרדה פדיאטרית, לעומת CBT לבד 59.7%. מבסס את **Coping Cat** [P-1].",
+      "note_id": "1776915923808"
+    },
+    {
+      "id": "1776915923809",
+      "front_md": "[TF-CBT-Cohen] הממצא המרכזי של Cohen 2004?",
+      "back_md": "TF-CBT יעיל משמעותית מטיפול ממוקד-ילד בהפחתת PTSD + דיכאון + בעיות התנהגות + **בושה** בילדים נפגעי התעללות מינית [P-2].",
+      "note_id": "1776915923809"
+    },
+    {
+      "id": "1776915923810",
+      "front_md": "[Pitfall-Dulcan-1] Dulcan — הטעות העיקרית בטיפול CBT בקהילה?",
+      "back_md": "**חוסר יישום חשיפות אקטיביות** — מטפלים נותרים בשיחות פסיכו-חינוכיות מתוך חוסר נוחות/חרדת המטפל עצמו. קריטי בחרדה + OCD [D-18].",
+      "note_id": "1776915923810"
+    },
+    {
+      "id": "1776915923811",
+      "front_md": "[Formulation-fluid] Kendall verbatim — האם הפורמולציה סטטית?",
+      "back_md": "> \"case conceptualization is a fluid process that changes as more is learned about the child\" [K-5] [K-39]. לא סטטית — מתעדכנת תמיד.",
+      "note_id": "1776915923811"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "PT-cbt-02-cbt-theory-foundations",
+  "label": "02 · יסודות תיאורטיים של CBT",
+  "source": "psychotherapy",
+  "tradition": "cbt",
+  "cards": [
+    {
+      "id": "1777193985917",
+      "front_md": "**ה-Cognitive model — Beck המקור, Kendall ההתאמה לילדים**",
+      "back_md": "ה-cognitive model (Beck 1976) טוען ש-**מחשבות, רגשות, התנהגויות מתחזקים זה את זה** — תפיסות distorted מובילות לרגשות שליליים והתנהגויות מסתגלות-לא-טוב, שמחזקות את התפיסות. ב-CBT עובדים על שלושת ה-rings: **cognitive restructuring** (תפיסות), **emotion regulation** (רגשות), **behavioral activation/exposure** (התנהגויות). Kendall (4e Ch 1) מציין שבילדים, ה-cognitive level תואם לרמה התפתחותית — ילדים צעירים פחות עוסקים ב-restructuring רעיוני, יותר ב-coping skills concrete. בילדים מתבגרים — הקוגניציה הופכת מרכזית. ההתאמה ההתפתחותית היא ה-key — לא לעשות CBT בוגר ל-7-yo.\n\n*Kendall 4e, Ch 1 · Beck 1976*",
+      "note_id": "1777193985917"
+    },
+    {
+      "id": "1777193985918",
+      "front_md": "**Cognitive distortions — האטומים של ה-CBT**",
+      "back_md": "הקוגניציות ה-distorted המרכזיות (Beck + Burns): (1) **all-or-nothing thinking** — שחור-לבן; (2) **catastrophizing** — \"הכי גרוע יקרה\"; (3) **mind reading** — \"המורה חושבת שאני טמבל\"; (4) **fortune telling** — \"ייכשל מראש\"; (5) **personalization** — \"באשמתי\"; (6) **should statements** — לחץ פנימי; (7) **labeling** — \"אני כישלון\"; (8) **mental filter** — להתעלם מחיובי. בילדים: ה-distortions לעיתים פחות מתוחכמות מילולית אבל קיימות בדיוק כך — הילד מתאר חוויה (`\"איש לא רוצה אותי\"`). הטיפול: **הילד לומד לזהות, לתעד (thought record), ולהחליף ב-coping thought ריאליסטי**. ב-Coping Cat — ה-`E` של FEAR plan = identify catastrophic thought.\n\n*Kendall 4e, Ch 1 · Beck 1979 · Burns 1989*",
+      "note_id": "1777193985918"
+    },
+    {
+      "id": "1777193985919",
+      "front_md": "**התאמת CBT לרמה התפתחותית**",
+      "back_md": "Kendall (Ch 1) ו-Holmbeck (Ch 15) מסבירים: **CBT אצל ילדים שונה מאצל מבוגרים בכך שצריך להתאים ל-cognitive stage**. **גילאי 5-7** (preoperational late) — קושי בקוגניציה מופשטת; השתמש ב-concrete + visual + play (puppets, drawing). **גילאי 8-11** (concrete operational) — יכולים לעבוד עם FEAR plan, thought records בסיסיים, behavioral techniques דומיננטיות. **גילאי 12+** (formal operational) — יכולים cognitive restructuring מלא, identity work, future-oriented thinking. **השלכות מעשיות**: (1) ילד צעיר — exposure + reinforcement דומיננטיים, restructuring קל; (2) מתבגר — cognitive work במלוא העוצמה + relational work; (3) הורים — תמיד involved, אבל בדגשים שונים. ASD/ID — אדפטציות נוספות.\n\n*Kendall 4e, Ch 1 + Ch 15*",
+      "note_id": "1777193985919"
+    },
+    {
+      "id": "1777193985922",
+      "front_md": "**3 העמודים של CBT — cognitive + behavioral + emotional**",
+      "back_md": "CBT אינה רק \"שינוי מחשבות\". יש לה 3 עמודים, וכל פרוטוקול שוקל את היחס ביניהם: (1) **Cognitive techniques** — restructuring, Socratic questioning, thought records, behavioral experiments לבדיקת אמונות; (2) **Behavioral techniques** — exposure (anxiety, OCD, PTSD), behavioral activation (depression), contingency management (DBD), skill-building (assertiveness, problem-solving); (3) **Emotional regulation** — relaxation, mindfulness, emotion identification, distress tolerance (DBT). פרוטוקולים שונים מדגישים יחסים שונים: **Coping Cat** — שילוב; **TF-CBT** — exposure + emotion regulation דומיננטיים; **DBT-A** — emotion regulation + skills; **POTS** — exposure-with-response-prevention (ERP). הבסיס המתודולוגי תמיד identical — הקצנה משתנה לפי הפרעה.\n\n*Kendall 4e, Ch 1 · cross-protocol synthesis*",
+      "note_id": "1777193985922"
+    },
+    {
+      "id": "1777193985924",
+      "front_md": "מה זה **collaborative empiricism** ב-CBT, ואיך זה מתבטא בעבודה עם ילד?",
+      "back_md": "**Collaborative empiricism** (Beck 1976) הוא העיקרון ש-**המטפל והמטופל הם צוות מחקר** שבוחן יחד את האמונות של המטופל. הילד **לא מקבל פרשנויות** מהמטפל — הוא **בודק יחד איתו**. זה מתבטא ב: (1) **Socratic questioning** — שאלות פתוחות במקום הצהרות (\"מה היה קורה אם...?\", \"איזה הוכחות יש לזה?\"); (2) **behavioral experiments** — הילד עורך הניסוי בעולם האמיתי. למשל אם הילד אומר \"כולם יצחקו עליי בכיתה\" — מתכננים יחד experiment: לרים דבר אחד מצחיק, לתעד תגובות, לסכם; (3) **shared agenda-setting** — הילד מציע נושאים לפגישה. בילדים זה דורש התאמה: לא להציף ב-questioning (שילד יחווה כ-interrogation); לאזן עם warmth + playfulness.\n\n*Beck 1976/1979 · Kendall 4e Ch 1*",
+      "note_id": "1777193985924"
+    },
+    {
+      "id": "1777193985936",
+      "front_md": "מה ההבדלים העקרוניים בין CBT לדינמית בעבודה עם ילדים — ואיך לבחור?",
+      "back_md": "**CBT** — structured + manualized, time-limited (12-16 פגישות), focused on symptoms + skills, ה-cognitive content explicit, exposure/behavioral activation אקטיביים, parent involvement מובנה. **דינמית** — flexible + open-ended, focused on relational patterns + unconscious conflict, transference/CT central, frame stable, change דרך הקשר עצמו. **בחירה לפי**: (1) **הפרעה** — anxiety, OCD, PTSD, depression → CBT first-line evidence; PD/relational issues → דינמית. (2) **גיל + cognitive level** — ילדים < 7 פחות מתאימים ל-CBT cognitive component; דינמי-משחק עובד; (3) **תמיכה משפחתית** — CBT צריך הורים שיתופיים ל-STIC; דינמי גמיש יותר; (4) **משך פנוי** — CBT 4-6 חודשים; דינמי לפעמים שנים; (5) **time-pressure (משבר)** — CBT. בוועדה 3: צידוק שלך לבחירה הוא הקריטי.\n\n*Kendall 4e Ch 1 + Gabbard 5e Ch 4 · clinical comparison*",
+      "note_id": "1777193985936"
+    }
+  ]
+}

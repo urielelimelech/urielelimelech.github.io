@@ -1,0 +1,163 @@
+{
+  "id": "B007-dynamic-formulation",
+  "label": "B007 · פורמולציה דינמית · שאלות",
+  "source": "residency",
+  "cards": [
+    {
+      "id": "1776915923742",
+      "front_md": "[Sperry] 3 רכיבי פורמולציה דינמית לפי Sperry?",
+      "back_md": "(1) Summarizing statement (תמונה קלינית + סטרסור) [G-3]; (2) Case core / Psychodynamic hypothesis (bio + sociocultural + intrapsychic) [G-4]; (3) תרגום קליני → פרוגנוזה + תוכנית טיפול [G-5].",
+      "note_id": "1776915923742"
+    },
+    {
+      "id": "1776915923744",
+      "front_md": "[Purpose] verbatim — מה המטרה של הפורמולציה לפי Gabbard?",
+      "back_md": "> \"highlights the principal issues in a succinct way\" [G-6]. לא מנסים להסביר הכל.",
+      "note_id": "1776915923744"
+    },
+    {
+      "id": "1776915923745",
+      "front_md": "[BPS] 3 מימדי המודל הביופסיכוסוציאלי (Dulcan)?",
+      "back_md": "Bio (היסטוריה משפחתית/התפתחותית/רפואית + קוגניציה + טמפרמנט); Psycho (Coping, Resilience, ויסות עצמי); Social (דינמיקה משפחתית, קבוצת שווים, דת/תרבות) [D-3] [D-4] [D-5] [D-6].",
+      "note_id": "1776915923745"
+    },
+    {
+      "id": "1776915923746",
+      "front_md": "[Perspectives] 4 היבטי McHugh-Slavney?",
+      "back_md": "Disease · Dimensional · Behavior · Life Story [D-7].",
+      "note_id": "1776915923746"
+    },
+    {
+      "id": "1776915923748",
+      "front_md": "[Dev-peds] למה \"baseline\" של מבוגר לא עובד בילד?",
+      "back_md": "> \"Unlike adults, who may have an established baseline of functioning... children are a 'moving target'\" [D-15]. אבני דרך משתנות בקוגניציה/מוטוריקה/רגש [D-16].",
+      "note_id": "1776915923748"
+    },
+    {
+      "id": "1776915923749",
+      "front_md": "[Conflict-3] 3 עדשות תיאורטיות לזיהוי קונפליקט מרכזי?",
+      "back_md": "(1) Ego psychology — id/ego/superego + signal anxiety [G-12]; (2) Object relations — separation-individuation (Mahler Rapprochement) + נטישה vs Engulfment [G-14]; (3) Self psychology — **Deficit** ב-self-cohesion + disintegration anxiety [G-15].",
+      "note_id": "1776915923749"
+    },
+    {
+      "id": "1776915923750",
+      "front_md": "[Oedipal] מה התוכן של קונפליקט אדיפלי קלאסי?",
+      "back_md": "גיל ~3y: כמיהה מינית להורה מהמין הנגדי + יריבות + אשמה + castration anxiety כלפי ההורה מאותו מין [G-13].",
+      "note_id": "1776915923750"
+    },
+    {
+      "id": "1776915923751",
+      "front_md": "[Defenses-primitive] 5 הגנות פרימיטיביות?",
+      "back_md": "Splitting · Projective identification · Denial · Dissociation · Schizoid fantasy · Acting out [G-18].",
+      "note_id": "1776915923751"
+    },
+    {
+      "id": "1776915923752",
+      "front_md": "[Defenses-neurotic] 5 הגנות נוירוטיות?",
+      "back_md": "Repression · Reaction formation · Intellectualization · Displacement · Undoing [G-19].",
+      "note_id": "1776915923752"
+    },
+    {
+      "id": "1776915923754",
+      "front_md": "[Defenses-mature] 4 הגנות בוגרות?",
+      "back_md": "Sublimation · Humor · Suppression · Anticipation [G-20].",
+      "note_id": "1776915923754"
+    },
+    {
+      "id": "1776915923755",
+      "front_md": "[McWilliams-principle] verbatim מה מגדיר borderline/psychotic?",
+      "back_md": "> \"It is the absence of mature defenses, not the presence of primitive ones, that characterizes borderline or psychotic structure\" [Mc-4].",
+      "note_id": "1776915923755"
+    },
+    {
+      "id": "1776915923756",
+      "front_md": "[Compromise] verbatim — מה סימפטום לפי Gabbard?",
+      "back_md": "> \"A symptom, then, is a compromise formation that both defends against the wish arising from the id and gratifies the wish in disguised form\" [G-25].",
+      "note_id": "1776915923756"
+    },
+    {
+      "id": "1776915923757",
+      "front_md": "[Vaillant-law] הכלל הדינמי על עוצמת הגנה?",
+      "back_md": "> \"The strength of the defense or resistance is necessarily proportional to the strength of the underlying impulse\" [G-21].",
+      "note_id": "1776915923757"
+    },
+    {
+      "id": "1776915923758",
+      "front_md": "[Levels-psychotic] 3 סימני ארגון פסיכוטי?",
+      "back_md": "Annihilation anxiety + העדר אינטגרציה של זהות + פגיעה ב-reality testing [Mc-2]. חסר observing ego → malevolent transformations [Mc-3].",
+      "note_id": "1776915923758"
+    },
+    {
+      "id": "1776915923759",
+      "front_md": "[Levels-borderline] מה מבדיל borderline מ-psychotic ומ-neurotic?",
+      "back_md": "Reality testing תקין (≠psychotic), אבל חסרים mentalization + reflective functioning + ego states מתחלפים (≠neurotic). קונפליקט — rapprochement/נטישה [Mc-3].",
+      "note_id": "1776915923759"
+    },
+    {
+      "id": "1776915923760",
+      "front_md": "[Levels-neurotic] מה מאפשר \"therapeutic split\"?",
+      "back_md": "קונפליקט אדיפלי פנימי + זהות אינטגרטיבית + הגנות בוגרות → המטופל יכול להתבונן על הקשיים כ-**ego alien** [Mc-2].",
+      "note_id": "1776915923760"
+    },
+    {
+      "id": "1776915923761",
+      "front_md": "[Transference-reenact] verbatim על העברה?",
+      "back_md": "> \"The patient unconsciously reenacts the past relationship instead of remembering it\" [G-29].",
+      "note_id": "1776915923761"
+    },
+    {
+      "id": "1776915923765",
+      "front_md": "[Transference-2dim] 2 ממדי ההעברה?",
+      "back_md": "(1) Repetitive — פחד שהמטפל יתנהג כהורים הפוגעניים; (2) Selfobject — כמיהה לחוויה מתקנת מרפאת [G-30].",
+      "note_id": "1776915923765"
+    },
+    {
+      "id": "1776915923766",
+      "front_md": "[Triangle] Triangle of insight — 3 קודקודים?",
+      "back_md": "יחסי עבר מוקדמים + יחסים נוכחיים מחוץ לטיפול + העברה \"כאן ועכשיו\" [G-31].",
+      "note_id": "1776915923766"
+    },
+    {
+      "id": "1776915923767",
+      "front_md": "[Technique-choice] verbatim — מה הפורמולציה קובעת בטכניקה?",
+      "back_md": "> \"Theoretical understanding helps the dynamic psychiatrist decide what to say, when to say it, how to say it, and what is better left unsaid\" [G-33].",
+      "note_id": "1776915923767"
+    },
+    {
+      "id": "1776915923768",
+      "front_md": "[Expressive-Supportive] Neurotic vs Borderline/Psychotic — איזו טכניקה?",
+      "back_md": "Neurotic + ego שמור → **Interpretation** עמוק [G-34]. Borderline/Psychotic/deficit → **Supportive** (empathic validation + observation + frame) [G-35].",
+      "note_id": "1776915923768"
+    },
+    {
+      "id": "1776915923769",
+      "front_md": "[Updating] verbatim — כמה הפורמולציה יציבה?",
+      "back_md": "> \"The formulation should also be approached with the understanding that it undergoes continual modification as treatment proceeds. In dynamic psychiatry, diagnosis and treatment are always evolving together.\" [G-43].",
+      "note_id": "1776915923769"
+    },
+    {
+      "id": "1776915923770",
+      "front_md": "[Pitfall-closure] verbatim — השגיאה הפדיאטרית #1?",
+      "back_md": "> \"One of the most common mistakes that inexperienced interviewers make is to prematurely home in on a diagnosis\" [D-26].",
+      "note_id": "1776915923770"
+    },
+    {
+      "id": "1776915923771",
+      "front_md": "[Pitfall-reductionism] verbatim על single-model etiology?",
+      "back_md": "> \"The use of the perspective approach... avoids single-model etiologies such as when one perspective, such as a reductionistic biological or psychodynamic formulation and treatment plan, is favored\" [D-14].",
+      "note_id": "1776915923771"
+    },
+    {
+      "id": "1776915923772",
+      "front_md": "[Pitfall-rigid] 2 שגיאות Gabbard-specific?",
+      "back_md": "Rigid theory imposition (כפיית תיאוריה אהובה) [G-46] [G-47] + Either/Or thinking (קונפליקט XOR deficit) → Both/And [G-48].",
+      "note_id": "1776915923772"
+    },
+    {
+      "id": "1776915923773",
+      "front_md": "[Workflow] מה המיקום של הפורמולציה ב-workflow?",
+      "back_md": "**אחרי** אנמנזה + ראיונות + שאלונים; **לפני** תוכנית טיפול; מאגדת Predisposing + Precipitating + Perpetuating [D-21] [D-22].",
+      "note_id": "1776915923773"
+    }
+  ]
+}
